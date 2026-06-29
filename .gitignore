@@ -1,0 +1,17 @@
+# Keep original source material local (per project decision)
+raw/
+TBF/
+
+# Original binary sources stay local — the site is built from the .md files
+*.pdf
+*.epub
+*.webarchive
+
+# macOS / editor junk
+.DS_Store
+**/.DS_Store
+._*
+**/._*
+.claude/
+*.pyc
+__pycache__/

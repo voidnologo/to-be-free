@@ -1,0 +1,94 @@
+---
+title: "Farewell to a Prophet"
+author: "Gordon B. Hinckley"
+date: "1994-07"
+section: "16-gordon-b-hinckley"
+source_url: "http://www.latterdayconservative.com/gordon-b-hinckley/farewell-to-a-prophet-in-memoriam-ezra-taft-benson-18991994-2/"
+source_file: "raw/Research Documents/Gordon B Hinckley - Farewell to a Prophet.html"
+source_format: "html"
+retrieved: "2026-06-28"
+status: "full"
+collection: "research-extended"
+word_count: 3249
+source_note: "By President Gordon B. Hinckley, First Counselor in the First Presidency. “Farewell to a Prophet,” Ensign, July 1994, 37."
+commentary: ""   # TODO: editorial blurb / commentary
+tags: ["Family", "Liberty & Freedom", "Communism", "War & Peace", "Book of Mormon"]
+---
+
+It was a most impressive sight yesterday at the Church Administration Building. All day long the people came, in a steady and solemn procession past the bier of their beloved friend and prophet. They were quiet, they were reverent, and they were touched in their hearts. They were both young and elderly, with all ages in between. There was something somber and at the same time beautiful about it. Thoughts ran deep but words were few. Beyond those who came were the countless thousands across the world who wished they might have been able to come, not to speak but in silence to communicate their love and their sorrow.
+
+This service today is a continuation of that expression. The invocation by Brother Haight, the music by this wonderful choir, the messages of Elder Packer and Elder Monson have touched us all. The concluding remarks by President Hunter will touch us for great good, and the benediction by Elder Scott will conclude what will be a memorable hour, both sacred and beautiful, in tribute to our leader, associate, and prophet. I pray now for the direction of the Holy Spirit that I may say that which will be in total harmony with the spirit of these services thus far.
+
+The choir numbers were selected by the family. The beautiful hymn which we have just heard was a favorite with President Benson.
+
+My mind goes back thirty years to 1964 when he was presiding in Frankfurt, Germany, with responsibility for the work in Europe. I at the same time had a similar responsibility for the work in Asia. I had been on a long journey, meeting with missionaries and Saints in Korea, Japan, Taiwan, the Philippine Islands, Hong Kong, Thailand, Singapore, and India. I was en route home by way of Europe. Sister Hinckley was with me. President Benson met us at the airport in Frankfurt and took us to their home for the night. Sister Benson and their daughter, Beth, had prepared a wonderful meal, the first home-cooked food we had eaten in weeks. After that he said, “Now let’s gather around the piano and sing.” The first song was “Love at Home.” It was the Benson theme song. We sang it on that occasion. They sang it in scores of circumstances. As Brother Monson indicated, their star performance was on the Ed Murrow Show originating in Washington some years earlier. That program, as he indicated, was carried across the nation and brought forth an unprecedented volume of complimentary mail.
+
+There was love in the Benson home. These two manly sons and four beautiful daughters are the beneficiaries of an inheritance of family strength, loyalty, and affection. Theirs has been an example to the entire Church.
+
+That family life is but an extension of the family life into which Ezra Taft Benson was born and in which he was nurtured and grew. As has been noted, he was a farm boy, literally and truly, an overall-clad, sunburned boy who at a very early age came to know the law of the harvest: “Whatsoever a man soweth, that shall he also reap” (Gal. 6:7). He came to know in those lean days that without hard work, nothing grows but weeds. There must be labor, incessant and constant, if there is to be a harvest. And so there was plowing in the fall and plowing in the spring—the sweaty work of walking in a furrow all day long behind a team of strong horses. In those days a hand plow was used, and it was necessary to hold constantly the handles that twisted and shook as the sharp plow point cut the earth and neatly rolled it over. After a day of that, a boy was exhausted and slept well. But morning came very soon.
+
+The field needed the harrow, again horse-drawn, to break the clods and prepare a seed bed. Planting was an arduous, back-breaking task. And then there was irrigation. The Benson farm was in dry country, redeemed by the magic of irrigation. The water had to be watched, not only during the day but all through the night. There were no electric flashlights or propane lanterns. There were only kerosene lanterns which cast a feeble and sickly yellow glow. It was imperative that the water get to the end of the row. That was a lesson never to be forgotten.
+
+I can see in my mind’s eye the little boy, shovel on his shoulder, walking the ditches and the fields to bring life-growing moisture to the parched soil.
+
+Soon came the time to cut hay, acres and acres of it. The team was hitched to the mower, the boy climbed up into the old steel seat, and the sickle bar flew back and forth, cutting a five-foot swath as the team walked forward. With flies and mosquitos, with dust and scorching heat, it was hard work. The hay then had to be raked, then pitched with a hand fork into cocks to dry. Timing was important. When it reached the right stage it was pitched onto a hayrack, a wagon with a big, flat bed. At the stack yard, a horse-driven derrick lifted it from the wagon to form a huge stack of hay. There was no baling in those days, nor were there mechanical loaders. There were only pitchforks and muscles.
+
+President Benson never forgot that season of his life. In our council meetings, when we would be involved in discussion of a great variety of projects and matters, and someone would suggest another, he would say, “We already have more hay down than we can handle. Let’s leave that for a while.”
+
+I have had a little experience as a farm boy, and I marvel that at the age of fourteen he, as the eldest child, took responsibility for that immense farm and the variety of crops which it produced while his father served a mission for two years. Small wonder that his frame grew large and his body strong. Those of us who knew him in his later life frequently commented on the size of his wrists. Robust health, the foundation for which was laid in his boyhood, was one of the great blessings of his life. Until the last few years, he was a man of tremendous energy.
+
+Throughout the years of his mature life, when he walked with presidents and kings, he never lost the touch of his boyhood farm days. He never lost his capacity for work. He never lost the will to rise at dawn and work into the night. But there was more than a tremendous habit of work that came out of that boyhood home. There was a certain strength that comes from the soil. There was a constant reminder of the dictum given Adam and Eve when they were driven from the garden: “In the sweat of thy face shalt thou eat bread, till thou return unto the ground” (Gen. 3:19). A spirit of self-reliance was built into those who worked the soil. There were no government farm programs then, no subsidies of any kind. The vagaries of the seasons had to be accepted. Killing frosts, unseasonal storms, wind, and drought were all accepted as the risks of life against which there was no available insurance. Storage against a day of want was a necessity, else there would be hunger. The one constant resource against the risks of life was prayer, prayer to our eternal, loving Father, the Almighty God of the universe.
+
+There was much of prayer in that little home in Whitney, Idaho. There was family prayer, night and morning, in which thanks was expressed for life with its challenges and opportunities, and in which pleas were made for strength to do the work of the day. Those in need were remembered, and when the family arose from their knees, the mother, who was the ward Relief Society president, would have the buggy loaded to share food with those in need, her eldest son as her driver. Those lessons were never lost. Brother Benson, who later served as president of the Boise Idaho Stake, was a pioneer in the great welfare program of the Church. An overwhelming sense of responsibility for the needy that he carried throughout his life found its roots in his boyhood home, in the prayers of his family, and in the good and generous deeds of his mother gladly performed without fanfare or notice.
+
+Brother Monson has spoken of the tremendous work he did when, as a member of the Council of the Twelve, he was sent to Europe to bring succor to our people who were hungry and destitute at the end of the war. The hand that reached out to those impoverished people was the same hand which many years earlier had helped his mother in assisting the distressed of the little ward in which he grew up.
+
+I was at the Swiss Temple in 1955 when it was dedicated by President David O. McKay. Brother Benson was there. President Harold Gregory of the Berlin Mission was able to bring a company of Saints to the temple on that occasion. I will never forget what I witnessed. When they saw Brother Benson, they ran to him and they embraced one another, with tears rolling down their cheeks and tears rolling down his cheeks. Ten years earlier he had come almost as an angel from heaven with food when they were hungry and with hope when they were desperate.
+
+I am confident that it was out of what he saw of the bitter fruit of dictatorship that he developed his strong feelings, almost hatred, for communism and socialism. That distaste grew through the years as he witnessed the heavy-handed oppression and suffering of the peoples of eastern Europe under what he repeatedly described as godless communism.
+
+These experiences further strengthened his love for the land of his birth. He had grown up in big sky country, where there was a spirit of freedom and independence. He had grown up in the tradition of his forebears, who spoke reverently of those who were raised up by the Almighty to establish this nation and who had pledged “their lives, their fortunes, and their sacred honor” to the cause of liberty. He never got over his boyhood love for freedom. Rather it grew within him, nurtured by what he saw of oppression in other lands and by what he observed firsthand of a growing dominance of government in this land over the lives of the people.
+
+The Wall Street Journal in its issue of last Tuesday, May 31, 1994, carried together notice of the deaths of “Ezra Taft Benson, 94, president of the Mormon church since 1985, … in Salt Lake City” and “Erich Honecker, 81, East German leader who built the Berlin Wall, in Santiago, Chile.”
+
+I cannot imagine two men so different in the causes they espoused, in what they did for mankind, and in the philosophies by which they guided their lives.
+
+Erich Honecker was the iron-fisted communist ruler of East Germany, the feared and despised builder of the Berlin Wall, the practitioner of the godless dogma of oppression and slavery to the state. He died a refugee from his native land. He was able to leave his country and thus escape prosecution and possible execution because of the serious condition of his health.
+
+On the other hand, Ezra Taft Benson was the fearless and outspoken enemy of communism, a man who with eloquence and conviction preached the cause of human freedom, one who loved and worshipped the Prince of Peace, the Redeemer of mankind. He died in the love of people across the world, a man respected and reverenced, a man for whose well-being millions constantly prayed.
+
+Although he became a citizen of the world, feeling a kinship with good people wherever he went, President Benson’s love for America never dimmed. In the first world war he enlisted in the army and was subsequently honorably discharged. His crowning patriotic service was his response to a call from the president of the United States to serve as secretary of agriculture. He served the entire eight years of President Eisenhower’s presidency.
+
+He was constantly within the glare of the spotlight of public scrutiny. He was absolutely fearless in speaking out against what he regarded as oppressive programs that shackled the farmer and did injury to him while masquerading as his protector and benefactor. His picture appeared on the covers of the leading national news magazines. Editorialists and commentators denounced him. But without fear or favor, without political or personal consideration, he spoke his mind and won the plaudits of millions across this nation. Even those who disagreed with his policies were forced to respect his logic, his wisdom, and his convictions. They came to know that he knew whereof he spoke. He had once been a dirt-digging, hands-on, sweating farmer. He spoke out of that experience. But he spoke also with the skill and refinement of an educated mind, with the skill of a trained debater, and out of a conviction deep and intense that came of a love for freedom to live one’s own life and direct one’s own affairs.
+
+In those difficult and strenuous times, again prayer was his refuge and his strength. He believed that the principle he espoused involved the same principle that was contested in the war in heaven, the great and basic and underlying principle of the agency of man.
+
+But with all that he did, with all the honors accorded him at home and abroad, with his pleasure in mingling with people wherever he went, his greatest interest and his truest love, beyond his own family, was The Church of Jesus Christ of Latter-day Saints, its people, and its interests throughout the world.
+
+He treasured above all other calls and responsibilities the holy Apostleship, a call extended when he was forty-four years of age by President Heber J. Grant. He knew the meaning of that call. He recognized the responsibilities inherent in it. With the energy of his boyhood farm experiences, he labored at it. He traveled across the world teaching righteousness, building faith, bearing witness in unequivocal terms of the reality of God, our Eternal Father; of the divinity of the Lord Jesus Christ, our Savior and Redeemer; of the restoration of the gospel in this dispensation through the instrumentality of the Prophet Joseph Smith; of the Book of Mormon as another witness for Jesus Christ; of the restoration of the priesthood with all its keys and authority; and of the truth and divinity of the church which carries the Lord’s name, even The Church of Jesus Christ of Latter-day Saints.
+
+For more than thirty-two years I sat in councils with him—in the Council of the Twelve Apostles and in the Council of the First Presidency. I have been the beneficiary of his kindness and deferential manner. I have been blessed by his wisdom. I have seen the spirit of prophecy rest upon him. I have knelt with him and heard him pray.
+
+His prayers were always interesting. Almost without exception, they consisted for the most part of expressions of thanks. He asked for very little. He expressed gratitude for very much.
+
+He thanked the Lord for life, for family, for the gospel, for faith, for sunlight and rain, the bounties of nature, and the freedom-loving instincts of man. He thanked the Lord for friends and associates. He expressed love for the Savior and gratitude for His atoning sacrifice. He thanked the Lord for the opportunity to serve the people.
+
+Service was of his nature. His life became a fulfillment of the declaration of the Master: “He that findeth his life shall lose it: and he that loseth his life for my sake shall find it” (Matt. 10:39).
+
+Like the Master whom he served, he “went about doing good” (Acts 10:38). At the height of his career he was a powerful speaker. An excellent student of the gospel, he spoke with a powerful conviction and a great sense of mission. The sermons he delivered from this pulpit dealt with a great variety of subjects. He covered the whole broad gamut of the gospel. No one could question his love for his Redeemer. He bore strong and convincing testimony of a certain knowledge that the Son of God gave His life for the sins of mankind and that through His atoning sacrifice all may be raised from the dead.
+
+He spoke of the beauty of the gospel plan under which all who walk in obedience to its principles may attain eternal life and exaltation. On many occasions he voiced, with great emotion, his hope and prayer that among his own posterity there would be no vacant chairs on the other side.
+
+As has been indicated, the Book of Mormon was his love. He read it. He quoted it in his teachings. His voice rang out in eloquent warning of the fate that could overtake this nation unless the people of the land walk in righteousness and serve the God of the Land, who is Jesus Christ. As holder of the keys of the priesthood, restored in this dispensation, he blessed the people he loved. He honored the sacred office to which he had been called.
+
+As might well be expected, his body began to fail with age. He could not walk as he once walked. He could not speak as he once spoke. There was a gradual decline, but he was still the chosen prophet of the Lord for so long as he lived. Last Saturday evening when I returned from a Church assignment in the East, I went up to his apartment. His family had left for the night. His able secretary and his nurse were there. They withdrew from the room, and I was there alone with the President. It was evident that he was dying. I stood beside him and watched him and thought. I thought of his kindness to me. I thought of his love for his family and for the people of this church throughout the world. My mind ran over a series of events of the era of his presidency. I felt a surge of gratitude for his life and his service. I knew he could not last long.
+
+He died quietly last Monday afternoon, Memorial Day.
+
+He has gone to meet his beloved companion, Flora. He has gone to meet his friends and associates in the work of the Lord. He has gone to meet his faithful forebears. He has gone to give an accountability of his stewardship to his Master and Lord.
+
+Had he been speaking during those last hours, I think he might have spoken these final words of Enos in the Book of Mormon:
+
+“And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father” (Enos 1:27).
+
+From all of us across this broad world who have been the beneficiaries of his kindness, his service, and his life, we say thank you and good-bye, dear friend, in the name of Jesus Christ, amen.

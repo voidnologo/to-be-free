@@ -1,12 +1,13 @@
 ---
 title: "The Role of Religion in the Founding Fathers"
 author: "W. Cleon Skousen"
-date: ""
+date: "1985"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/the-role-of-religion-in-the-founding-fathers-thinking/"
 source_file: "raw/Skousen/W Cleon Skousen - THe Role of Religion in the Founding Fathers.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, *The Making of America: The Substance and Meaning of the Constitution* (1985), 675."
 status: "full"
 collection: "research-extended"
 word_count: 3695

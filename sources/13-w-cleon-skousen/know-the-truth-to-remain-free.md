@@ -1,12 +1,13 @@
 ---
 title: "Know the Truth to Remain Free"
 author: "W. Cleon Skousen"
-date: ""
+date: "1971"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/know-the-truth-to-stay-free/"
 source_file: "raw/Skousen/W Cleon Skousen - Know the Truth to Remain Free.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Delivered at Brigham Young University, Spring term 1971 (Education 310, Section 5)."
 status: "full"
 collection: "research-extended"
 word_count: 6375

@@ -1,12 +1,13 @@
 ---
 title: "Some Fundamental Principles of Our Constitution – J. Reuben Clark Jr."
 author: ""
-date: ""
+date: "1957-07"
 section: "23-topical-and-founding-documents"
 source_url: ""
 source_file: "raw/Research Documents/Some Fundamental Principles of Our Constitution – J. Reuben Clark Jr..pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "J. Reuben Clark Jr., address to the 67th Annual Congress of the National Society of the Sons of the American Revolution, July 1957."
 status: "full"
 collection: "research-extended"
 word_count: 4007

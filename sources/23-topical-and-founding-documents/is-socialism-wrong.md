@@ -7,6 +7,7 @@ source_url: ""
 source_file: "raw/Research Documents/Is Socialism Wrong.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "Undated web essay; original date not established."
 status: "full"
 collection: "research-extended"
 word_count: 2708

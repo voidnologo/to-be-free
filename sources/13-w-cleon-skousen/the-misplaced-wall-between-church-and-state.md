@@ -1,12 +1,13 @@
 ---
 title: "The Misplaced Wall Between Church and State"
 author: "W. Cleon Skousen"
-date: ""
+date: "1985"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/the-misplaced-wall-between-church-and-the-federal-state/"
 source_file: "raw/Skousen/W Cleon Skousen - The Misplaced Wall Between Church and State.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, *The Making of America: The Substance and Meaning of the Constitution* (1985); later serialized in Meridian Magazine."
 status: "full"
 collection: "research-extended"
 word_count: 3440

@@ -7,6 +7,7 @@ source_url: ""
 source_file: "raw/Embassy of Heaven - Spiritual Authority and Romans 13.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "From THE TRIBAL CALL newsletter (Embassy of Heaven); issue date not established."
 status: "full"
 collection: "research-extended"
 word_count: 3723

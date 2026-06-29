@@ -1,12 +1,13 @@
 ---
 title: "The War Powers and the Remaining Enumerated Powers"
 author: "W. Cleon Skousen"
-date: ""
+date: "1985"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/the-war-powers-and-the-remaining-enumerated-powers/"
 source_file: "raw/Skousen/W Cleon Skousen - The War Powers and the Remaining Enumerated Powers.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, *The Making of America: The Substance and Meaning of the Constitution* (1985)."
 status: "full"
 collection: "research-extended"
 word_count: 10976

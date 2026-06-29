@@ -1,12 +1,13 @@
 ---
 title: "Our Priceless Pioneer Legacy"
 author: "Ezra Taft Benson"
-date: ""
+date: "1977"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/our-priceless-pioneer-legacy/"
 source_file: "raw/Research Documents/Ezra Taft Benson - Our Priceless Pioneer Legacy.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, *This Nation Shall Endure* (1977)."
 status: "full"
 collection: "research-extended"
 word_count: 2875

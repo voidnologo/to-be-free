@@ -6,6 +6,7 @@ section: "11-resource-hubs"
 source_url: "https://rsc.byu.edu/latter-day-prophets-united-states-constitution/david-o-mckay"
 source_domain: "rsc.byu.edu"
 retrieved: "2026-06-28"
+source_note: "RSC topical/biographical resource page; not a single dated document."
 status: "hub"
 word_count: 5635
 commentary: ""   # TODO: editorial blurb / commentary

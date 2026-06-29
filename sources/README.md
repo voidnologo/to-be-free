@@ -11,7 +11,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
-| A Message to the World | Ezra Taft Benson |  | ✅ ·R | 2088 | [`a-message-to-the-world.md`](01-ezra-taft-benson/a-message-to-the-world.md) |
+| A Message to the World | Ezra Taft Benson | 1977 | ✅ ·R | 2088 | [`a-message-to-the-world.md`](01-ezra-taft-benson/a-message-to-the-world.md) |
 | A Moral Challenge to the West | Ezra Taft Benson | 1956-10-23 | ✅ ·R | 4212 | [`a-moral-challenge-to-the-west.md`](01-ezra-taft-benson/a-moral-challenge-to-the-west.md) |
 | A Plea to Strengthen Our Families | Ezra Taft Benson | 1970-10 | ✅ ·R | 2990 | [`a-plea-to-strengthen-our-families.md`](01-ezra-taft-benson/a-plea-to-strengthen-our-families.md) |
 | A Race Against Time | Ezra Taft Benson | 1963-12-10 | ✅ ·R | 8115 | [`a-race-against-time.md`](01-ezra-taft-benson/a-race-against-time.md) |
@@ -25,7 +25,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Americas Hope | Ezra Taft Benson | 1950-04 | ✅ ·R | 2724 | [`americas-hope.md`](01-ezra-taft-benson/americas-hope.md) |
 | America's Strength the Morality of Its People | Ezra Taft Benson | 1975-07-14 | ✅ ·R | 1996 | [`americas-strength-the-morality-of-its-people.md`](01-ezra-taft-benson/americas-strength-the-morality-of-its-people.md) |
 | Be Not Deceived | Ezra Taft Benson | 1963 | ✅ ·R | 3247 | [`be-not-deceived.md`](01-ezra-taft-benson/be-not-deceived.md) |
-| Can We Preserve What They Wrought | Ezra Taft Benson |  | ✅ ·R | 1126 | [`can-we-preserve-what-they-wrought.md`](01-ezra-taft-benson/can-we-preserve-what-they-wrought.md) |
+| Can We Preserve What They Wrought | Ezra Taft Benson | 1977 | ✅ ·R | 1126 | [`can-we-preserve-what-they-wrought.md`](01-ezra-taft-benson/can-we-preserve-what-they-wrought.md) |
 | Civic Standard for the Faithful Saint | Ezra Taft Benson | 1972-04-08 | ✅ ·R | 2871 | [`civic-standard-for-the-faithful-saint.md`](01-ezra-taft-benson/civic-standard-for-the-faithful-saint.md) |
 | Civic Standards for the Faithful Saints | Ezra Taft Benson | 1972-04 | ✅ | 2720 | [`civic-standards-for-the-faithful-saints.md`](01-ezra-taft-benson/civic-standards-for-the-faithful-saints.md) |
 | Divine Constitution | Ezra Taft Benson | 1987-10-04 | ✅ ·R | 2704 | [`divine-constitution.md`](01-ezra-taft-benson/divine-constitution.md) |
@@ -44,7 +44,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Our Divine Constitution | Ezra Taft Benson | 1987-10 | ✅ | 2663 | [`our-divine-constitution.md`](01-ezra-taft-benson/our-divine-constitution.md) |
 | Our Immediate Responsibility | Ezra Taft Benson | 1966-10-25 | ✅ ·R | 6471 | [`our-immediate-responsibility.md`](01-ezra-taft-benson/our-immediate-responsibility.md) |
 | Our Priceless Heritage | Ezra Taft Benson | 1976-10 | ✅ | 2278 | [`our-priceless-heritage.md`](01-ezra-taft-benson/our-priceless-heritage.md) |
-| Our Priceless Pioneer Legacy | Ezra Taft Benson |  | ✅ ·R | 2875 | [`our-priceless-pioneer-legacy.md`](01-ezra-taft-benson/our-priceless-pioneer-legacy.md) |
+| Our Priceless Pioneer Legacy | Ezra Taft Benson | 1977 | ✅ ·R | 2875 | [`our-priceless-pioneer-legacy.md`](01-ezra-taft-benson/our-priceless-pioneer-legacy.md) |
 | Pay Thy Debt and Live | Ezra Taft Benson | 1957-04 | ✅ ·R | 2858 | [`pay-thy-debt-and-live.md`](01-ezra-taft-benson/pay-thy-debt-and-live.md) |
 | Problems Affecting Our Domestic Tranquility | Ezra Taft Benson | 1975-11 | ✅ ·R | 7118 | [`problems-affecting-our-domestic-tranquility.md`](01-ezra-taft-benson/problems-affecting-our-domestic-tranquility.md) |
 | The Proper Role of Government | Ezra Taft Benson | 1968-10-21 | ✅ | 7550 | [`proper-role-of-government.md`](01-ezra-taft-benson/proper-role-of-government.md) |
@@ -64,8 +64,8 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The Heritage of Freedom | Ezra Taft Benson | 1958-10 | ✅ ·R | 2825 | [`the-heritage-of-freedom.md`](01-ezra-taft-benson/the-heritage-of-freedom.md) |
 | The Importance of Prayer | Ezra Taft Benson | 1956-10 | ✅ ·R | 3141 | [`the-importance-of-prayer.md`](01-ezra-taft-benson/the-importance-of-prayer.md) |
 | The Price of Liberty Eternal Vigilance | Ezra Taft Benson | 1975-07-14 | ✅ ·R | 3195 | [`the-price-of-liberty-eternal-vigilance.md`](01-ezra-taft-benson/the-price-of-liberty-eternal-vigilance.md) |
-| The Signers of the Declaration of Independence | Ezra Taft Benson |  | ✅ ·R | 2431 | [`the-signers-of-the-declaration-of-independence.md`](01-ezra-taft-benson/the-signers-of-the-declaration-of-independence.md) |
-| The Twelfth Article of Faith | Ezra Taft Benson |  | ✅ ·R | 938 | [`the-twelfth-article-of-faith.md`](01-ezra-taft-benson/the-twelfth-article-of-faith.md) |
+| The Signers of the Declaration of Independence | Ezra Taft Benson | 1977 | ✅ ·R | 2431 | [`the-signers-of-the-declaration-of-independence.md`](01-ezra-taft-benson/the-signers-of-the-declaration-of-independence.md) |
+| The Twelfth Article of Faith | Ezra Taft Benson | 1974 | ✅ ·R | 938 | [`the-twelfth-article-of-faith.md`](01-ezra-taft-benson/the-twelfth-article-of-faith.md) |
 | The War in Heaven Today | Ezra Taft Benson | 2009-07-03 | ✅ ·R | 1968 | [`the-war-in-heaven-today.md`](01-ezra-taft-benson/the-war-in-heaven-today.md) |
 | God-Given Freedom: This Nation Shall Endure | Ezra Taft Benson | 1973-12-04 | ✅ | 4499 | [`this-nation-shall-endure.md`](01-ezra-taft-benson/this-nation-shall-endure.md) |
 | Trust Not in the Arm of Flesh | Ezra Taft Benson | 1967-10 | ✅ ·R | 3206 | [`trust-not-in-the-arm-of-flesh.md`](01-ezra-taft-benson/trust-not-in-the-arm-of-flesh.md) |
@@ -203,7 +203,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Some Elements of Post War American Life | J. Reuben Clark Jr. | 1945-01-24 | ✅ ·R | 2322 | [`some-elements-of-post-war-american-life.md`](10-j-reuben-clark/some-elements-of-post-war-american-life.md) |
 | Some Fundamental Principles of Our Constitution | J. Reuben Clark Jr. | 2011-12-30 | ✅ ·R | 3806 | [`some-fundamental-principles-of-our-constitution.md`](10-j-reuben-clark/some-fundamental-principles-of-our-constitution.md) |
 | Stand Fast by Our Constitution | J. Reuben Clark Jr. | 1962 | ↪️ pointer | 40 | [`stand-fast-by-our-constitution.md`](10-j-reuben-clark/stand-fast-by-our-constitution.md) |
-| The Constitution | J. Reuben Clark Jr. |  | ✅ ·R | 5591 | [`the-constitution.md`](10-j-reuben-clark/the-constitution.md) |
+| The Constitution | J. Reuben Clark Jr. | 1957-04-06 | ✅ ·R | 5591 | [`the-constitution.md`](10-j-reuben-clark/the-constitution.md) |
 
 ## 11. Resource Hubs (aggregators)
 *5 docs · ~8,826 words*
@@ -213,7 +213,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | BYU Speeches — Constitution, U.S. Topic Page |  |  | 🗂️ index | 216 | [`byu-speeches-constitution-topic.md`](11-resource-hubs/byu-speeches-constitution-topic.md) |
 | BYU Speeches — Freedom Topic Page |  |  | 🗂️ index | 760 | [`byu-speeches-freedom-topic.md`](11-resource-hubs/byu-speeches-freedom-topic.md) |
 | Official Church Religious Freedom Resource Page |  |  | 🗂️ index | 689 | [`church-religious-freedom-resource-page.md`](11-resource-hubs/church-religious-freedom-resource-page.md) |
-| 13 Times Church Leaders Spoke About Religious Liberty |  |  | 🗂️ index | 1526 | [`newsroom-13-times-church-leaders-religious-liberty.md`](11-resource-hubs/newsroom-13-times-church-leaders-religious-liberty.md) |
+| 13 Times Church Leaders Spoke About Religious Liberty |  | 2022-07-04 | 🗂️ index | 1526 | [`newsroom-13-times-church-leaders-religious-liberty.md`](11-resource-hubs/newsroom-13-times-church-leaders-religious-liberty.md) |
 | RSC — Latter-day Prophets and the U.S. Constitution (David O. McKay) |  |  | 🗂️ index | 5635 | [`rsc-byu-mckay-constitution.md`](11-resource-hubs/rsc-byu-mckay-constitution.md) |
 
 ## 12. L. Tom Perry
@@ -229,13 +229,13 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | 100 Things Destroying America | W. Cleon Skousen | 1962-05-02 | ✅ ·R | 5934 | [`100-things-destroying-america.md`](13-w-cleon-skousen/100-things-destroying-america.md) |
-| 101 Constitutional Questions to Ask Candidates | W. Cleon Skousen |  | ✅ ·R | 6757 | [`101-constitutional-questions-to-ask-candidates.md`](13-w-cleon-skousen/101-constitutional-questions-to-ask-candidates.md) |
+| 101 Constitutional Questions to Ask Candidates | W. Cleon Skousen | 1980 | ✅ ·R | 6757 | [`101-constitutional-questions-to-ask-candidates.md`](13-w-cleon-skousen/101-constitutional-questions-to-ask-candidates.md) |
 | Americans Can Save the Constitution | W. Cleon Skousen | 1976-09-18 | ✅ ·R | 3360 | [`americans-can-save-the-constitution.md`](13-w-cleon-skousen/americans-can-save-the-constitution.md) |
 | Asked to Write the Naked Communist | W. Cleon Skousen | 1962-03-13 | ✅ ·R | 2980 | [`asked-to-write-the-naked-communist.md`](13-w-cleon-skousen/asked-to-write-the-naked-communist.md) |
 | Current Communist Goals (1958) | W. Cleon Skousen | 1958 | ✅ ·R | 852 | [`current-communist-goals-1958.md`](13-w-cleon-skousen/current-communist-goals-1958.md) |
 | History of the 16th Amendment | W. Cleon Skousen | 1973-03-29 | ✅ ·R | 2606 | [`history-of-the-16th-amendment.md`](13-w-cleon-skousen/history-of-the-16th-amendment.md) |
-| How to Elect a Constitutional Congress | W. Cleon Skousen |  | ✅ ·R | 2361 | [`how-to-elect-a-constitutional-congress.md`](13-w-cleon-skousen/how-to-elect-a-constitutional-congress.md) |
-| Know the Truth to Remain Free | W. Cleon Skousen |  | ✅ ·R | 6375 | [`know-the-truth-to-remain-free.md`](13-w-cleon-skousen/know-the-truth-to-remain-free.md) |
+| How to Elect a Constitutional Congress | W. Cleon Skousen | 1982 | ✅ ·R | 2361 | [`how-to-elect-a-constitutional-congress.md`](13-w-cleon-skousen/how-to-elect-a-constitutional-congress.md) |
+| Know the Truth to Remain Free | W. Cleon Skousen | 1971 | ✅ ·R | 6375 | [`know-the-truth-to-remain-free.md`](13-w-cleon-skousen/know-the-truth-to-remain-free.md) |
 | Restructuring a Collapsed America | W. Cleon Skousen | 1990-02-15 | ✅ ·R | 3887 | [`restructuring-a-collapsed-america.md`](13-w-cleon-skousen/restructuring-a-collapsed-america.md) |
 | Restructuring a Collapsing Culture | W. Cleon Skousen | 1972-01 | ✅ ·R | 2688 | [`restructuring-a-collapsing-culture.md`](13-w-cleon-skousen/restructuring-a-collapsing-culture.md) |
 | The Book of Mormon and the Constitution (Notes) | W. Cleon Skousen | 1990-01-14 | ✅ ·R | 5205 | [`the-book-of-mormon-and-the-constitution-notes.md`](13-w-cleon-skousen/the-book-of-mormon-and-the-constitution-notes.md) |
@@ -243,15 +243,15 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The Campaign to Abolish the Constitution | W. Cleon Skousen | 1962-08-28 | ✅ ·R | 2858 | [`the-campaign-to-abolish-the-constitution.md`](13-w-cleon-skousen/the-campaign-to-abolish-the-constitution.md) |
 | The Golden Mean | W. Cleon Skousen | 1975-10-16 | ✅ ·R | 1789 | [`the-golden-mean.md`](13-w-cleon-skousen/the-golden-mean.md) |
 | The Life of J Reuben Clark Jr | W. Cleon Skousen | 1992-09-01 | ✅ ·R | 9777 | [`the-life-of-j-reuben-clark-jr.md`](13-w-cleon-skousen/the-life-of-j-reuben-clark-jr.md) |
-| The Misplaced Wall Between Church and State | W. Cleon Skousen |  | ✅ ·R | 3440 | [`the-misplaced-wall-between-church-and-state.md`](13-w-cleon-skousen/the-misplaced-wall-between-church-and-state.md) |
+| The Misplaced Wall Between Church and State | W. Cleon Skousen | 1985 | ✅ ·R | 3440 | [`the-misplaced-wall-between-church-and-state.md`](13-w-cleon-skousen/the-misplaced-wall-between-church-and-state.md) |
 | The Prophetic History of Christopher Columbus | W. Cleon Skousen | 1970-10-10 | ✅ ·R | 1611 | [`the-prophetic-history-of-christopher-columbus.md`](13-w-cleon-skousen/the-prophetic-history-of-christopher-columbus.md) |
-| The Role of Religion in the Founding Fathers | W. Cleon Skousen |  | ✅ ·R | 3695 | [`the-role-of-religion-in-the-founding-fathers.md`](13-w-cleon-skousen/the-role-of-religion-in-the-founding-fathers.md) |
+| The Role of Religion in the Founding Fathers | W. Cleon Skousen | 1985 | ✅ ·R | 3695 | [`the-role-of-religion-in-the-founding-fathers.md`](13-w-cleon-skousen/the-role-of-religion-in-the-founding-fathers.md) |
 | The Role of the Constitution in the Development of the Nation | W. Cleon Skousen | 1986-09-29 | ✅ ·R | 1602 | [`the-role-of-the-constitution-in-the-development-of-the-nation.md`](13-w-cleon-skousen/the-role-of-the-constitution-in-the-development-of-the-nation.md) |
 | The Role of Women in Healing America | W. Cleon Skousen | 1985-09-09 | ✅ ·R | 2565 | [`the-role-of-women-in-healing-america.md`](13-w-cleon-skousen/the-role-of-women-in-healing-america.md) |
 | The Supreme Court Then and Now | W. Cleon Skousen | 1977-01 | ✅ ·R | 2774 | [`the-supreme-court-then-and-now.md`](13-w-cleon-skousen/the-supreme-court-then-and-now.md) |
 | The United States Congress Then and Now | W. Cleon Skousen | 1976-11 | ✅ ·R | 2418 | [`the-united-states-congress-then-and-now.md`](13-w-cleon-skousen/the-united-states-congress-then-and-now.md) |
 | The US President Then and Now | W. Cleon Skousen | 1976-12 | ✅ ·R | 2852 | [`the-us-president-then-and-now.md`](13-w-cleon-skousen/the-us-president-then-and-now.md) |
-| The War Powers and the Remaining Enumerated Powers | W. Cleon Skousen |  | ✅ ·R | 10976 | [`the-war-powers-and-the-remaining-enumerated-powers.md`](13-w-cleon-skousen/the-war-powers-and-the-remaining-enumerated-powers.md) |
+| The War Powers and the Remaining Enumerated Powers | W. Cleon Skousen | 1985 | ✅ ·R | 10976 | [`the-war-powers-and-the-remaining-enumerated-powers.md`](13-w-cleon-skousen/the-war-powers-and-the-remaining-enumerated-powers.md) |
 | What Happens When the Wrong People Write the Laws | W. Cleon Skousen | 1976-10 | ✅ ·R | 2524 | [`what-happens-when-the-wrong-people-write-the-laws.md`](13-w-cleon-skousen/what-happens-when-the-wrong-people-write-the-laws.md) |
 | What Is Left What Is Right | W. Cleon Skousen | 1962 | ✅ ·R | 5252 | [`what-is-left-what-is-right.md`](13-w-cleon-skousen/what-is-left-what-is-right.md) |
 | What Karl Marx Did to the Us Constitution | W. Cleon Skousen | 1990-03-27 | ✅ ·R | 3485 | [`what-karl-marx-did-to-the-us-constitution.md`](13-w-cleon-skousen/what-karl-marx-did-to-the-us-constitution.md) |
@@ -278,12 +278,12 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
-| Book of Mormon and Constitution | H. Verlan Andersen |  | ✅ ·R | 87864 | [`book-of-mormon-and-constitution.md`](15-h-verlan-andersen/book-of-mormon-and-constitution.md) |
-| Many Are Called but Few Are Chosen | H. Verlan Andersen |  | ✅ ·R | 42959 | [`many-called.md`](15-h-verlan-andersen/many-called.md) |
-| Moral Basis (Test) | H. Verlan Andersen |  | ✅ ·R | 523 | [`moral-basis-test.md`](15-h-verlan-andersen/moral-basis-test.md) |
-| The Great and Abominable Church of the Devil | H. Verlan Andersen |  | ✅ ·R | 88320 | [`the-great-and-abominable-church-of-the-devil.md`](15-h-verlan-andersen/the-great-and-abominable-church-of-the-devil.md) |
-| The Moral Basis of a Free Society | H. Verlan Andersen | 1995 | ✅ ·R | 83747 | [`the-moral-basis-of-a-free-society.md`](15-h-verlan-andersen/the-moral-basis-of-a-free-society.md) |
-| The Proper and Improper Role of Government | H. Verlan Andersen |  | ✅ ·R | 15465 | [`the-proper-and-improper-role-of-government.md`](15-h-verlan-andersen/the-proper-and-improper-role-of-government.md) |
+| Book of Mormon and Constitution | H. Verlan Andersen | 1995 | ✅ ·R | 87864 | [`book-of-mormon-and-constitution.md`](15-h-verlan-andersen/book-of-mormon-and-constitution.md) |
+| Many Are Called but Few Are Chosen | H. Verlan Andersen | 1967 | ✅ ·R | 42959 | [`many-called.md`](15-h-verlan-andersen/many-called.md) |
+| Moral Basis (Test) | H. Verlan Andersen | 1966 | ✅ ·R | 523 | [`moral-basis-test.md`](15-h-verlan-andersen/moral-basis-test.md) |
+| The Great and Abominable Church of the Devil | H. Verlan Andersen | 1972 | ✅ ·R | 88320 | [`the-great-and-abominable-church-of-the-devil.md`](15-h-verlan-andersen/the-great-and-abominable-church-of-the-devil.md) |
+| The Moral Basis of a Free Society | H. Verlan Andersen | 1966 | ✅ ·R | 83747 | [`the-moral-basis-of-a-free-society.md`](15-h-verlan-andersen/the-moral-basis-of-a-free-society.md) |
+| The Proper and Improper Role of Government | H. Verlan Andersen | 1995 | ✅ ·R | 15465 | [`the-proper-and-improper-role-of-government.md`](15-h-verlan-andersen/the-proper-and-improper-role-of-government.md) |
 
 ## 16. Gordon B. Hinckley
 *7 docs · ~17,805 words*
@@ -314,7 +314,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 |---|---|---|---|---|---|
 | On the Incompetency of the Means Made Use of by Man to Regenerate the World | John Taylor | 2012-02-21 | ✅ ·R | 4873 | [`on-the-incompetency-of-the-means-made-use-of-by-man-to-regenerate-the-world.md`](18-john-taylor/on-the-incompetency-of-the-means-made-use-of-by-man-to-regenerate-the-world.md) |
 | John Taylor: Quotes on Freedom | John Taylor |  | ✅ ·R | 11519 | [`quotes-on-freedom.md`](18-john-taylor/quotes-on-freedom.md) |
-| The Government of God | John Taylor |  | ✅ ·R | 52365 | [`the-government-of-god.md`](18-john-taylor/the-government-of-god.md) |
+| The Government of God | John Taylor | 1852 | ✅ ·R | 52365 | [`the-government-of-god.md`](18-john-taylor/the-government-of-god.md) |
 
 ## 19. Joseph Smith
 *3 docs · ~20,728 words*
@@ -364,9 +364,9 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Waking Up to Secret Combinations | Darren Andrews |  | ✅ ·R | 4362 | [`darren-andrews-waking-up-to-secret-combinations.md`](22-supporting-authors/darren-andrews-waking-up-to-secret-combinations.md) |
 | Spiritual Authority and Romans 13 | Embassy of Heaven |  | ✅ ·R | 3723 | [`embassy-of-heaven-spiritual-authority-and-romans-13.md`](22-supporting-authors/embassy-of-heaven-spiritual-authority-and-romans-13.md) |
 | The Mainspring of Human Progress | Henry Grady Weaver | 1947 | ✅ ·R | 68764 | [`henry-grady-weaver-the-mainspring-of-human-progress.md`](22-supporting-authors/henry-grady-weaver-the-mainspring-of-human-progress.md) |
-| Romans 13 and National Defense | Laurence M. Vance |  | ✅ ·R | 1858 | [`laurence-m-vance-romans-13-and-national-defense.md`](22-supporting-authors/laurence-m-vance-romans-13-and-national-defense.md) |
+| Romans 13 and National Defense | Laurence M. Vance | 2011-10 | ✅ ·R | 1858 | [`laurence-m-vance-romans-13-and-national-defense.md`](22-supporting-authors/laurence-m-vance-romans-13-and-national-defense.md) |
 | Persuasion vs Force | Mark Skousen | 2010-09-28 | ✅ ·R | 3838 | [`mark-skousen-persuasion-vs-force.md`](22-supporting-authors/mark-skousen-persuasion-vs-force.md) |
-| Becoming a Zion Society: Six Principles | R. Quinn Gardner |  | ✅ ·B | 3320 | [`r-quinn-gardner-becoming-a-zion-society-six-principles.md`](22-supporting-authors/r-quinn-gardner-becoming-a-zion-society-six-principles.md) |
+| Becoming a Zion Society: Six Principles | R. Quinn Gardner | 1979-02 | ✅ ·B | 3320 | [`r-quinn-gardner-becoming-a-zion-society-six-principles.md`](22-supporting-authors/r-quinn-gardner-becoming-a-zion-society-six-principles.md) |
 
 ## 23. Topical Compilations & Founding Documents
 *17 docs · ~149,023 words*
@@ -377,18 +377,18 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | An LDS Perspective on War and Foreign Policy |  |  | ✅ ·R | 3500 | [`an-lds-perspective-on-war-and-foreign-policy.md`](23-topical-and-founding-documents/an-lds-perspective-on-war-and-foreign-policy.md) |
 | Ezra Taft Benson- Christ and the Constitution |  | 1967-04 | ✅ ·R | 2616 | [`ezra-taft-benson-christ-and-the-constitution.md`](23-topical-and-founding-documents/ezra-taft-benson-christ-and-the-constitution.md) |
 | Ezra Taft Benson- the LDS Church and Politics |  | 1952-12-01 | ✅ ·R | 4474 | [`ezra-taft-benson-the-lds-church-and-politics.md`](23-topical-and-founding-documents/ezra-taft-benson-the-lds-church-and-politics.md) |
-| Family Home Evening Lessons for the Bicentennial of the Constitution (1787–1987) |  |  | ✅ ·R | 15104 | [`family-home-evening-lessons-for-the-bicentennial-of-the-constitution-1787-1987.md`](23-topical-and-founding-documents/family-home-evening-lessons-for-the-bicentennial-of-the-constitution-1787-1987.md) |
+| Family Home Evening Lessons for the Bicentennial of the Constitution (1787–1987) |  | 1987 | ✅ ·R | 15104 | [`family-home-evening-lessons-for-the-bicentennial-of-the-constitution-1787-1987.md`](23-topical-and-founding-documents/family-home-evening-lessons-for-the-bicentennial-of-the-constitution-1787-1987.md) |
 | General Conference Constitution Quotes |  |  | ✅ ·R | 2122 | [`general-conference-constitution-quotes.md`](23-topical-and-founding-documents/general-conference-constitution-quotes.md) |
 | Washington's Farewell Address | George Washington | 2012-02-28 | ✅ ·R | 6410 | [`george-washington-washingtons-farewell-address.md`](23-topical-and-founding-documents/george-washington-washingtons-farewell-address.md) |
 | Is Socialism Wrong |  |  | ✅ ·R | 2708 | [`is-socialism-wrong.md`](23-topical-and-founding-documents/is-socialism-wrong.md) |
 | Our Awful Situation (Compilation) |  | 2004-02-28 | ✅ ·R | 46038 | [`our-awful-situation-compilation.md`](23-topical-and-founding-documents/our-awful-situation-compilation.md) |
 | Quotations from Lectures on Secret Combinations |  | 2005-03-31 | ✅ ·R | 12740 | [`quotations-from-lectures-on-secret-combinations.md`](23-topical-and-founding-documents/quotations-from-lectures-on-secret-combinations.md) |
-| Some Fundamental Principles of Our Constitution – J. Reuben Clark Jr. |  |  | ✅ ·R | 4007 | [`some-fundamental-principles-of-our-constitution-j-reuben-clark-jr.md`](23-topical-and-founding-documents/some-fundamental-principles-of-our-constitution-j-reuben-clark-jr.md) |
+| Some Fundamental Principles of Our Constitution – J. Reuben Clark Jr. |  | 1957-07 | ✅ ·R | 4007 | [`some-fundamental-principles-of-our-constitution-j-reuben-clark-jr.md`](23-topical-and-founding-documents/some-fundamental-principles-of-our-constitution-j-reuben-clark-jr.md) |
 | The Brother Law Fireside |  |  | ✅ ·R | 2760 | [`the-brother-law-fireside.md`](23-topical-and-founding-documents/the-brother-law-fireside.md) |
 | The Civic Duty of the Latter-day Saints |  | 2005-07-26 | ✅ ·R | 7330 | [`the-civic-duty-of-the-latter-day-saints.md`](23-topical-and-founding-documents/the-civic-duty-of-the-latter-day-saints.md) |
 | The Monroe Doctrine |  | 2012-02-28 | ✅ ·R | 1275 | [`the-monroe-doctrine.md`](23-topical-and-founding-documents/the-monroe-doctrine.md) |
 | The Red Pill — Statements on Freedom |  | 1921-01-21 | ✅ ·R | 10989 | [`the-red-pill-statements-on-freedom.md`](23-topical-and-founding-documents/the-red-pill-statements-on-freedom.md) |
-| Warfare and the Book of Mormon |  |  | ✅ ·R | 6223 | [`warfare-and-the-book-of-mormon.md`](23-topical-and-founding-documents/warfare-and-the-book-of-mormon.md) |
+| Warfare and the Book of Mormon |  | 1990 | ✅ ·R | 6223 | [`warfare-and-the-book-of-mormon.md`](23-topical-and-founding-documents/warfare-and-the-book-of-mormon.md) |
 | Word of Wisdom |  | 1996-04-05 | ✅ ·R | 6477 | [`word-of-wisdom.md`](23-topical-and-founding-documents/word-of-wisdom.md) |
 
 ---

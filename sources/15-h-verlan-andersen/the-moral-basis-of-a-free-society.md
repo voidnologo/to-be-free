@@ -1,12 +1,13 @@
 ---
 title: "The Moral Basis of a Free Society"
 author: "H. Verlan Andersen"
-date: "1995"
+date: "1966"
 section: "15-h-verlan-andersen"
 source_url: ""
 source_file: "raw/H Verlan Anderson/H Verlan Andersen - The Moral Basis of a Free Society.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "H. Verlan Andersen, *The Moral Basis of a Free Society* (first published 1966)."
 status: "full"
 collection: "research-extended"
 word_count: 83747

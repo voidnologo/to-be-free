@@ -1,12 +1,13 @@
 ---
 title: "101 Constitutional Questions to Ask Candidates"
 author: "W. Cleon Skousen"
-date: ""
+date: "1980"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/101-constitutional-questions-to-ask-candidates/"
 source_file: "raw/Skousen/W Cleon Skousen - 101 Constitutional Questions to Ask Candidates.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, *101 Constitutional Questions to Ask Candidates* (1980)."
 status: "full"
 collection: "research-extended"
 word_count: 6757

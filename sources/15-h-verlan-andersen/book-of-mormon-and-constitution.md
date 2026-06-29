@@ -1,12 +1,13 @@
 ---
 title: "Book of Mormon and Constitution"
 author: "H. Verlan Andersen"
-date: ""
+date: "1995"
 section: "15-h-verlan-andersen"
 source_url: ""
 source_file: "raw/H Verlan Anderson/H Verlan Anderson - Book of Mormon and Const.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "H. Verlan Andersen, *The Book of Mormon and the Constitution* (1995, published posthumously)."
 status: "full"
 collection: "research-extended"
 word_count: 87864

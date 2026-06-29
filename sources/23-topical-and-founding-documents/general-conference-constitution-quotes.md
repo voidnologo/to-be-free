@@ -7,6 +7,7 @@ source_url: ""
 source_file: "raw/Research Documents/General Conference Constitution Quotes.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "Compilation of General Conference quotations across many years; no single date."
 status: "full"
 collection: "research-extended"
 word_count: 2122

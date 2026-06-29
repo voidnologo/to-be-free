@@ -1,12 +1,13 @@
 ---
 title: "The Proper and Improper Role of Government"
 author: "H. Verlan Andersen"
-date: ""
+date: "1995"
 section: "15-h-verlan-andersen"
 source_url: ""
 source_file: "raw/The Proper and Improper Role of Government.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "Compiled booklet (©1995): Ezra Taft Benson, “The Proper Role of Government” (1968), with H. Verlan Andersen, “The Improper Role of Government.”"
 status: "full"
 collection: "research-extended"
 word_count: 15465

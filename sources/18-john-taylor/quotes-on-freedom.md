@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/quotes/john-taylor/"
 source_file: "raw/Research Documents/John Taylor - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations spanning the speaker's ministry; no single date."
 status: "full"
 collection: "research-extended"
 word_count: 11519

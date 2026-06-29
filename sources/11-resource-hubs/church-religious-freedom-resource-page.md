@@ -6,6 +6,7 @@ section: "11-resource-hubs"
 source_url: "https://www.churchofjesuschrist.org/study/manual/religious-freedom/teachings-from-church-leaders?lang=eng"
 source_domain: "www.churchofjesuschrist.org"
 retrieved: "2026-06-28"
+source_note: "Official Church resource/index page (continually updated); not a single dated document."
 status: "hub"
 word_count: 689
 commentary: ""   # TODO: editorial blurb / commentary

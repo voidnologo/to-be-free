@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/quotes/joseph-smith/"
 source_file: "raw/Research Documents/Joseph Smith - Qutoes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations spanning the speaker's ministry; no single date."
 status: "full"
 collection: "research-extended"
 word_count: 3351

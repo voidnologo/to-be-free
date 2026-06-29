@@ -1,12 +1,13 @@
 ---
 title: "The Signers of the Declaration of Independence"
 author: "Ezra Taft Benson"
-date: ""
+date: "1977"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/the-signers-of-the-declaration-of-independence/"
 source_file: "raw/Research Documents/Ezra Taft Benson - The SIgners of the Declaration of Independence.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, *This Nation Shall Endure* (1977)."
 status: "full"
 collection: "research-extended"
 word_count: 2431

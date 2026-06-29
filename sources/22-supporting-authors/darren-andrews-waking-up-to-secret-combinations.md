@@ -7,6 +7,7 @@ source_url: ""
 source_file: "raw/Research Documents/Darren Andrews - Waking Up To Secret Combinations.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "Undated web essay (faithfulsaints.com); original date not established."
 status: "full"
 collection: "research-extended"
 word_count: 4362

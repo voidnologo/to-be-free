@@ -7,6 +7,7 @@ source_url: ""
 source_file: "raw/Research Documents/An LDS Perspective on War and Foreign Policy.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "Undated web essay (latterdayconservative.com blog); original date not established."
 status: "full"
 collection: "research-extended"
 word_count: 3500

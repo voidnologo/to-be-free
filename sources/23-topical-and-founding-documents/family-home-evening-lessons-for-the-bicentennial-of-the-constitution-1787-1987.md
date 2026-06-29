@@ -1,12 +1,13 @@
 ---
 title: "Family Home Evening Lessons for the Bicentennial of the Constitution (1787–1987)"
 author: ""
-date: ""
+date: "1987"
 section: "23-topical-and-founding-documents"
 source_url: ""
 source_file: "raw/Research Documents/Family-Home-Evening-Lessons-for-the-Bicentennial-Of-The-Constitution-1787-1987.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "First Presidency, *Family Home Evening Lessons for the Bicentennial of the Constitution* (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 1987)."
 status: "full"
 collection: "research-extended"
 word_count: 15104

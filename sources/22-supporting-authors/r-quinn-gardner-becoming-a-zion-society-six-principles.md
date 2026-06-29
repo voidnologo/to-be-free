@@ -1,12 +1,13 @@
 ---
 title: "Becoming a Zion Society: Six Principles"
 author: "R. Quinn Gardner"
-date: ""
+date: "1979-02"
 section: "22-supporting-authors"
 source_url: ""
 source_file: "TBF/To Be Free.pdf (pp. 271-274)"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "R. Quinn Gardner, “Becoming a Zion Society: Six Principles,” *Ensign*, February 1979."
 status: "full"
 collection: "tbf-book"
 word_count: 3320

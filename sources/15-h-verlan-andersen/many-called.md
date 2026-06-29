@@ -1,12 +1,13 @@
 ---
 title: "Many Are Called but Few Are Chosen"
 author: "H. Verlan Andersen"
-date: ""
+date: "1967"
 section: "15-h-verlan-andersen"
 source_url: ""
 source_file: "raw/H Verlan Anderson/H Verlan Anderson - Many Called.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "H. Verlan Andersen, *Many Are Called but Few Are Chosen* (first published 1967)."
 status: "full"
 collection: "research-extended"
 word_count: 42959

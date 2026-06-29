@@ -1,12 +1,13 @@
 ---
 title: "Warfare and the Book of Mormon"
 author: ""
-date: ""
+date: "1990"
 section: "23-topical-and-founding-documents"
 source_url: ""
 source_file: "raw/Warfare and the Book of Mormon.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "Hugh W. Nibley, “Warfare and the Book of Mormon,” in *Warfare in the Book of Mormon*, ed. Ricks & Hamblin (1990)."
 status: "full"
 collection: "research-extended"
 word_count: 6223

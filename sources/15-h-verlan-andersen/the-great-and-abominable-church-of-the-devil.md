@@ -1,12 +1,13 @@
 ---
 title: "The Great and Abominable Church of the Devil"
 author: "H. Verlan Andersen"
-date: ""
+date: "1972"
 section: "15-h-verlan-andersen"
 source_url: ""
 source_file: "raw/The Great and Abominable Church of the Devil.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "H. Verlan Andersen, *The Great and Abominable Church of the Devil* (1972)."
 status: "full"
 collection: "research-extended"
 word_count: 88320

@@ -1,12 +1,13 @@
 ---
 title: "Romans 13 and National Defense"
 author: "Laurence M. Vance"
-date: ""
+date: "2011-10"
 section: "22-supporting-authors"
 source_url: ""
 source_file: "raw/Romans 13 and National Defense by Laurence M. Vance.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "Laurence M. Vance, “Romans 13 and National Defense,” LewRockwell.com, October 2011."
 status: "full"
 collection: "research-extended"
 word_count: 1858

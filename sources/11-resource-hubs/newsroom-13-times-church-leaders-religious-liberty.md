@@ -1,11 +1,12 @@
 ---
 title: "13 Times Church Leaders Spoke About Religious Liberty"
 author: ""
-date: ""
+date: "2022-07-04"
 section: "11-resource-hubs"
 source_url: "https://newsroom.churchofjesuschrist.org/article/13-times-church-leaders-spoke-about-religious-liberty-this-year"
 source_domain: "newsroom.churchofjesuschrist.org"
 retrieved: "2026-06-28"
+source_note: "Newsroom, The Church of Jesus Christ of Latter-day Saints, 4 July 2022 (roundup of Oct 2021–Jun 2022 statements)."
 status: "hub"
 word_count: 1526
 commentary: ""   # TODO: editorial blurb / commentary

@@ -6,6 +6,7 @@ section: "11-resource-hubs"
 source_url: "https://speeches.byu.edu/topics/freedom/"
 source_domain: "speeches.byu.edu"
 retrieved: "2026-06-28"
+source_note: "Aggregator/index page (continually updated); not a single dated document."
 status: "hub"
 word_count: 760
 commentary: ""   # TODO: editorial blurb / commentary

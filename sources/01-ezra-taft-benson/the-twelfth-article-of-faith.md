@@ -1,12 +1,13 @@
 ---
 title: "The Twelfth Article of Faith"
 author: "Ezra Taft Benson"
-date: ""
+date: "1974"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/the-twelfth-article-of-faith/"
 source_file: "raw/Research Documents/Ezra Taft Benson - The Twelfth Article of Faith.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, *God, Family, Country: Our Three Great Loyalties* (1974), 279."
 status: "full"
 collection: "research-extended"
 word_count: 938

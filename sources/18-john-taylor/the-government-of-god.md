@@ -1,12 +1,13 @@
 ---
 title: "The Government of God"
 author: "John Taylor"
-date: ""
+date: "1852"
 section: "18-john-taylor"
 source_url: ""
 source_file: "raw/Research Documents/John Taylor - The Government of God.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "John Taylor, *The Government of God* (Liverpool: S. W. Richards, 1852)."
 status: "full"
 collection: "research-extended"
 word_count: 52365

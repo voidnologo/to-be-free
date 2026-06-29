@@ -1,12 +1,13 @@
 ---
 title: "The Constitution"
 author: "J. Reuben Clark Jr."
-date: ""
+date: "1957-04-06"
 section: "10-j-reuben-clark"
 source_url: ""
 source_file: "raw/Research Documents/J. Rueben Clark Jr. - The Constitution.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "General Conference, Saturday morning session, 6 April 1957."
 status: "full"
 collection: "research-extended"
 word_count: 5591

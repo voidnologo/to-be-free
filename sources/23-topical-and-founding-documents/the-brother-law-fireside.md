@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-brother-law-fires
 source_file: "raw/Research Documents/The Brother Law Fireside.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Fireside recollection by Marion Albert Law (recounting a 1947 mission experience); delivery date not established."
 status: "full"
 collection: "research-extended"
 word_count: 2760

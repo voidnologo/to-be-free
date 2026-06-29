@@ -1,12 +1,13 @@
 ---
 title: "How to Elect a Constitutional Congress"
 author: "W. Cleon Skousen"
-date: ""
+date: "1982"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/how-to-elect-a-constitutional-congress/"
 source_file: "raw/Skousen/W Cleon Skousen - How to Elect a Constitutional Congress.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, “How to Elect a ‘Constitutional’ Congress” (1982)."
 status: "full"
 collection: "research-extended"
 word_count: 2361

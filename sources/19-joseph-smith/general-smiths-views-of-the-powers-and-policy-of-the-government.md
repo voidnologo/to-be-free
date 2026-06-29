@@ -9,32 +9,11 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 5601
+word_count: 5512
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom", "Morality & Virtue", "Constitution", "War & Peace", "Founding Fathers"]
 ---
 
-General Smith’s Views of the Power and
-Policy of the Government
-by Joseph Smith
-
-by Joseph Smith. Nauvoo, Illinois. Printed by John Taylor. 1844. General Smith’s Views of the
-Power and Policy of the Government
-
-                               GENERAL SMITH’S
-                                       VIEWS
-              OF THE POWERS AND POLICY OF THE
-                              GOVERNMENT
-                                        OF THE
-                                 UNITED STATES
-                                     NAUVOO, ILLINOIS.
-
-                                PRINTED BY JOHN TAYLOR.
-
-                                           1 8 4 4.
-
-                      G E N E R A L S M I T H ‘S V I E W S.
-      GEN. SMITH’S VIEWS OF THE POWERS AND POLICY OF THE GOVERNMENT.
 Born in a land of liberty, and breathing an air uncorrupted with the
 sirocco of barbarous climes, I ever feel a double anxiety for the
 happiness of all men, both in time and in eternity. My cogitations,

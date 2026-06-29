@@ -1,5 +1,5 @@
 ---
-title: "Many Called"
+title: "Many Are Called but Few Are Chosen"
 author: "H. Verlan Andersen"
 date: ""
 section: "15-h-verlan-andersen"
@@ -9,70 +9,11 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 43310
+word_count: 42959
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Book of Mormon", "Liberty & Freedom", "Communism", "Morality & Virtue", "Constitution", "Socialism"]
 ---
 
-No part of this book may be reproduced in any form whatsoever, whether by graphic, visual, electronic,
-filming, microfilming, tape recording, or any other means, without the prior written permission of Hans
-V. Andersen, Jr. except in the case of brief passages embodied in critical reviews and articles where the
-title, author’s name and ISBN are mentioned.
-This book is not an official publication of The Church of Jesus Christ of Latter-day Saints. All opinions
-expressed herein are the author’s and are not necessarily those of The Church of Jesus Christ of Latter-day
-Saints.
-
-Order from:
-Hans V. Andersen, Jr.
-1724 South 165 West
-Orem, UT 84058
-(801) 224-3368
-
-ISBN: 1-57636-043-1
-Library of Congress Catalog Card Number: 97-68785
-
-Production by:
-Brian Carter / SunRise Publishing
-PO Box 1001
-Orem, UT 84059
-www.SunriseBooks.com
-TABLE OF CONTENTS
-(These page numbers refer to the actual book and are not correct for this doctument.)
-
-INTRODUCTION.....................................................................................v
-CHAPTER I
-   THE PROBLEM .................................................................................. 1
-CHAPTER II
-   FREEDOM—ITS ULTIMATE MEANING................................................ 5
-CHAPTER III
-   THE DIVINE LAW OF RESTORATION ................................................ 11
-CHAPTER IV
-   FORFEITURE OF PRIESTHOOD BY DECEPTION .................................. 19
-CHAPTER V
-   THE EXERCISE OF UNRIGHTEOUS DOMINION BY ABUSE OF THE POLICE POWER 23
-CHAPTER VI
-   THOSE CIRCUMSTANCES UNDER WHICH GOD HAS AUTHORIZED USE OF THE FORCE OF
-GOVERNMENT AGAINST THE INDIVIDUAL .......................................... 31
-CHAPTER VII
-   ACTS OF GOVERNMENT WHICH CONSTITUTE AN EXERCISE OF UNRIGHTEOUS DOMINION
- ......................................................................................................... 37
-CHAPTER VIII
-   ANOTHER STANDARD BY WHICH TO JUDGE GOVERNMENT ACTION —THE UNITED STATES
-CONSTITUTION AND THE COMMUNIST MANIFESTO............................ 47
-CHAPTER IX
-   THE “VOICE FROM THE DUST” SPEAKS TO MODERN AMERICA ABOUT GOVERNMENT 55
-CHAPTER X
-   SPECIFIC LESSONS FROM THE NEPHITE RECORD ............................. 65
-CHAPTER XI
-   THE RESPONSIBILITY OF LATTER-DAY SAINTS .................................... 73
-CHAPTER XII
-   SUMMARY ...................................................................................... 77
-APPENDIX I LETTERS ........................................................................ 81
-APPENDIX II DO YOU KNOW WHY MANY ARE CALLED BUT FEW ARE CHOSEN 85
-APPENDIX III STATEMENTS BY PRESIDENT EZRA TAFT BENSON ..................... 91
-APPENDIX IV GRAPHS AND CHARTS........................................................ 99
-APPENDIX V HANDLING OPPOSITION .................................................. 113
-INDEX ............................................................................................. 127
                                                                        INTRODUCTORY COMMENT
 
      It is unusual to find in recorded history a nation of people who enjoyed the privilege of self-

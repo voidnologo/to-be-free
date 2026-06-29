@@ -9,102 +9,12 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 88668
+word_count: 88320
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Book of Mormon", "Liberty & Freedom", "Morality & Virtue", "Communism", "Constitution", "Socialism"]
+possible_duplicate_of: "15-h-verlan-andersen/the-great-and-abominable-church-of-the-devil.md"
 ---
 
-                    by
-
-     H. VERLAN ANDERSEN
-                Author of
-
-  MANY ARE CALLED BUT FEW ARE CHOSEN
-    THE MORAL BASIS OF A FREE SOCIETY
-THE BOOK OF MORMON AND THE CONSTITUTION
-
-               Additions by
-           Hans V. Andersen, Jr.
-      This volume is dedicated to my wife, Shirley, who assumed far more
-      than her share of our parental responsibilities to make this endeavor
-      possible.
-
-© Copyright 1972
-H. Verlan Andersen
-ALL RIGHTS RESERVED.
-
-Fourth Printing 1988 by his Sons and Grandsons
-Fifth Printing 1994 by his Sons and Grandsons
-
-ISBN: O-9644552-O-X
-Library of Congress Catalog Card Number: 94-74044
-
-Production by:
-Brian Carter / SunRise Publishing
-PO Box 1001
-Orem, UT 84059
-www.SunriseBooks.com
-TABLE OF CONTENTS
-(These page numbers refer to the actual book and are not correct for this doctument.)
-
-PREFACE........................................................................................................................iv
-
-I        A SATANIC WORLD-WIDE ORGANIZATION FORETOLD.................................1
-
-II       THE GREAT DIVISION .........................................................................................7
-
-III      THE UNIVERSAL PROBLEM OF DECEPTION.................................................. 13
-
-IV       THE ELEMENTS OF FREEDOM ........................................................................ 27
-
-V        THE LORD’S INVOLVEMENT IN POLITICAL AFFAIRS .................................. 37
-
-VI       THE LORD JUDGES MEN By THE CIVIL LAWS THEY SANCTION OR
-
-         OPPOSE ............................................................................................................... 47
-
-VII      THE LORD’S PLAN FOR PROTECTING FREE AGENCY ................................. 55
-
-VIII     FREE AGENCY IN HEREAFTER DETERMINED BY ATTITUDE
-
-         TOWARD IT HERE.............................................................................................. 67
-
-IX       SATAN’S PLAN TO DESTROY FREE AGENCY................................................ 71
-
-X        Do THE SCRIPTURES PERMIT THE CONCLUSION THAT PROSTITUTED
-
-         GOVERNMENT IS SATAN’S CHURCH9 ........................................................... 77
-
-XI       RELIGIOUS HISTORY AFFIRMS THAT SATAN HAS ALWAYS TRIED TO
-
-         CONTROL GOVERNMENT ................................................................................ 83
-
-XII      IDENTIFICATION OF SATAN’S CHURCH BY LATTER-DAY PROPHETS ...... 91
-
-XIII     THE CONCEPT AND PHILOSOPHY OF THE DEVIL’S CHURCH .................... 99
-
-XIV PRIESTCRAFT................................................................................................... 109
-
-XV       SOCIALIZED EDUCATION AND FALSE DOCTRINES.................................... 129
-
-XVI LATTER-DAY PROPHETS AND SOCIALIZED EDUCATION.......................... 137
-
-XVII THE KINGDOM OF GOD vs. THE KINGDOM OF THE DEVIL ....................... 145
-
-XVIII THE APOSTASY OF THE LATTER DAYS ....................................................... 161
-
-XIX THE DESTRUCTION OF THE DEVIL’S CHURCH........................................... 173
-
-XX       SUMMARY AND CONCLUSION...................................................................... 181
-
-APPENDICES
-
-I        THE CONSTITUTION OF THE UNITED STATES ............................................ 191
-
-II       EXCERPTS FROM THE COMMUNIST MANIFESTO ...................................... 211
-III     ADDITIONS BY HANS V. ANDERSEN, JR ...................................................... 215
-
-INDEX (Only found in original Book) .......................................................................... 231
                                                                                   PREFACE
 
      Innumerable books have been written about Jesus Christ and His Church, but a book about the

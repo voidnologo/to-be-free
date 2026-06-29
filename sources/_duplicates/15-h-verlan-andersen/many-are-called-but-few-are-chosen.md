@@ -12,6 +12,7 @@ collection: "research-extended"
 word_count: 28901
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Book of Mormon", "Liberty & Freedom", "Communism", "Morality & Virtue", "Constitution", "Secret Combinations"]
+possible_duplicate_of: "15-h-verlan-andersen/many-called.md"
 ---
 
 ![](cover_image.jpg)

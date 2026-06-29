@@ -9,56 +9,10 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 84047
+word_count: 83747
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom", "Constitution", "Morality & Virtue", "Communism", "Law & Government", "Book of Mormon"]
 ---
-
-         No part of this book may be reproduced in any form whatsoever, whether by graphic, visual, electronic,
-filming, microfilming, tape recording, or any other means, without the prior written permission of Hans V. Andersen,
-Jr. except in the case of brief passages embodied in critical reviews and articles where the ISBN, title and author’s
-name accompany the review or article.
-
-        This book is not an official publication of The Church of Jesus Christ of Latter-day Saints. All opinions
-expressed herein are the author’s and are not necessarily those of The Church of Jesus Christ of Latter-day Saints.
-For more books and products of similar interest, see order form in back or write to:
-
-Hans V. Andersen, Jr.
-1724 South 165 West
-Orem, UT 84058
-(801) 224-3368
-
-ISBN: 1-57636-027-X
-Library of Congress Catalog Card Number: 96-70759
-Suggested Retail: $12.95
-
-Text layout and cover design by:
-SunRise Publishing, Orem, Utah
-
-                                            TABLE OF CONTENTS
-
-Introduction
-
-I   The Reign Of Law                                                                            1
-II The Universal Desire For Freedom                                                             9
-III The Natural Laws Governing Freedom                                                         19
-IV Justice According To The Golden Rule                                                       37
-V    The United States Constitution                                                           53
-VI Criminal Laws                                                                              67
-VII Tort Laws                                                                                 83
-VIII Contract Laws                                                                            95
-IX The Nature Of Wealth                                                                      109
-X    The Nature Of Property Rights                                                           121
-XI Limitations On Government Power                                                           135
-XII Procedures Which Must Be Followed By Government
-    In The Exercise Of Its Powers                                                            149
-XIII Administrative Laws And The Law Of Stewardships                                         163
-
-Appendix I (Unity)                                                                           181
-Appendix II (Handling Opposition)                                                     189
-Appendix III (Justified and Unjustified Warfare)                                      203
-Appendix IV (Who Opposes Socialism)                                                   207
-Index                                                                                 213
 
         Now Ammon being wise, yet harmless, he said unto Lamoni: Wilt thou hearken unto my
 words, if I tell thee by what power I do these things? And this is the thing that I desire of thee.

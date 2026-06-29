@@ -15,9 +15,6 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Constitution", "Liberty & Freedom", "Founding Fathers", "War & Peace", "Law & Government", "Religious Freedom"]
 ---
 
-which appeared on the editorial page (page 4) of
-
-
 >## 1. The Unknown Constitution
 
 The Constitution of the United States of America is the document nobody knows. Like the Bible, all Americans make reference to it, and some profess to revere it, but few read it. Fewer still understand the written words and appreciate the effect of its provisions upon their daily lives and interests.

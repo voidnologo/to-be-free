@@ -9,97 +9,11 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 88394
+word_count: 87864
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Book of Mormon", "Liberty & Freedom", "Constitution", "Morality & Virtue", "Family", "Secret Combinations"]
 ---
 
-     No part of this book may be reproduced in any form whatsoever, whether by graphic, visual,
-electronic, filming, microfilming, tape recording, or any other means, without the prior written
-permission of Hans V. Andersen, Jr. except in the case of brief passages embodied in critical reviews and
-articles.
-     This book is not an official publication of The Church of Jesus Christ of Latter-day Saints. All
-opinions expressed herein are the author’s and are not necessarily those of The Church of Jesus Christ of
-Latter-day Saints.
-
-  Daddy loved the Book of Mormon. He wrote this book to increase our
-awareness of our dependency on the living prophet as well as the Book of
-Mormon, a book for our day.
-                                                                              —Hans V. Andersen, Jr.
-
-Order from:
-Hans V. Andersen, Jr.
-1724 South 165 West
-Orem, UT 84058
-(801) 224-3368
-
-(Cover photo is of an original Book of Mormon.)
-
-First Printing; July 1995
-Second Printing; September 1995
-Third Printing; November 1995
-Fourth Printing; July 1996
-Fifth Printing; September 1998
-
-ISBN: 0-9644552-1-8
-Library of Congress Catalog Card Number: 95-70298
-
-Production by:
-Brian Carter / SunRise Publishing
-PO Box 1001
-Orem, UT 84059
-www.SunriseBooks.com
-TABLE OF CONTENTS
-(These page numbers refer to the actual book and are not correct for this doctument.)
-
-Introduction .................................................................................................. v
-Preface.........................................................................................................xi
-
-I               IF YE ARE NOT ONE YE ARE NOT MINE ........................ 1
-II              OUR LIVING PROPHET HAS ISSUED A WARNING............ 9
-III             THE LORD’S BOOK OF MORMON COMMANDMENTS TO THE GENTILES 13
-IV              THE BOOK OF MORMON WARNS THE GENTILES ........... 19
-V               GOVERNMENTS MAY BE USED TO PRESERVE OR DESTROY FREEDOM 25
-VI              ALMOST ALL MEN ARE INCLINED TO DESTROY FREE AGENCY 31
-VII             THE CONSEQUENCES OF PRIDE ................................... 37
-VIII            THE SIN OF PRIDE ...................................................... 45
-IX              THE INFLUENCE OF PRIOR GOVERNMENTS ON REIGN                                                     OF THE JUDGES 53
-X               REASONS FOR CHANGING FROM MONARCHY TO                                                      SELF-GOVERNMENT59
-XI              THE NEPHITE EXPERIENCE WITH ENFORCED
-                PRIESTCRAFT .............................................................. 65
-XII             THE NEPHITE EXPERIENCE WITH SECRET
-                COMBINATIONS .......................................................... 75
-XIII            SECRET COMBINATIONS .............................................. 85
-XIV             THE CONSTITUTION OF THE UNITED STATES
-                OF AMERICA .............................................................. 91
-XV              THE GOLDEN RULE AND THAT LAW WHICH IS CONSTITUTIONAL99
-XVI             THE REIGN OF DIVINE LAW ...................................... 107
-XVII            INDIVIDUAL FREEDOM—THE TRANSCENDENT                                           PURPOSE OF GOVERNMENT
-                 ................................................................................ 115
-XVIII           THE DUTIES OF MAN ................................................ 125
-XIX             THE FOUR LAWS GOVERNMENT MUST OBEY                                            TO PROTECT HUMAN
-                RIGHTS ..................................................................... 131
-XX              GOVERNMENTS SHALL PUNISH THE INTENTIONAL VIOLATION OF DUTIES 141
-XXI             GOVERNMENTS SHALL PUNISH NOTHING EXCEPT                             THE INTENTIONAL
-                VIOLATION OF DUTIES
-                —LICENSING LAWS .................................................. 147
-XXII            GOVERNMENTS SHALL PUNISH NOTHING EXCEPT                         THE INTENTIONAL
-                VIOLATION OF DUTIES
-                —REGULATORY LAWS ............................................. 157
-XXIII           GOVERNMENTS SHALL NEVER CREATE NOR                                 ABOLISH DUTIES—WELFARE
-                STATE LAWS............................................................. 165
-XXIV            THE DESTRUCTION OF RIGHTS BY USE OF IRREDEEMABLE PAPER MONEY 173
-XXV             PUBLIC SCHOOLS ...................................................... 181
-XXVI            THE LORD’S PLAN VERSUS ENFORCED PRIESTCRAFT 193
-XXVII UNENFORCED PRIESTCRAFT ...................................... 205
-XXVIII PROPHECIES REGARDING FATE OF GENTILES............. 211
-XXIX            IF YE ARE NOT ONE YE ARE NOT MINE .................... 219
-
-Appendix I................................................................................................. 225
-Appendix II ............................................................................................... 227
-Appendix III .............................................................................................. 231
-Appendix IV .............................................................................................. 233
-Index ......................................................................................................... 239
 INTRODUCTION
      Just as a wayward child fills the thoughts of a righteous parent with sorrow, and saps that
 parent’s power, confidence and peace, a member who rejects President Benson by clinging to

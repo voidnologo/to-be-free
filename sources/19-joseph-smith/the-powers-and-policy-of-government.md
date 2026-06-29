@@ -9,53 +9,10 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 12033
+word_count: 11865
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom", "Morality & Virtue", "Constitution", "War & Peace", "Prophecy & Last Days", "Founding Fathers"]
 ---
-
-      of the
-
-   GOVERNMENT
-                      t
-
-           BY
-
-  JOSEPH SMITH
-
-       '^f^l^hs^'Wi
-  HAROLD B.LEE LIBRARY
-BRIGHAM YOUNG UNIVERSITY
-      PROVO, UTAH
-       .
-
-     The following article on the "Powers and
-Policy of the Government" was written by Jo-
-seph Smith on February 7, 1844.    His princi-
-ples of good government were as clear as those
-of pure religion.  If  these principles would
-have been applied, the perils of Civil War
-and other national problems could have been
-avoided
-
-     This article resulted from correspondence
-between Joseph Smith with J. C. Calhoun and
-Henry Clay, candidates for the Presidency of
-the United States. Joseph Smith wrote to them
-asking, "What would be your rule of action
-toward the Latter-day Saints  ,  should you be
-elected Preisident?"  Because their answers
-were so non-commital toward the cruelty and
-injustice endured by the Latter-day Saints,
-it resulted in Joseph Smith's becoming a can-
-didate for the U.S. presidency.
-  HAROLD B. LEE LIBRARY
-BRIGHAM YOL-NG UNIVERSITY
-      PROVO.UTAH
-               JOSEPH SMITH'S VIEWS
-                              Of*   THE
-
-    Powers and Policy of fk
 
 BORN in a land of liberty, and breathing an air
     uncorrupted with the sirocco of barbarous climes, I

@@ -9,12 +9,12 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 15171
+word_count: 15104
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Constitution", "Family", "Liberty & Freedom", "War & Peace", "Book of Mormon", "Founding Fathers"]
 ---
 
-F        R S T              PRE            S        DEN            C     Y        MESSAGE
+FIRST PRESIDENCY MESSAGE
 
 President Gordon B. Hinckley                                                                           President Thomas S. Monson
         First Counselor                              President Ezra Taft Benson                              Second Counselor
@@ -32,17 +32,6 @@ prayerfully so that family members may feel the divine significance of the Const
 Faithfully, your brethren,
 The First Presidency
 
-   Cover: Scene at the Signing of the Constitution by Chandler Christy. United States Capitol Collection. Architect of the Capitol.
-
-                                                          Published by
-                                          The Church of Jesus Christ of Latter-day Saints
-                                                     Salt Lake City, Utah
-
-                                       Copyright © 1987 by Corporation of the President of
-                                         The Church of Jesus Christ of Latter-day Saints
-
-                                                         All rights reserved
-                                              Printed in the United States of America
                                              SECTION                                ONE
 
             "The Event Is in the Hand of God"

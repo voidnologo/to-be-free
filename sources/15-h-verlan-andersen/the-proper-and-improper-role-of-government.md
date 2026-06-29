@@ -9,85 +9,11 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 15826
+word_count: 15465
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Socialism", "Liberty & Freedom", "Communism", "Constitution", "Morality & Virtue", "Family"]
 ---
 
-    (EZRA TAFT BENSON)
-
-   THE IMPROPER
-ROLE OF GOVERNMENT
- (ELDER H. VERLAN ANDERSEN)
-
-               This Work
-        Compiled and Presented by
-          Hans V. Andersen, Jr.
-Copyright © 1995 by Hans V. Andersen, Jr.
-ALL RIGHTS RESERVED.
-
-    Permission for reprinting The Proper Role of Government granted by:
-    American Opinion Bookstores
-
-     No part of this book may be reproduced in any form whatsoever, whether by graphic, visual,
-electronic, filming, microfilming, tape recording, or any other means, without prior written permission of
-the author’s, except in the case of brief passages embodied in critical reviews and articles.
-     This book is not an official publication of The Church of Jesus Christ of Latter-day Saints. All
-opinions expressed herein are those of the author’s and are not necessarily those of the publisher’s or of
-The Church of Jesus Christ of Latter-day Saints.
-
-   For more information, books or videos regarding The Proper Role and The Improper Role of
-Government contact:
-
-    Church and State, L.L.C.
-    1724 South 165 West
-    Orem, UT 84058
-    (801) 225-0396
-
-    Visit and Order from our Web Site:
-    www.itsnet.com/~eleccons
-
-ISBN: 0-9644552-7-7
-
-Production by:
-Brian Carter / SunRise Publishing
-PO Box 1001
-Orem, UT 84059
-www.SunriseBooks.com
-TABLE OF CONTENTS
-(These page numbers refer to the actual book and are not correct for this doctument.)
-
-Introduction by Hans V. Andersen, Jr............................................ iv
-
-EZRA TAFT BENSON
-The Proper Role of Government
-      Sound Principles of Government............................................. 1
-      Church and State.................................................................... 3
-      Powers of a Proper Government ............................................. 6
-      The Constitution of The United States..................................... 8
-      The Nature of Legal Plunder ................................................ 11
-      A Formula for Economic Prosperity ..................................... 13
-      What is Wrong with a “Little” Socialism?............................ 16
-      Fifteen Principles I Believe................................................... 18
-      Take A Stand ........................................................................ 21
-
-ELDER H. VERLAN ANDERSEN
-The Improper Role of Government
-      Letter from Ezra Taft Benson to H. Verlan Andersen ............ 22
-      Collectivism, the Danger from Within................................... 23
-Appendix I
-Graphs of America’s Decline ....................................................... 28
-    Increasing Housing Costs..................................................... 29
-      Federal Spending 1900-1998................................................ 30
-      Federal Spending 1988-1998................................................ 32
-      Inflation 1800-1995.............................................................. 34
-      Tax Freedom Day................................................................. 36
-      Typical 8 Hour Work Day..................................................... 38
-      Work Force Mothers in the U.S. ........................................... 40
-      Divorces as a Percent of Marriages...................................... 42
-
-Appendix II
-Prophets Opposing Socialism....................................................... 44
                                                                           INTRODUCTION
                                                                                 by Hans V. Andersen, Jr.
 

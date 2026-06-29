@@ -42,7 +42,7 @@ The Prophet Joseph Smith also stated:
 
 “It is a love of liberty [that] inspires my soul—civil and religious liberty to the whole of the human race.”
 
-Still, early Church members were attacked and driven thousands of miles, from New York to Ohio to Missouri, where the governor issued an order that members of the Church “must be treated as enemies and must be exterminated or driven from the state.” They fled to Illinois, but the torment continued. A mob murdered the Prophet Joseph, thinking that killing him would destroy the Church and scatter the believers. But the faithful held firm. Joseph’s successor, Brigham Young, led thousands in a forced exodus 1,300 miles (2,100 km) west to what is now the state of Utah. My own ancestors were amongst those early pioneer settlers.
+Still, early Church members were attacked and driven thousands of miles, from New York to Ohio to Missouri, where the governor issued an order that members of the Church “must be treated as enemies and must be exterminated or driven from the state.” They fled to Illinois, but the torment continued. A mob murdered the Prophet Joseph, thinking that killing him would destroy the Church and scatter the believers. But the faithful held firm. Joseph’s successor, Brigham Young, led thousands in a forced exodus 1,300 miles (2,100 km) west to what is now the state of Utah. My own ancestors were amongst those early pioneer settlers.
 
 From those days of intense persecution, the Lord’s Church has grown steadily to nearly 17 million members, with well over half living outside the United States.
 
@@ -52,7 +52,7 @@ Our beloved prophet, Russell M. Nelson, has further expressed:
 
 “We believe in freedom, kindness, and fairness for all of God’s children.
 
-“We are all brothers and sisters, each one a child of a loving Father in Heaven. His Son, the Lord Jesus Christ, invites all to come to Him, ‘black and white, bond and free, male and female’ (2 Nephi 26:33).”
+“We are all brothers and sisters, each one a child of a loving Father in Heaven. His Son, the Lord Jesus Christ, invites all to come to Him, ‘black and white, bond and free, male and female’ (2 Nephi 26:33).”
 
 Consider with me four ways that society and individuals benefit from religious freedom.
 
@@ -102,5 +102,5 @@ I invite you to champion the cause of religious freedom. It is an expression of 
 
 Religious freedom brings balance to competing philosophies. The good of religion, its reach, and the daily acts of love which religion inspires only multiply when we protect the freedom to express and act on core beliefs.
 
-I witness that Russell M. Nelson is God’s living prophet. I testify that Jesus Christ leads and guides this Church. He atoned for our sins, was crucified on a cross, and was resurrected on the third day. Because of Him, we can live again for all eternity; and those who so desire can be with our Father in Heaven. This truth I proclaim to all the world. I am grateful for the freedom to do so. In the name of Jesus Christ, amen.
+I witness that Russell M. Nelson is God’s living prophet. I testify that Jesus Christ leads and guides this Church. He atoned for our sins, was crucified on a cross, and was resurrected on the third day. Because of Him, we can live again for all eternity; and those who so desire can be with our Father in Heaven. This truth I proclaim to all the world. I am grateful for the freedom to do so. In the name of Jesus Christ, amen.
 

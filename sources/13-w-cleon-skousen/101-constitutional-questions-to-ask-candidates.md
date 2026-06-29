@@ -39,9 +39,9 @@ We are listing a few of the many questions which might be addressed to a candida
 
 As we go through these questions you will note that nearly all of them can be easily answered by anyone who has attended the “Miracle of America” seminars on the Constitution. In the text for this course the answers to all of these questions are explained and documented. If your candidate does not know the answers, invite him to take a Constitutional seminar at the earliest possible date. The thirteen hours required for this study may turn out to be the best investment in political orientation he could find. No American should run for public office until he has studied the Constitution in the tradition of the Founding Fathers.
 
-**Questions on General Principles**
+Questions on General Principles
 
-**1. Under the Constitution, who has the sovereign authority to govern?**
+1. Under the Constitution, who has the sovereign authority to govern?
 
 The founders said it is in the people “by God’s own allowance”. No branch or agency of the government should be allowed to operate in violation of the expressed will of the people. Their collective will is set forth in the Constitution and the laws passed by the people’s representatives.
 
@@ -73,9 +73,9 @@ The inalienable rights of mankind include such things as the right of self gover
 
 The Founders said the basic reason for creating a government is to protect the inalienable rights of the people. The government is to provide “liberty under law,” which means that no law should be passed unless it is specifically designed to protect the freedom, liberty. and well-being of the people.
 
-**The American Structure of Government**
+The American Structure of Government
 
-**9. What is a democracy?**
+9. What is a democracy?
 
 A democracy is a government wherein decisions are made by the masses of the people rather than by elected representatives.
 
@@ -91,9 +91,9 @@ Because the system allows the masses of qualified voters to participate in the e
 
 Yes. The only part of the American system which is borrowed from “democracy” is the popular election of government officials. Except for this, the Founders strongly emphasized the republican aspects of the American system. A republic places the responsibility for sound government and decision-making on the people’s elected representatives rather than allowing the fluctuating and superficial emotions of the people to override law and order or the rights of minorities. The classical example of government functioning on republican principles and prevailing over “pure democracy” would be the case of a sheriff protecting a prisoner against a lynch mob.
 
-**The Task of Controlling Power**
+The Task of Controlling Power
 
-**13. Why is separation of power safer than concentration of power?**
+13. Why is separation of power safer than concentration of power?
 
 Government is “force” which Washington compared to “fire” and said government is a “dangerous servant” and a “fearful master.” Power should be dispersed among the people where they can keep it under control.
 
@@ -113,9 +113,9 @@ Jefferson stated that a political unit governs best which governs least. In othe
 
 The professional politicians learned that in a war, depression, or a serious crisis, the people will endure higher taxes and a far greater concentration of authority on the higher levels of government. Certain politicians therefore set out to exploit every emergency as an excuse for the acquiring of more power. During most of the twentieth century ambitious politicians trumpeted the message that the government can solve practically all problems better than the people. Today, as a result, Americans are being literally “programmed” to death. And taxes have skyrocketed.
 
-**Separating Power Horizontally**
+Separating Power Horizontally
 
-**18. How did the Founders separate power horizontally?**
+18. How did the Founders separate power horizontally?
 
 There are three functions of government at each level of society. One function is to make the law, another is to administer the law and a third is to interpret the law. These are all on the same horizontal level and are referred to as the legislative, executive, and judicial functions of government. The Founders wanted these three functions to be separated into equal, independent departments. At the same time, they wanted to coordinate these functions so that one department could not function without the other two. Each department was therefore assigned to serve as a check on the others. The idea of the Founders was to have these functions of government “coordinated but never consolidated.” This was one of the most ingenious devices contributed by the Founders.
 
@@ -123,9 +123,9 @@ There are three functions of government at each level of society. One function i
 
 The Founders warned that if the vertical separation of power should ever break down so that all power began to be concentrated in Washington, there would be a severely arrogant abuse of the people by government officials. They also said that if the legislative executive and judicial departments failed to act as a check on each other, there would be tyranny and the people would lose their freedom. For more than one full generation this is what has been happening.
 
-**Americans Experiment with Another System**
+Americans Experiment with Another System
 
-**20. Is the consolidation of government functions the trend today?**
+20. Is the consolidation of government functions the trend today?
 
 Yes. Consolidation of power is gravitating toward Washington at a pace which would have greatly alarmed the Founders.
 
@@ -145,9 +145,9 @@ Unfortunately, it has not. In fact, the militant forms of socialism such as Comm
 
 They did it by setting up a “limited” form of government with carefully enumerated powers. Jefferson called these limitations on government the “chains” of the Constitution.
 
-**American Leaders Began to Abandon the Founders Success Formula**
+American Leaders Began to Abandon the Founders Success Formula
 
-**25. Does this mean Theodore Roosevelt was In error when he said the President could do anything except that which the Constitution forbids?**
+25. Does this mean Theodore Roosevelt was In error when he said the President could do anything except that which the Constitution forbids?
 
 Yes, he was turning the Constitution upside down. The President and all other officials of the government are only allowed to do that which is expressly authorized. The Founders referred to any exercise of power outside of these Constitutional chains as “usurpation.”
 
@@ -171,9 +171,9 @@ Yes. It is extremely dangerous for Americans to enter into foreign engagements w
 
 Yes. The Monroe Doctrine specifically promised that the United States would never undertake to meddle in the domestic affairs of other countries. Any President or Secretary of State who has followed a policy of “interventionism,” has operated outside of his Constitutional authority.
 
-**Presidential Violations of the Constitution**
+Presidential Violations of the Constitution
 
-**31. What about executive orders which are treated as laws after being published in the federal register?**
+31. What about executive orders which are treated as laws after being published in the federal register?
 
 In the eyes of the Founders these would be considered unconstitutional. The President can issue executive orders to the administrative branches of government under his supervision but he has no authority whatever to make “laws” for the people since the Constitution assigns that authority exclusively to the Congress. An act of Congress could stop this whole illegal procedure.
 
@@ -181,9 +181,9 @@ In the eyes of the Founders these would be considered unconstitutional. The Pres
 
 This procedure is also unconstitutional. The Founders provided that all agreements with foreign nations must have the advice and consent of the Senate. Since American Presidents began holding summit conferences with the heads of foreign governments, they have been entering into secret engagements which very often never see the light of day let alone receive the advice and consent of the Senate. Each year there are many more executive agreements signed by the President than there are treaties ratified by the Senate.
 
-**Judicial Violations of the Constitution**
+Judicial Violations of the Constitution
 
-**33. What about new laws laid down by the Supreme Court?**
+33. What about new laws laid down by the Supreme Court?
 
 This is called “judicial legislation.” This occurs when the Supreme Court creates a new law by pretending to interpret an old one. In the Federalist Papers the Founders specifically warned against this type of arrogance by the Supreme Court.
 
@@ -197,17 +197,17 @@ Constitution must be interpreted the way the Founders intended it and not accord
 
 Yes. A Judicial Reform Amendment would allow any Supreme Court decision to be overturned by two-thirds of the House and two-thirds of the Senate. A decision could also be overturned by concurring resolutions from three-fourths of the State Legislatures. Had this procedure been available the States would have’ undoubtedly outlawed forced busing of school children at least twenty years ago.
 
-**Unconstitutional Edicts of Regulatory Agencies**
+Unconstitutional Edicts of Regulatory Agencies
 
-**36. Is it Constitutional for an agency of the Federal Government to write rules and regulations which are enforced in the courts as “laws?”**
+36. Is it Constitutional for an agency of the Federal Government to write rules and regulations which are enforced in the courts as “laws?”
 
 No. This is a recent development in governmental procedures. It is called “administrative law.” The Founders provided no power in any agency of government to make laws except the Congress.
 
-**Blurring the Founders’ Division of Labor Between**
+Blurring the Founders’ Division of Labor Between
 
-**the States and the Federal Government**
+the States and the Federal Government
 
-**37. How did the Founders intend to divide the problem-solving powers between the States and the Federal Government?**
+37. How did the Founders intend to divide the problem-solving powers between the States and the Federal Government?
 
 James Madison spelled it out in the Federalist Papers, No. 45. He wrote: “The powers delegated by the proposed Constitution to the Federal Government are few and defined…. The powers reserved to the several states will extend to all the objects which, in the ordinary course of affairs, concern the lives, liberties, and the properties of the people, and the internal order, improvement and prosperity of the State.”
 
@@ -223,17 +223,17 @@ The Constitution gives the Federal Government twenty powers. These are set forth
 
 The government cannot legally exercise any powers except those which are specifically granted to it by the Constitution. The only way Washington can get any additional legitimate power is by an amendment.
 
-**41. Where does it say that the Federal Government is specifically restricted from exercising any power not granted to it by the States?**
+41. Where does it say that the Federal Government is specifically restricted from exercising any power not granted to it by the States?
 
-**The Tenth Amendment**
+The Tenth Amendment
 
-**42. Then how did the government get so much power?**
+42. Then how did the government get so much power?
 
 The dominating arrogance of the Federal Government today came about primarily through three channels: 1. outright usurpation of power, 2. an edict by the Supreme Court in the Butler Case in 1936 reversing the original meaning in the Welfare Clause, and 3. distorting the Commerce Clause as the means of shattering the restrictive chains of the Constitution and expanding Federal jurisdiction into hundreds of areas never intended by the Founders..
 
-**Subverting Two Important Constitutional Clauses**
+Subverting Two Important Constitutional Clauses
 
-**43. What was the Butler Case?**
+43. What was the Butler Case?
 
 In this decision, Justice Roberts included in his opinion a dictum that the Congress would no longer be restricted in its taxing and spending powers so long as it was in the “general welfare” of the nation. This immediately opened the U.S. Treasury to looting for all kinds of give-away programs which politicians began using to buy votes.
 
@@ -241,9 +241,9 @@ In this decision, Justice Roberts included in his opinion a dictum that the Cong
 
 This clause was simply designed to give the Federal Government sufficient power to insure the “free flow” of commerce so that the States would not interfere with inter-state shipments as they had done in the past. Since 1936 the original intent of the Founders has been expanded to include Federal control over practically everything which affects inter-state commerce either directly or indirectly. This usurpation of authority by Congress (which has been upheld by the Supreme Court), has shattered some of the most important restrictions on Federal intervention in the business and commercial life of the nation.
 
-**Some Practical Questions**
+Some Practical Questions
 
-**45. Doesn’t the more complex nature of modern society require a far more extensive control of the economy by the Federal Government?**
+45. Doesn’t the more complex nature of modern society require a far more extensive control of the economy by the Federal Government?
 
 No. The more complex society becomes the more it needs the automatic problem-solving devices of a free-market economy operating with the least possible interference from government. As Adam Smith pointed out, government interference only adds to the complexity of the system and results in a serious deterioration of individual freedom.
 
@@ -251,9 +251,9 @@ No. The more complex society becomes the more it needs the automatic problem-sol
 
 No nation could have had a much more complex situation than West Germany right after World War II. Every major city in Germany was bomb-gutted and the people were surviving in basements and make-shift hovels. Chancellor Konrad Adenauer of West Germany took over in 1949 and immediately initiated the basic economic principles advocated by the Founding Fathers. By using freedom instead of heavy-handed government regulations, West Germany achieved the highest standard of living in Western Europe within eight years. The West Germans were not only fully employed but importing foreign labor besides. Clothing, food and housing were abundant and cheap. West Germany became so prosperous she was the envy of socialized Sweden. It will be recalled that Sweden wasn’t even in the war and had boasted of the superiority of her socialist controls. However, in Sweden a young married. couple has to wait ten years to get a one-room apartment because of the government monopoly over housing. It was obvious West Germany had chosen a better way.
 
-**Questions About Money and the Budget**
+Questions About Money and the Budget
 
-**47. What happened to the Federal budget after the “Butler” case?**
+47. What happened to the Federal budget after the “Butler” case?
 
 In 1936 (the year of the Butler case) the Federal budget was around six billion dollars. By 1980 the looting of the American taxpayer had pushed the Federal budget to more than six hundred billion dollars!
 
@@ -261,9 +261,9 @@ In 1936 (the year of the Butler case) the Federal budget was around six billion 
 
 Yes. The Constitution allows the government to borrow in emergencies. Unfortunately, during the last 50 years Congress has continually found excuses to borrow whether there was an emergency or not. The only way to stop this is to replace the big spenders in Congress with Constitutionalists who recognize that we are presently on a disaster course.
 
-**The National Debt**
+The National Debt
 
-**49. How much is the national debt today?**
+49. How much is the national debt today?
 
 The U.S. National Debt is nearly a trillion dollars (extremely higher today!) requiring interest payments which cost more each year than the entire cost of World War I. Future liabilities to which the government is already committed will require taxation of an additional six to seven trillion.
 
@@ -275,9 +275,9 @@ The United States now owes more than all of the rest of the nations of the world
 
 The Founders said that no generation should go so deeply in debt that it becomes guilty of squandering the next generation’s inheritance. They said such extravagance is immoral. All past generations tried to pay off all the debts accrued during their time. Ours is the first generation which has deliberately squandered the inheritance of its children.
 
-**What About Welfare?**
+What About Welfare?
 
-**52. But hasn’t much of our money been spent for welfare and other Important social programs?**
+52. But hasn’t much of our money been spent for welfare and other Important social programs?
 
 This was the main excuse for sky-rocketing taxation and deficit spending. Tragically, however, the money has been squandered primarily to build a vast bureaucracy. It is amazing how many of the government’s multibillion dollar social programs have provided only a pittance to trickle down to the poor, the sick and the elderly.
 
@@ -289,15 +289,15 @@ The Founders specifically warned against this type of political deception where 
 
 The existence of a need on a State level does not create a power on the Federal level. When a State fails to fulfill its obligation the pressure should be exerted on the State, not the Federal government. Jefferson said there is no way to preserve freedom if all political power gravitates to Washington.
 
-**The National Debt and Foreign Aid**
+The National Debt and Foreign Aid
 
-**55. In view of America’s tremendous national debt, why do we continue giving foreign aid to over a 125 countries?**
+55. In view of America’s tremendous national debt, why do we continue giving foreign aid to over a 125 countries?
 
 This whole procedure violates the Constitution and common sense. What started out as part of the defense program in the interest of the United States has turned into an international Santa Claus give-away program. similar to the extravagant give-away programs at home. Tens of billions given away each year automatically add to the national debt.
 
-**Social Security**
+Social Security
 
-**56. Is Social Security an insurance plan or a welfare plan?**
+56. Is Social Security an insurance plan or a welfare plan?
 
 The Supreme Court has held that it is a welfare plan. This means that it can be terminated at anytime. It also means the government can distribute its proceeds arbitrarily. The contributor to social security payments acquires no rights and receives only what the government condescends to distribute to him as “payments” if he qualifies under the government’s arbitrary poverty level.
 
@@ -333,9 +333,9 @@ No. Corporate taxes and other sources of Federal revenue would more than adequat
 
 Federal grants are unconstitutional unless directly related to some power specifically delegated to the Federal Government. A strict interpretation of the Constitution would probably wipe out at least 95% of the Federal-aid programs presently plaguing the nation.
 
-**Federal Regulatory Agencies**
+Federal Regulatory Agencies
 
-**65. What about EPA?**
+65. What about EPA?
 
 The Environmental Protection Act involves problems which the Founders delegated exclusively to the States where local supervision could prevent abuses and deal with over-regulation more readily. Today, federal control over air, water, and land environment is strangling the economy and suppressing the development of energy and natural resources.
 
@@ -355,9 +355,9 @@ There is no authority for this agency under the Constitution. If it is in the na
 
 Here again we have an exercise of power unauthorized by the Constitution. Do we really want that much power allocated to the Federal level where the agency is so big and powerful that not even the largest corporations are able to cope with its abuses?
 
-**What About the Government Setting Up Business Operations?**
+What About the Government Setting Up Business Operations?
 
-**70. Is there any authority in the Constitution for the government to set up tax-exempt corporations or business operations to compete with tax-paying citizens?**
+70. Is there any authority in the Constitution for the government to set up tax-exempt corporations or business operations to compete with tax-paying citizens?
 
 The answer is no, unless the corporation or business is directly connected with an area of Federal responsibility enumerated in the Constitution. For example, an independent government corporation to provide mail service would be constitutional. However, a corporation set up to compete in the production of electricity, the manufacturing of clothes, or the operating of a chain of public restaurants, would not.
 
@@ -369,9 +369,9 @@ Around 700 corporations and 11,000 businesses. [much higher now]
 
 Yes. They are not only tax-exempt but most of them are being subsidized out of tax funds because they are not being operated efficiently.
 
-**What Caused the “Sagebrush Rebellion?”**
+What Caused the “Sagebrush Rebellion?”
 
-**73. Shouldn’t all of the states have been admitted to the Union on an equal basis?**
+73. Shouldn’t all of the states have been admitted to the Union on an equal basis?
 
 Yes. This was set forth by Congress in the Northwest Ordinance of 1787.
 
@@ -391,9 +391,9 @@ The government retained around 50% of the land in most Western States, but 79% o
 
 Yes. The press has labelled this effort the “Sagebrush Rebellion,” but it is not a rebellion. These states are simply following the legal and Constitutional procedures necessary to have this land turned back to them.
 
-**What About Locking Up State Territory As Wilderness Areas?**
+What About Locking Up State Territory As Wilderness Areas?
 
-**78. Does the Constitution authorize the President and the Secretary of the Interior to lock up large blocks of land within a state as a “wilderness reserve?”**
+78. Does the Constitution authorize the President and the Secretary of the Interior to lock up large blocks of land within a state as a “wilderness reserve?”
 
 No. This violates the express provisions of the Constitution but was upheld by the Supreme Court on extremely tenuous grounds.
 
@@ -405,15 +405,15 @@ No. This is not included in the list of territories which the Federal Government
 
 No. For the same reasons as those cited above, the Supreme Court should have disallowed them. It has been observed that as a rule State Parks are better maintained and provide better facilities than those operated by the Federal Government.
 
-**What About Federal Control of Energy Resources?**
+What About Federal Control of Energy Resources?
 
-**81. Does the Constitution authorize the government to control, regulate, or inhibit the production of energy resources within a state?**
+81. Does the Constitution authorize the government to control, regulate, or inhibit the production of energy resources within a state?
 
 No.
 
-**Problems with Government Monopolies**
+Problems with Government Monopolies
 
-**82. What about the widely expanded activities of the Interstate Commerce Commission?**
+82. What about the widely expanded activities of the Interstate Commerce Commission?
 
 The Founders never intended the “regulation of commerce” to include cartel monopolies, fixing prices, fixing routes, and regulating industries into bankruptcy. The recent deregulation of airlines dramatically demonstrated the advantage of free-market competition over a system of unconstitutional governmental regulations.
 
@@ -425,15 +425,15 @@ Not in time of peace.
 
 Not in time of peace.
 
-**The National Labor Relations Board**
+The National Labor Relations Board
 
-**85. Does the Constitution authorize the Federal Government to enter into labor-management disputes in the private sector?**
+85. Does the Constitution authorize the Federal Government to enter into labor-management disputes in the private sector?
 
 No. This area of Federal usurpation occurred during the “New Deal” days by completely distorting the original intent of the Commerce Clause.
 
-**The Department of HEW**
+The Department of HEW
 
-**86. Is there any Constitutional foundation for the extravagant and wasteful expenditures of the Department of Health, Education and Welfare?**
+86. Is there any Constitutional foundation for the extravagant and wasteful expenditures of the Department of Health, Education and Welfare?
 
 No. Each of the agencies under HEW has developed since the Butler Case. The dictum in this case authorized the general welfare clause to be interpreted in a manner which extended government intrusion into areas specifically excluded from Federal jurisdiction by the Founders.
 
@@ -445,9 +445,9 @@ Around 201 billion dollars in 1980 which is approximately 1/3 of the Federal bud
 
 No. An act of Congress could dismantle this extremely costly department which has probably been more wasteful and nonproductive in its assigned area of activity than any other branch of the government.
 
-**The Equal Rights Amendment**
+The Equal Rights Amendment
 
-**89. Why are so many millions of American women now opposing the passage of the Equal Rights Amendment?**
+89. Why are so many millions of American women now opposing the passage of the Equal Rights Amendment?
 
 In the beginning nearly everyone assumed that this amendment was designed to provide equal rights for women. This supposed objective was widely approved. It was only after 30 states had ratified this amendment that it was realized that the simple wording of this amendment would actually destroy a broad spectrum of rights which American women already have.
 
@@ -463,21 +463,21 @@ No. All of the rights which the advocates of ERA claim they are getting for wome
 
 Yes. For example, it would transfer a large percentage of cases involving family and other domestic problems from the State courts to the Federal judiciary which is already smothered with legal problems.
 
-**Abortions**
+Abortions
 
-**93. Is Federal funding of abortion a violation of the Constitution?**
+93. Is Federal funding of abortion a violation of the Constitution?
 
 Yes. The specific and limited authority granted to the Federal Government does not include any funding for abortions.
 
-**The Gold and Silver Standard**
+The Gold and Silver Standard
 
-**94. Was the United States taken off the gold and silver standard in violation of the Constitution?**
+94. Was the United States taken off the gold and silver standard in violation of the Constitution?
 
 Yes. The gold standard is written into the Constitution (Article I, Section 10, Clause 1) and was removed by several acts of Congress without an amendment to the Constitution between 1934 and 1964. From the Founding Fathers standpoint this whole procedure was illegal.
 
-**The Federal Department of Education**
+The Federal Department of Education
 
-**95. Is it Constitutional for Federal funds to be used in the financing of local schools?**
+95. Is it Constitutional for Federal funds to be used in the financing of local schools?
 
 No. The Founding Fathers warned against the funding of schools by the Congress. In fact, education in the U.S. has seriously deteriorated since Federal funding began. James Madison equated the Federal funding of schools as extremely dangerous and said it was almost as bad as funding and controlling the churches of the nation.
 
@@ -485,33 +485,33 @@ No. The Founding Fathers warned against the funding of schools by the Congress. 
 
 No. The NEA is a private lobby with an annual budget of nearly $60 million dollars. It succeeded in getting the States to pass a law requiring the educators in State associations to pay dues to the NEA. These laws should be repealed. Teachers find themselves compelled to pay dues to this private organization which often advocates policies that are inimical to the best interests of American education.
 
-**Taxes on Dividends**
+Taxes on Dividends
 
-**97. Should stockholders be required to pay income taxes on their dividends when the corporation has already been subject to a corporate tax?**
+97. Should stockholders be required to pay income taxes on their dividends when the corporation has already been subject to a corporate tax?
 
 No. The stockholders are the owners of the company. They have already paid around 48% tax on the company’s earnings. The residue should be distributed among the stockholders as funds on which the required tax has already been paid.
 
-**Control of Firearms**
+Control of Firearms
 
-**98. Should the Federal Government pass laws providing for the control of guns?**
+98. Should the Federal Government pass laws providing for the control of guns?
 
 No. The Founders left gun control under the exclusive jurisdiction of the State. They felt it was extremely dangerous to allow the Federal Government to “infringe” on the right to bear arms even in the slightest degree.
 
-**The Modem Method of Electing Senators**
+The Modem Method of Electing Senators
 
-**99. Should the Seventeenth Amendment be repealed?**
+99. Should the Seventeenth Amendment be repealed?
 
 The Founders would undoubtedly say yes. They set up a House of Representatives to represent the people and set up a Senate to represent the individual States. Senators were originally appointed by State legislatures and were the watchdogs of States rights. The Seventeenth Amendment took away the authority of the State Legislatures to appoint Senators. and therefore required Senatorial candidates to appeal to the people in a popular election. This resulted in the Senators frequently ignoring States rights in an effort to get more money for their States just as Congressmen do. States’ rights have been seriously deteriorating since the Seventeenth Amendment was adopted in 1913. It destroyed an important element of balance which the founders built into the Constitution.
 
-**The BLM**
+The BLM
 
-**100. Should the Bureau of Land Management be abolished?**
+100. Should the Bureau of Land Management be abolished?
 
 Yes. This bureau has been rapidly phasing out the traditional grazing rights of ranchers and setting up impossible regulations on land which should have been turned over to the States when they were admitted into the Union.
 
-**Government Expenses**
+Government Expenses
 
-**101. Can you find out how the government spends its money?**
+101. Can you find out how the government spends its money?
 
 Yes. A complete breakdown of government spending is published each year by the Government Printing Office. This is required by the Constitution.
 

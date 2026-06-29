@@ -105,21 +105,21 @@ The relationship in the world between church and state and between church leader
 
 1. Rex E. Lee, Things That Change and Things That Dont, BYU Winter Devotional, 14 Jan. 1992.
 
-  2. Professor Christina Hoff Sommers of Clark University, as quoted in *Insight,* 23 Dec. 1991, p. 18.
+  2. Professor Christina Hoff Sommers of Clark University, as quoted in *Insight,* 23 Dec. 1991, p. 18.
 
-  3. Quoted by Allan Carlson in The Green Alternative and the Death Watch for Industrial Society, *Persuasion at Work,* Sept. 1984, p. 1.
+  3. Quoted by Allan Carlson in The Green Alternative and the Death Watch for Industrial Society, *Persuasion at Work,* Sept. 1984, p. 1.
 
-  4. Both of these examples are cited by Russell Kirk in We Cannot Separate Christian Morals and the Rule of Law, *Imprimis,* 4 Apr. 1983.
+  4. Both of these examples are cited by Russell Kirk in We Cannot Separate Christian Morals and the Rule of Law, *Imprimis,* 4 Apr. 1983.
 
-  5. Quoted in Robert Pear, Treating the Nations Epidemic of Teen-Age Pregnancy, *New York Times, *3 June 1984, p. E-5.
+  5. Quoted in Robert Pear, Treating the Nations Epidemic of Teen-Age Pregnancy, *New York Times, *3 June 1984, p. E-5.
 
-  6. Henry Steele Commager, Public Morality, Not Religion, *New York Times,* 16 Sept. 1984, Section 4, p. 23, col. 2.
+  6. Henry Steele Commager, Public Morality, Not Religion, *New York Times,* 16 Sept. 1984, Section 4, p. 23, col. 2.
 
-  7. Frederick Mark Gedicks, The Religious, the Secular, and the Antithetical, *Capital U. L. Rev.* 20 (1991): 191, note 9. 113, 139.
+  7. Frederick Mark Gedicks, The Religious, the Secular, and the Antithetical, *Capital U. L. Rev.* 20 (1991): 191, note 9. 113, 139.
 
-  8. Richard John Neuhaus, A New Order of Religious Freedom, *First Things,* Feb. 1992, p. 13. Also see Richard John Neuhaus, *The Naked Public Square,* 1984.
+  8. Richard John Neuhaus, A New Order of Religious Freedom, *First Things,* Feb. 1992, p. 13. Also see Richard John Neuhaus, *The Naked Public Square,* 1984.
 
-  9. Thomas Jefferson, First Inaugural Address, quoted in Bartletts *Familiar Quotations,* 13th ed., 1955, p. 374.
+  9. Thomas Jefferson, First Inaugural Address, quoted in Bartletts *Familiar Quotations,* 13th ed., 1955, p. 374.
 
 10. Reported in James E. Wood, Jr., Church Lobbying and Public Policy, *Journal of Church and State *28 (1986):183.
 

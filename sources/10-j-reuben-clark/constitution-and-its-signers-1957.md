@@ -19,9 +19,9 @@ tags: ["Constitution"]
 
 The Constitution of the United States is an inspired document penned by remarkable men. Let us study and give thanks for and preserve its principles.
 
-The text for this speech is unavailable. Please see our __FAQ__ page for more information.
+The text for this speech is unavailable. Please see our __FAQ__ page for more information.
 
 The Constitution of the United States is an inspired document penned by remarkable men. Let us study and give thanks for and preserve its principles.
 
-The text for this speech is unavailable. Please see our __FAQ__ page for more information.
+The text for this speech is unavailable. Please see our __FAQ__ page for more information.
 

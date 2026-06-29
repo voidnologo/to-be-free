@@ -67,7 +67,7 @@ We print below a letter dated December 14, 1945, addressed by the First Presiden
 
 source: James R. Clark, compiler, *The Messages of the First Presidency*, volume 6
 
-***************
+*
 
 ### 4 comments so far. Care to chime in?
 

@@ -15,8 +15,8 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom"]
 ---
 
-**A Moral Basis of a Free Society
-**
+A Moral Basis of a Free Society
+
 
 From H. Verlan Andersen's book with the above title
 

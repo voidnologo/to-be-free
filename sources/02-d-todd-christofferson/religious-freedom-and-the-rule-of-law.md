@@ -12,17 +12,17 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom", "Religious Freedom", "Law & Government", "Morality & Virtue", "Civic Duty", "Constitution"]
 ---
 
-**“Religious Freedom: The Foundation Freedom”**
+“Religious Freedom: The Foundation Freedom”
 
-**By Elder D. Todd Christofferson**
+By Elder D. Todd Christofferson
 
 *J. Reuben Clark Law Society, UK & Ireland Chapter,
 Second Annual Conference, Downing College, Cambridge University
 August 11, 2017*
 
-**I.**
+I.
 
-**Introduction**
+Introduction
 
 Thank you for that warm welcome. I truly appreciate the invitation to be with you at this wonderful conference. I thank and congratulate Charlotte Steinfeld and her team in organizing the exceptional program of today’s conference. J. Reuben Clark Jr. was a gifted lawyer and an inspired Apostle of the Lord Jesus Christ. Your work as members and leaders of the UK and Ireland Chapter of the J. Reuben Clark Law Society is a fitting tribute to one of the great leaders of The Church of Jesus Christ of Latter-day Saints.
 
@@ -37,11 +37,11 @@ But religious freedom does not exist in isolation. I also fear that many in our 
 
 And so my remarks today are entitled “Religious Freedom: The Foundational Freedom.” Along the way I will share some thoughts on how religious freedom and the rule of law are mutually supporting and essential to our fundamental human rights.
 
-**II.**
+II.
 
-**Dividing the Powers of Church and State**
+Dividing the Powers of Church and State
 
-**Establishes the Basis for Limited Government and Freedom**
+Establishes the Basis for Limited Government and Freedom
 
 I want to introduce my discussion of religious freedom by recounting a notorious event from English history that many of you will be familiar with.
 
@@ -57,17 +57,17 @@ The American Constitution follows the pattern of separating church and state by 
 
 Separating church and state protects religious freedom by walling off questions of personal faith, religious doctrine, and ecclesiastical governance from government control. Thanks to that separation, we take for granted the freedom to adopt a religious faith or to change it, as dictated by individual conscience. With few constraints, we worship how, where, and what we choose. Where the powers of church and state are divided, the government has no power to compel its people to affirm a particular religious orthodoxy as the price of full citizenship. The government also generally lacks power to interfere in the internal ecclesiastical affairs of religious organizations. And, most significantly, the government lacks any rightful authority to persecute its people for their religious beliefs or practices.
 
-**III.**
+III.
 
-**Religious Freedom and the Rule of Law**
+Religious Freedom and the Rule of Law
 
 I believe this fundamental limitation on the power of government to control the realm of the spirit undergirds the rule of law. For if the power of the king is limited, then surely the power of the king’s magistrates must be too. It follows that there must be rules to guide and constrain the exercise of governmental power. I do not claim that the separation of church and state is the only source of the rule of law in modern Western civilization; no doubt there are many others, as the various scholars at this conference can attest. But the deeply embedded separation of church and state undoubtedly played an important role in establishing and fortifying the rule of law, which in turn has further protected and secured religious freedom from arbitrary governmental authority and persecution.
 
 So what is the rule of law? The late Lord Bingham defined it as the principle “that all persons and authorities within the state, whether public or private, should be bound by and entitled to the benefit of laws publicly and prospectively promulgated and publicly administered in the courts.”[12] Among the corollaries that he identified, Lord Bingham discerned that “questions of legal right and liability should ordinarily be resolved by application of the law and not the exercise of discretion.”[13] The reason for avoiding discretion, he explained, is that “arbitrariness … is the antithesis of the rule of law.”[14] Another key corollary is that “the laws of the land should apply equally to all, save to the extent that objective differences justify differentiation.”[15] As U.S. Supreme Court Justice Robert Jackson wrote, “There is no more effective practical guaranty against arbitrary and unreasonable government than to require that the principles of law which officials would impose upon a minority must be imposed generally.”[16] Lord Bingham rightly called this “a pillar of the rule of law itself.”[17] And perhaps most importantly, the rule of law requires that “ministers and public officers at all levels must exercise the powers conferred on them reasonably, in good faith, for the purpose for which the powers were conferred and without exceeding the limits of such powers.”[18]
 
-**IV.**
+IV.
 
-**Religious Freedom and Other Essential Freedoms**
+Religious Freedom and Other Essential Freedoms
 
 Supported and sustained by the rule of law, religious freedom is foundational to numerous other cherished rights. The support religious freedom gives other fundamental rights was noted by Lord Acton, who insightfully wrote that “religious liberty is the generating principle of civil [liberty], and that civil liberty is the necessary condition of religious [liberty].” [19] More recently, British philosopher Michael Oakeshott explained that the freedom we experience and value “lies in a coherence of mutually supporting liberties, each of which amplifies the whole and none of which stands alone.”[20] Foremost among these is religious liberty.
 
@@ -109,9 +109,9 @@ Protecting religious freedom is fundamental to protecting other personal rights 
 
 **Religious freedom and the morality of freedom.** A legal regime that respects religious freedom also affirms the moral basis for all human rights and thereby makes all rights more secure. The very idea of human rights rests on a religious conception of human nature. American President Calvin Coolidge explained that freedom of religion and other fundamental rights arise from “the recognition of the dignity and worth of the individual, because of his possession of those qualities which are revealed to us by religion. It is this conception alone which warrants the assertion of the universal right to freedom.” [35] The Bible teaches that each person has an innate dignity because God created human beings in His image—“male and female created he them.”[36] Modern revelation supplements that truth by declaring that “the worth of souls is great in the sight of God.”[37] Coolidge was right, then, in saying that “equality, liberty, popular sovereignty, [and] the rights of man … have their source and their roots in the religious convictions.”[38] Our essential rights are inalienable because they are the gifts of God. No state could grant them. Accepting that fundamental truth lays the foundation for all other freedoms. And the first recognition of that truth—historically and morally—has come from acknowledging that the state must respect religious conscience.
 
-**V.**
+V.
 
-**Religious Freedom and Civic Virtue**
+Religious Freedom and Civic Virtue
 
 My final point is that religious freedom is critical because it allows religion to inculcate the virtues and habits necessary for a free society.
 
@@ -133,9 +133,9 @@ Rabbi Lord Jonathan Sacks echoed that insight when he wrote that “we are in gr
 
 What can we do to cultivate a society where religion is respected and the rule of law remains a reality? I believe that it is the “small and simple things”[46] that matter most. We must live by the truths that we profess. We must be better husbands and wives, fathers and mothers. We must be kinder neighbors and coworkers. We must be better informed about the world around us and take a more active role in our communities as citizens. We must teach principles of gospel living to our children. And we must defend what is right—including freedom of religion and the rule of law.
 
-**VI.**
+VI.
 
-**Conclusion**
+Conclusion
 
 In closing, I want to reiterate that religious freedom undergirds other freedoms. Religious freedom, along with other “just and holy principles,” such as the rule of law, were established by God “for the rights and protection of all flesh.”[47] These principles exist for our good as a glorious reflection of the reality that, as the Book of Mormon states, God “loveth his children.”[48]
 

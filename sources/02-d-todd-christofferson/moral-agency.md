@@ -29,7 +29,7 @@ It was you President Hinckley thought of when he looked for signs that we might 
 
 In years past, we generally used the term *free agency.* That is not incorrect, but more recently we have taken note that *free  agency* does not appear as an expression in the scriptures. They  talk of our being “free to choose” and “free to act” for ourselves2 and of our obligation to do many things of our own “free will.”3 But the word *agency* appears either by itself or, in Doctrine and  Covenants, section 101, verse 78, with the modifier *moral:* “That  every man may act in doctrine and principle . . . according to the *moral  agency* which I have given unto him, that every man may be  accountable for his own sins in the day of judgment” (emphasis added).  When we use the term *moral agency,* then, we are appropriately  emphasizing the accountability that is an essential part of the divine  gift of agency. We are moral beings and agents unto ourselves, free to  choose but also responsible for our choices.
 
-**The Elements of Moral Agency **
+**The Elements of Moral Agency**
 
 What, then, are the elements of moral agency? To me there are three.
 
@@ -49,7 +49,7 @@ King Benjamin reminded us that in addition to giving us the  freedom to choose, 
 
 Let us pause and note that freedom of choice is the freedom to  obey or disobey existing laws—not the freedom to alter their  consequences. Law, as mentioned earlier, exists as a foundational  element of moral agency with fixed outcomes that do not vary according  to our opinions or preferences. Elder Dallin H. Oaks observed in a  devotional talk here that “we are responsible to use our agency in a  world of choices. It will not do to pretend that our agency has been  taken away when we are not free to exercise it without unwelcome  consequences.”16
 
-**Satan’s Attack on Agency **
+**Satan’s Attack on Agency**
 
 We recognize the gift of agency as a central aspect  of the plan of salvation proposed by the Father in the great premortal  council, and that “there was war in heaven”17 to defend and  preserve it. The Lord revealed this to Moses:
 
@@ -65,7 +65,7 @@ Of course Satan’s ongoing opposition is a useful and even necessary part of mo
 
 Remember, though, that we retain the right and power of  independent action.21 God does not intend that we yield to  temptation. Like Jesus, we can gain all we need in the way of a mortal  experience without yielding.
 
-**The Central Role of Jesus Christ **
+**The Central Role of Jesus Christ**
 
 We have reviewed the elements of moral agency and its divine origins, but we must always remember that agency would have no meaning without the vital contribution of Jesus Christ. His central role began with His support of the Father’s plan and His willingness to become the essential Savior under that plan. The plan required a setting for its implementation, and Jesus was instrumental in the creation of this planet for that purpose. Most important, while the Fall of Adam was a critical element of the plan, the Fall would also have frustrated the plan if certain of its consequences were not mitigated by the Atonement and Resurrection of Jesus Christ.
 
@@ -99,7 +99,7 @@ Professor C. Terry Warner stated:
 
 *Human agency was purchased with the price of Christ’s  suffering. This means that to those who blame God for allowing human  suffering, Latter-day Saints can respond that suffering is less  important than the gift of agency, upon which everything else depends,  and that none of us has paid a greater price for this gift than Christ.*28
 
-**The Savior’s Exemplary Use of Moral Agency **
+**The Savior’s Exemplary Use of Moral Agency**
 
 The Savior’s use of moral agency during His lifetime  is an instructive example for us. At one point in His teaching He  revealed the principle that guided His choices: “He that sent me is with  me: the Father hath not left me alone; for I do always those things  that please him.”29 I believe that much of the Lord’s power  is attributable to the fact that He never wavered in that determination.  He had a clear, consistent direction. Whatever the Father desired,  Jesus chose to do.
 
@@ -141,7 +141,7 @@ These are magnificent promises: to be filled with light and truth, to comprehend
 
 So we might presume to follow in His footsteps and receive grace for grace and truth for truth until we also receive a fulness.
 
-**Testing as Part of the Essential Experience **
+**Testing as Part of the Essential Experience**
 
 A consistent effort will educate and refine our  desires so that in time, just as with Jesus, our desires will become  aligned with the Father’s. But we should expect to be tested. The gift  of agency is intended to give us experience. We “taste the bitter, that  [we] may know to prize the good.”42 And Jesus, “though he  were a Son, yet learned he obedience by the things which he suffered.”43
 
@@ -187,7 +187,7 @@ Remember that with His gift to you of moral agency, your Heavenly Father has gra
 
 With President Hinckley, I express my confidence in you. I thank  God for you. I thank God for the gift of moral agency. I thank Him for  the gift of His Son, whose life and sacrifice animate that moral agency.  I testify that Jesus Christ has redeemed us from the Fall, that He  lives, and that through Him we “are free to choose liberty and eternal  life.”53 In the name of Jesus Christ, amen.
 
-**Notes **
+**Notes**
 
 1. Gordon B. Hinckley, “Standing Strong and  Immovable,” *Worldwide Leadership Training Meeting: The Priesthood and  the Auxiliaries of the Relief Society, Young Women, and Primary,* 10  January 2004 (Salt Lake City: The Church of Jesus Christ of Latter-day  Saints, 2004), 20.
 

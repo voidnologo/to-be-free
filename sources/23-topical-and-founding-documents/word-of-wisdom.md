@@ -14,123 +14,123 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Morality & Virtue", "Secret Combinations", "Prophecy & Last Days", "War & Peace", "Book of Mormon"]
 ---
 
-** **1 A Word of
+ 1 A Word of
 Wisdom, for the benefit of the council of high priests, assembled in Kirtland,
 and the church, and also the saints in 
 
- 2 To be sent greeting; **not by commandment** [1]
-or constraint, but** by revelation **[2]
-and the word of wisdom, showing forth the order and will of God in the **temporal salvation** [3]
+ 2 To be sent greeting; not by commandment [1]
+or constraint, but by revelation [2]
+and the word of wisdom, showing forth the order and will of God in the temporal salvation [3]
 of all saints in the last days--
 
- 3 Given for **a principle with promise **[4],
-adapted to the **capacity of the weak** [5]
+ 3 Given for a principle with promise [4],
+adapted to the capacity of the weak [5]
 [6]
 and the
 
-**weakest**
+weakest
 [7]
 of all saints, who are or can be called saints.
 
- 4 Behold, verily, thus saith
-the Lord unto you: In consequence **of
-evils** [8]
-and** designs **[9]
-which do and will exist in the hearts of **conspiring
-men **[10]
-in the **last days**, [11]
-I have **warned  you**, [12]
-and **forewarn you** [13]
+ 4 Behold, verily, thus saith
+the Lord unto you: In consequence of
+evils [8]
+and designs [9]
+which do and will exist in the hearts of conspiring
+men [10]
+in the last days, [11]
+I have warned  you, [12]
+and forewarn you [13]
 [14],
 by giving unto you this word of wisdom by revelation--
 
 5 That inasmuch as any man drinketh wine or strong drink among you, behold it is not
 good, neither meet in the sight of your Father, only in assembling yourselves
-together to offer up your** sacraments**
+together to offer up your sacraments
 [15]
 [16]
 before him.
 
 6 And, behold, this should
-be wine, yea, **pure wine** [17]
+be wine, yea, pure wine [17]
 of the grape of the vine, of your own make. 
 
- 7 And, again, **strong drinks** [18]are
+ 7 And, again, strong drinks [18]are
 not for the belly, but for the washing of your bodies. 
 
- 8 And again,** tobacco** [19]is
-not for the body, neither for the belly, and is not good for man, but is **an herb for bruises **[20]and
+ 8 And again, tobacco [19]is
+not for the body, neither for the belly, and is not good for man, but is an herb for bruises [20]and
 all sick cattle, to be used with judgment and skill.
 
- 
+ 
 
-  9 And again, **hot drinks** [21]
+  9 And again, hot drinks [21]
 [22]
 are not for the body or belly.
 
- 10 And again, verily I say unto you, all **wholesome herbs **[23]
+ 10 And again, verily I say unto you, all wholesome herbs [23]
 [24]
 God hath ordained for the constitution, nature, and use of man--
 
- 11 Every herb **in the season thereof**,[25]
-and every fruit in the season thereof; all these to be used **with prudence **[26]
+ 11 Every herb in the season thereof,[25]
+and every fruit in the season thereof; all these to be used with prudence [26]
 [27]
-and **thanksgiving** [28].
+and thanksgiving [28].
 
-12 Yea, **flesh** [29]
+12 Yea, flesh [29]
 [30]
 [31]
-also of beasts and of the fowls of the air,  I, the Lord, have ordained for **the use of man **[32]
-with thanksgiving; nevertheless they are to be** used sparingly** [33]
+also of beasts and of the fowls of the air,  I, the Lord, have ordained for the use of man [32]
+with thanksgiving; nevertheless they are to be used sparingly [33]
 [34]
 
- 13 And it is pleasing unto me that they should
-not be used, only in **times of winter, or
-of cold, or famine**.[35]
+ 13 And it is pleasing unto me that they should
+not be used, only in times of winter, or
+of cold, or famine.[35]
 
- 
+ 
 
 14 All grain is ordained
-for the use of man and of beasts, to be **the
-staff of life**,[36]
+for the use of man and of beasts, to be the
+staff of life,[36]
 not only for man but for the beasts of the field, and the fowls of heaven, and
 all wild animals that run or creep on the earth;
 
- 15 And **these
-**[37]
+ 15 And these
+[37]
 hath God made for the use of man only in times of famine and excess of hunger.
 
- 16 All grain is good for the food of man; as
-also the fruit of the vine;  that which yieldeth
-fruit, whether **in the ground** [38]
-or **above the ground **[39]--
+ 16 All grain is good for the food of man; as
+also the fruit of the vine;  that which yieldeth
+fruit, whether in the ground [38]
+or above the ground [39]--
 
- 17 Nevertheless, **wheat for man**, [40]
+ 17 Nevertheless, wheat for man, [40]
 and corn for the ox, [41]and
 oats for the horse, and rye for the fowls and for swine, and for all beasts of
-the field, and barley for all useful animals, and for **mild drinks**, [42]
+the field, and barley for all useful animals, and for mild drinks, [42]
 as also other grain.
 
- 
+ 
 
- 18 And all saints who remember to keep and do
-these sayings, **walking in obedience** [43]
+ 18 And all saints who remember to keep and do
+these sayings, walking in obedience [43]
 to the commandments, shall receive health in their navel and marrow to their
 bones;
 
- 19 And shall find wisdom and great treasures
+ 19 And shall find wisdom and great treasures
 of knowledge, even hidden treasures;
 
- 20 And shall run and not be weary, and shall
+ 20 And shall run and not be weary, and shall
 walk and not faint.
 
- 21 And I, the Lord, give unto them a promise,
-that** the destroying angel **[44]
-shall pass by them, as the** children of **, [45]
+ 21 And I, the Lord, give unto them a promise,
+that the destroying angel [44]
+shall pass by them, as the children of, [45]
 and not slay them. Amen.
 
-** [1]**
-President Joseph F. Smith, Oct. 4, 1908  
+[1]
+President Joseph F. Smith, Oct. 4, 1908  
 "Here we are informed that it was not given, at that time, by way
 of commandment or restraint but by revelation, 'a word of wisdom showing forth
 the order and will of God in the temporal salvation of all saints in the last
@@ -150,8 +150,8 @@ the people for their temporal salvation."
 
 [5] D&C 1:19-20 The weak things of the world shall come forth and break down the mighty and strong ones, that man should not counsel his fellow man, neither trust in the arm of flesh-- But that every man might speak in the name of God the Lord, even the Savior of the world;
 
-** [6]**
-Ether 12:27   And
+[6]
+Ether 12:27   And
 if men come unto me I will show unto them their weakness. I give unto men
 weakness that they may be humble; and my grace is sufficient for all men that
 humble themselves before me; for if they humble themselves before me, and have
@@ -169,8 +169,8 @@ Wherefore, O ye Gentiles, it is wisdom in God that these things should be shown 
 
 Wherefore, the Lord commandeth you, when ye shall see these things come among you that ye shall awake to a sense of your awful situation, because of this secret combination which shall be among you; or wo be unto it, because of the blood of them who have been slain; for they cry from the dust for vengeance upon it, and also upon those who built it up. For it cometh to pass that whoso buildeth it up seeketh to overthrow the freedom of all lands, nations, and countries; and it bringeth to pass the destruction of all people, for it is built up by the devil, who is the father of all lies; even that same liar who beguiled our first parents, yea, even that same liar who hath caused man to commit murder from the beginning; who hath hardened the hearts of men that they have murdered the prophets, and stoned them, and cast them out from the beginning.
 
-** [11]**
-D&C 1:35  For
+[11]
+D&C 1:35  For
 I am no respecter of persons, and will that all men shall know that the day
 speedily cometh; the hour is not yet, but is nigh at hand, when peace shall be
 taken from the earth, and the devil shall have power over his own dominion.
@@ -208,13 +208,13 @@ resurrection and then will face the Master in a final judgment. (See 2
 Ne. 9:15, 41.) God will give rewards to each according to the deeds done in the
 flesh. (See 
 
-** [15]**
-D&C 27:2-4   For, behold, I say unto
+[15]
+D&C 27:2-4   For, behold, I say unto
 you, that it mattereth not what ye shall eat or what
 ye shall drink when ye partake of the sacrament, if it so be that ye do it with
 an eye single to my glory--remembering unto the Father my body which was laid
-down for you, and my blood which was shed for the remission of your sins.  Wherefore, a commandment I give unto you,
-that you shall not purchase wine neither strong drink of your enemies;  Wherefore, you
+down for you, and my blood which was shed for the remission of your sins.  Wherefore, a commandment I give unto you,
+that you shall not purchase wine neither strong drink of your enemies;  Wherefore, you
 shall partake of none except it is made new among you; yea, in this my Father's
 kingdom which shall be built up on the earth.
 
@@ -227,7 +227,7 @@ kingdom which shall be built up on the earth.
 [19] Church News, 05/25/96 When the Prophet Joseph Smith received the revelation known as the Word of Wisdom (D&C 89) in 1833, he was told, among other things: “And again, tobacco is not . . . good for man.” What the Prophet was told 163 years ago may not have been common knowledge back then, but that certainly is not the case now. There is considerable medical evidence today that tobacco is harmful and we should leave it alone. … When the Lord told the Prophet Joseph Smith that tobacco is not good for man, He didn’t offer any explanation, any reason why. Just a simple, direct statement. But why should the Lord have to explain His commands? Is it not reason enough that it came from an all-wise and all-knowing Creator for our benefit?
 
 [20]
-Alvin K. Benson, Joseph Smith: The Prophet, The Man  The Word of Wisdom does endorse the
+Alvin K. Benson, Joseph Smith: The Prophet, The Man  The Word of Wisdom does endorse the
 use of alcohol and tobacco for some external medical purposes. The external use
 of alcohol is common for disinfecting the skin before operations and needle
 punctures. Also, tobacco "is an herb for bruises and all sick cattle, to
@@ -237,8 +237,8 @@ treated with tobacco juice heal 20 percent faster than untreated bruises. He
 was prompted to investigate the healing effects of tobacco after BYU athletic
 trainer, Marvin Roberson, returned from the 1971 Balkan games in 
 
-** [21]**
-Doctrine and Covenants Commentary, 573 
+[21]
+Doctrine and Covenants Commentary, 573 
 Hot drinks are not for the body] "Hot drinks" means tea and
 coffee, as those two beverages were the only ones in common use among the
 members of the Church, and drunk at a high temperature, at the time when the
@@ -250,7 +250,7 @@ chief objection to tea and coffee is the drug they contain. It follows
 logically that any other beverage which contains a hurtful drug or element, is open
 to the same objection, regardless of the temperature at which it is taken.
 
-** [22]**
+[22]
 Hyrum Smith, Times and Seasons, Vol. III., p. 799 "'Hot drinks are not for
 the body, or belly.' There are many who wonder what this can mean; whether it
 refers to tea or coffee, or not. I say it does refer to tea and coffee. Why is
@@ -267,8 +267,8 @@ conspiring men'".
 
 [23] John A. Widtsoe, The Word of Wisdom: A Modern Interpretation, p.128 Definition of "Herbs". The word "herb" was frequently used a century ago to include plants and vegetables, direct products of the soil. The dictionary defines it to be: "a plant that dies completely, or down to the ground after flowering". Also, "an herbaceous plant used medicinally". As used in the Word of Wisdom it was undoubtedly meant to include all plants the use of which is good for man. The modifying words "all wholesome" indicate that all edible vegetables and fruits of earth are included in the term; they also indicate that some "herbs" are not fitted to be used as food.
 
-** [24]**
-Alma 46:40  And there were some who died
+[24]
+Alma 46:40  And there were some who died
 with fevers, which at some seasons of the year were very frequent in the
 land--but not so much so with fevers, because of the excellent qualities of the
 many plants and roots which God had prepared to remove the cause of diseases,
@@ -276,7 +276,7 @@ to which men were subject by the nature of the climate--
 
 [25] D&C 59:16-20 Verily I say, that inasmuch as ye do this, the fulness of the earth is yours, the beasts of the field and the fowls of the air, and that which climbeth upon the trees and walketh upon the earth; Yea, and the herb, and the good things which come of the earth, whether for food or for raiment, or for houses, or for barns, or for orchards, or for gardens, or for vineyards; Yea, all things which come of the earth, in the season thereof, are made for the benefit and the use of man, both to please the eye and to gladden the heart; Yea, for food and for raiment, for taste and for smell, to strengthen the body and to enliven the soul. And it pleaseth God that he hath given all these things unto man; for unto this end were they made to be used, with judgment, not to excess, neither by extortion.
 
-** [26]**  Prudence, dictionary definition 
+[26]  Prudence, dictionary definition 
 
 1 : the ability to govern and discipline oneself by the use of reason
 
@@ -301,7 +301,7 @@ to which men were subject by the nature of the climate--
 [34] Elder Ezra Taft Benson, CR1983 also quoting Joseph Smith In this revelation the Lord counsels us to use meat sparingly [see D&C 89]. I have often felt that the Lord is further counseling us in this revelation against indiscriminately killing animals, for He has said elsewhere in scripture, "Wo be unto man that sheddeth blood or that wasteth flesh and hath no need." [D&C 49:21]
 
 [35]
-Harold B. Lee, Teachings of Harld B. Lee, p32   I remember a
+Harold B. Lee, Teachings of Harld B. Lee, p32   I remember a
 sister who came into my office from one of the foreign countries and she was
 working in our storehouse up in 
 
@@ -315,7 +315,7 @@ I said, "Not in my D&C, it doesn't say that. Will you open the Doctrine and Cove
 
 Well, she tried to justify what she had said, I suggested that she read Section 49 of the D&C, and told her I was not sure what a famine was as mentioned in Section 89 of the D&C. We should eat meat sparingly, yes, the Lord counsels. But when you reach a hard and fast conclusion contrary to what the Lord said, be careful, be careful."
 
-[36]  CHURCH NEWS 05/04/96   While every age
+[36]  CHURCH NEWS 05/04/96   While every age
 group has its own specific concerns regarding health and fitness, some general
 guidelines apply to everyone. The following questions and answers are based on
 a conversation with Dr. Garth Fisher, director of the 
@@ -340,7 +340,7 @@ The National Cancer Institute recommends adults consume at least five servings a
 
 [40] John A. Widtsoe, The Word of Wisdom: A Modern Interpretation, p.184 Wheat, Man's Staff of Life. It has already been shown that wheat is valuable as a food because it furnishes some protein (body building) and much starch or carbohydrate (fuel producing); also because it is a source of several necessary mineral elements, including calcium, iron and phosphorus; and especially because it contains vitamins B and E, indispensable to human health and happiness. While wheat may not be a complete food for man, it approaches that definition so nearly as to be in reality a "staff of life." The Word of Wisdom, after declaring that "all grain is good for man," adds "nevertheless, wheat for man." This implies clearly that wheat is to be preferred over other grains in the dietary of man; that it more nearly supplies the needs of the human body than other grains. This statement in the Word of Wisdom is supported by history. Wheat is the most ancient and most widely distributed of the grains. It has been used from times immemorial in all parts of the earth. Varieties of wheat are adapted for practically every condition of soil and climate. Wheat has always been held in the highest regard.
 
-[41]   Ibid, p.203  Corn for the Ox". One of the most
+[41]   Ibid, p.203  Corn for the Ox". One of the most
 enlightening experiments in this field was conducted at the State Agricultural
 Experiment Station of the 
 
@@ -349,7 +349,7 @@ Experiment Station of the
 "Harvest drinks", those made from natural grains and wheat or rice bran, are very healthful because of their vitamins and may be made appetizing. They are usually made by pouring boiling water over the grains or bran, boiling a few minutes, and allowing the mixture to stand until cool. It may then be served with milk and brown sugar, or with the addition of lemon or other fruit juices, or spices or even hops and other herbs may be added to give flavor and to tone up the system. Such health drinks made from the extracts of barley, oatmeal, bran of wheat or rice, or even from the germinated barley or malt, are very healthful.
 
 [43]
-Spencer W. Kimball, Miracle of Forgiveness, p.210  In the march to perfection through the
+Spencer W. Kimball, Miracle of Forgiveness, p.210  In the march to perfection through the
 conquering of sin, it is important to have the right perspective. For example,
 some people get means and ends reversed. Many feel that the Word of Wisdom is
 for the principal purpose of increasing our health, increasing our mortal life,
@@ -358,7 +358,7 @@ purpose. … Here the commitments of the Lord were two-fold. First, he promised
 to such who obey that they shall "... receive health in their navel and
 marrow to their bones...," that as a consequence of good health physically
 they "shall run and not be weary, and shall walk and not faint." This
-is a glorious promise.   But the
+is a glorious promise.   But the
 spiritual promises greatly exceed the physical. For those who observe these
 particular instructions and are obedient to all the Lord's commandments, the
 blessings really are increased and magnified. Such saints, he promises, shall
@@ -368,8 +368,8 @@ children of
 
 [44] President J. Reuben Clark, Jr., Oct 1940 THE PROMISE - This does not say and this does not mean, that to keep the Word of Wisdom is to insure us against death, for death is, in the eternal plan, co-equal with birth. This is the eternal decree. But it does mean that the destroying angel, he who comes to punish the unrighteous for their sins, as he in olden time afflicted the corrupt Egyptians in their wickedness, shall pass by the Saints, who are "walking in obedience to the commandments," and who "remember to keep and do these sayings." These promises do mean that all those who qualify themselves to enjoy them will be permitted so to live out their lives that they may gain the full experiences and get the full knowledge which they need in order to progress to the highest exaltation in eternity, all these will live until their work is finished and God calls them back to their eternal home as a reward.
 
-[45]  General epistle of the First Presidency to
-the Saints in every land, October 3, 1942   
+[45]  General epistle of the First Presidency to
+the Saints in every land, October 3, 1942   
 When, as the Lord Himself has declared, plague, pestilence, famine, and
 death shall be poured out upon the nations for their wickedness, and when these
 shall break over our heads and our loved ones are smitten nigh to death, when

@@ -21,9 +21,9 @@ It is challenging to speak to such a diverse audience—some thoroughly familiar
 
 I.
 
-	We Mormons know that our doctrines and values are not widely understood by those not of our faith.  This was demonstrated by Gary Lawrence’s nationwide study published in his recent book, *How Americans View Mormonism*.  Three-quarters of those surveyed associated our Church with high moral standards, but about half thought we were secretive and mysterious and had “weird beliefs.”
+	We Mormons know that our doctrines and values are not widely understood by those not of our faith.  This was demonstrated by Gary Lawrence’s nationwide study published in his recent book, *How Americans View Mormonism*.  Three-quarters of those surveyed associated our Church with high moral standards, but about half thought we were secretive and mysterious and had “weird beliefs.”
 	[1]
-        When asked to select various words they thought described Mormons in general, 87% checked “strong family values,” 78% checked “honest,” and 45% checked “blind followers.”[2]
+        When asked to select various words they thought described Mormons in general, 87% checked “strong family values,” 78% checked “honest,” and 45% checked “blind followers.”[2]
 
 When Lawrence’s interviewers asked, “To the best of your understanding, what is the main claim of Mormonism?” only 14% could describe anything close to the idea of restoration or reestablishment of the original Christian faith. Similarly, when another national survey asked respondents what one word best described their impression of the Mormon religion, not one person suggested the words or ideas of original or restoration Christianity.[3]
 
@@ -115,11 +115,11 @@ On another occasion he explained that we encourage our members to increase their
 
 We seek after knowledge, but we do so in a special way because we believe there are two dimensions of knowledge, material and spiritual. We seek knowledge in the material dimension by scientific inquiry and in the spiritual dimension by revelation. In the interest of time I will say no more of the material dimension except to affirm the obvious truth that thousands of Latter-day Saints perform brilliantly in the material world without denying—and, indeed, by using—the parallel truths and methods of the spiritual world.
 
-	I will speak about the spiritual dimension and the way we experience its truth.  This concerns *revelation,* God’s communication to man—to prophets and to every one of us, if we seek.
+	I will speak about the spiritual dimension and the way we experience its truth.  This concerns *revelation,* God’s communication to man—to prophets and to every one of us, if we seek.
 
-	Revelation is clearly one of the distinctive characteristics of our faith.  Beginning with Joseph Smith’s First Vision, described earlier, this founding prophet of the restored Church was directed and edified by a continuing flow of revelation throughout his life.  The immense quantity of his published revelations, including the Book of Mormon and the Doctrine and Covenants, carried forward his unique calling as the prophet of this last dispensation of time.  In this *prophetic revelation—*to Joseph Smith and to his successors as presidents of the Church—God has revealed truths or commandments to His prophet-leaders for the enlightenment of His people and for the governance and direction of His Church.  This is the kind of revelation described in the Old Testament teaching that “the Lord God will do nothing, but he revealeth his secret unto his servants the prophets” (Amos 3:7).  Joseph Smith declared that “The Church of Jesus Christ of Latter-day Saints was founded upon direct revelation, as the true Church of God has ever been.”[11]“Take away the Book of Mormon and the revelations, and where is our religion?” he asked.  “We have none,” he answered.[12]
+	Revelation is clearly one of the distinctive characteristics of our faith.  Beginning with Joseph Smith’s First Vision, described earlier, this founding prophet of the restored Church was directed and edified by a continuing flow of revelation throughout his life.  The immense quantity of his published revelations, including the Book of Mormon and the Doctrine and Covenants, carried forward his unique calling as the prophet of this last dispensation of time.  In this *prophetic revelation—*to Joseph Smith and to his successors as presidents of the Church—God has revealed truths or commandments to His prophet-leaders for the enlightenment of His people and for the governance and direction of His Church.  This is the kind of revelation described in the Old Testament teaching that “the Lord God will do nothing, but he revealeth his secret unto his servants the prophets” (Amos 3:7).  Joseph Smith declared that “The Church of Jesus Christ of Latter-day Saints was founded upon direct revelation, as the true Church of God has ever been.”[11]“Take away the Book of Mormon and the revelations, and where is our religion?” he asked.  “We have none,” he answered.[12]
 
-	Joseph Smith also taught—and this is the subject most important to this part of my remarks—that because revelation did not cease with the early apostles but continued in these modern times, each person can receive __personal revelation__ for his or her conversion, understanding, and decision-making.  “It is the privilege of the children of God to come to God and get revelation,” he said.  “God is not a respecter of persons; we all have the same privilege.”[13]The New Testament describes such personal revelation.  For example, when Peter affirmed his conviction that Jesus was the divine Son of God, the Savior declared:  “Flesh and blood hath not revealed it unto thee, but my Father which is in heaven” (Matthew 16:17).
+	Joseph Smith also taught—and this is the subject most important to this part of my remarks—that because revelation did not cease with the early apostles but continued in these modern times, each person can receive __personal revelation__ for his or her conversion, understanding, and decision-making.  “It is the privilege of the children of God to come to God and get revelation,” he said.  “God is not a respecter of persons; we all have the same privilege.”[13]The New Testament describes such personal revelation.  For example, when Peter affirmed his conviction that Jesus was the divine Son of God, the Savior declared:  “Flesh and blood hath not revealed it unto thee, but my Father which is in heaven” (Matthew 16:17).
 
 Personal revelation—sometimes called “inspiration”—comes in many forms. Most often it is by words or thoughts communicated to the mind, by sudden enlightenment, or by positive or negative feelings about proposed courses of action. Usually it comes in response to earnest and prayerful seeking. “Ask, and it shall be given you;” Jesus taught, “seek, and ye shall find; knock, and it shall be opened unto you” (Matt. 7:7). It comes when we keep the commandments of God and thus qualify for the companionship and communication of the Holy Spirit.
 
@@ -143,7 +143,7 @@ As an apostle, I am called to be a witness of the doctrine and work and authorit
 
 		
 
-		 
+		 
 
 			
 	    [1]
@@ -168,7 +168,7 @@ As an apostle, I am called to be a witness of the doctrine and work and authorit
 			[10] *Ibid.*
 	
 
-			[11] *Teachings of the Presidents of the Church:  Joseph Smith,* p. 195 (2007).
+			[11] *Teachings of the Presidents of the Church:  Joseph Smith,* p. 195 (2007).
 
 			[12] *Id.,* at 196.
 

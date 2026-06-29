@@ -96,7 +96,7 @@ Now let us take a look at the proponents of total power which occupy the spectru
 The first is the International dictatorship. This is the group who believe that Karl Marx was right when he proclaimed that it would be impossible to have universal peace and universal prosperity until the entire earth — with all its human resources and all its natural resources — is forcibly controlled by a single, monolithic, world-wide dictatorship. To achieve this these Marxists advocate the overthrow of all existing societies by revolutionary violence and the establishment of the same type of police state as that which presently exists in the Soviet Union. So this is the program of International Communism. This scheme is the ultimate in political planning to conquer the whole earth. It therefore occupies the most extreme position to the far left:
 
 
-** The One-Country Dictatorships**
+**The One-Country Dictatorships**
 
 Right next to the Communists is another group of Marxists who believe in the basic ideas of Marxist theory but they don’t think they have to wait for an international dictatorship. They think Marxism can be forced to work under the dictatorship of individual countries. Even Lenin said a lot about “Socialism in one country” after the Communists seized power in Russia, so disciples of Marxism picked up the same theme in other countries. In Germany it became known as National Socialism under the leadership of Adolph Hitler. In Italy it was called Fascism under the leadership of Benito Mussolini.
 

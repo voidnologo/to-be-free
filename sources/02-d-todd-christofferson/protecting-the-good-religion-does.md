@@ -12,7 +12,7 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom", "Religious Freedom", "Family", "Civic Duty", "Morality & Virtue", "Book of Mormon"]
 ---
 
-*This address was given by Elder D. Todd Christofferson of the Quorum of the Twelve Apostles at the G20 Interfaith Forum, Fourth Plenary Session in Buenos Aires, Argentina, Thursday, September 27, 2018. *
+*This address was given by Elder D. Todd Christofferson of the Quorum of the Twelve Apostles at the G20 Interfaith Forum, Fourth Plenary Session in Buenos Aires, Argentina, Thursday, September 27, 2018. *
 
 - **Introduction**
 

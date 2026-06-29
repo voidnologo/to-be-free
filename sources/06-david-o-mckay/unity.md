@@ -15,8 +15,8 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Communism", "War & Peace"]
 ---
 
-**Unity of
-Purpose Important to the Accomplishment of God's Work**
+Unity of
+Purpose Important to the Accomplishment of God's Work
 
 (Conference, Sept. 1967)
 
@@ -292,52 +292,52 @@ Ill."
 "Nay, speak no ill; a
 kindly word
 
-             Can never leave a
+             Can never leave a
 sting behind; 
 
-             And, oh, to
+             And, oh, to
 breathe each tale we've heard
 
-             Is
+             Is
 far beneath a noble mind.
 
-             Full oft a better
+             Full oft a better
 seed is sown
 
-             By choosing thus
+             By choosing thus
 the kinder plan,
 
-             For, if but little
+             For, if but little
 good is known,
 
-             Still let us speak
+             Still let us speak
 the best we can.
 
 "Then speak no ill, but
 lenient be
 
-             To other's
+             To other's
 failings as your own.
 
-             If you're the
+             If you're the
 first a fault to see,
 
-             Be not the first
+             Be not the first
 to make it known,
 
-             For life is but a
+             For life is but a
 passing day; 
 
-             No lip may tell
+             No lip may tell
 how brief its span; 
 
-             Then, O the little
+             Then, O the little
 time we stay,
 
-             Let's speak of all
+             Let's speak of all
 the best we can."
 
-                                                (Hymns,
+                                                (Hymns,
 116.)
 
 The parable of the rose, the

@@ -17,7 +17,7 @@ tags: ["Religious Freedom", "Liberty & Freedom", "Constitution", "Morality & Vir
 *Elder Dallin H. Oaks, Quorum of the Twelve Apostles
 U.S. Religious Freedom Conference
 Dallas/Fort Worth (Colleyville Stake Center)
-September 10, 2016        *
+September 10, 2016        *
 
 Dear brothers and sisters, we are pleased to be here in Texas in this Regional Religious Freedom Conference. In the last few weeks thousands of Latter-day Saints have journeyed to Louisiana to help clean up the homes of fellow citizens suffering from the devastating floods there. Those Mormon Helping Hands—at latest report over 13,000 from 10 states—will never be forgotten by those who received and observed their loving service!
 
@@ -53,7 +53,7 @@ Here is a list[4]—not complete but only illustrative—of the way churches, sy
 
 3. Many of the most significant moral advances in Western society have been motivated by religious principles and persuaded to official adoption by pulpit-preaching and persons who had a clear religious vision of what was morally right.[6] Examples include the abolition of the slave trade in England and the Emancipation Proclamation and the Civil Rights movement in this country.
 
-      4.     Our society is not held together primarily by law and its enforcement, but most importantly by those who voluntarily obey the unenforceable because of their internalized norms of righteous or correct behavior. For a large number of our citizens, religious belief in right and wrong is a vital influence to produce such voluntary compliance. There is, therefore, a strong public interest in the teachings of right and wrong in churches, synagogues, and mosques. It is sincere faith in God—however defined—that translates religious teachings into the moral behavior that benefits a nation. Thus, the *New York Times *columnist Ross Douthat wisely observed that “the social goods associated with faith flow almost exclusively from religious *participation, *not from affiliation or nominal belief.”[7]
+      4.     Our society is not held together primarily by law and its enforcement, but most importantly by those who voluntarily obey the unenforceable because of their internalized norms of righteous or correct behavior. For a large number of our citizens, religious belief in right and wrong is a vital influence to produce such voluntary compliance. There is, therefore, a strong public interest in the teachings of right and wrong in churches, synagogues, and mosques. It is sincere faith in God—however defined—that translates religious teachings into the moral behavior that benefits a nation. Thus, the *New York Times *columnist Ross Douthat wisely observed that “the social goods associated with faith flow almost exclusively from religious *participation, *not from affiliation or nominal belief.”[7]
 
 5. Along with their private counterparts, religious organizations serve as mediating institutions to shape and temper the encroaching power of government on individuals and private organizations.
 

@@ -19,7 +19,7 @@ tags: ["Liberty & Freedom", "Constitution", "Socialism", "Morality & Virtue", "L
 
 ---
 
-  **The Proper Role of Government** (39.9 MiB, 12,818 hits)
+  **The Proper Role of Government** (39.9 MiB, 12,818 hits)
 
 Men in the public spotlight constantly are asked to express an opinion on a myriad of government proposals and projects. “What do you think of TVA?” “What is your opinion of Medicare?” How do you feel about Urban Renewal?” The list is endless. All too often, answers to these questions seem to be based, not upon any solid principle, but upon the popularity of the specific government program in question. Seldom are men willing to oppose a popular program if they, themselves, wish to be popular – especially if they seek public office.
 

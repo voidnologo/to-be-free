@@ -50,7 +50,7 @@ As the American founding fathers said, the form of your constitution is not impo
 
 Peoples’ Law begins with all the people combining together in a sacred compact called a covenant society. It isn’t a compact between the people and their king. We aren’t looking around for some benevolent ruler to save us. We just all say that we will covenant with each other in the sight of God to perform certain duties and responsibilities and to avoid certain things that destroy a society.
 
-**Ruler’s Law** **People’s Law**
+**Ruler’s Law People’s Law**
 
 Ruling party Region
 

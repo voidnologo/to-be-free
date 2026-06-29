@@ -18,37 +18,37 @@ Pamphlets: Latter-day
 Tracts Various General Authorities Apologetics Doctrinal Church Member
 Apologetics Doctrinal Angel of the Prairies
 
- A Dream of the Future
+ A Dream of the Future
 
- 
+ 
 
 by
 
- Elder Parley Parker Pratt
+ Elder Parley Parker Pratt
 
- 
+ 
 
 One of the Twelve
 Apostles of the
 
- Church of Jesus Christ of Latter-day Saints.
+ Church of Jesus Christ of Latter-day Saints.
 
- 
+ 
 
 A. PRATT, PUBLISHER,
 
- 
+ 
 
 Salt Lake City, Utah:
 
- Deseret News Printing and Publishing
+ Deseret News Printing and Publishing
 Establishment, 1880
 
- 
+ 
 
 Preface
 
- 
+ 
 
 The thrilling and
 interesting narrative contained in this little book, though setting up no claim
@@ -57,7 +57,7 @@ condensed truth and as little fiction as any work in any age, that has inspired
 truth for its foundation, and romance simply for its embellishment and
 adornings.
 
- 
+ 
 
 This manuscript was read
 in Nauvoo, in a Council of the Church, in the presence of the Prophet Joseph
@@ -65,14 +65,14 @@ Smith, but never appeared in print until last Spring, in the Northern Light,
 when it became at once the admiration of all the Saints who had the privilege
 of its perusal.
 
- 
+ 
 
 While purporting to be
 written under the similitude of a dream or vision, we will state that no such
 dream or vision was had by the writer, the whole manuscript having been written
 at Nauvoo, in the Winter of 1843-4. 
 
- 
+ 
 
 The useful and elevating
 object of the author shines in every page of the work, and not a hurtful
@@ -81,20 +81,20 @@ reading matter,-twice the amount we supposed it to contain-we shall therefore
 be under the necessity of charging twenty-five cents a copy, instead of fifteen
 cents.
 
- 
+ 
 
 ABINADI PRATT,
 
- Publisher.
+ Publisher.
 
- Salt Lake City, January, 1880.
+ Salt Lake City, January, 1880.
 
- 
+ 
 
 The Angel of the
 Prairies; A Dream of the Future
 
- 
+ 
 
 Being a native of a
 small and retired village of New England, and trained to the strictest habits
@@ -106,7 +106,7 @@ sure, or open untimbered fields, but could form no other idea of them than to
 compare them to some of our marshes, which were by nature destitute of timber
 because they were too low and wet to produce it.
 
- 
+ 
 
 I know not how or why it
 was the case, but for some reason I had been, from my earliest remembrance,
@@ -122,7 +122,7 @@ beasts, and the whoops and yells of men more savage than they?" To these
 expostulations I could never give a satisfactory answer, but sill I wanted to
 go.
 
- 
+ 
 
 At the age of
 twenty-one, being free, and in possession of ready money sufficient to place me
@@ -159,7 +159,7 @@ possession. Nay, they would rather seek a precarious subsistence in the streets
 of some overgrown and populous town, or kill and conquer the inhabitants of some
 miserable country already overpeopled. 
 
- 
+ 
 
 While indulging in this
 strange reverie-one thought gave rise to another-my narrow heart enlarged and I
@@ -170,7 +170,7 @@ and industrious. That immigration would come rolling on in its westward
 tendency, and with it the march of empire, till these lonely plains would be
 all peopled and these rich resources made to yield support to happy millions.
 
- 
+ 
 
 With these thoughts
 still deeply working in my mind, I pursued my journey, and at the close of day
@@ -186,7 +186,7 @@ wonderful country, and to me is committed the fate of empires and the destiny
 of nations. Come then, with me, and I will show thee the secret purposes of
 fate in relation to this, the most extraordinary of all countries!"
 
- 
+ 
 
 Overjoyed with the
 information, and gathering confidence from the kind and generous appearance of
@@ -197,7 +197,7 @@ flowery plain on the southern bank of the Missouri river-not far from the line
 that divides the Indian Territory from the States-a place of surpassing beauty
 and loveliness.
 
- 
+ 
 
 "Young man,"
 said the Angel of the Prairies, "take this glass and look around
@@ -218,7 +218,7 @@ commercial resources of these territories seemed capable of sustaining and
 employing one hundred millions of people, while at present they contained
 hardly as may thousands. 
 
- 
+ 
 
 Turning from these, I
 looked eastward, where the states of Missouri, Arkansas and Illinois presented
@@ -230,7 +230,7 @@ commerce of nations and empires. These states were calculated to sustain at
 least another hundred millions of souls, although at present not occupied by
 one million.
 
- 
+ 
 
 After viewing with
 wonder and delight these beautiful states, I cast my eyes toward the south and
@@ -242,7 +242,7 @@ vegetable and mineral wealth. These countries were abundantly sufficient to sust
 two hundred millions more of inhabitants, although at present possessing a
 population of less than ten millions.
 
- 
+ 
 
 Having contemplated the
 green fields, the flowery plains, the dense forests and towering mountains of
@@ -258,7 +258,7 @@ and woodlands, capable for sustaining a population of at least fifty millions;
 although at present peopled with a few Indian tribes consisting of less than
 half a million.
 
- 
+ 
 
 "Young man,"
 said the Angel of the Prairies, "you have now beheld the great meadows of
@@ -274,7 +274,7 @@ the midst of the great American continent. Here is the spot which is destined
 for the seat of empire, and here shall the ambassadors of all nations resort
 with a tribute of homage to a greater than Cyrus.
 
- 
+ 
 
 "The seat of
 empire," continued he, "began in the eastern Eden, but its progress
@@ -295,7 +295,7 @@ resting place where it would tarry forever. Poor mistaken mortals, how little
 did they know of the country they were in, and how much less of the decrees of
 infinite wisdom!"
 
- 
+ 
 
 These words being ended,
 the angel of the Prairies bade me tarry awhile on this second spot, and he
@@ -313,7 +313,7 @@ light ineffable shone around me. I found myself in the same central position
 where he had left me, and which he had pointed out as the final seat of empire.
 But oh! how changed!
 
- 
+ 
 
 Instead of a flowery
 plain without inhabitants, I beheld an immense city, extending on all sides and
@@ -335,7 +335,7 @@ instructors were busy in attendance on strangers, who were passing to and from
 the temple, with an air of confident freedom, and clad in mingled and varied
 costumes of all nations.
 
- 
+ 
 
 By a secret watchword
 from the Angel to the porter or keeper of the gate, we were permitted to pass
@@ -352,18 +352,18 @@ and pleasure indescribable. Passing along a spacious walk, in the midst of
 scenes like these, he came to the eastern door of the temple, over which was
 inscribed, in letters of gold, the following:
 
- 
+ 
 
 "Here wisdom,
 knowledge and truth are blended!
 
- Here mercy reigns and war is ended!
+ Here mercy reigns and war is ended!
 
- Here on these grounds all nations enter;
+ Here on these grounds all nations enter;
 
- But here a tyrant dare not venture!" 
+ But here a tyrant dare not venture!" 
 
- 
+ 
 
 On entering the outer
 court, we found ourselves in a large and splendid room, inside of which were
@@ -380,7 +380,7 @@ renowned implements of modern warfare. All these were laid aside as useless,
 and men were represented in the act of beating swords into ploughshares and
 spears into pruning hooks.
 
- 
+ 
 
 "These," said
 the Angel of the Prairies, "are the implements of murder and cruelty with
@@ -390,20 +390,20 @@ studied or practiced on the earth." After viewing these things, my guide
 conducted me to a door, which opened into the inner courts, and over which was
 written as follows"
 
- 
+ 
 
 "Within is
 freedom's throne exalted high!
 
- Where, crowned with light and truth and
+ Where, crowned with light and truth and
 majesty,
 
- A royal host in robes of bright array,
+ A royal host in robes of bright array,
 
- Their peaceful sceptre o'er the nations
+ Their peaceful sceptre o'er the nations
 sway."
 
- 
+ 
 
 On entering this room, a
 vast and extensive hall was opened before me, the walls of which were white and
@@ -428,7 +428,7 @@ descending seats were filled with some thousands of noble and dignified
 personages, all enrobed in white and crowned with authority, power and majesty,
 as kings and priests presiding among the sons of God.
 
- 
+ 
 
 "You now
 behold," said the Angel of the Prairies, "The Grand Presiding Council
@@ -440,38 +440,38 @@ female, all chiming in perfect harmony in a hymn of triumph, the words of which
 I could only understand in part. But the concluding lines were repeated in
 swelling strains of joy. They were as follows: 
 
- 
+ 
 
 "Tho' earth and its
 treasures should melt in the fire,
 
- And the starlight of heaven wax dim and
+ And the starlight of heaven wax dim and
 expire;
 
- Tho' yon planets no longer revolve in their
+ Tho' yon planets no longer revolve in their
 spheres,
 
- The earth make its day, or its circuit of
+ The earth make its day, or its circuit of
 years;
 
- Tho' the fountain of joy all its light shall
+ Tho' the fountain of joy all its light shall
 withhold,
 
- And the moons and Sabbaths shall cease to
+ And the moons and Sabbaths shall cease to
 behold;
 
- Yet firm and unshaken this throne shall
+ Yet firm and unshaken this throne shall
 remain,
 
- And the heirs of Old Israel eternally
+ And the heirs of Old Israel eternally
 reign."
 
- 
+ 
 
 As the music ceased, the
 Angel said:
 
- 
+ 
 
 "Son of mortal!
 ascend with me, and I will show you the country which we explored together at
@@ -487,7 +487,7 @@ extent of populous country. Cities, towns, villages, houses, palaces, gardens,
 farms, fields, orchards, and vineyards extended in endless variety where once I
 beheld little else but loneliness and desolation.
 
- 
+ 
 
 "This," said
 the Angel of the Prairies, "is the country in which, one hundred years
@@ -500,7 +500,7 @@ which was formerly occupied by savage hordes, but which now presents one vast
 scene of neatness, beauty, civilization and happiness? Have the Indian tribes,
 then, been entirely exterminated, and their country overrun by civilized nations?"
 
- 
+ 
 
 "Nay," said
 he, "these are still the Indians. A mysterious Providence preserved their
@@ -512,7 +512,7 @@ plenty, civilization, cleanliness, and beauty which you behold, and they
 constitute some thirty-five millions, and occupy all the country west of the
 Mississippi and bordering on the Rocky Mountains."
 
- 
+ 
 
 After viewing these
 beautiful settlements and hearing this interesting account of tribes and
@@ -531,7 +531,7 @@ prepossessions, I was constrained to acknowledge as far superior in excellence,
 glory and perfection to the former. To this inquiry the Angel of the Prairies
 replied as follows:
 
- 
+ 
 
 "The American
 system was indeed glorious in its beginning, and was founded by wise and good
@@ -558,7 +558,7 @@ Divisions and contentions arose, and multiplied to that degree that they soon
 destroyed each other, deluged the country in blood, and thus ended the
 confederation under the title of E Pluribus Unum.
 
- 
+ 
 
 "The remnant who
 fled into the wilderness and rallied to the standard of liberty on the plains
@@ -593,13 +593,13 @@ cause of liberty and truth. Other and distant nations, who had watched all
 these movements at length, saw the beauties of liberty and felt the force of
 truth, till finally, with one consent, they joined the same standard. 
 
- 
+ 
 
 Thus, in one short
 century, the world is revolutionized; tyranny is dethroned; war has ceased
 forever; peace is triumphant, and truth and knowledge cover the earth." 
 
- 
+ 
 
 Thus spake the Angel of
 the Prairies; and when he had ceased to speak, I still continued to listen; for
@@ -616,7 +616,7 @@ degenerate sons, the very persons who should have cherished it forever? Where
 was the spirit of patriotism, of freedom, of love of county which had once
 characterized the sons of liberty, and warmed the bosoms of Americans?"
 
- 
+ 
 
 With reflections like
 these I had commenced a lamentation over my fallen, lost and ruined country. But
@@ -646,7 +646,7 @@ institutions has been cherished and maintained, their temple of liberty
 enlarged and perfected; while the dross has been separated and destroyed, and
 the chaff blown to the four winds.
 
- 
+ 
 
 While these thoughts
 were passing in my mind, the Angel of the Prairies again called my attention.
@@ -665,13 +665,13 @@ records. From the midst of these the Angel of the Prairies selected a small
 volume entitled: "A true and perfect system of Civil and Religious
 Government, revealed from on High."
 
- 
+ 
 
 He then bade me be
 seated, gave me this book, and bade me to read. So saying, he vanished from my
 sight. I opened the book and read the preface as follows:
 
- 
+ 
 
 "There is a God in
 heaven who revealeth secrets. Wisdom and might are His. He changeth the times
@@ -698,7 +698,7 @@ on, till it came down to Abraham, and was made hereditary in his seed forever.
 As it is written, 'Kings shall be of thee, and princes shall come out of thy
 loins.'
 
- 
+ 
 
 "It was manifested
 clearly in Egypt-Pharaoh himself being instructed and governed by Joseph, as a
@@ -722,7 +722,7 @@ afterwards restored to his kingdom again. And to convince all nations of this
 fact, King Nebuchadnezzar wrote his epistle to all nations and languages, in
 which he bore testimony to the same.
 
- 
+ 
 
 "By this authority
 Jesus Christ received all power in heaven and on earth, and was therefore seen
@@ -735,7 +735,7 @@ were it not for corruption and wickedness, which made war with the Saints, and
 overcame them, and changed times and laws, as was foretold by the prophet
 Daniel.
 
- 
+ 
 
 "By this authority
 the God of heaven promised, by all the holy prophets, that He would set up a
@@ -746,29 +746,29 @@ pure wool; while thousands of thousands ministered unto him, and ten thousand ti
 ten thousand stood before him, and judgment was given to the Saints, and the
 time came that the Saints possessed the Kingdom.
 
- 
+ 
 
 "By this authority
 the God of heaven has fulfilled that which He spoke by the mouths of His
 ancient prophets, by revealing from heaven and appointing and establishing a
 glorious kingdom which shall stand forever.
 
- 
+ 
 
 "Therefore sing, O
 Heavens!
 
- And be joyful, O Earth!
+ And be joyful, O Earth!
 
- For truth has triumphed;
+ For truth has triumphed;
 
- Wisdom and knowledge rule;
+ Wisdom and knowledge rule;
 
- Righteousness reigns;
+ Righteousness reigns;
 
- And earth rests in lasting peace."
+ And earth rests in lasting peace."
 
- 
+ 
 
 Thus ended the preface.
 I was about to read further, but was interrupted by the Angel of the Prairies.
@@ -777,7 +777,7 @@ permitted to read at the present time." So saying, he replaced the little
 book amid the archive of the temple, and bade me follow him. He then conducted
 me out of the temple, and said:
 
- 
+ 
 
 "Son of mortal, you
 now understand the nature of the government you have beheld. You see it is not
@@ -795,7 +795,7 @@ understood the secret purposes of Providence in relation to the prairies and the
 West, and of the earth and its destiny. Go forth on you journey, and wander no
 more; but tell the world of things to come."
 
- 
+ 
 
 At this I awoke, and
 behold, it was a dream. Instead of a glorious kingdom and city and temple, I
@@ -804,24 +804,24 @@ lodged. Instead of a century numbered with the past, I had spent a night of
 disturbed and unquiet slumber; and instead of the Angel of the Prairies
 standing by my side in the act of unfolding
 
- 
+ 
 
 "The secret purposes
 of fate,
 
- Which govern men and guide the State,"
+ Which govern men and guide the State,"
 
- 
+ 
 
 I beheld my landlord in
 the act of calling me to breakfast.
 
- 
+ 
 
 Next 4
 
- 
+ 
 
- 
+ 
 
 (Latter-day Tracts [Pamphlets], .)

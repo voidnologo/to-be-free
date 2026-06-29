@@ -303,9 +303,9 @@ Here are a few examples of many Washington policies which have clearly violated 
 
 **78.** They engineered a similarly disastrous war in Vietnam which was also an “undeclared war” and fought on a no-win basis for ten years with approximately 225,000 killed or wounded. Korea and Vietnam were the only two wars in the history of the United States which were not allowed to be fought through to a prompt and victorious conclusion.
 
-**Impact of Many Supreme Court Cases**
+Impact of Many Supreme Court Cases
 
-**on the Security of the United States**
+on the Security of the United States
 
 
 Shortly after the White House and State Department policies began favoring the international Communist Movement, decision of the Supreme Court began moving in the same direction. This was a complete reversal of the Court’s previous posture and when Justice Jackson of the Supreme Court saw what his colleagues were doing, he used a dissenting opinion in the case of American Communications Association v. Douds (339 U.S. 382) to enumerate the characteristics of the Communist Party-USA which precludes it from being treated as a legitimate American political organization. He wrote:
@@ -352,93 +352,93 @@ Members of Congress from both parties became so disturbed by the flagrant and pe
 
 He expressed deep concern that since Chief Justice Earl Warren had ascended the high bench in 1953, he had heard 65 cases in which Communist or subversive activities had been brought before the Court, and that he had voted in favor of the Communist position 63 out of the 65 cases. He then furnished a tabulation of 104 cases between 1943 and 1961 with the following score for each of the current justices.
 
-**Name of Justice	Cases	Anti	Pro	Percent**
+Name of Justice	Cases	Anti	Pro	Percent
 
-** Heard	Red	Red	Red**
+ Heard	Red	Red	Red
 
-** Earl Warren		65	3	62	95%**
+ Earl Warren		65	3	62	95%
 
-** Hugo L. Black		102	0	102	100%**
+ Hugo L. Black		102	0	102	100%
 
-** Felix Frankfurter	103	34	69	67%**
+ Felix Frankfurter	103	34	69	67%
 
-** William O. Douglas	100	3	97	97%**
+ William O. Douglas	100	3	97	97%
 
-** Thomas C. Clark	82	61	21	27%**
+ Thomas C. Clark	82	61	21	27%
 
-** John M. Harlan		65	35	30	46%**
+ John M. Harlan		65	35	30	46%
 
-** William J. Brennan	51	2	49	96%**
+ William J. Brennan	51	2	49	96%
 
-** Charles E. Whittaker	42	30	12	29%**
+ Charles E. Whittaker	42	30	12	29%
 
-** Potter Stewart		20	14	6	30%**
+ Potter Stewart		20	14	6	30%
 
-** **No one was accusing any of these men with being Communists, but the majority of them had taken positions extremely favorable to the Communists most of the time.
+ No one was accusing any of these men with being Communists, but the majority of them had taken positions extremely favorable to the Communists most of the time.
 
 Senator Eastland pointed out that none of the men sitting on the Supreme Court bench were professional judges prior to their appointments and only a few of them had been practicing lawyers for any extensive period of time. The rest were primarily politicians, and therefore strongly influenced by policies emanating from the White House and the State Department. Often their decisions had not followed the law nor the dictates of Congress, but the majority had twisted their decisions to fit the theories and policies emanating from the other end of Pennsylvania Avenue.
 
-**  Unconstitutional Regulatory Agencies**
+  Unconstitutional Regulatory Agencies
 
-** **
+ 
 
-** **Since the dictum of the Butler case in 1936 there has been a flood of regulatory agencies all justified on the basis that they are for the “general welfare.” None of these are under the twenty powers granted to the federal government.
+ Since the dictum of the Butler case in 1936 there has been a flood of regulatory agencies all justified on the basis that they are for the “general welfare.” None of these are under the twenty powers granted to the federal government.
 
 The founders knew there would have to be agencies to regulate a variety of problems but they warned that these should be kept close to the people so abuses could be better controlled. Whenever these are passed on to the federal government abuses come from agencies which are too big, too powerful and too expensive to fight. That is why the people usually just endure them. Here are examples of agencies completely outside the powers delegated to the government by the Constitution.
 
-**  92. The Environmental Protection Agency (EPA).**
+  92. The Environmental Protection Agency (EPA).
 
-**  93. The Occupational Safety and Health Administration (OSHA).**
+  93. The Occupational Safety and Health Administration (OSHA).
 
-**  94. The Federal Trade Commission.**
+  94. The Federal Trade Commission.
 
-**  95. The Interstate Commerce Commission which fixes rates and routes.**
+  95. The Interstate Commerce Commission which fixes rates and routes.
 
-**  96. The Food and Drug Administration.**
+  96. The Food and Drug Administration.
 
-**  97. The fixing of program content by the Federal Communications Commission.**
+  97. The fixing of program content by the Federal Communications Commission.
 
-**  98. The Consumer Protection Agency.**
+  98. The Consumer Protection Agency.
 
-**  99. The Federal Energy Commission.**
+  99. The Federal Energy Commission.
 
-**  100. The minimum wage law which largely destroyed the industrial base for traditional apprentice programs and excluded millions of American youth from securing employment while learning a trade.**
+  100. The minimum wage law which largely destroyed the industrial base for traditional apprentice programs and excluded millions of American youth from securing employment while learning a trade.
 
-**  Which Way America?**
+  Which Way America?
 
-** **
+ 
 
-** **An examination of America as of 1980 reveals that Dr. Milton Friedman was entirely correct when he stated on his “Free to Choose” television series that the United States is rapidly moving into the final phases of a welfare state.
+ An examination of America as of 1980 reveals that Dr. Milton Friedman was entirely correct when he stated on his “Free to Choose” television series that the United States is rapidly moving into the final phases of a welfare state.
 
 This means that principles which the founding fathers tried to make unconstitutional have been cleverly and surreptitiously introduced into the system under a distorted but legally enforceable framework. But Dr. Friedman emphasizes that these expensive socialist experiments have been a pragmatic failure. Further than that, they have made a shambles of the Constitutional principles originally comprising the great American success formula.
 
 There is no bright hope for the future of the United States unless this generation of Americans has a fighting determination to take the high road back to the founders’ formula.
 
-**  What Is the Remedy?**
+  What Is the Remedy?
 
-** **
+ 
 
-** **The remedy requires that Americans rediscover the genius of the founders’ original success formula and then elect the kind of men and women who will restore the formula. This can happen the moment the majority of the men and women in Congress realize that the original Constitutional and a free-market economy are the only way to go.
+ The remedy requires that Americans rediscover the genius of the founders’ original success formula and then elect the kind of men and women who will restore the formula. This can happen the moment the majority of the men and women in Congress realize that the original Constitutional and a free-market economy are the only way to go.
 
 Part of the remedy could be adopted immediately, part of it set up on a long-range basis. Stabilizing the dollar with precious metal backing and deregulating business should be undertaken immediately. Then the phasing out of unconstitutional programs could follow just as soon as the private sector is able to begin absorbing the two or three million people who will be coming off the Federal and State payrolls.
 
-**  What Would Happen to Taxes?**
+  What Would Happen to Taxes?
 
-** **
+ 
 
-** **Within a short time the federal budget would be reduced by about 50% and that would make it possible to repeal the Sixteenth Amendment, thereby eliminating income taxes, Federal gift taxes and Federal inheritance taxes. Since these account for only about 40% of all Federal revenue, they would no longer be needed after the appropriate cuts in expenditures were made.
+ Within a short time the federal budget would be reduced by about 50% and that would make it possible to repeal the Sixteenth Amendment, thereby eliminating income taxes, Federal gift taxes and Federal inheritance taxes. Since these account for only about 40% of all Federal revenue, they would no longer be needed after the appropriate cuts in expenditures were made.
 
-**  What About Social Security?**
+  What About Social Security?
 
-** **
+ 
 
-** **Another significant improvement would take place in the Social Security sector. This program would gradually be transferred over to the competitive private sector annuity program where people who retire would begin getting their money as a matter of right rather than having to show low-income need as they do now. These annuity funds from the employee and employer would be invested in American industrial development so they could grow and thereby give each person a substantial retirement benefit instead of the pittance people receive today which is not even a bare-subsistence level of income.
+ Another significant improvement would take place in the Social Security sector. This program would gradually be transferred over to the competitive private sector annuity program where people who retire would begin getting their money as a matter of right rather than having to show low-income need as they do now. These annuity funds from the employee and employer would be invested in American industrial development so they could grow and thereby give each person a substantial retirement benefit instead of the pittance people receive today which is not even a bare-subsistence level of income.
 
-**  Are These Important Improvements Politically Feasible?**
+  Are These Important Improvements Politically Feasible?
 
-** **
+ 
 
-** **Anything is politically feasible if the people are sold on it. Today the trend is definitely in the direction of Constitutional principles. This is demonstrated in the voting records of those in Congress. There is a rising tide of conservative votes which means that the Constitutional coalition is coming closer and closer to a majority.
+ Anything is politically feasible if the people are sold on it. Today the trend is definitely in the direction of Constitutional principles. This is demonstrated in the voting records of those in Congress. There is a rising tide of conservative votes which means that the Constitutional coalition is coming closer and closer to a majority.
 
 Congress is being monitored on Constitutional principles by several organizations and it is quite obvious we are gaining. This means that more and more Senators and Congressmen are willing to bite the bullet and vote on sound principles rather than bow to pressure politics.
 
@@ -446,10 +446,10 @@ For example, if we count Democrats and Republicans as Constitutionalists where t
 
 If we include the fringe group such as all of those in the House who voted for sound principles 50% or more of the time, then our supporters would almost equal the number of liberals and big spenders on the other side. 14 more would be required in the Senate.
 
-**  The Margin of Victory Is Closer Than Many Had Thought**
+  The Margin of Victory Is Closer Than Many Had Thought
 
-** **
+ 
 
-** **This clearly indicates that all we need is just a little more weight to tip the scales toward a Constitutional majority. Then, by electing a strong vigorous Constitutionalist into the White House, America could soon get back onto the high road of a happy, debt-free, prosperous society.
+ This clearly indicates that all we need is just a little more weight to tip the scales toward a Constitutional majority. Then, by electing a strong vigorous Constitutionalist into the White House, America could soon get back onto the high road of a happy, debt-free, prosperous society.
 
 America has demonstrated her capacity to do great things before. It is time we got on with the job. Americans could then be proud of the legacy they hand on to their children.

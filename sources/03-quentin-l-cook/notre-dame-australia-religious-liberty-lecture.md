@@ -22,7 +22,7 @@ Elder Quentin L. Cook of the Quorum of the Twelve Apostles of The Church of Jesu
 *Downloadable HD B-roll of Elder Quentin L. Cook's address for journalists
 Downloadable HD SOTs of Elder Quentin L. Cook's address for journalists
 Downloadable HD Elder Quentin L. Cook MOS for journalists
-Downloadable HD linecut of Elder Quentin L. Cook's full address for journalists*
+Downloadable HD linecut of Elder Quentin L. Cook's full address for journalists*
 
 “My plea today is that all religions join together to defend faith and religious freedom in a manner that protects people of diverse faith as well as those of no faith,” said Elder Cook, who has a legal background. “We must not only protect our ability to profess our own religion but also protect the right of each religion to administer its own doctrines and laws.”
 

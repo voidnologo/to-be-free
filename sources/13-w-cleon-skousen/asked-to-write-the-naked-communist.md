@@ -109,11 +109,11 @@ Talk of the wealthy power-broker types as outlined in *The Naked Communist* and 
 
 7. They donate huge sums of money to finance one-world government schemes.
 
-** Recognizing the Gigantic Dictatorship Which has the World By Its Throat**
+**Recognizing the Gigantic Dictatorship Which has the World By Its Throat**
 
 Communism is a form of socialism which is government control of the means of production and distribution in a nation. Socialism can come about democratically or by revolution. Revolutionary socialism is communism. Americans need to know that the basic beliefs of communism are present in any socialist country.
 
-Dr. Skousen let his good friend, Cecil B. DeMille, director of The Ten Commandments, read his finished manuscript on Communism.  After reading it, Mr. DeMille said to Dr. Skousen that he had stripped away all the pretense and propaganda of Communism leaving it completely exposed for the ugly system it is.  He said, “You should name your book, ** The Naked Communist**.”  And so it received its unusual name.
+Dr. Skousen let his good friend, Cecil B. DeMille, director of The Ten Commandments, read his finished manuscript on Communism.  After reading it, Mr. DeMille said to Dr. Skousen that he had stripped away all the pretense and propaganda of Communism leaving it completely exposed for the ugly system it is.  He said, “You should name your book, **The Naked Communist**.”  And so it received its unusual name.
 
 The book could have been named The Naked Socialist because it espouses revolutionary socialist doctrine. Americans must not be lulled into a false sense of security thinking these ideas are now dead. They are alive and thriving. While the names sometimes change for appearance sake, Communism and Socialism continue to be tools of Satanic influence engulfing this world.
 

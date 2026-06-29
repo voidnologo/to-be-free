@@ -15,7 +15,7 @@ tags: ["Religious Freedom", "Liberty & Freedom", "Founding Fathers", "Constituti
 
 *This story appears here courtesy of **TheChurchNews.com**. It is not for use by other media.*
 
-**By ****Aimee Cobabe****, ****Church News**
+**By Aimee Cobabe, Church News**
 
 As the United States celebrates the 250th anniversary of the signing of the Declaration of Independence, the First Presidency of The Church of Jesus Christ of Latter-day Saints wrote a letter inviting all to participate in a unified fast.
 

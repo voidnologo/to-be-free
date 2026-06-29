@@ -15,7 +15,7 @@ tags: ["Constitution", "Liberty & Freedom", "Founding Fathers", "Communism", "Fr
 
 ### David O. McKay
 
-“David O. McKay,” in *Latter-day Prophets and the United States Constitution, *ed. by Donald Q. Cannon (Provo, Utah: Religious Studies Center, Brigham Young University, 1991), 116–33.
+“David O. McKay,” in *Latter-day Prophets and the United States Constitution, *ed. by Donald Q. Cannon (Provo, Utah: Religious Studies Center, Brigham Young University, 1991), 116–33.
 
 Biographical Information
 

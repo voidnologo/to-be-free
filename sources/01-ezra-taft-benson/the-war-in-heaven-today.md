@@ -25,19 +25,19 @@ Though all Bible believing religions recognize a war in Heaven, the knowledge of
 
 Wherefore,  because that Satan rebelled against me, and sought to destroy the  agency of man, which I, the Lord God, had given him, and also, that I  should give unto him mine own power; by the power of mine Only  Begotten, I caused that he should be cast down**;**
 
-Above,  we read the words of Ezra Taft Benson explaining the need to be on  the right side of that war now.  That war is not over.** **President  David O McKay said**: **
+Above,  we read the words of Ezra Taft Benson explaining the need to be on  the right side of that war now.  That war is not over. President  David O McKay said**:**
 
 There are “two contending Forces. Those forces are known and have been designated by different terms throughout the ages. “In the beginning” they were known as Satan on the one hand, and Christ on the other… In these days, they are called “domination by the state,” on one hand, “personal liberty,” on the other.”
 
 From the words of the Prophets we see that battle isn’t over, and where the battle lines are drawn today. We see that what Christ has fought for, continues to fight for and asks us to fight for is freedom of the individual, “personal liberty”.
 
-In fact, John  Taylor said**, **
+In fact, John  Taylor said**,**
 
-“Besides the  preaching of the Gospel, we have another mission, namely, the  perpetuation of the free agency of man and the maintenance of  liberty, freedom, and the rights of man.”** **–General  Conference April 1882
+“Besides the  preaching of the Gospel, we have another mission, namely, the  perpetuation of the free agency of man and the maintenance of  liberty, freedom, and the rights of man.” –General  Conference April 1882
 
 To magnify this point, the February 2006 Ensign magazine, had an article written by Elder Shirley D Christensen of the Seventy, entitled, “I, the Lord God, Make You Free.” In it he said;
 
-**“**Are  we doing all that we should to preserve freedom wherever we live?   …The Lord has placed upon His children the responsibility of  preserving their precious freedoms.”** **
+**“**Are  we doing all that we should to preserve freedom wherever we live?   …The Lord has placed upon His children the responsibility of  preserving their precious freedoms.” 
 
 The Lord made us free, and He instituted governments to protect us in our freedoms (See D&C 134). Is there a specific governmental structure that He has created to fulfill his purposes in this regards?
 
@@ -47,9 +47,9 @@ The laws and constitution of the people, which I have suffered to be established
 
 That every man may act in  doctrine and principle pertaining to futurity, according to the  moral agency which I have given unto him, that every man may  be accountable for his own sins in the day of judgment…And for  this purpose have **I established the Constitution** of this land…
 
-**.  	 Reiterating the Constitutions importance, President David O McKay  said, and recently, Elder L Tom Perry reiterated:**
+.  	 Reiterating the Constitutions importance, President David O McKay  said, and recently, Elder L Tom Perry reiterated:
 
-**“****Next  to being one in worshiping God there is nothing in this world upon  which this Church should be more united than in upholding and  defending the Constitution of the United States****”  (BYU, Sept. 1987)**
+“Next  to being one in worshiping God there is nothing in this world upon  which this Church should be more united than in upholding and  defending the Constitution of the United States”  (BYU, Sept. 1987)
 
 Unfortunately sometimes we think this is engaging in politics. President Joseph F Smith had something to say in those regards:
 
@@ -65,7 +65,7 @@ President Clark taught us here that our freedom is under attack. What is the cau
 
 President Benson said,
 
-“Concerning the  United States, the Lord revealed to his prophets that its greatest  threat would be a vast, worldwide “**secret  combination**” which would not only threaten the  United States but also seek to “overthrow the freedom of all  lands, nations.”-** **Conference  Report, October 1961
+“Concerning the  United States, the Lord revealed to his prophets that its greatest  threat would be a vast, worldwide “**secret  combination**” which would not only threaten the  United States but also seek to “overthrow the freedom of all  lands, nations.”- Conference  Report, October 1961
 
 Expounding on this, President Benson said:
 
@@ -92,9 +92,9 @@ We are still involved in this Satan vs. the Lord battle, and Latter-day Saints a
 
 In General Conference of April 1965, then Elder Benson, exposes those tactics of the evil on;
 
-**“**We  really haven’t received much instruction about freedom,”** the devil says.**
+“We  really haven’t received much instruction about freedom,” the devil says.
 
-**This is a lie, for we have  been warned time and again… Last conference I spoke of a book  embodying much of the prophets’ warnings on freedom…which I commend  to you. It is entitled Prophets, Principles, and National Survival.**
+This is a lie, for we have  been warned time and again… Last conference I spoke of a book  embodying much of the prophets’ warnings on freedom…which I commend  to you. It is entitled Prophets, Principles, and National Survival.
 
 “You’re too involved in other church work,” says the devil.
 
@@ -102,21 +102,21 @@ But freedom is a weighty matter of the law; the lesser principles of the gospel 
 
 “Don’t worry,” says the devil “the Lord will  protect you, and besides the world is so corrupt and heading toward  destruction at such a pace that you can’t stop it, so why try.” **Well to begin with, the  Lord will not protect us unless we do our part. But many of the  prophecies referring to America’s preservation are conditional. That  is, if we do our duty we can be preserved, and if not then we shall  be destroyed. This means that a good deal of the responsibility lies  with the priesthood of this Church as to what happens to America and  as to how much tragedy can be avoided if we do act now.**
 
-“Don’t do anything in the fight for freedom until the Church  sets up its own specific program to save the Constitution.”** **
+“Don’t do anything in the fight for freedom until the Church  sets up its own specific program to save the Constitution.” 
 
-**To those slothful servants  who will not do anything until they are “compelled in all  things.” Maybe the Lord will never set up a specific church  program for the purpose of saving the Constitution. **
+**To those slothful servants  who will not do anything until they are “compelled in all  things.” Maybe the Lord will never set up a specific church  program for the purpose of saving the Constitution.**
 
 The Prophet Joseph Smith declared it will be the elders of Israel who will step forward to help save the Constitution, not the Church.
 
 ETB Gen Oct 1966
 
-Just live the gospel**; ****there’s  no need to get involved in trying to save freedom and the  Constitution**** ****(says  the devil)….**** **
+Just live the gospel**; there’s  no need to get involved in trying to save freedom and the  Constitution** **(says  the devil)….** 
 
-** **
+ 
 
-** **
+ 
 
-** **
+ 
 
 **Of  course, this is dangerous reasoning, because in reality you cannot  fully live the gospel without working to save freedom and the  Constitution…**
 

@@ -151,9 +151,9 @@ Ezra Taft Benson is the foremost spokesman against Communism among all the leade
 
 “No,” he said, “the Saints have been warned long enough and now the Lord has something more important for us to do.” It wasn’t long before we heard it. He stood up in Conference and said, “I have a vision of the whole Church getting nearer to God by abiding by the precepts of the Book of Mormon. Indeed I have a vision of flooding the earth with the Book of Mormon just like Enoch saw in his vision in Moses 7:62.”
 
-**President Benson Pushes**
+President Benson Pushes
 
-**the Book of Mormon Forward**
+the Book of Mormon Forward
 
 He said, “My beloved Saints, I am now entering my ninetieth year. I do not know fully why God has preserved my life to this age, but I do know this, that for the present hour he has revealed to me the absolute need for us to move the Book of Mormon forward in a marvelous manner. You must help with this burden and with this blessing which he has placed on the whole Church. Even the children of Zion can help if they will just do what they are asked to do.” 15
 
@@ -249,9 +249,9 @@ I’d then say, “I want to now quote a few things about that great book, in yo
 
 I think that would be a good way to begin.
 
-**The Book of Mormon Contains**
+The Book of Mormon Contains
 
-**Principles of Righteous Government**
+Principles of Righteous Government
 
 The second thing the Book of Mormon is a manual for, according to President Benson, is to learn the principles of righteous government that we one day will have to teach this country after our present government becomes unraveled. All of you remember the prophecy that our [page 150] Constitution will be on the verge of destruction. 21 We won’t rush forward to save it. The people will come to those who seem to be getting along all right and who seem to have order. They will lean on this people as a staff, and we will lead the Constitution away from the verge of destruction.
 
@@ -295,9 +295,9 @@ I’ve been asked to advise some of those who are getting a master’s certifica
 
 So I wanted you to know that the topic I was assigned to talk on tonight, which is the Book of Mormon and the Constitution, is all there in that wonderful book of scripture. Now, to share with you all that it contains, and how you do it, and those 22 things that you need to know in order to restore what God calls a perfect order of government, well, that takes about a week, which I understand is more than you are allowing tonight!
 
-**The Book of Mormon Teaches**
+The Book of Mormon Teaches
 
-**How to Set Up a Zion Society**
+How to Set Up a Zion Society
 
 The third thing President Benson said the Book of Mormon is designed to do is to teach us how to set up a Zion society. Three Book of Mormon prophets were able to do this: King Benjamin, 31 Alma the Younger 32 and Nephi IV. 33 Nephi IV was able to make his last almost 200 years before it finally caved in. 34
 
@@ -441,9 +441,9 @@ President McKay used to say that we need to work hard to save this nation. The L
 
 Where are the political beliefs of the Church in the scriptures? D&C 134. Which section tells about Jesus preaching to the dead in the spirit world? This is a new one that was just put in the scriptures. That is D&C 138. Where does Jesus describe how terrible it was to go up on that cross? “Just the contemplation of it,” he says, “caused me to sweat drops of blood.” D&C 19.
 
-**7. Be a Good Record Keeper by Keeping**
+7. Be a Good Record Keeper by Keeping
 
-**a Journal and Taking Notes in Church**
+a Journal and Taking Notes in Church
 
 The next one is: “Am I a good record keeper like President Benson wants me to be?” 46 How can you tell? Do you make a daily account of your life? What did you do today? Did anything interesting happen? Where did you go today? Who did you hear? What did they say? Have you got a little bit of that in your journal? Is there anything worthwhile in your journal?
 
@@ -497,11 +497,11 @@ There’s one from England and one from Brazil. He’s the first black among the
 
 All of them talk about the importance of family prayer. They talk about the importance of frequent private prayer. Every time that anything important is happening, they ask the Lord for help. They talk about studying the scriptures, vigorously, continuously and consistently, and going to the temple regularly, as often as they can. The Brethren do it to recharge their spiritual batteries every week.
 
-**Make the General Authorities**
+Make the General Authorities
 
 
 
-**Real for Your Children**
+Real for Your Children
 
 Do you try to make the General Authorities come alive as human beings for your children? Do you ever tell them stories about them? Your [page 164] children see them up there in a dark suit, maroon tie and white shirt. They give their talks for twenty minutes and then sit down.
 

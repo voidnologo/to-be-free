@@ -30,7 +30,7 @@ God has given His children moral agency—the power to decide and to act. The mo
 
 ## II.
 
-Our belief that the United States Constitution was divinely inspired does not mean that divine revelation dictated every word and phrase, such as the provisions allocating the number of representatives from each state or the minimum age of each. The Constitution was not “a fully grown document,” said President J. Reuben Clark. “On the contrary,” he explained, “we believe it must grow and develop to meet the changing needs of an advancing world.” For example, inspired *amendments* abolished slavery and gave women the right to vote. However, we do not see inspiration in every Supreme Court decision interpreting the Constitution.
+Our belief that the United States Constitution was divinely inspired does not mean that divine revelation dictated every word and phrase, such as the provisions allocating the number of representatives from each state or the minimum age of each. The Constitution was not “a fully grown document,” said President J. Reuben Clark. “On the contrary,” he explained, “we believe it must grow and develop to meet the changing needs of an advancing world.” For example, inspired *amendments* abolished slavery and gave women the right to vote. However, we do not see inspiration in every Supreme Court decision interpreting the Constitution.
 
 I believe the United States Constitution contains at least five divinely inspired principles.
 

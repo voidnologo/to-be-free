@@ -7,23 +7,18 @@ source_url: ""
 source_file: "raw/Research Documents/General Conference Constitution Quotes.pdf"
 source_format: "pdf"
 retrieved: "2026-06-28"
-source_note: "Compilation of General Conference quotations across many years; no single date."
+source_note: "Compilation of General Conference quotations; each quote is attributed inline to its speaker and conference. No single document date."
 status: "full"
 collection: "research-extended"
-word_count: 2122
+word_count: 2087
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Constitution", "Liberty & Freedom", "Socialism", "Free Agency", "War & Peace", "United Order / Welfare"]
 ---
 
-Why Men Pull Away 10 Ugly Mistakes Women Make That Ruins Any Chances Of A Relationship CatchHimAndKeepHim.com
-                  Church Clipart Collection 1000s of church images. Jesus, doves, angels, crosse. Christmas! www.FaithClipart.com
-                  Family Tree Chart Create and Print Your Family Tree Easy and Free! www.myheritage.com
-                  Bible Classes Online Get Advice On Bible Classes Online. Talk To Educational Experts Online! SelectDegree.com
-
-                QUOTES FROM THE PROPHETS ON THE CONTITUTION
+QUOTES FROM THE PROPHETS ON THE CONSTITUTION
      The following quotes are taken from General Conference talks. It is
 my opinion that talks given at General Conferences are next to scripture
-if not scripture themselvs, and not just merely council.
+if not scripture themselves, and not just merely council.
 
      I would strongly suggest that you look these talks up read the whole
 thing. You will be amazed, as I was, at the amount of information we

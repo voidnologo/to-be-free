@@ -18,7 +18,7 @@ tags: ["War & Peace", "Morality & Virtue", "United Order / Welfare", "Book of Mo
 
 In these days of trial and sorrow, when Satan is “seeking to destroy the souls of men” (D&C 10:27), we send to the righteous everywhere our greetings with prayers for their blessing; to the Saints in all lands and on the islands of the Seas, we renew our testimonies and pledge our unselfish service, exhorting them to lives obedient to the gospel and the commandments of the Lord; we extend to them the hand of true and faithful fellowship, with deep and abiding love and blessing.
 
-**Our Testimonies **
+**Our Testimonies**
 
 We bear witness to all the world that God lives, and still rules, that His righteous ways and His truth will finally prevail.
 
@@ -34,13 +34,13 @@ We shall now speak first of some vital practical matters which should be uppermo
 
 It is becoming increasingly clear that very many of our physicians and surgeons will be taken by the government for service in the armed forces. This is well, for we want our soldiers and sailors to have every care which it is possible to give them. But this will leave the civilians with curtailed and probably inadequate medical help. In some areas we shall be left with little more trained assistance than was available to our pioneer fathers. Yet it is our patriotic duty to be as fully effective in production at home as our boys are effective in combat in the field. Those in the front lines cannot be strong unless those behind the lines are strong also. To meet this patriotic duty and to prepare for this threatening condition, we urge all parents to guard with zealous care the health of their children. Feed them simple, good, wholesome food that will nourish and make them strong. See that they are warmly clad. Keep them from exposure. Have them avoid unnecessary crowds in close, poorly ventilated, overheated rooms and halls. See that they have plenty of rest and sleep. Avoid late hours. Keep them home in the evenings and remain home to enjoy them. Teach them strictly to observe the Word of Wisdom which is God’s law of health. You parents observe these rules yourselves, and keep the other commandments of the Lord. You bishops and presidents of stakes, first lead your people by example and then they will follow your precepts. Parents, prepare yourselves and your children for the times to come. So live, day by day, that you may with confidence ask the blessings of health with which the Lord clothes those whom, living righteously, He delights to succor.
 
-**Message to the Youth **
+**Message to the Youth**
 
 To the youth of the Church we repeat all the foregoing advice, but above all we plead with you to live clean, for the unclean life leads only to suffering, misery, and woe physically—and spiritually it is the path to destruction. How glorious and near to the angels is youth that is clean; this youth has joy unspeakable here and eternal happiness hereafter. Sexual purity is youth’s most precious possession; it is the foundation of all righteousness.
 
 Times approach when we shall need all the health, strength, and spiritual power we can get to bear the afflictions that will come upon us.
 
-**Welfare Work **
+**Welfare Work**
 
 We renew the counsel given to the Saints from the days of Brigham Young until now—be honest, truthful, industrious, frugal, thrifty. In the day of plenty, prepare for the day of scarcity. The principle of the fat and lean kine is as applicable today as it was in the days when, on the banks of the Nile, Joseph interpreted Pharaoh’s dream. Officials now warn us, and warn again, that scant days are coming.
 
@@ -52,19 +52,19 @@ As the Church has always urged since we came to the valley, so now we urge every
 
 The utmost care should be taken to see that foodstuffs so produced and preserved by the householder do not spoil, for that would be waste and the Lord looks with disfavor upon waste. He has blessed His people with abundant crops; the promise for this year is most hopeful. The Lord is doing His part; He expects us to do ours.
 
-**False Political  Isms **
+**False Political  Isms**
 
 We again warn our people in America of the constantly increasing threat against our inspired Constitution and our free institutions set up under it. The same political tenets and philosophies that have brought war and terror in other parts of the world are at work amongst us in America. The proponents thereof are seeking to undermine our own form of government and to set up instead one of the forms of dictatorships now flourishing in other lands. These revolutionists are using a technique that is as old as the human race—a fervid but false solicitude for the unfortunate over whom they thus gain mastery and then enslave them.
 
 They suit their approaches to the particular group they seek to deceive. Among   the Latter-day Saints they speak of their philosophy and their plans under   it as an ushering in of the United Order. Communism and all other similar *isms * bear   no relationship whatever to the United Order. They are merely the clumsy counterfeits   which Satan always devises of the gospel plan. Communism debases the individual   and makes him the enslaved tool of the state to whom he must look for sustenance   and religion; the United Order exalts the individual, leaves him his property, “according   to his family, according to his circumstances and his wants and needs,” (D&C   51:3) and provides a system by which he helps care for his less fortunate brethren;   the United Order leaves every man free to choose his own religion as his conscience   directs. Communism destroys man’s God-given free agency; the United Order glorifies   it. Latter-day Saints can not be true to their faith and lend aid, encouragement,   or sympathy to any of these false philosophies. They will prove snares to their feet.
 
-**Gospel of Love **
+**Gospel of Love**
 
 The gospel of Christ is a gospel of love and peace, of patience and longsuffering, of forbearance and forgiveness, of kindness and good deeds, of charity and brotherly love. Greed, avarice, base ambition, thirst for power, and unrighteous dominion over our fellowmen can have no place in the hearts of Latter-day Saints nor of God-fearing men everywhere. We of the Church must lead the life prescribed in the saying of the ancient prophet-warrior:
 
 “I seek not for power, but to pull it down. I seek not for honor of the world, but for the glory of my God, and the freedom and welfare of my country.” (Alma 60:36)
 
-**Hate Must Be Abolished **
+**Hate Must Be Abolished**
 
 Hate can have no place in the souls of the righteous. We must follow the commands of Christ Himself which declare the true life:
 
@@ -74,7 +74,7 @@ Hate can have no place in the souls of the righteous. We must follow the command
 
 These principles must be instilled into the hearts of our children, taught to our youth, given by way of instruction to our vigorous manhood and womanhood, lived in very fact and deed by the aged, ripened in experience and wisdom. These are the principles which God enjoins upon all who teach, in whatever capacity or in whatever place. The Lord has declared that those who “teach not their children light and truth, according to the commandments” shall be afflicted, the wicked one shall have power over them (D&C 93:42), and the sin shall be upon their heads (D&C 68:25). Woe will be the part of those who plant hate in the hearts of the youth and of the people, for God will not hold them guiltless; they are sowing the wind, [and] their victims will reap the whirlwinds. Hate is born of Satan; love is the offspring of God. We must drive out hate from our hearts, every one of us, and permit it not again to enter.
 
-**Mission of the Church **
+**Mission of the Church**
 
 The Lord has established His Church in these latter days that men might be called to repentance, to the salvation and exaltation of their souls. Time and time again He told the Prophet Joseph and those with him that “the field is white already to harvest.” (D&C 4:4, 6:3; 11:3; 12:3; 14:3; 33:3, 7)
 
@@ -96,7 +96,7 @@ For this cause was the Church organized, the gospel again revealed in its fulnes
 
 “And in nothing doth man offend God, or against none is his wrath kindled, save those who confess not his hand in all things, and obey not his commandments.” (D&C 59:21) We shall be excused from this divine commission, individually and as a Church, only if some power beyond our control shall prevent our obedience to God’s commands; then they who hinder must bear the penalty. (D&C 124:49) But to that point of hindrance, it is our bounden duty to carry on.
 
-**Sending of Missionaries **
+**Sending of Missionaries**
 
 It is our duty, divinely imposed, to continue urgently and militantly to carry forward our missionary work. We must continue to call missionaries and send them out to preach the gospel, which was never more needed than now, which is the only remedy for the tragic ills that now afflict the world, and which alone can bring peace and brotherly love back amongst the peoples of the earth. We must continue to call to missionary work those who seem best able to perform it in these troublous and difficult days. Our duty under divine command imperatively demands this. We shall not knowingly call anyone for the purpose of having him evade military service, nor for the purpose of interfering with or hampering that service in any way, nor of putting any impediment in the way of government. These would be unworthy motives for a missionary life. Our people have furnished and we expect them to continue to furnish their full quota for those purposes, but we see no alternative, until new rules are made by the government, but to continue to call the best and most effective men into missionary work, if they are available therefor.
 
@@ -104,7 +104,7 @@ Having in mind that the worldwide disaster in material and spiritual matters has
 
 To preach the gospel under ordination from the priesthood of God is a great privilege, to be enjoyed by those only who are thoroughly qualified and who are and have been strictly living the commandments and attending to their Church duties. Every bishop will carefully examine every one whom he considers for a mission, to be sure he meets these requirements. No lukewarm or unworthy person should be recommended. The bishop must not in any way play favorites, thus avoiding giving just ground among the people of his ward for that unworthy, unrighteous thought, sometimes voiced by those whose sons have gone into the service, that because their sons have gone into the army, every other parent’s son should go into the army, and that none should be sent on missions. This feeling has behind it thoughts that do not comport with the teachings of our Heavenly Father. Moreover, those going on missions are amenable to selection for army service as soon as they return. A mission exempts from army service only for the term of the mission.
 
-**Church and ****State **
+**Church and State**
 
 The Church stands for the separation of church and state. The Church has no civil [or] political functions. As the Church may not assume the functions of the state, so the state may not assume the functions of the Church. The Church is responsible for and must carry on the work of the Lord, directing the conduct of its members, one towards the other, as followers of the lowly Christ, not forgetting the humble, the poor and needy, and those in distress, leading them all to righteous living and a spiritual life that shall bring them to salvation, exaltation, and eternal progression, in wisdom, knowledge, understanding, and power.
 
@@ -132,7 +132,7 @@ For one hundred years, the Church has been guided by the following principles:
 
 “We believe . . . that murder, treason, robbery, theft, and the breach of the general peace, in all respects, should be punished according to their criminality and their tendency to evil among men, by the laws of that government in which the offense is committed.” (D&C 134:1–6, 8)
 
-**Church Membership and Army Service **
+**Church Membership and Army Service**
 
 Obedient to these principles, the members of the Church have always felt under obligation to come to the defense of their country when a call to arms was made; on occasion the Church has prepared to defend its own members.
 
@@ -168,11 +168,11 @@ But the Church membership are citizens or subjects of sovereignties over which t
 
 While by its terms this revealed word related more especially to this land of America, nevertheless the principles announced are worldwide in their application. and they are specifically addressed to “you” (Joseph Smith), “and your brethren of my church.” When, therefore, constitutional law, obedient to these principles, calls the manhood of the Church into the armed service of any country to which they owe allegiance, their highest civic duty requires that they meet that call. If, harkening to that call and obeying those in command over them, they shall take the lives of those who fight against them, that will not make of them murderers, nor subject them to the penalty that God has prescribed for those who kill, beyond the principle to be mentioned shortly. For it would be a cruel God that would punish His children as moral sinners for acts done by them as the innocent instrumentalities of a sovereign whom He had told them to obey and whose will they were powerless to resist.
 
-**God Is at the Helm **
+**God Is at the Helm**
 
 The whole world is in the midst of a war that seems the worst of all time. This Church is a worldwide church. Its devoted members are in both camps. They are the innocent war instrumentalities of their warring sovereignties. On each side they believe they are fighting for home and country and freedom. On each side, our brethren pray to the same God, in the same name, for victory. Both sides cannot be wholly right; perhaps neither is without wrong. God will work out in His own due time and in His own sovereign way the justice and right of the conflict, but He will not hold the innocent instrumentalities of the war, our brethren in arms, responsible for the conflict. This is a major crisis in the world-life of man. God is at the helm.
 
-**Righteous Suffer with Wicked **
+**Righteous Suffer with Wicked**
 
 But there is an eternal law that rules war and those who engage in it. It was given when, Peter having struck off the ear of Malchus, the servant of the High Priest, Jesus reproved him, saying:
 
@@ -194,7 +194,7 @@ In this terrible war now waging, thousands of our righteous young men in all par
 
 “Vengeance is mine: I will repay, saith the Lord.” (Romans 12:19)
 
-**Message to Men in Service **
+**Message to Men in Service**
 
 To our young men who go into service, no matter whom they serve or where, we say live clean, keep the commandments of the Lord, pray to Him constantly to preserve you in truth and righteousness, live as you pray, and then whatever betides you the Lord will be with you and nothing will happen to you that will not be to the honor and glory of God and to your salvation and exaltation. There will come into your hearts from the living of the pure life you pray for a joy that will pass your powers of expression or understanding. The Lord will be always near you; He will comfort you; you will feel His presence in the hour of your greatest tribulation; He will guard and protect you to the full extent that accords with His all-wise purpose. Then, when the conflict is over and you return to your homes, having lived the righteous life, how great will be your happiness—whether you be of the victors or of the vanquished—that you have lived as the Lord commanded. You will return so disciplined in righteousness that thereafter all Satan’s wiles and stratagems will leave you untouched. Your faith and testimony will be strong beyond breaking. You will be looked up to and revered as having passed through the fiery furnace of trial and temptation and come forth unharmed. Your brethren will look to you for counsel, support, and guidance. You will be the anchors to which thereafter the youth of Zion will moor their faith in man.
 

@@ -18,13 +18,13 @@ Humbly and gratefully I stand before you this morning, humbled by the responsibi
 
 As an introduction to what I trust the Lord will be pleased to have me say today, I quote a short paragraph from a memorable prayer given at the dedication of the London Temple by President David O. McKay:
 
-*Next to life, we express gratitude for the gift of free agency. When thou didst create man, thou placed within him part of thine Omnipotence and bade him choose for himself. Liberty and conscience thus became a sacred part of human nature. Freedom not only to think, but to speak and act, is a God-given privilege.* [*Improvement Era, *October 1958, pp. 718–19]
+*Next to life, we express gratitude for the gift of free agency. When thou didst create man, thou placed within him part of thine Omnipotence and bade him choose for himself. Liberty and conscience thus became a sacred part of human nature. Freedom not only to think, but to speak and act, is a God-given privilege.* [*Improvement Era, *October 1958, pp. 718–19]
 
 As a further introduction, I quote from another beloved leader for whom our newest college on this campus is named—President J. Reuben Clark:
 
 *The Constitution of the United States is a great and treasured part of my religion. . . . The overturning, or the material changing, or the distortion of any fundamental principle of our constitutional government would thus do violence to my religion. . . . My faith teaches me that the Constitution is an inspired document drawn by the hands of men whom God raised up for that very purpose; that God has given His approval of the Government set up under the Constitution “for the rights and protection of all flesh, according to just and holy principles”: that the constitutional “principle of freedom in maintaining rights and privileges, belongs to all mankind, and is justifiable before” the Lord. (D&C 101:77, 98:5.) . . .*
 
-*So far as my knowledge goes, this is the only government now on the earth to which God has given such an approval. It is His plan for the government of free men.* [President J. Reuben Clark, *Stand Fast by Our Constitution, *pp. 7, 172]
+*So far as my knowledge goes, this is the only government now on the earth to which God has given such an approval. It is His plan for the government of free men.* [President J. Reuben Clark, *Stand Fast by Our Constitution, *pp. 7, 172]
 
 Not too many miles from Boston rests a large boulder on Lexington Green. Inscribed on this rock, which I read again a short time ago, are the words which Captain Parker gave to his minutemen on April 19, 1775, nearly 200 years ago:
 
@@ -50,9 +50,9 @@ But they aroused their fellow Americans. Within one year John Adams faced the bo
 
 *Through the thick gloom of the present, I see the brightness of the future as the sun in heaven. We shall make this a glorious, an immortal day. When we are in our graves, our children will honor it. They will celebrate it with thanksgiving, with festivity, with bonfires, and illuminations. On its annual return they will shed tears, copious, gushing tears, not of subjection and slavery, not of agony and distress, but of exultation, of gratitude and of joy.*
 
-*Sir, before God, I believe the hour is come. My judgment approves this measure, and my whole heart is in it. All that I have, and all that I am, and all that I hope, in this life, I am now ready here to stake upon it; and I leave off as I began, that live or die, survive or perish, I am for the Declaration. It is my living sentiment, and by the blessing of God it shall be my dying sentiment, Independence now, and Independence forever.* [*The Works *of *Daniel Webster, *4th ed., 1:133–:36]
+*Sir, before God, I believe the hour is come. My judgment approves this measure, and my whole heart is in it. All that I have, and all that I am, and all that I hope, in this life, I am now ready here to stake upon it; and I leave off as I began, that live or die, survive or perish, I am for the Declaration. It is my living sentiment, and by the blessing of God it shall be my dying sentiment, Independence now, and Independence forever.* [*The Works *of *Daniel Webster, *4th ed., 1:133–:36]
 
-Yesterday, I read further in the great current volume, *Quest of a Hemisphere, *by Boyle, published by Western Islands, Boston. I am grateful that we now have again a textbook for our children, grandchildren, and their parents that restores that which has, in many cases, been removed from our histories by wolves in sheep’s clothing.
+Yesterday, I read further in the great current volume, *Quest of a Hemisphere, *by Boyle, published by Western Islands, Boston. I am grateful that we now have again a textbook for our children, grandchildren, and their parents that restores that which has, in many cases, been removed from our histories by wolves in sheep’s clothing.
 
 I love history books that tell history as it was—as the Book of Mormon tells it—with the Lord in the picture guiding and directing the affairs of the righteous, winning their battles for them.
 
@@ -68,13 +68,13 @@ Here we read that:
 
 Here again in this new history are also the fiery words “give me liberty” of Patrick Henry of Virginia and also his words: “If this be treason, make the most of it.”
 
-John Hancock, George Mason, Paul Revere—John Dickinson and his *Letters from a Farmer, *“We cannot be happy without being free.”
+John Hancock, George Mason, Paul Revere—John Dickinson and his *Letters from a Farmer, *“We cannot be happy without being free.”
 
-*The British colonies were largely settled by people who had revolted against their living conditions in other lands. They were rebels, in a sense, who had the courage to flee from want and persecution, and face the perils of a wilderness to seek a better form of life. When they found a better way, they fought to keep it. Their children, grandchildren, and great-grandchildren did not want any monarch to change their way of life. They had plowed their own lands, built their own homes, and made their own clothes. Who was their master?* [Donzella Cross Boyle, *Quest of a Hemisphere *(Boston: Western Islands), p. 113]
+*The British colonies were largely settled by people who had revolted against their living conditions in other lands. They were rebels, in a sense, who had the courage to flee from want and persecution, and face the perils of a wilderness to seek a better form of life. When they found a better way, they fought to keep it. Their children, grandchildren, and great-grandchildren did not want any monarch to change their way of life. They had plowed their own lands, built their own homes, and made their own clothes. Who was their master?* [Donzella Cross Boyle, *Quest of a Hemisphere *(Boston: Western Islands), p. 113]
 
 Chapter seven closes with a discussion of freedom of the press and these stirring words inspired by Peter Zenger: “The right to print the truth is a necessary part of political. liberty.” And these by the famous lawyer, Andrew Hamilton from Philadelphia: “The loss of liberty, to a generous mind is worse than death. . . . The man who loves his country, prefers its liberty to all other considerations, well knowing that without liberty, life is a misery” (Ibid., p. 84).
 
-*Thus, in colonial days, did the people of the colonies stand firmly against any form of dictatorship. Thousands of immigrants came to the settlements along the Atlantic seaboard, with only a vague idea of the freedoms they were seeking, because they had not known many of them. They were pursuing a vision. Freedoms sprouted in a wilderness like flowers on a vacant lot, because each person who came had broken the pattern of life in his old country and he was starting all over again. “Something new” began to grow in the New World—a mere idea. People began to question the right of government to interfere with their freedom to come and go, to buy and sell, to own or lease, to talk or listen, to vote and elect. In other words, people began to think they had the right to govern themselves. Yet, a new nation had to rise in the Western Hemisphere before this idea gained the force of law.* “ [Ibid., p. 84]
+*Thus, in colonial days, did the people of the colonies stand firmly against any form of dictatorship. Thousands of immigrants came to the settlements along the Atlantic seaboard, with only a vague idea of the freedoms they were seeking, because they had not known many of them. They were pursuing a vision. Freedoms sprouted in a wilderness like flowers on a vacant lot, because each person who came had broken the pattern of life in his old country and he was starting all over again. “Something new” began to grow in the New World—a mere idea. People began to question the right of government to interfere with their freedom to come and go, to buy and sell, to own or lease, to talk or listen, to vote and elect. In other words, people began to think they had the right to govern themselves. Yet, a new nation had to rise in the Western Hemisphere before this idea gained the force of law.* “ [Ibid., p. 84]
 
 And so today on Lexington Green, you will see a sacred old monument nearly two hundred years of age that covers the remains of those patriotic minutemen, and on this monument are inscribed these words:
 
@@ -98,7 +98,7 @@ Said J. Reuben Clark, that great constitutional lawyer:
 
 *The Constitution was born, not only of the wisdom and experience of the generation that wrought it, but also out of the wisdom of the long generations that had gone before and which had been transmitted to them through tradition and the pages of history. . . .*
 
-*These were the horse and buggy days as they have been called in derision; these were the men who traveled in the horsedrawn buggies and on horseback; but these were the men who carried under their hats, as they rode in the buggies and on their horses, a political wisdom garnered from the ages. As giants to pygmies are they when placed alongside our political emigres and their fellow travelers of today, who now traduce them with slighting word and contemptuous phrase.* [J. Reuben Clark, Jr., *Church News, *November 29, 1952; *Stand Fast by Our Constitution, *pp. 134–:37]
+*These were the horse and buggy days as they have been called in derision; these were the men who traveled in the horsedrawn buggies and on horseback; but these were the men who carried under their hats, as they rode in the buggies and on their horses, a political wisdom garnered from the ages. As giants to pygmies are they when placed alongside our political emigres and their fellow travelers of today, who now traduce them with slighting word and contemptuous phrase.* [J. Reuben Clark, Jr., *Church News, *November 29, 1952; *Stand Fast by Our Constitution, *pp. 134–:37]
 
 If there are those who doubt President Clark’s tribute to our Founding Fathers, then hear the words of President Wilford Woodruff:
 
@@ -106,15 +106,15 @@ If there are those who doubt President Clark’s tribute to our Founding Fathers
 
 *Everyone of those men that signed the Declaration of Independence, with George Washington, . . . called upon me, as an Apostle of the Lord Jesus Christ, in the Temple at St. George two consecutive nights and demanded at my hand that I should go forth and attend to the ordinances of the house of God for them. . . .*
 
-*Would those spirits have called upon me, as an Elder in Israel, to perform that work if they had not been noble spirits before God? They would not. . . . Said they: “. . . We laid the foundation of the government you now enjoy, and we never apostatized from it, but we remained true to it and were faithful to God.”* [*Conference Reports, *April 1898, pp. 89–90; *Journal of Discourses, *19:229]
+*Would those spirits have called upon me, as an Elder in Israel, to perform that work if they had not been noble spirits before God? They would not. . . . Said they: “. . . We laid the foundation of the government you now enjoy, and we never apostatized from it, but we remained true to it and were faithful to God.”* [*Conference Reports, *April 1898, pp. 89–90; *Journal of Discourses, *19:229]
 
 These two documents—the Declaration of Independence and Constitution of the United States—resting on the bedrock of the love of the Lord and of liberty, became the foundation of our Republic. And from this foundation has come the greatest civilization on the face of the earth.
 
-James Russell Lowell was right when he said: “Our American republic will endure only as long as the ideas of the men who founded it continue dominant” (quoted in *Prophets, Principles and National Survival,*p. 149).
+James Russell Lowell was right when he said: “Our American republic will endure only as long as the ideas of the men who founded it continue dominant” (quoted in *Prophets, Principles and National Survival,*p. 149).
 
 What were those ideas? Well, they were in part incorporated in our Declaration of Independence and our Constitution. God grant we will all become familiar with both of these documents. And Washington covered them well when he said:
 
-*Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports. . . reason and experience both forbid us to expect that national morality can prevail in exclusion of religious principle. It is substantially true that virtue or morality is a necessary spring of popular government.* [George Washington, *Farewell Address, *September 17, 1796; *The Writings of George Washington, *Ford Edition, 13:307–:8]
+*Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports. . . reason and experience both forbid us to expect that national morality can prevail in exclusion of religious principle. It is substantially true that virtue or morality is a necessary spring of popular government.* [George Washington, *Farewell Address, *September 17, 1796; *The Writings of George Washington, *Ford Edition, 13:307–:8]
 
 I serve as a member of the Board of Trustees of this great university. One year we invited the late Cecil B. De Mille to speak to our student body and accept an award. I will never forget his words when he stated that men and nations cannot break the Ten Commandments, they can only break themselves upon them.
 
@@ -122,9 +122,9 @@ And he was right. Only a moral and religious people deserves or will defend its 
 
 Edmund Burke stated it well when he said:
 
-*Men are qualified for civil liberty in exact proportion to their disposition to put moral chains upon their own appetites—in proportion as their love of justice is above their rapacity—in proportion as their soundness and sobriety of understanding is above their vanity and presumption—in proportion as they are more disposed to listen to the counsels of the wise and good, in preference to the flattery of knaves. Society cannot exist, unless a controlling power upon the will and appetite is placed somewhere; and the less of it there is within, the more there must be without. It is ordained in the eternal constitution of things, that men of intemperate minds cannot be free. Their passions forge their fetters.* [Edmund Burke, *Works, *4:51–52, quoted in *Prophets, Principles and National Survival, *p. 33]
+*Men are qualified for civil liberty in exact proportion to their disposition to put moral chains upon their own appetites—in proportion as their love of justice is above their rapacity—in proportion as their soundness and sobriety of understanding is above their vanity and presumption—in proportion as they are more disposed to listen to the counsels of the wise and good, in preference to the flattery of knaves. Society cannot exist, unless a controlling power upon the will and appetite is placed somewhere; and the less of it there is within, the more there must be without. It is ordained in the eternal constitution of things, that men of intemperate minds cannot be free. Their passions forge their fetters.* [Edmund Burke, *Works, *4:51–52, quoted in *Prophets, Principles and National Survival, *p. 33]
 
-As Elder Albert E. Bowen put it: “Self-government involves self-control, self-discipline, an acceptance of and the most unremitting obedience to correct principles. . . . No other form of government requires so high a degree of individual morality” (*Improvement Era, *41 (1938): 266, quoted in P*rophets, Principles and National Survival, *p. 128).
+As Elder Albert E. Bowen put it: “Self-government involves self-control, self-discipline, an acceptance of and the most unremitting obedience to correct principles. . . . No other form of government requires so high a degree of individual morality” (*Improvement Era, *41 (1938): 266, quoted in P*rophets, Principles and National Survival, *p. 128).
 
 I love this great nation of which we are a part. I have traveled and lived abroad just enough to make me appreciate rather fully what we have here. I never return to these shores from abroad, as I have done scores of times, but what I think of the words of Scott:
 
@@ -142,11 +142,11 @@ I love this great nation of which we are a part. I have traveled and lived abroa
 
 *If such there breathe, go, mark him well. . . .*
 
-[Sir Walter Scott, “The Lay of the Last Minstrel,” in *The Complete Poetical Works of Scott, *Cambridge Edition (Boston:Houghton Mifflin Co. [c.1900]), p. 40]
+[Sir Walter Scott, “The Lay of the Last Minstrel,” in *The Complete Poetical Works of Scott, *Cambridge Edition (Boston:Houghton Mifflin Co. [c.1900]), p. 40]
 
 And then that great poem by Van Dyke, “America for Me”:
 
-*’Tis great to see the Old World and travel up and down *
+*’Tis great to see the Old World and travel up and down *
 
 *Among the famous palaces and cities of renoun,*
 
@@ -162,7 +162,7 @@ And then that great poem by Van Dyke, “America for Me”:
 
 *Where the air is full of freedom and the flag is full of stars.*
 
-[Henry Van Dyke, “America for Me,” in *The Best Loved Poems of the American People *(Garden City, New York: Garden City Publishing Co. [c. 1936]), p. 424]
+[Henry Van Dyke, “America for Me,” in *The Best Loved Poems of the American People *(Garden City, New York: Garden City Publishing Co. [c. 1936]), p. 424]
 
 Yes, I love this nation. To me it is not just another nation, not just a member of the family of nations. It is a great and glorious nation with a divine mission, brought into being under the inspiration of heaven. It is truly a land choice above all others. I thank God for the knowledge which we have regarding the prophetic history and the spiritual foundation of this great land of America.
 
@@ -172,15 +172,15 @@ I am grateful for the Founding Fathers of this land and for the freedom they hav
 
 I am grateful that the God of heaven saw fit to put his stamp of approval upon the Constitution and to indicate that it had come into being through wise men whom he raised up unto this very purpose. He asked the Saints, even in the dark days of their persecution and hardship, to continue to seek for redress from their enemies “according,” he said, “to the laws and constitution . . . which I have suffered [or caused] to be established, and should be maintained for the rights and protection of all flesh” (D&C 101 :77). And then he made this most impressive declaration: “And for this purpose have I established the Constitution of this land, by the hands of wise men whom I raised up unto this very purpose, and redeemed the land by the shedding of blood” (Ibid., 101:80).
 
-It is gratifying that the constitutions in many of the other lands of our neighbors in the Americas are patterned very much after this divinely-appointed Constitution, which the God of heaven directed in the founding of this nation. It is not any wonder, therefore, that Joseph Smith, the Prophet—a truly great American—referring to the Constitution, said, “[It] is a glorious standard; it is founded in the wisdom of God. It is a heavenly banner” (*Teachings of the Prophet Joseph Smith, *p. 147).
+It is gratifying that the constitutions in many of the other lands of our neighbors in the Americas are patterned very much after this divinely-appointed Constitution, which the God of heaven directed in the founding of this nation. It is not any wonder, therefore, that Joseph Smith, the Prophet—a truly great American—referring to the Constitution, said, “[It] is a glorious standard; it is founded in the wisdom of God. It is a heavenly banner” (*Teachings of the Prophet Joseph Smith, *p. 147).
 
 President Brigham Young declared prophetically,
 
-*When the day comes in which the Kingdom of God will bear rule, the flag of the United States will proudly flutter unsullied on the flagstaff of liberty and equal rights, without a spot to sully its fair surface; the glorious flag our fathers have bequeathed to us will then be unfurled to the breeze by those who have power to hoist it aloft and defend its sanctity.* [*Journal *of *Discourses, *2:317]
+*When the day comes in which the Kingdom of God will bear rule, the flag of the United States will proudly flutter unsullied on the flagstaff of liberty and equal rights, without a spot to sully its fair surface; the glorious flag our fathers have bequeathed to us will then be unfurled to the breeze by those who have power to hoist it aloft and defend its sanctity.* [*Journal *of *Discourses, *2:317]
 
 But, continuing, President Young asks:
 
-*How long will it be before the words of the Prophet Joseph will be fulfilled? He said if the Constitution of the United States were saved at all it must be done by this people. It will not be many years before these words come to pass.* [Ibid., 12:204]
+*How long will it be before the words of the Prophet Joseph will be fulfilled? He said if the Constitution of the United States were saved at all it must be done by this people. It will not be many years before these words come to pass.* [Ibid., 12:204]
 
 These words were spoken April 8, 1868, over one hundred years ago.
 
@@ -188,17 +188,17 @@ Yes, we have a rich heritage, but may I remind you that nations ofttimes sow the
 
 It is my conviction that God does now look with favor, and has looked with favor, upon this government, which he established by wise men. It is also my firm conviction that his protective hand is still over the United States of America. I know, too, that if we will keep the commandments of God—live as he has directed, and does now direct, through his prophets—we will continue to have his protecting hand over us. But we must be true to the eternal verities, the great Christian virtues which God has revealed. Then, and only then, will we be safe as a nation and as individuals. God grant that the faithfulness of the Latter-day Saints will provide the balance of power to save this nation in times of crisis.
 
-How many of you heard or saw the statement regarding some of these matters which our living prophet and his counselors gave us recently? It was presented over television and appeared in the Church section of the *Deseret News.* I quote a part of it. Said the First Presidency,
+How many of you heard or saw the statement regarding some of these matters which our living prophet and his counselors gave us recently? It was presented over television and appeared in the Church section of the *Deseret News.* I quote a part of it. Said the First Presidency,
 
 *We urge members of the Church and all Americans to begin now to reflect more intently on the meaning and importance of the Constitution, and of adherence to its principles. . . .*
 
-*In these challenging days, when there are so many influences which would divert us, there is a need to rededicate ourselves to the lofty principles and practices of our Founding Fathers.* [*Church News, *September 22, 1973, p. 3]
+*In these challenging days, when there are so many influences which would divert us, there is a need to rededicate ourselves to the lofty principles and practices of our Founding Fathers.* [*Church News, *September 22, 1973, p. 3]
 
 Let us not permit these admonitions of our living prophets to fall on deaf ears. Let us, as they direct, learn the meaning and importance of our God-ordained Constitution. Let us rededicate ourselves to the lofty principles and practices of those wise men whom God raised up to give us our priceless freedom. Our liberties, our salvation, our well-being as a church and as a nation depend upon it. This nation has a spiritual foundation—a prophetic history. Every true Latter-day Saint should love the United States of America—the most generous nation under heaven—the Lord’s base of operations in these last days. May we do all in our power to strengthen and safeguard this base and increase our freedom. This nation will, I feel sure, endure. It is God-ordained for a glorious purpose. We must never forget that the gospel message we bear to the world is to go forth to the world from this nation. And that gospel message can prosper only in an atmosphere of freedom. We must maintain and strengthen our freedom in this blessed land.
 
 I have wished, as did President Franklin D. Richards, that
 
-*we could have a goodly number of substantial young men growing up in our midst who would become skilled and mighty in the law, and who could go into any of the courts and set forth the true principles of justice and equity in all cases. We need more of such men. We do not want men to become lawyers, turn infidels and live for nothing but the little money they can make. We want to raise up a corps of young men armed with the spirit of the gospel, clothed with the holy priesthood, who can tell the judges in high places what the law is.* [*Journal of Discourses, *26:102]
+*we could have a goodly number of substantial young men growing up in our midst who would become skilled and mighty in the law, and who could go into any of the courts and set forth the true principles of justice and equity in all cases. We need more of such men. We do not want men to become lawyers, turn infidels and live for nothing but the little money they can make. We want to raise up a corps of young men armed with the spirit of the gospel, clothed with the holy priesthood, who can tell the judges in high places what the law is.* [*Journal of Discourses, *26:102]
 
 We have allowed our courts, through their anti-prayer, anti-God decisions, to outlaw in the schools the positive belief of the truths contained in the Declaration of Independence, the very foundation of our nation.
 

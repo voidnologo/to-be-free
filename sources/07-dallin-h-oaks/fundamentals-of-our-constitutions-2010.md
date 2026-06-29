@@ -33,7 +33,7 @@ Now I will proceed to discuss four major fundamentals of the United States Const
 
 As I speak of these great fundamentals, I wish to take the long view. I do not wish to be understood as endorsing or condemning specific actions or proposals on current issues. I know that some will apply what I say — one way or another — to issues currently being reported in the media. But I do not seek to be heard for the short term. Drawing on over 50 years of observing a multitude of controversies over the application of constitutions, I am trying to describe fundamental principles that will be meaningful for decades to come. I leave to my listeners the task of agreeing or disagreeing with my description of the great fundamentals and — if they wish — trying to apply them to the very complex issues of this day and the different issues of the days to come.
 
-	**I.     Popular Sovereignty**
+	**I.     Popular Sovereignty**
     
 
 	I mention first what is probably the most important of the great fundamentals of the United States Constitution—the principle of popular sovereignty: The people are the source of government power; it is they who consented to a constitution that delegates certain powers to the government. I stress this fundamental by emphasizing what are *not* the sources of sovereign power. Sovereignty is not inherent in a state or nation just because it has the power that comes from force of arms. Sovereignty does not come from the divine right of a king, who grants his subjects such power as he pleases or is forced to concede, as in the Magna Carta. And sovereignty does not rest in an aristocracy of self-appointed wise men who think that their high birth or prestigious education gives them the right to prescribe what is best for everyone else. Sovereignty is in the people as a whole, and their sovereignty is supreme, subject only to a few crucial limitations that I will discuss in a moment.
@@ -46,7 +46,7 @@ After two centuries in which Americans may have taken popular sovereignty for gr
 
 The government of the United States had to be ultimately responsible to the will of the sovereign people, but it also had to be stable. Without stability against an aroused majority, government could not give individuals or minorities protection against overreaching by the ruling majority, a reality most evident when an outraged public calls for immediate punishment of one accused but not yet shown guilty of a crime. Government policies should not be tossed about with temporary swings in public opinion. The Constitution had to give government the power to withstand the cries of a majority of the sovereign people in the short run, but it had to be subject to their direction in the long run. The delegates to the Constitutional Convention achieved the required balance among popular sovereignty, stability, and protection of minorities through a power of amendment that was ultimately available but deliberately slow. It required the action of very large majorities — two-thirds in the Senate and the approval of three-fourths of the states.
 
-	**II.   Division of Powers in a Federal System**
+	**II.   Division of Powers in a Federal System**
     
 
 Another great fundamental of the United States Constitution is its federal system, which divides government powers between the nation and the various states. This principle of federalism is at the heart of our Constitution. Unlike the next two fundamentals I will discuss, which were adaptations of earlier developments in English law, this division of sovereignty between two government levels was unprecedented in theory or practice. In a day when it is fashionable to assume that the national government has the power and means to right every perceived injustice, we should remember that the United States Constitution limits the national government to the exercise of powers expressly granted to it. The Tenth Amendment provides:
@@ -57,7 +57,7 @@ This principle of limited national powers, with all residuary powers reserved to
 
 In my lifetime I have seen much neglect of this fundamental constitutional principle. For example, the power to make laws on personal relationships is one of those powers not granted to the federal government and therefore reserved to the states. Thus, the ordinary laws governing marriage and family rights and duties are state laws, subject to the power of national law to govern the extent to which the law of one state is binding on others. The dominance of state law in these personal matters would have been changed by the Equal Rights Amendment (E.R.A.) proposed about 30 years ago. The dominance of state law will also be changed if, after full review, federal courts decree that a state law on marriage is invalid under the United States Constitution. Whatever the merits of current controversies over the laws of marriage and child adoption and the like, let us not forget that if the decisions of federal courts can override the actions of state lawmakers on this subject, we have suffered a significant constitutional reallocation of lawmaking power from the lawmaking branch to the judicial branch and from the states to the federal government.
 
-	**III.  Bill of Rights**
+	**III.  Bill of Rights**
     
 
 A bill of rights, the third great fundamental of the United States Constitution, came by amendment, but I think almost all Americans look upon these first ten amendments as an essential part of the original Constitution.
@@ -95,7 +95,7 @@ Unpopular minority religions are especially dependent upon a constitutional guar
 
 2. “A follower is far more likely to act on the words of a religious authority figure than other speakers.”[9]
 
-	3.    Therefore, “in some cases, society and government should view religious speech as inherently *less protected* than secular political speech because of its extraordinary ability to influence the listener.”[10]
+	3.    Therefore, “in some cases, society and government should view religious speech as inherently *less protected* than secular political speech because of its extraordinary ability to influence the listener.”[10]
 
 
 He concludes:
@@ -109,7 +109,7 @@ I hope that those who might be persuaded by these arguments will consider how ea
 
 	Religious *belief* and preaching must be protected against government action, even while the *practice* of that belief must have some limits, as I suggested earlier. But unless the guarantee of free exercise of religion gives a religious actor *greater* protection against government prohibitions than are already guaranteed to all actors by other provisions of the Constitution (like freedom of speech), what is the special value of *religious* freedom? Surely the First Amendment guarantee of free exercise of *religion* was intended to grant more freedom to religious preaching and action than to other kinds of speech and action. Treating actions based on religious belief the same as actions based on other systems of belief should not be enough to satisfy the special place of religion in the United States Constitution.
 
-	**IV.  Separation of Powers**
+	**IV.  Separation of Powers**
     
 
 The fourth great fundamental of the United States Constitution and of our state constitutions is the principle of separation of powers. This principle puts our national government on a significantly different foundation than the parliamentary systems of most western governments. The idea of separation of powers came out of the English experience, when parliament wrested certain powers from the king in the conflicts of the 1600s, thus achieving some separation of legislative and executive authority. But the United States Constitution carried this separation much further.
@@ -174,11 +174,11 @@ In the end, the only complete remedy for judicial activism is judicial restraint
 
 I conclude with some suggestions about our responsibilities as citizens. We have a great Constitution whose fundamental principles many believe to be divinely inspired. Therefore what? I will suggest five responsibilities that I believe are appropriate for all citizens—whatever their religious or philosophical persuasion.
 
-	1.    __Understand the Constitution__
+	1.    __Understand the Constitution__
 
 All citizens should be familiar with its great fundamentals: the sovereignty of the people, the structure of federalism that divides powers between the state and the federal government, the individual guarantees in the Bill of Rights, and the principle of separation of powers among the various branches of government. We should take alarm at and consider how to oppose any action that would infringe these fundamentals.
 
-	2.    __Support the Law__
+	2.    __Support the Law__
 
 All citizens should give law-abiding support to their national, state, and local governments. My religious faith expresses this principle in an official declaration of belief:
 
@@ -186,7 +186,7 @@ All citizens should give law-abiding support to their national, state, and local
 
 “We believe that all men are bound to sustain and uphold the respective governments in which they reside” (D&C 134:1, 5).
 
-	3.    __Practice Civic Virtue__
+	3.    __Practice Civic Virtue__
 
 Those who enjoy the blessings of liberty under our national and state constitutions should promote morality, and they should practice what the Founding Fathers called “civic virtue.” John Adams, the second president of the United States, declared, “Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.”[16]
 
@@ -198,7 +198,7 @@ Then there is the matter of voting. I have been alarmed at the steady decline of
 
 It is also part of civic virtue to be moral in our conduct toward all people. We believe with the author of Proverbs that “righteousness exalteth a nation: but sin is a reproach to any people” (Proverbs 14:34). The personal righteousness of citizens will strengthen a nation more than the force of its arms.
 
-	4.    __Maintain Civility in Political Discourse__
+	4.    __Maintain Civility in Political Discourse__
 
 If representative government is to function effectively under our constitutions, we must have civility in political discourse. We currently have an excess of ugliness and contentiousness in our communications on many political issues. I don’t need to give examples; we have all been exposed to it, and some of us have occasionally been part of it. We all bear some responsibility for the current political polarization and the stalemates that have resulted from it. We ought to tone it down. Meaningful debate and discussion about policies, programs, and procedures is essential to a democratic society. But contentiousness for the sake of division is bad for democracy. It is bad for law observance. It is bad for neighborly relations. And it is particularly destructive as an example for the rising generation, who, if not taught better, will perpetuate and magnify its ugliness and divisiveness for generations to come.
 
@@ -208,7 +208,7 @@ A year ago our Church published a statement called “The Mormon Ethic of Civili
 
 Our President, Thomas S. Monson, has said, “When a spirit of goodwill prompts our thinking and when unified effort goes to work on a common problem, the results can be most gratifying.”[19]
 
-	5.    __Promote Patriotism__
+	5.    __Promote Patriotism__
 
 	Finally, the single word that best describes a fulfillment of the responsibilities of citizenship is *patriotism*. Citizens should be patriotic. My favorite prescription for patriotism is that of Adlai Stevenson, the Illinois governor who was twice the Democratic candidate for President:
 

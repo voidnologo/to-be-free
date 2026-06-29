@@ -2388,7 +2388,7 @@ of America; with the fundamental principles of the Rev-
 olution; or with that honorable determination which ani-
 mates every votary of freedom, to rest all our pohtical ex-
 periments on the capacity of mankind for self-govern-
-ment.**'
+ment.'
   All of this can be so easily misunderstood, taken out of
 context as it is. Those who have gone far toward deifying
 majority rule and popular government as ends in them-
@@ -3478,7 +3478,7 @@ American scene, and the Sixteenth opened the way prac-
 tically for the federal government to engage in the redis-
 tribution of the wealth.
 
-**States'   Rights" a Misnomer
+States'   Rights" a Misnomer
 
   Defenders of the American system of federalism have
 frequently fallen into a ready trap. They have usually be-
@@ -5406,7 +5406,7 @@ probably have said that beyond the realm of the natural
 lies the supernatural, beyond the physical Ues the meta-
 
 physical, beyond reason there is revelation. But this region
-**beyond" is a matter for religion, a matter for the indi-
+beyond" is a matter for religion, a matter for the indi-
 vidual conscience, a matter for a    man and his intimate
 relationship to his God. It would be presumptuous for hu-
 man beings to legislate about such matters. To protect a
@@ -6070,7 +6070,7 @@ money expended, the largest charitable efforts. North and
 South, were devoted to reheving families of service men.
 Oft-repeated warnings of the dangers of unwise giving
 were forgotten for the moment as community and state-
-wide relief organizations solicited contributions.   **"
+wide relief organizations solicited contributions.   "
                                                        . It.   .
 
 might not be accurate to say that no one suffered de-
@@ -8577,7 +8577,7 @@ ideal  accompaniment of industrial progress in Europe
 during the era from 1830 to 1870 was replaced to a large
 extent during the era from 1870 to 1910 by neomercan-
 tilism, by governmental attempts to treat industry and ag-
-                                                        "**
+                                                        "
 riculture, commerce and labor, as 'national interests.'
 
 Prelude to     War

@@ -15,16 +15,16 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Socialism", "United Order / Welfare", "Constitution", "Communism", "Free Agency", "Morality & Virtue"]
 ---
 
-**Member
+Member
 of the Council of the Twelve
-**
 
-**Church
+
+Church
 of Jesus Christ of Latter-day Saints
-**
 
-**1966
-**
+
+1966
+
 
 President Wilkinson, faculty
 members, students, brothers and sisters all. First I want to thank that choir. I

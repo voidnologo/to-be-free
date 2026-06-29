@@ -1041,7 +1041,7 @@ the "-whisky boys at Pittsburg," or General Jackson had to
 send an armed force to suppress the rebellion of South
 Carolina.
         To close, I would admonish you, before you let your
-**
+
      candor compel* \ you again, to write upon a subje6^ great
 as the salvation of man,      consequential as the   life of the
                      CORRESPONDENXE.                         31

@@ -16,7 +16,7 @@ tags: ["Liberty & Freedom", "Religious Freedom", "Constitution", "Morality & Vir
 
 *This address was given on Wednesday, July 20, 2022, at the 2022 Notre Dame Religious Liberty Summit in Rome, Italy. See a news summary from the event.*
 
-**I. Introduction**
+**I. Introduction**
 
 Why would a leader of The Church of Jesus Christ of Latter-day Saints be invited to speak about religious liberty at a Notre Dame symposium in Rome? From its beginning in the United States in 1830, our Church and its members have experienced religious persecution. Catholics and other minorities in the United States have suffered persecution as well.
 
@@ -63,7 +63,7 @@ Catholics, Evangelicals, Jews, Muslims, Latter-day Saints, and other faiths must
 
 When leaders join forces to confront religious liberty challenges, they do not need to examine doctrinal differences or identify their many common elements of belief. All that is necessary for unity is our shared conviction that God has commanded us to love one another and has granted us freedom in matters of faith.
 
-**III.** **The Background of Religious Liberty**
+**III. The Background of Religious Liberty**
 
 Religious liberty has a long and troubled background, from the time it did not exist anywhere in the world to current circumstances, in which most countries recognize the principle but still contest how it should be applied.
 

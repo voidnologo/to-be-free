@@ -12,7 +12,7 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Religious Freedom", "Liberty & Freedom", "Constitution", "Morality & Virtue", "Family"]
 ---
 
-*Elder Dallin H. Oaks is a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints. The following address was delivered at Utah Valley University's Constitutional Symposium on Religious Freedom on 16 April 2014.*
+*Elder Dallin H. Oaks is a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints. The following address was delivered at Utah Valley University's Constitutional Symposium on Religious Freedom on 16 April 2014.*
 
 It has been 30 years since I left the legal profession to assume my present duties. The invitation to give the keynote address at this symposium on religious freedom calls me out of legal retirement to speak in a non-Church forum. In this circumstance some will see me as a Church authority, but on this occasion I do not speak of Church doctrine. On a vital public issue, I speak in behalf of all religious people, and that is a significant majority of Americans. Recent Gallup Polls show that 90 percent of Americans say they believe in God,[1] and 40 percent say they attend religious services regularly and religion is an important part of their daily life.[2]
 
@@ -30,7 +30,7 @@ I wish I could give a similarly sound forecast for the next 30 years, but I lack
 
 The First Amendment guarantees of freedom of speech and free exercise of religion are the twin guarantees of the conditions of freedom that are at the foundation of our nation. Unfortunately, there are reasons to be concerned about the current practical vitality of each of these guarantees.
 
-**A.    Free Speech**
+**A.    Free Speech**
 
 I speak first of free speech. I believe we live in a time of diminishing freedom of speech—not the formal free-speech doctrine declared by the United States Supreme Court, but the extent of free speech enjoyed by citizens in their daily lives. Ironically, this occurs at a time when technology has extended the impact of speech far beyond what could have been imagined even a few decades ago. But what kind of speech? I fear that free speech is diminishing as a result of the chilling effect of mostly invisible restraints, even censorship.
 
@@ -62,7 +62,7 @@ Unfortunately, recent crimes in other parts of the world by religious-motivated 
 
 European lawmakers are struggling to balance these competing interests without diminishing free speech or diluting the freedom of religion. It is a daunting effort that might perhaps be avoided by following the ancient wisdom that it is easier to make friends than to make laws. With patience and mutual understanding, most such issues can be resolved by appealing to each side to tone down their rhetoric and their responses. From the standpoint of religion, it will often be better to forego legal remedies against persons who insult the faith rather than to weaken the freedoms of speech and press that should be more important in the long run as means to promulgate and defend the faith.
 
-**B.    Religious Freedom**
+**B.    Religious Freedom**
 
 I am one of many religious persons who have decried the alarming trajectory of theories, court decisions, and executive actions that are diminishing the free exercise of religion.
 
@@ -112,7 +112,7 @@ Despite the legal challenges and seeming momentum of efforts and trends against 
 
 I rely on the guarantees in the First Amendment to our nation’s constitution and on the fact that the constitutions and laws of more than half of our states still have significant religious liberty protections. I also rely on the fact that our nation’s Religious Freedom Restoration Act (RFRA) also continues to provide significant religious liberty protections against the United States government. But beyond these legal guarantees there are many other reasons for optimism in the long run.
 
-**A.    Increasing Recognition of the Importance of Religious Freedom**
+**A.    Increasing Recognition of the Importance of Religious Freedom**
 
 One reason for optimism is that the threats to religious speech and religious freedom have become so notorious that our citizens are beginning to be concerned. A recent study showed that one-fourth of all Americans consider religion to be the most threatened of the First Amendment freedoms.[19] Citizens are beginning to understand that the free exercise of religion and the freedom of speech protect religious *people *as well as religious *organizations. *Concerned persons are beginning to initiate the legal actions necessary to expand the underdeveloped law of religious freedom.
 
@@ -126,7 +126,7 @@ Another encouraging development in the world of ideas is the increased academic 
 
 There are also reasons for hope on the international scene. Professor Cole Durham, a respected international observer, sees a promising movement toward enhanced protection of religious freedom in many nations. Last June, the Council of the European Union adopted “EU Guidelines on the Promotion and Protection of Freedom of Religion.” Both the European Parliament and the United Kingdom have working groups specifically focused on this subject. Some of these groups are cooperating to form caucuses in various parliaments around the world. This type of consideration at important levels of government is likely to prove powerful in the world of ideas and politics.
 
-**B.    Calamities Can Strengthen Instead of Destroy**
+**B.    Calamities Can Strengthen Instead of Destroy**
 
 Perhaps this groundswell of interest in religious freedom confirms an intriguing hypothesis of one of the most creative social thinkers of the last century, Harvard University’s Pitirim Sorokin. He hypothesized that major social events viewed as calamities can set in motion movements that produce exactly the opposite of the expected result. Applying that hypothesis to religious movements, Sorokin wrote:
 
@@ -138,7 +138,7 @@ After reviewing religious and other history, Sorokin posted this general rule:
 
 And so, for example, secular and religious histories have notable examples of spiritual growth and societal strength emerging from apparent calamities. For example, the world’s current commitment to human rights, including the right to freedom of religion, emerged from the calamity of World War II, where human rights had been cruelly suppressed.
 
-**C.    The Hope for Mutual Understanding and Accommodation**
+**C.    The Hope for Mutual Understanding and Accommodation**
 
 My last cause for hope is not tied to developments but to principles. I am optimistic about the long-term prospect of furthering the interests of all contending parties by mutual understanding and accommodation.
 
@@ -199,7 +199,7 @@ Such hopes can only be realized by concentrating on what we have in common, by s
 
 [16] *West Virginia Board of Education v. Barnette*, 319 U.S. 624, 642 (1943).
 
-[17] Dred Scott v. Sandford, 60 *U.S.* *393* (1857). There are many books on the Dred Scott case. I have used Doris Kearns Goodwin, *Team of Rivals *(Simon & Schuster, 2005), 188-89, and Mark L. Shurtleff, *Am I Not a Man* (Valor Publishing Group, 2009), 482.
+[17] Dred Scott v. Sandford, 60 *U.S.* *393* (1857). There are many books on the Dred Scott case. I have used Doris Kearns Goodwin, *Team of Rivals *(Simon & Schuster, 2005), 188-89, and Mark L. Shurtleff, *Am I Not a Man* (Valor Publishing Group, 2009), 482.
 
 [18] Rodgers and Hammerstein, *South Pacific*, “A Cockeyed Optimist.”
 

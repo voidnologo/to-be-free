@@ -7,7 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-red-pill-statemen
 source_file: "raw/The Red Pill (Statements on Freedom).html"
 source_format: "html"
 retrieved: "2026-06-28"
-source_note: "Compilation “The Red Pill (Statements on Freedom)”; no single date. TODO: source each quote individually."
+source_note: "Compilation “The Red Pill (Statements on Freedom)” by Elden & Jared Van Hauwaert; each quote is attributed inline to its source. No single document date."
 status: "full"
 collection: "research-extended"
 word_count: 10989
@@ -387,4 +387,4 @@ John Taylor
 
 (Patrick Henry)
 
-“If ye love wealth greater than liberty, the tranquility of servitude better than the animating contest for freedom, go home and leave us in peace. We seek not your council nor your arms. Crouch down and lick the hand that feeds you; May your chains set lightly upon you** **and may posterity forget that ye were our countrymen.”(Samuel Adams founding father).
+“If ye love wealth greater than liberty, the tranquility of servitude better than the animating contest for freedom, go home and leave us in peace. We seek not your council nor your arms. Crouch down and lick the hand that feeds you; May your chains set lightly upon you and may posterity forget that ye were our countrymen.”(Samuel Adams founding father).

@@ -16,7 +16,7 @@ tags: ["Liberty & Freedom", "Religious Freedom", "Family", "Book of Mormon", "Co
 
 We must strive for mutual understanding and treat all with goodwill. We must exercise patience. We should all speak out for religion and the importance of religious freedom. We must, above all, trust in God and His promises.
 
-I am pleased for the opportunity to speak at this BYU devotional. The first BYU devotional I addressed was exactly forty-five years ago, in 1971. That audience included my oldest *daughter,* just enrolling as a freshman here. Many years later I spoke at this devotional assembly to an audience that included several of my *grandchildren.* Today this audience includes our oldest *great-granddaughter,* a sophomore here. Time goes on.
+I am pleased for the opportunity to speak at this BYU devotional. The first BYU devotional I addressed was exactly forty-five years ago, in 1971. That audience included my oldest *daughter,* just enrolling as a freshman here. Many years later I spoke at this devotional assembly to an audience that included several of my *grandchildren.* Today this audience includes our oldest *great-granddaughter,* a sophomore here. Time goes on.
 
 **I.**
 
@@ -32,11 +32,11 @@ We should also remember not to be part of the current meanness. We should commun
 
 I spoke about this subject two years ago in an October general conference talk titled “Loving Others and Living with Differences.” My message focused on doctrine and its application to the differences we face in our diverse circumstances in Church and family and in public, but the principles I taught are also relevant to political differences. I said:
 
-*We are to live **in** the world but not be **of** the world. We must live in the world because, as Jesus taught in a parable, His kingdom is “like leaven,” whose function is to raise the whole mass by its influence (see Luke 13:21; Matthew 13:33; see also 1 Corinthians 5:6–8). His followers cannot do that if they associate only with those who share their beliefs and practices. . . .*
+*We are to live **in** the world but not be **of** the world. We must live in the world because, as Jesus taught in a parable, His kingdom is “like leaven,” whose function is to raise the whole mass by its influence (see Luke 13:21; Matthew 13:33; see also 1 Corinthians 5:6–8). His followers cannot do that if they associate only with those who share their beliefs and practices. . . .*
 
-[The Lord also taught that] ** “he that hath the spirit of contention is not of me, but is of the devil, who is the father of contention, and he stirreth up the hearts of men to contend with anger, one with another”** [3 Nephi 11:29]
+[The Lord also taught that] **“he that hath the spirit of contention is not of me, but is of the devil, who is the father of contention, and he stirreth up the hearts of men to contend with anger, one with another”** [3 Nephi 11:29]
 
-*Even as we seek to . . . avoid contention, we must not compromise or dilute our commitment to the truths we understand. We must not surrender our positions or our values. . . .*
+*Even as we seek to . . . avoid contention, we must not compromise or dilute our commitment to the truths we understand. We must not surrender our positions or our values. . . .*
 
 [In] *public discourse, we should all follow the gospel teachings to love our neighbor and avoid contention. Followers of Christ should be examples of civility. We should love all people, be good listeners, and show concern for their sincere beliefs.*2
 
@@ -50,21 +50,21 @@ Finally, as I said two years ago:
 
 In the distressing circumstances that surround us, we must trust in God and His promises and hold fast to the vital gospel teaching of hope. The prophet Nephi taught that we must “press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men” (2 Nephi 31:20). Later, the apostle Paul told the Corinthians:
 
-*We are troubled on every side, yet not distressed; we are perplexed, but not in despair;*
+*We are troubled on every side, yet not distressed; we are perplexed, but not in despair;*
 
-*Persecuted, but not forsaken; cast down, but not destroyed.* [2 Corinthians 4:8–9]
+*Persecuted, but not forsaken; cast down, but not destroyed.* [2 Corinthians 4:8–9]
 
 When we trust in the Lord that all will work out, this hope keeps us moving. Hope is a characteristic Christian virtue. I am glad to practice it and to recommend it to counter all current despairs.
 
 Hope based on trust in the Lord and His promises has sustained me through all the circumstances of my life. For example, when I approached my first enrollment at BYU, sixty-six years ago, the Korean War had just begun. I had just celebrated my eighteenth birthday, and my Utah National Guard field artillery group had just been alerted to join the war in Korea. Two of our battalions had already been mobilized and sent to training locations in the United States. Only the group headquarters here in Provo, to which I belonged, had not yet received its mobilization orders. We were expecting to be sent any day.
 
-As we waited, it came time for freshmen to enroll for the fall quarter at BYU. What should I do? I decided to enroll, pay tuition, start school, and trust in the Lord for whatever happened. If my unit was mobilized, I would leave. If not, I would at least be proceeding forward with my education. Incidentally, the total enrollment at BYU that quarter was only 4,500 students4 and the tuition and fees were only $45.5 As it turned out, our small headquarters group was never mobilized, so I continued and completed my formal education.
+As we waited, it came time for freshmen to enroll for the fall quarter at BYU. What should I do? I decided to enroll, pay tuition, start school, and trust in the Lord for whatever happened. If my unit was mobilized, I would leave. If not, I would at least be proceeding forward with my education. Incidentally, the total enrollment at BYU that quarter was only 4,500 students4 and the tuition and fees were only $45.5 As it turned out, our small headquarters group was never mobilized, so I continued and completed my formal education.
 
 Every generation has challenges that can cause discouragement in those without hope. The future is always clouded with uncertainties—wars and depressions being only two examples. While some abandon progress, you of faith should hope on and press on with your education, your lives, and your families.
 
 Some years ago President Thomas S. Monson gave this valuable counsel:
 
-*My brothers and sisters, today, as we look at the world around us, we are faced with problems which are serious and of great concern to us. . . .*
+*My brothers and sisters, today, as we look at the world around us, we are faced with problems which are serious and of great concern to us. . . .*
 
 *My counsel for all of us is to look to the lighthouse of the Lord. There is no fog so dense, no night so dark, no gale so strong, no mariner so lost but what its beacon light can rescue. It beckons through the storms of life. The lighthouse of the Lord sends forth signals readily recognized and never failing.*6
 
@@ -88,7 +88,7 @@ Most of the examples I will give are in higher education, but comparable example
 
 As I provide my list of examples, I invite you to augment or challenge these with observations of your own. Weigh the whole and reach your own conclusions. As you do, note the close relationship between the free exercise of religion and the associated rights of free speech and freedom of assembly.
 
-1. Earlier this year a group in the California legislature sought to deny state funding to students of private colleges and universities that rely on religious exemptions from Title IX non-discrimination requirements. Fortunately that effort was blocked, but it will return next year.10 Title IX is the same federal statute that was sought to be used to force BYU to have coed dorms when I was president forty years ago.11 BYU prevailed in that earlier contest, but in today’s political climate, such attempts to override the freedoms of religious colleges seem certain to continue.
+1. Earlier this year a group in the California legislature sought to deny state funding to students of private colleges and universities that rely on religious exemptions from Title IX non-discrimination requirements. Fortunately that effort was blocked, but it will return next year.10 Title IX is the same federal statute that was sought to be used to force BYU to have coed dorms when I was president forty years ago.11 BYU prevailed in that earlier contest, but in today’s political climate, such attempts to override the freedoms of religious colleges seem certain to continue.
 
 2. A more common and more personal challenge to free speech in current policy debates is the labeling of opposition arguments as “hate speech” or “bigotry.” This kind of name-calling chills free speech by seeking to penalize the speech of opponents—personally, socially, or professionally. A legal scholar’s recent book, which advocates pluralism, mutual respect, and coexistence, states that the label “bigot” is a “conversation stopper” because it “attributes a particular [negative] motive to an action.”12 The author observed that this kind of labeling “frequently appears against religious believers and groups that maintain traditional beliefs about sexuality in their internal membership requirements.”13 Incidentally, my dictionary defines *bigot* as “a person who is utterly intolerant of any creed, belief, or opinion that differs from his own.”14 Who fits that description in this contest of motives and opinions?
 
@@ -110,9 +110,9 @@ As I provide my list of examples, I invite you to augment or challenge these wit
 
 We are fortunate that there are leaders whose examples and words promote the values of freedom. Two years ago the leadership of the University of Chicago noted “recent events nationwide that have tested institutional commitments to free and open discourse.” They established a faculty Committee on Freedom of Expression, whose report has now been influential with other senior institutions. That report gave expression to such traditional ideas as these:
 
-*It is not the proper role of the University to attempt to shield individuals from ideas and opinions they find unwelcome, disagreeable, or even deeply **offensive. . . .*
+*It is not the proper role of the University to attempt to shield individuals from ideas and opinions they find unwelcome, disagreeable, or even deeply offensive. . . .*
 
-* . . . The University’s fundamental commitment is to the principle that debate or deliberation may not be suppressed because the ideas put forth are thought by some or even by most members of the University community to be offensive, unwise, immoral, or wrong-headed. It is for the individual members of the University community, not for the University as an institution, to make those judgments for themselves.*17
+* . . . The University’s fundamental commitment is to the principle that debate or deliberation may not be suppressed because the ideas put forth are thought by some or even by most members of the University community to be offensive, unwise, immoral, or wrong-headed. It is for the individual members of the University community, not for the University as an institution, to make those judgments for themselves.*17
 
 That report of course acknowledged that the university may restrict certain kinds of expressions, such as those that are illegal, defamatory, threatening, or harassment. Significantly, it also recognized restrictions on speech “that is otherwise directly incompatible with the functioning of the University.”18
 
@@ -126,11 +126,11 @@ Both are private universities. Both must be free to pursue their separate declar
 
 The differences are rooted in BYU’s unique religious mission and the method of learning inherent in it. As stated in BYU’s official policy on academic freedom, dated more than twenty-three years ago, “The BYU community embraces traditional freedoms of study, inquiry, and debate, together with the special responsibilities implicit in the university’s religious mission.”19 Those special responsibilities include some limits on academic freedom. Limitations are common to all universities, as the Chicago report conceded, but BYU’s limitations are express and well publicized. Its policy states:
 
-*BYU defines itself as having a unique religious mission and as pursuing knowledge in a climate of belief. This model of education differs clearly and consciously from public university models that embody a separation of church and state. . . .*
+*BYU defines itself as having a unique religious mission and as pursuing knowledge in a climate of belief. This model of education differs clearly and consciously from public university models that embody a separation of church and state. . . .*
 
-*. . . Religion offers venerable alternative theories of knowledge by presupposing that truth is eternal, that it is only partly knowable through reason alone, and that human reason must be tested against divine revelation.*20
+*. . . Religion offers venerable alternative theories of knowledge by presupposing that truth is eternal, that it is only partly knowable through reason alone, and that human reason must be tested against divine revelation.*20
 
-In that context, BYU students commit to a code of honor that prohibits speech that is dishonest, illegal, profane, or unduly disrespectful of others. The limitations on faculty expression apply to expression that *seriously and adversely** affects the university mission or the Church. . . . Examples would include expression with students or in public that:*
+In that context, BYU students commit to a code of honor that prohibits speech that is dishonest, illegal, profane, or unduly disrespectful of others. The limitations on faculty expression apply to expression that *seriously and adversely affects the university mission or the Church. . . . Examples would include expression with students or in public that:*
 
 * • contradicts or opposes, rather than analyzes or discusses, fundamental Church doctrine or policy; *[or]
 
@@ -166,37 +166,37 @@ In the name of Jesus Christ, amen.
 
 **Notes**
 
-1. Joseph Smith, “Baptism for the Dead,” *Times and Seasons* 3, no. 12 (15 April 1842): 759, punctuation modernized; quoted in *Teachings of Presidents of the Church: Joseph Smith* (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 2007), 404.
+1. Joseph Smith, “Baptism for the Dead,” *Times and Seasons* 3, no. 12 (15 April 1842): 759, punctuation modernized; quoted in *Teachings of Presidents of the Church: Joseph Smith* (Salt Lake City: The Church of Jesus Christ of Latter-day Saints, 2007), 404.
 
 2. Dallin H. Oaks, “Loving Others and Living with Differences,” *Ensign,* November 2014, 25–27; emphasis in original.
 
 3. Oaks, “Loving Others,” 27.
 
-4. See table 2 in *Brigham Young University Enrollment Résumé, 1963–64* (Provo: Office of Institutional Research, BYU, May 1965), 4.
+4. See table 2 in *Brigham Young University Enrollment Résumé, 1963–64* (Provo: Office of Institutional Research, BYU, May 1965), 4.
 
 5. See *Brigham Young University Annual Catalog Issue: 1950–51* (Provo: BYU, 1950), 40, archive.org/details/annualcataloguei19501951brig.
 
-6. Thomas S. Monson, “A Word at Closing,” *Ensign,* May 2010, 113.
+6. Thomas S. Monson, “A Word at Closing,” *Ensign,* May 2010, 113.
 
 7. Kim B. Clark, “The Lord’s Pattern,” BYU address given at university conference, 22 August 2016.
 
 8. First Amendment to the United States Constitution.
 
-9. See, e.g., “The Muzzle Grows Tighter,” Free Speech, *The Economist* 419, no. 8992 (4 June 2016): 55–58, economist.com/news/international/21699906-freedom-speech-retreat-muzzle-grows-tighter.
+9. See, e.g., “The Muzzle Grows Tighter,” Free Speech, *The Economist* 419, no. 8992 (4 June 2016): 55–58, economist.com/news/international/21699906-freedom-speech-retreat-muzzle-grows-tighter.
 
 10. See Darren Patrick Guerra and Andrew T. Walker, “Religious Liberty Crisis Averted in California,” Public Discourse, Witherspoon Institute, 17 August 2016, thepublicdiscourse.com/2016/08/17628.
 
 11. See, e.g., “BYU Receives Support on Stand Against Sex Bias Rules,” *Ensign,* February 1976, 79.
 
-12. John D. Inazu, *Confident Pluralism: Surviving and Thriving Through Deep Difference* (Chicago: University of Chicago Press, 2016), 98, 99.
+12. John D. Inazu, *Confident Pluralism: Surviving and Thriving Through Deep Difference* (Chicago: University of Chicago Press, 2016), 98, 99.
 
 13. Inazu, *Confident Pluralism,* 98.
 
 14. *The Random House Dictionary of the English Language,* s.v. “bigot,” 146.
 
-15. See Peter Schmidt, “Speaker Beware: Student Demands Make Campus Speech a Minefield,” Special Reports, *The Chronicle of Higher Education,* 29 February 2016, chronicle.com/article/Speaker-Beware/235428.
+15. See Peter Schmidt, “Speaker Beware: Student Demands Make Campus Speech a Minefield,” Special Reports, *The Chronicle of Higher Education,* 29 February 2016, chronicle.com/article/Speaker-Beware/235428.
 
-16. Clark Kerr, remarks at Charter Day ceremonies, University of California, Berkeley, 20 March 1961; quoted by David Halligan in Letters to the Editor, *The Economist,* 25 June 2016, 16, economist.com/news/letters/21701088-letters-editor.
+16. Clark Kerr, remarks at Charter Day ceremonies, University of California, Berkeley, 20 March 1961; quoted by David Halligan in Letters to the Editor, *The Economist,* 25 June 2016, 16, economist.com/news/letters/21701088-letters-editor.
 
 17. Laura Demanski, “Opening Inquiry,” *University of Chicago Magazine,* July–August 2015, mag.uchicago.edu/university-news/opening-inquiry.
 

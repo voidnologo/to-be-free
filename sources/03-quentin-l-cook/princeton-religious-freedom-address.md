@@ -12,9 +12,9 @@ commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Morality & Virtue", "Liberty & Freedom", "Religious Freedom", "Family"]
 ---
 
-**Accountability to God**
+Accountability to God
 
-**Religious Freedom and Fairness**
+Religious Freedom and Fairness
 
 *By Elder Quentin L. Cook*
 

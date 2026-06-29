@@ -26,7 +26,7 @@ In these days of trial and sorrow, when Satan is "seeking to destroy
 deep and abiding love and blessing. 
 
 
-**Our Testimonies **
+**Our Testimonies**
 
 We bear witness to all the world that God lives, and still rules, that His
 righteous ways and His truth will finally prevail. 
@@ -87,7 +87,7 @@ It is becoming increasingly clear that very many of our physicians and surgeons
 to succor. 
 
 
-**Message to the Youth **
+**Message to the Youth**
 
 To the youth of the Church we repeat all the foregoing advice, but above all
   we plead with you to live clean, for the unclean life leads only to suffering,
@@ -100,7 +100,7 @@ Times approach when we shall need all the health, strength, and spiritual
 power we can get to bear the afflictions that will come upon us. 
 
 
-**Welfare Work **
+**Welfare Work**
 
 We renew the counsel given to the Saints from the days of Brigham Young until
   now—be honest, truthful, industrious, frugal, thrifty. In the day of plenty,
@@ -164,7 +164,7 @@ They suit their approaches to the particular group they seek to deceive. Among
 feet. 
 
 
-**Gospel of Love **
+**Gospel of Love**
 
 The gospel of Christ is a gospel of love and peace, of patience and longsuffering,
   of forbearance and forgiveness, of kindness and good deeds, of charity and
@@ -178,7 +178,7 @@ in the saying of the ancient prophet-warrior:
 60:36) 
 
 
-**Hate Must Be Abolished **
+**Hate Must Be Abolished**
 
 Hate can have no place in the souls of the righteous. We must follow the commands
 of Christ Himself which declare the true life: 
@@ -204,7 +204,7 @@ These principles must be instilled into the hearts of our children, taught
 again to enter. 
 
 
-**Mission of the Church **
+**Mission of the Church**
 
 The Lord has established His Church in these latter days that men might be
   called to repentance, to the salvation and exaltation of their souls. Time
@@ -259,7 +259,7 @@ His commandment to us when He said:
 But to that point of hindrance, it is our bounden duty to carry on. 
 
 
-**Sending of Missionaries **
+**Sending of Missionaries**
 
 It is our duty, divinely imposed, to continue urgently and militantly to carry
   forward our missionary work. We must continue to call missionaries and send
@@ -307,7 +307,7 @@ To preach the gospel under ordination from the priesthood of God is a great
 only for the term of the mission. 
 
 
-**Church and ****State **
+**Church and State**
 
 The Church stands for the separation of church and state. The Church has no
   civil [or] political functions. As the Church may not assume the functions
@@ -385,13 +385,13 @@ holding sacred the freedom of conscience.
   prescribing rules on spiritual concerns, for faith and worship, both to be
 answered by man to his Maker. 
 
-"We believe . . . that murder, treason, robbery, theft, and the breach
+"We believe . . . that murder, treason, robbery, theft, and the breach
   of the general peace, in all respects, should be punished according to their
   criminality and their tendency to evil among men, by the laws of that government
 in which the offense is committed." (D&C 134:1–6, 8) 
 
 
-**Church Membership and Army Service **
+**Church Membership and Army Service**
 
 Obedient to these principles, the members of the Church have always felt under
   obligation to come to the defense of their country when a call to arms was
@@ -446,7 +446,7 @@ But all these commands, from Sinai down, run in very terms against individuals
   case of securing land in Zion, because Christ's Church should not make war,
 for the Lord is a Lord of peace. He has said to us in this dispensation: 
 
-"Therefore, renounce war and proclaim peace . . . " (D&C 98:16)
+"Therefore, renounce war and proclaim peace . . . " (D&C 98:16)
   Thus the Church is and must be against war. The Church itself cannot wage war,
   unless and until the Lord shall issue new commands. It cannot regard war as
   a righteous means of settling international disputes; these should and could
@@ -485,7 +485,7 @@ While by its terms this revealed word related more especially to this land
 He had told them to obey and whose will they were powerless to resist. 
 
 
-**God Is at the Helm **
+**God Is at the Helm**
 
 The whole world is in the midst of a war that seems the worst of all time.
   This Church is a worldwide church. Its devoted members are in both camps. They
@@ -499,7 +499,7 @@ The whole world is in the midst of a war that seems the worst of all time.
 in the world-life of man. God is at the helm. 
 
 
-**Righteous Suffer with Wicked **
+**Righteous Suffer with Wicked**
 
 But there is an eternal law that rules war and those who engage in it. It
   was given when, Peter having struck off the ear of Malchus, the servant of
@@ -564,7 +564,7 @@ and cannot control. God, in His own due time, will pass sentence upon them.
 12:19) 
 
 
-**Message to Men in Service **
+**Message to Men in Service**
 
 To our young men who go into service, no matter whom they serve or where,
   we say live clean, keep the commandments of the Lord, pray to Him constantly

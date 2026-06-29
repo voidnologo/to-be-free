@@ -17,7 +17,7 @@ tags: ["Communism", "Book of Mormon", "War & Peace", "Liberty & Freedom", "Secre
 
 Audio clip: Adobe Flash Player (version 9 or above) is required to play this audio clip. Download the latest version here. You also need to have JavaScript enabled in your browser.
 
-  **The Book of Mormon Warns America - Ezra Taft Benson** (16.2 MB, 5,570 hits)
+  **The Book of Mormon Warns America - Ezra Taft Benson** (16.2 MB, 5,570 hits)
 
 Humbly and gratefully I stand before you. I am not here today to tickle your ears, to entertain you. The message I bring is a very serious one. It may not be popular with everyone, but it is the truth–and time is on the side of truth.
 

@@ -46,7 +46,7 @@ The first is freedom to believe. No one should be criticized, persecuted, or att
 
 “No government can exist in peace, except such laws are framed and held inviolate as will secure to each individual the free exercise of conscience. …
 
-“… The civil magistrate should restrain crime, but never control conscience [or] suppress the freedom of the soul.”
+“… The civil magistrate should restrain crime, but never control conscience [or] suppress the freedom of the soul.”
 
 This fundamental freedom of belief has since been acknowledged by the United Nations in its Universal Declaration of Human Rights and by other national and international human rights documents.
 

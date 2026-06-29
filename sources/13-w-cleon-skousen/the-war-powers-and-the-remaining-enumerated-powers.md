@@ -57,7 +57,7 @@ Mason: “Was against giving the power of war to the executive because not safe 
 
 What is implied by the “power to declare war”?
 
-** An Exclusive Congressional Power**
+**An Exclusive Congressional Power**
 
 Jefferson: “The question of declaring war is the function equally of both houses [of Congress].”
 
@@ -69,9 +69,9 @@ Jefferson: “The question of declaring war is the function equally of both hous
 
 “The power of declaring war being with the [Congress], the executive should do nothing necessarily committing them to decide for war.”
 
-** What should be the American policy toward war?**
+ What should be the American policy toward war?
 
-**America’s  Opposition to War**
+America’s  Opposition to War
 
 Jefferson: “No country, perhaps, was ever so thoroughly against war as ours. These dispositions pervade every description of its citizens, whether in or out of office.”
 
@@ -283,17 +283,17 @@ Wilson: “It is said that Congress should not possess the power of calling out 
 
 “The militia formed under this system, and trained by several states, will be such a bulwark of internal strength, as to prevent the attacks of foreign enemies.”
 
-**Responsibility  for Strong State Militia**
+Responsibility  for Strong State Militia
 
-**Is Concurrent  Between State and Federal Governments**
+Is Concurrent  Between State and Federal Governments
 
 Nicholas: “The power of arming them is concurrent between the general and state governments; for the power of arming them rested in the state governments before; and although the power be given to the general government, yet it is not given exclusively.”
 
 What if the federal government fails to do so?
 
-**The States Are  Able to Arm and Train Their Militias**
+The States Are  Able to Arm and Train Their Militias
 
-**If Congress  Neglects to Do So**
+If Congress  Neglects to Do So
 
 Randolph: “Should Congress neglect to arm or discipline the militia, the states are fully possessed of the power of doing it; for they are restrained from it by no part of the Constitution.”
 
@@ -329,9 +329,9 @@ Hamilton: “The militia … ought always to be counted upon as a valuable and p
 
 How can the whole stale be trained?
 
-**State Militias  Should Be Structured Around a**
+State Militias  Should Be Structured Around a
 
-**Select,  Well-Trained National Guard**
+Select,  Well-Trained National Guard
 
 Hamilton: “Uniformity in the organization and discipline of the militia would be attended with the most beneficial effects, whenever they were called into service for the public defense. It would enable them to discharge the duties of the camp and of the field with mutual intelligence and concert….
 
@@ -401,9 +401,9 @@ Madison: “How could the general government be guarded from the undue influence
 
 Iredell: “What would be the consequence if the seat of the government of the United States, with all the archives of America, was in the power of any one particular state? Would not this be most unsafe and humiliating? Do we not all remember that, in the year 1783, a band of soldiers went and insulted Congress? The sovereignty of the United States was treated with indignity. They applied for protection to the state they resided in, but could obtain none. It is hoped such a disgraceful scene will never happen again; but that, for the future, the national government will be able to protect itself.”
 
-**National  Legislature Should Not Be Vulnerable**
+National  Legislature Should Not Be Vulnerable
 
-**to Pressures of  a Host State**
+to Pressures of  a Host State
 
 Madison: “Without it not only the public authority might be insulted and its proceedings interrupted with impunity, but a dependence of the members of the general government on the State comprehending the seat of the government for protection in the exercise of their duty might bring on the national councils an imputation of awe or influence equally dishonorable to the government and dissatisfactory to the other members of the Confederacy…. The inhabitants will find sufficient inducements of interest to become willing parties to the cession; as they will have had their voice in the election of the government which is to exercise authority over them; as a municipal legislature for local purposes, derived from their own suffrages, will of course be allowed them.”
 

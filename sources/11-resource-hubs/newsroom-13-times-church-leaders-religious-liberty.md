@@ -19,7 +19,7 @@ President Dallin H. Oaks, First Counselor in the First Presidency, spoke at the 
 
 “Freedom of choice is, therefore, fundamental to God’s plan,” he told the group in Rome.
 
- 
+ 
 
 Elder David A. Bednar and Elder Gerrit W. Gong, both of the Quorum of the Twelve Apostles, were the speakers of the final session of the free two-day conference “The Islamic World Today: Issues and Perspectives,” which included themes of religious liberty. Elder Gong was also one of the keynote speakers at the 2022 Church History Symposium in March, which was about “Latter-day Saints and Religious Liberty: Historical and Global Perspectives,” and Sister Sharon Eubank, First Counselor in the Relief Society General Presidency and Latter-day Saint Charities director, was part of a panel discussion.
 
@@ -81,7 +81,7 @@ On the social role of religion and faith communities and sharing about the Churc
 
 “As we meet with Muslim leaders across the world,” Elder Gong said, “we talk about defending religious freedom. People of faith need to stand together for tolerance and dignity of people of all religious beliefs” (during the final session of the two-day conference “The Islamic World Today: Issues and Perspectives,” Oct. 19, 2021, BYU, Provo, Utah).
 
-**Sister Sharon Eubank **
+**Sister Sharon Eubank**
 
 “People have inherent rights and privileges just by being children of God and we’ll protect those” (Church History Symposium panel discussion, March 11, Salt Lake City; symposium’s theme was “Latter-day Saints and Religious Liberty: Historical and Global Perspectives”).
 

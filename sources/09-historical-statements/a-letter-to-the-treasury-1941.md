@@ -332,9 +332,9 @@ I will abstain, in this post, from including my own comments on the letters abov
 
 **Update**: The files I found and transcribed have now been scanned and can be downloaded here.
 
-***************
+*
 
-**Related Posts** (automatically generated)
+Related Posts (automatically generated)
 
 ### 57 comments so far. Care to chime in?
 

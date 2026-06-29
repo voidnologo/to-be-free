@@ -190,23 +190,23 @@ Great God, our King!* 21
 
 *Gospel topic: *U.S. Constitution
 
-  1. A version of this address, given at the Freedom Festival, Provo, Utah, was printed in *Utah Forum,* Fall/Winter 1989, pp. 111.
+  1. A version of this address, given at the Freedom Festival, Provo, Utah, was printed in *Utah Forum,* Fall/Winter 1989, pp. 111.
 
-  2. See The Constitution, *Wilson Quarterly,* Spring 1987, pp. 97, 126.
+  2. See The Constitution, *Wilson Quarterly,* Spring 1987, pp. 97, 126.
 
-  3. Letter from Washington to Lafayette, 7 Feb. 1788, quoted in Catherine Drinker Bowen, *Miracle at Philadelphia,* Boston: Little, Brown and Co., 1966, p. xvii.
+  3. Letter from Washington to Lafayette, 7 Feb. 1788, quoted in Catherine Drinker Bowen, *Miracle at Philadelphia,* Boston: Little, Brown and Co., 1966, p. xvii.
 
-  4. Quoted in William O. Nelson, *The Charter of Liberty,* Salt Lake City: Deseret Book Co., 1987, p. 44.
+  4. Quoted in William O. Nelson, *The Charter of Liberty,* Salt Lake City: Deseret Book Co., 1987, p. 44.
 
-  5. *Notes of the Debates in the Federal Convention of 1787 Reported by James Madison,* p. 653, quoted in Nelson, *The Charter of Liberty,* p. 57.
+  5. *Notes of the Debates in the Federal Convention of 1787 Reported by James Madison,* p. 653, quoted in Nelson, *The Charter of Liberty,* p. 57.
 
-  6. J. Reuben Clark, Jr., *Stand Fast by Our Constitution,* Salt Lake City: Deseret Book Co., 1973, pp. 7, 172.
+  6. J. Reuben Clark, Jr., *Stand Fast by Our Constitution,* Salt Lake City: Deseret Book Co., 1973, pp. 7, 172.
 
-  7. J. Reuben Clark, Jr., quoted in Martin B. Hickman, J. Reuben Clark, Jr.: the Constitution and the Great Fundamentals, in Ray C. Hillam, ed., *By the Hands of Wise Men,* Provo, Utah: Brigham Young University Press, 1979, p. 53.
+  7. J. Reuben Clark, Jr., quoted in Martin B. Hickman, J. Reuben Clark, Jr.: the Constitution and the Great Fundamentals, in Ray C. Hillam, ed., *By the Hands of Wise Men,* Provo, Utah: Brigham Young University Press, 1979, p. 53.
 
-  8. *History of the Church,* 6:57.
+  8. *History of the Church,* 6:57.
 
-  9. Quoted in Gerhard Casper, Constitutionalism, *Occasional Papers from the Law School,* The University of Chicago, no. 22 (1987).
+  9. Quoted in Gerhard Casper, Constitutionalism, *Occasional Papers from the Law School,* The University of Chicago, no. 22 (1987).
 
 10. *Church News,* 29 Nov. 1952, p. 12, quoted in Hillam, *By the Hands of Wise Men,* p. 48.
 

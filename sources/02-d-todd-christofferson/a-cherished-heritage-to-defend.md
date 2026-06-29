@@ -41,7 +41,7 @@ That freedom is now under fire. Although religious freedom lies at the core of w
 
 Recently it has become popular to argue that the freedom of religion is really only the right to worship rather than the right freely to exercise your faith in your daily life—as if religion should be kept in the closet or some other private place. Some advocates demean as “discrimination” the long-standing right of religious organizations and schools to have faith-based standards in employment and admissions. Others resort to politically correct name-calling rather than talking about difficult topics in a spirit of mutual respect. Hurtful labels like “bigot” or “hater” are all too common. There are concerted efforts to shame and intimidate believers who have traditional moral values and to suppress religious viewpoints and practices regarding marriage, family, gender, and sexuality.[8] Worst of all, government sometimes joins in these efforts.
 
-          So religious freedom is indeed under attack. In case you think that’s an exaggeration, let me read to you a statement by Professor Douglas Laycock, one of the nation’s premier authorities on religion and law: “For the first time in nearly 300 years, important forces in American society are questioning the free exercise of religion *in principle*—suggesting that free exercise of religion may be a bad idea, or at least, a right to be minimized.”[9]
+          So religious freedom is indeed under attack. In case you think that’s an exaggeration, let me read to you a statement by Professor Douglas Laycock, one of the nation’s premier authorities on religion and law: “For the first time in nearly 300 years, important forces in American society are questioning the free exercise of religion *in principle*—suggesting that free exercise of religion may be a bad idea, or at least, a right to be minimized.”[9]
 
 **Religion in American History**
 
@@ -97,7 +97,7 @@ We use our freedom of religion and belief to establish our core convictions, wit
 
 **Religious Participation in Public Life Is Good**
 
-          There are two big points I want you to remember when you leave this evening. The *first* is that religious participation in public life is not only part of American history and a constitutionally protected freedom; it’s also *good* for our nation. All laws and government policies are based on values—religious or otherwise. Everyone has a right to be heard—“to compete”—in the marketplaces of ideas and in influencing governmental decisions. To silence one voice potentially leads to silencing all others.
+          There are two big points I want you to remember when you leave this evening. The *first* is that religious participation in public life is not only part of American history and a constitutionally protected freedom; it’s also *good* for our nation. All laws and government policies are based on values—religious or otherwise. Everyone has a right to be heard—“to compete”—in the marketplaces of ideas and in influencing governmental decisions. To silence one voice potentially leads to silencing all others.
 
 Religious voices are at least as deserving of being heard as any others. In fact, churches and other religious organizations bring unique experiences and perspectives to public policy debates. They recognize corrosive social forces that threaten faith, family, and freedom. They know personally about the hardships of family breakdown, unemployment, poverty, drug abuse, and numerous other social ills. Why? Because they are on the front lines helping individuals and families work through these wrenching problems. When they speak out they do so *not* for selfish reasons like the special interest groups that constantly lobby our public officials but out of concern for the people they minister to, their families, and society itself. They bring a moral—often cautionary—voice to matters of social and public policy that we desperately need in this age of materialism, self-promotion, and disruptive change. The perspectives of churches and religious leaders make an irreplaceable contribution to our ongoing democratic conversation about how we should live together. Their voices are essential.
 
@@ -116,31 +116,31 @@ The second point I want you to remember is that it is time to get involved and t
 
 **Conclusion**
 
-          My friends and fellow citizens, we live in challenging times. Religious freedom is indeed under fire. And things may get worse before they get better. But these are *our* times. This is *our* moment to defend our fundamental freedoms. With courage, conviction, and civility—drawing upon our noble heritage as Americans—each one of us can make a profound difference. As the great Winston Churchill said on the eve of the world’s greatest conflict, let us “arise again and take our stand for freedom as in the olden time.”[40] As fellow believers and citizens of this great nation, we can do no less. Thank you, and may God bless you and this wonderful nation.
+          My friends and fellow citizens, we live in challenging times. Religious freedom is indeed under fire. And things may get worse before they get better. But these are *our* times. This is *our* moment to defend our fundamental freedoms. With courage, conviction, and civility—drawing upon our noble heritage as Americans—each one of us can make a profound difference. As the great Winston Churchill said on the eve of the world’s greatest conflict, let us “arise again and take our stand for freedom as in the olden time.”[40] As fellow believers and citizens of this great nation, we can do no less. Thank you, and may God bless you and this wonderful nation.
 
-[1] Letter from George Washington to the Hebrew congregation in Newport, Rhode Island, Aug. 1790, reprinted in* George Washington: A Collection, *ed. W. B. Allen (1988), 548.
+[1] Letter from George Washington to the Hebrew congregation in Newport, Rhode Island, Aug. 1790, reprinted in* George Washington: A Collection, *ed. W. B. Allen (1988), 548.
 
 [2] D. Todd Christofferson, “A Celebration of Religious Freedom” (address given at an interfaith conference in São Paulo, Brazil, Apr. 29, 2015), mormonnewsroom.org/article/a-celebration-of-religious-freedom.
 
 [3]D. Todd Christofferson, “A Celebration of Religious Freedom*.*”
 
-[4] See William P. Marshall, “The Other Side of Religion,” *Hastings Law Journal,* vol. 44, no. 4 (Apr. 1993), 843, 844. (Endorsing the proposition that “religion and religious conviction are purely private matters that have no role or place in the nation’s political process.”)
+[4] See William P. Marshall, “The Other Side of Religion,” *Hastings Law Journal,* vol. 44, no. 4 (Apr. 1993), 843, 844. (Endorsing the proposition that “religion and religious conviction are purely private matters that have no role or place in the nation’s political process.”)
 
-[5] See Michael W. McConnell, “Secular Reason and the Misguided Attempt to Exclude Religious Argument from Democratic Deliberation,” *Journal of Law, Philosophy and Culture,* vol. 1, no. 1 (2007), 159–60.
+[5] See Michael W. McConnell, “Secular Reason and the Misguided Attempt to Exclude Religious Argument from Democratic Deliberation,” *Journal of Law, Philosophy and Culture,* vol. 1, no. 1 (2007), 159–60.
 
-[6] See Kathleen Sullivan, “Religion and Liberal Democracy,” *University of Chicago Law Review,* vol. 59, no. 1 (1992), 197–98. (“Religious teachings as expressed in public debate may influence the civil public order but public moral disputes may be resolved only on grounds articulable in secular terms. Religious grounds for resolving public moral disputes would rekindle inter-denominational strife that the Establishment Clause extinguished.”)
+[6] See Kathleen Sullivan, “Religion and Liberal Democracy,” *University of Chicago Law Review,* vol. 59, no. 1 (1992), 197–98. (“Religious teachings as expressed in public debate may influence the civil public order but public moral disputes may be resolved only on grounds articulable in secular terms. Religious grounds for resolving public moral disputes would rekindle inter-denominational strife that the Establishment Clause extinguished.”)
 
 [7] See Brian Leiter, *Why Tolerate Religion?* (2013).
 
 [8] See “‘Religious Liberty’ and the Anti-LGBT Right” (report by the Southern Poverty Law Center, 2016), 5. (Referring to state laws protecting religious liberty, the report says that “we must expose the groups behind these laws as extremists that despise the LGBT community.”)
 
-[9] Douglas Laycock, “Sex, Atheism, and the Free Exercise of Religion,” *University of Detroit Mercy Law Review,* vol. 88, no. 407 (Spring 2011), 407.
+[9] Douglas Laycock, “Sex, Atheism, and the Free Exercise of Religion,” *University of Detroit Mercy Law Review,* vol. 88, no. 407 (Spring 2011), 407.
 
 [10] New York Trust Co. v. Eisner, 256 U.S. 345, 349 (1921).
 
 [11] Perry Miller, *Errand into the Wilderness* (1956), 115.
 
-[12] See the Mayflower Compact (1620), reprinted in Donald S. Lutz, ed., *Colonial Origins of the American Constitution: A Documentary History* (1998), 32.
+[12] See the Mayflower Compact (1620), reprinted in Donald S. Lutz, ed., *Colonial Origins of the American Constitution: A Documentary History* (1998), 32.
 
 [13] See “Articles, Laws, and Orders, Divine, Politic, and Martial for the Colony in Virginia” (1610–11), reprinted in* Colonial Origins,* 315. (“We must alone expect our successe from him, who is only the blesser of all good attempts, the King of kings, the commaunder of commaunders, and Lord of Hostes.”)
 
@@ -154,19 +154,19 @@ The second point I want you to remember is that it is time to get involved and t
 
 [18] Harry S. Stout, *The New England Soul: Preaching and Religious Culture in Colonial New England* (1986), 7.
 
-[19] John Witherspoon, “The Dominion of Providence over the Passions of Men” (1776), reprinted in Ellis Sandoz, ed.,* Political Sermons of the American Founding Era* (1998), 549.
+[19] John Witherspoon, “The Dominion of Providence over the Passions of Men” (1776), reprinted in Ellis Sandoz, ed.,* Political Sermons of the American Founding Era* (1998), 549.
 
 [20] Clinton Rossiter, *Seedtime of the Republic: The Origin of the American Tradition of Political Liberty* (1953), 59.
 
-[21] Virginia Bill of Rights, section 16 (June 12, 1776), reprinted in S. E. Morison, ed.,* Sources and Documents Illustrating the American Revolution, 1764–1788* (1929), 151; emphasis added.
+[21] Virginia Bill of Rights, section 16 (June 12, 1776), reprinted in S. E. Morison, ed.,* Sources and Documents Illustrating the American Revolution, 1764–1788* (1929), 151; emphasis added.
 
 [22] Declaration of Independence (July 4, 1776), reprinted in* Sources and Documents Illustrating the American Revolution,* 157.
 
-[23] Alexis de Tocqueville, *The Old Regime and the Revolution,* ed. François Furet and Françoise Mélonio; trans. Alan S. Kahan (1998), 206.
+[23] Alexis de Tocqueville, *The Old Regime and the Revolution,* ed. François Furet and Françoise Mélonio; trans. Alan S. Kahan (1998), 206.
 
 [24] See Randall M. Miller, Harry S. Stout, and Charles Reagan Wilson, eds., *Religion and the American Civil War* (1998), 4. (“Religion stood at the center of the American Civil War experience.”)
 
-[25] Martin Luther King Jr., “Letter from Birmingham City Jail” (1963), in James M. Washington, ed., *A Testament of Hope: The Essential Writings and Speeches of Martin Luther King, Jr. *(1986), 296.
+[25] Martin Luther King Jr., “Letter from Birmingham City Jail” (1963), in James M. Washington, ed., *A Testament of Hope: The Essential Writings and Speeches of Martin Luther King, Jr. *(1986), 296.
 
 [26] Mark DeWolfe Howe, *The Garden and the Wilderness: Religion and Government in American Constitutional History* (1965), 62.
 

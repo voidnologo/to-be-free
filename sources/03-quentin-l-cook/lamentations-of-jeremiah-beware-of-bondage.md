@@ -30,7 +30,7 @@ During the years before the destruction of Jerusalem, the messages the Lord gave
 
 “My people have changed their glory for that which doth not profit. …
 
-“… They have forsaken me the fountain of living waters, and hewed … out … broken cisterns, that can hold no water.”
+“… They have forsaken me the fountain of living waters, and hewed … out … broken cisterns, that can hold no water.”
 
 Speaking of the calamities to come upon the inhabitants of Jerusalem, the Lord lamented, “[For them] the harvest is past, the summer is ended, and [they] are not saved.”
 
@@ -40,7 +40,7 @@ Turning from the worship of the true and living God and worshipping false gods l
 
 These messages have echoed and been reinforced across the centuries in all dispensations. They are at the heart of the Restoration of the gospel of Jesus Christ in this, the final dispensation.
 
-The captivity of the Jews and the scattering of the tribes of Israel, including the ten tribes, are prominent doctrinal factors in the Restoration of the gospel. The ten lost tribes made up the Northern Kingdom of Israel and were carried away captive into Assyria in 721 b.c. They went to the north countries. Our tenth article of faith states, “We believe in the literal gathering of Israel and in the restoration of the Ten Tribes.” We also believe that as part of the covenant the Lord made with Abraham, not only the lineage of Abraham would be blessed but also all the people of the earth would be blessed. As Elder Russell M. Nelson has stated, the gathering “is not a matter of physical location; it is a matter of individual commitment. People can be ‘brought to the knowledge of the Lord’ [3 Nephi 20:13] without leaving their homelands.”
+The captivity of the Jews and the scattering of the tribes of Israel, including the ten tribes, are prominent doctrinal factors in the Restoration of the gospel. The ten lost tribes made up the Northern Kingdom of Israel and were carried away captive into Assyria in 721 b.c. They went to the north countries. Our tenth article of faith states, “We believe in the literal gathering of Israel and in the restoration of the Ten Tribes.” We also believe that as part of the covenant the Lord made with Abraham, not only the lineage of Abraham would be blessed but also all the people of the earth would be blessed. As Elder Russell M. Nelson has stated, the gathering “is not a matter of physical location; it is a matter of individual commitment. People can be ‘brought to the knowledge of the Lord’ [3 Nephi 20:13] without leaving their homelands.”
 
 Our doctrine is clear: “The Lord scattered and afflicted the twelve tribes of Israel because of their unrighteousness and rebellion. However, the Lord also [utilized] this scattering of his chosen people among the nations of the world to bless those nations.”
 

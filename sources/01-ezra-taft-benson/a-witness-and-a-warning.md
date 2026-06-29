@@ -63,7 +63,7 @@ On 3 July 1936, the First Presidency published this warning to Church members:
 
 “Since Communism, established, would destroy our American Constitutional government, to support Communism is treasonable to our free institutions, and *no patriotic American citizen may become either a Communist or supporter of Communism. …*
 
-“We call upon all Church members completely to eschew [shun] Communism. The safety of our divinely inspired Constitutional government and the welfare of our Church imperatively demand that *Communism shall have no place in America*” (signed: Heber J. Grant, J. Reuben Clark, Jr., David O. McKay, The First Presidency, in Deseret News, 3 July 1936; italics added).
+“We call upon all Church members completely to eschew [shun] Communism. The safety of our divinely inspired Constitutional government and the welfare of our Church imperatively demand that *Communism shall have no place in America*” (signed: Heber J. Grant, J. Reuben Clark, Jr., David O. McKay, The First Presidency, in Deseret News, 3 July 1936; italics added).
 
 More recently, President Marion G. Romney, in the First Presidency Message in the September 1979 Ensign, wrote: “Communism is Satan’s counterfeit for the gospel plan, and … it is an avowed enemy of the God of the land. Communism is the greatest anti-Christ power in the world today and therefore the greatest menace not only to our peace but to our preservation as a free people. By the extent to which we tolerate it, accommodate ourselves to it, permit ourselves to be encircled by its tentacles and drawn to it, to that extent we forfeit the protection of the God of this land” (p. 5).
 
@@ -75,7 +75,7 @@ No nation which has kept the commandments of God has ever perished, but I say to
 
 There are some things we can and must do at once if we are to stave off a holocaust of destruction.
 
-*First:* We must return to worship the God of this land, who is Jesus Christ. He has promised that the righteous will be preserved by His power (see 1 Ne. 22:17). But we must keep the commandments of God. We must pay our tithes and offerings, keep the Sabbath day a holy day, stay morally clean, be honest in all our dealings, and have our family and personal prayers. We must live the gospel.
+*First:* We must return to worship the God of this land, who is Jesus Christ. He has promised that the righteous will be preserved by His power (see 1 Ne. 22:17). But we must keep the commandments of God. We must pay our tithes and offerings, keep the Sabbath day a holy day, stay morally clean, be honest in all our dealings, and have our family and personal prayers. We must live the gospel.
 
 *Second:* We must awaken to “a sense of [our] awful situation, because of this secret combination which [is] among [us]” (Ether 8:24). We must not tolerate accommodation with or appeasement toward the false system of Communism. We must demand of our elected officials that we not only resist Communism, but that we will take every measure to prevent its intrusion into this hemisphere. It is vital that we invoke the Monroe Doctrine.
 

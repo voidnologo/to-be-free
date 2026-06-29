@@ -7,7 +7,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 **Legend:** ✅ full · ⚠️ thin/summary · 🔊 audio · ↪️ pointer · 🗂️ index · `·R` = converted from raw/ · `·B` = extracted from the *To Be Free* book.
 
 ## 1. Ezra Taft Benson
-*60 docs · ~221,726 words*
+*60 docs · ~223,592 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The Proper Role of Government | Ezra Taft Benson | 1968-10-21 | ✅ | 7550 | [`proper-role-of-government.md`](01-ezra-taft-benson/proper-role-of-government.md) |
 | Protecting Freedom — An Immediate Responsibility | Ezra Taft Benson | 1966-10 | ✅ ·R | 3196 | [`protecting-freedom-an-immediate-responsibility.md`](01-ezra-taft-benson/protecting-freedom-an-immediate-responsibility.md) |
 | Put on the Whole Armour of God | Ezra Taft Benson | 1969-10 | ✅ ·R | 2537 | [`put-on-the-whole-armour-of-god.md`](01-ezra-taft-benson/put-on-the-whole-armour-of-god.md) |
-| Ezra Taft Benson: Quotes on Freedom | Ezra Taft Benson |  | ✅ ·R | 16122 | [`quotes-on-freedom.md`](01-ezra-taft-benson/quotes-on-freedom.md) |
+| Ezra Taft Benson: Quotes on Freedom | Ezra Taft Benson |  | ✅ ·R | 17988 | [`quotes-on-freedom.md`](01-ezra-taft-benson/quotes-on-freedom.md) |
 | Righteousness Exalteth a Nation | Ezra Taft Benson | 1963-04 | ✅ ·R | 3010 | [`righteousness-exalteth-a-nation.md`](01-ezra-taft-benson/righteousness-exalteth-a-nation.md) |
 | Stand Up for Freedom | Ezra Taft Benson | 1966-02-11 | ✅ ·R | 7242 | [`stand-up-for-freedom.md`](01-ezra-taft-benson/stand-up-for-freedom.md) |
 | Survival of the American Way of Life | Ezra Taft Benson | 1945-06 | ✅ ·R | 3293 | [`survival-of-the-american-way-of-life.md`](01-ezra-taft-benson/survival-of-the-american-way-of-life.md) |
@@ -118,7 +118,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Address to New York LDS Professionals Association | Jeffrey R. Holland | 2016-10-13 | ✅ | 3654 | [`new-york-lds-professionals-association.md`](05-jeffrey-r-holland/new-york-lds-professionals-association.md) |
 
 ## 6. David O. McKay
-*16 docs · ~34,417 words*
+*16 docs · ~34,859 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | London Temple Dedicatory Prayer (Excerpt on Freedom) | David O. McKay | 1958-09-07 | ↪️ pointer | 10 | [`london-temple-dedicatory-prayer.md`](06-david-o-mckay/london-temple-dedicatory-prayer.md) |
 | On Communism | David O. McKay | April  09,  1966 | ✅ ·B | 727 | [`on-communism.md`](06-david-o-mckay/on-communism.md) |
 | Peace the Message of the Church | David O. McKay | 1938-10 | ✅ ·R | 1252 | [`peace-the-message-of-the-church.md`](06-david-o-mckay/peace-the-message-of-the-church.md) |
-| David O. McKay: Quotes on Freedom | David O. McKay |  | ✅ ·R | 4930 | [`quotes-on-freedom.md`](06-david-o-mckay/quotes-on-freedom.md) |
+| David O. McKay: Quotes on Freedom | David O. McKay |  | ✅ ·R | 5372 | [`quotes-on-freedom.md`](06-david-o-mckay/quotes-on-freedom.md) |
 | The BoM and the Constitution | David O. McKay | 1966-04-09 | ✅ ·R | 740 | [`the-bom-and-the-constitution.md`](06-david-o-mckay/the-bom-and-the-constitution.md) |
 | The Church and the Present War | David O. McKay | 1942-04-05 | ✅ ·R | 2680 | [`the-church-and-the-present-war.md`](06-david-o-mckay/the-church-and-the-present-war.md) |
 | Two Contending Forces | David O. McKay | 1960-05-18 | ✅ ·R | 3678 | [`two-contending-forces.md`](06-david-o-mckay/two-contending-forces.md) |
@@ -192,14 +192,14 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | War | First Presidency | 1942-04-06 | ✅ ·R | 6224 | [`war.md`](09-historical-statements/war.md) |
 
 ## 10. J. Reuben Clark Jr.
-*8 docs · ~18,670 words*
+*8 docs · ~18,808 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | Constitution and Its Signers (BYU Address) | J. Reuben Clark Jr. | 1957-05-21 | 🔊 audio | 96 | [`constitution-and-its-signers-1957.md`](10-j-reuben-clark/constitution-and-its-signers-1957.md) |
 | Governments Instituted of God | J. Reuben Clark Jr. | 1935-04 | ✅ ·R | 3182 | [`governments-instituted-of-god.md`](10-j-reuben-clark/governments-instituted-of-god.md) |
 | Let Us Have Peace | J. Reuben Clark Jr. | 1947-11-22 | ✅ ·R | 1895 | [`let-us-have-peace.md`](10-j-reuben-clark/let-us-have-peace.md) |
-| J. Reuben Clark Jr.: Quotes on Freedom | J. Reuben Clark Jr. |  | ✅ ·R | 1738 | [`quotes-on-freedom.md`](10-j-reuben-clark/quotes-on-freedom.md) |
+| J. Reuben Clark Jr.: Quotes on Freedom | J. Reuben Clark Jr. |  | ✅ ·R | 1876 | [`quotes-on-freedom.md`](10-j-reuben-clark/quotes-on-freedom.md) |
 | Some Elements of Post War American Life | J. Reuben Clark Jr. | 1945-01-24 | ✅ ·R | 2322 | [`some-elements-of-post-war-american-life.md`](10-j-reuben-clark/some-elements-of-post-war-american-life.md) |
 | Some Fundamental Principles of Our Constitution | J. Reuben Clark Jr. | 2011-12-30 | ✅ ·R | 3806 | [`some-fundamental-principles-of-our-constitution.md`](10-j-reuben-clark/some-fundamental-principles-of-our-constitution.md) |
 | Stand Fast by Our Constitution | J. Reuben Clark Jr. | 1962 | ↪️ pointer | 40 | [`stand-fast-by-our-constitution.md`](10-j-reuben-clark/stand-fast-by-our-constitution.md) |
@@ -286,74 +286,74 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The Proper and Improper Role of Government | H. Verlan Andersen | 1995 | ✅ ·R | 15465 | [`the-proper-and-improper-role-of-government.md`](15-h-verlan-andersen/the-proper-and-improper-role-of-government.md) |
 
 ## 16. Gordon B. Hinckley
-*7 docs · ~17,805 words*
+*7 docs · ~17,990 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | Believe His Prophets | Gordon B. Hinckley | 1992-05 | ✅ ·R | 3029 | [`believe-his-prophets.md`](16-gordon-b-hinckley/believe-his-prophets.md) |
 | Farewell to a Prophet | Gordon B. Hinckley | 1994-07 | ✅ ·R | 3249 | [`farewell-to-a-prophet.md`](16-gordon-b-hinckley/farewell-to-a-prophet.md) |
 | Freedom Festival Speech 1997 | Gordon B. Hinckley | 1997 | ✅ ·R | 2912 | [`freedom-festival-speech-1997.md`](16-gordon-b-hinckley/freedom-festival-speech-1997.md) |
-| Gordon B. Hinckley: Quotes on Freedom | Gordon B. Hinckley |  | ✅ ·R | 1907 | [`quotes-on-freedom.md`](16-gordon-b-hinckley/quotes-on-freedom.md) |
+| Gordon B. Hinckley: Quotes on Freedom | Gordon B. Hinckley |  | ✅ ·R | 2092 | [`quotes-on-freedom.md`](16-gordon-b-hinckley/quotes-on-freedom.md) |
 | The Order and Will of God | Gordon B. Hinckley | 1989-08 | ✅ ·R | 1944 | [`the-order-and-will-of-god.md`](16-gordon-b-hinckley/the-order-and-will-of-god.md) |
 | The Times in Which We Live | Gordon B. Hinckley | 2001-11 | ✅ ·R | 2411 | [`the-times-in-which-we-live.md`](16-gordon-b-hinckley/the-times-in-which-we-live.md) |
 | War and Peace | Gordon B. Hinckley | 2003-05 | ✅ ·R | 2353 | [`war-and-peace.md`](16-gordon-b-hinckley/war-and-peace.md) |
 
 ## 17. Howard W. Hunter
-*3 docs · ~7,399 words*
+*3 docs · ~7,504 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | Law Must Be Sustained | Howard W. Hunter | 1968-04 | ✅ ·R | 2247 | [`law-must-be-sustained.md`](17-howard-w-hunter/law-must-be-sustained.md) |
-| Howard W. Hunter: Quotes on Freedom | Howard W. Hunter |  | ✅ ·R | 855 | [`quotes-on-freedom.md`](17-howard-w-hunter/quotes-on-freedom.md) |
+| Howard W. Hunter: Quotes on Freedom | Howard W. Hunter |  | ✅ ·R | 960 | [`quotes-on-freedom.md`](17-howard-w-hunter/quotes-on-freedom.md) |
 | The Law of the Harvest | Howard W. Hunter | 1966-03-08 | ✅ ·R | 4297 | [`the-law-of-the-harvest.md`](17-howard-w-hunter/the-law-of-the-harvest.md) |
 
 ## 18. John Taylor
-*3 docs · ~68,757 words*
+*3 docs · ~69,249 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | On the Incompetency of the Means Made Use of by Man to Regenerate the World | John Taylor | 2012-02-21 | ✅ ·R | 4873 | [`on-the-incompetency-of-the-means-made-use-of-by-man-to-regenerate-the-world.md`](18-john-taylor/on-the-incompetency-of-the-means-made-use-of-by-man-to-regenerate-the-world.md) |
-| John Taylor: Quotes on Freedom | John Taylor |  | ✅ ·R | 11519 | [`quotes-on-freedom.md`](18-john-taylor/quotes-on-freedom.md) |
+| John Taylor: Quotes on Freedom | John Taylor |  | ✅ ·R | 12011 | [`quotes-on-freedom.md`](18-john-taylor/quotes-on-freedom.md) |
 | The Government of God | John Taylor | 1852 | ✅ ·R | 52365 | [`the-government-of-god.md`](18-john-taylor/the-government-of-god.md) |
 
 ## 19. Joseph Smith
-*3 docs · ~20,728 words*
+*3 docs · ~21,052 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | General Smith's Views of the Powers and Policy of the Government | Joseph Smith | 1844 | ✅ ·R | 5512 | [`general-smiths-views-of-the-powers-and-policy-of-the-government.md`](19-joseph-smith/general-smiths-views-of-the-powers-and-policy-of-the-government.md) |
-| Joseph Smith: Quotes on Freedom | Joseph Smith |  | ✅ ·R | 3351 | [`quotes-on-freedom.md`](19-joseph-smith/quotes-on-freedom.md) |
+| Joseph Smith: Quotes on Freedom | Joseph Smith |  | ✅ ·R | 3675 | [`quotes-on-freedom.md`](19-joseph-smith/quotes-on-freedom.md) |
 | The Powers and Policy of Government | Joseph Smith | 1844 | ✅ ·R | 11865 | [`the-powers-and-policy-of-government.md`](19-joseph-smith/the-powers-and-policy-of-government.md) |
 
 ## 20. Spencer W. Kimball
-*2 docs · ~4,068 words*
+*2 docs · ~4,184 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
-| Spencer W. Kimball: Quotes on Freedom | Spencer W. Kimball |  | ✅ ·R | 891 | [`quotes-on-freedom.md`](20-spencer-w-kimball/quotes-on-freedom.md) |
+| Spencer W. Kimball: Quotes on Freedom | Spencer W. Kimball |  | ✅ ·R | 1007 | [`quotes-on-freedom.md`](20-spencer-w-kimball/quotes-on-freedom.md) |
 | The False Gods We Worship - Ensign June 1976 | Spencer W. Kimball | 1976-06 | ✅ ·R | 3177 | [`the-false-gods-we-worship-ensign-june-1976.md`](20-spencer-w-kimball/the-false-gods-we-worship-ensign-june-1976.md) |
 
 ## 21. Additional Church Leaders
-*16 docs · ~68,664 words*
+*16 docs · ~70,040 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | Joseph Smith Campaign for President of the United States | Arnold K. Garr | 2009-02 | ✅ ·R | 2150 | [`arnold-k-garr-joseph-smith-campaign-for-president-of-the-united-states.md`](21-additional-church-leaders/arnold-k-garr-joseph-smith-campaign-for-president-of-the-united-states.md) |
-| Brigham Young: Quotes on Freedom | Brigham Young |  | ✅ ·R | 6833 | [`brigham-young-quotes-on-freedom.md`](21-additional-church-leaders/brigham-young-quotes-on-freedom.md) |
+| Brigham Young: Quotes on Freedom | Brigham Young |  | ✅ ·R | 7095 | [`brigham-young-quotes-on-freedom.md`](21-additional-church-leaders/brigham-young-quotes-on-freedom.md) |
 | Know Your Constitution | Bruce R. McConkie | 1945-03-19 | ✅ ·R | 16498 | [`bruce-r-mcconkie-know-your-constitution.md`](21-additional-church-leaders/bruce-r-mcconkie-know-your-constitution.md) |
-| George Albert Smith: Quotes on Freedom | George Albert Smith |  | ✅ ·R | 5083 | [`george-albert-smith-quotes-on-freedom.md`](21-additional-church-leaders/george-albert-smith-quotes-on-freedom.md) |
+| George Albert Smith: Quotes on Freedom | George Albert Smith |  | ✅ ·R | 5208 | [`george-albert-smith-quotes-on-freedom.md`](21-additional-church-leaders/george-albert-smith-quotes-on-freedom.md) |
 | The Angel Moroni | Glenn L. Rudd | 2003-03-11 | ✅ ·R | 5362 | [`glenn-l-rudd-the-angel-moroni.md`](21-additional-church-leaders/glenn-l-rudd-the-angel-moroni.md) |
-| Harold B. Lee: Quotes on Freedom | Harold B. Lee |  | ✅ ·R | 2656 | [`harold-b-lee-quotes-on-freedom.md`](21-additional-church-leaders/harold-b-lee-quotes-on-freedom.md) |
-| Heber J. Grant: Quotes on Freedom | Heber J. Grant |  | ✅ ·R | 2576 | [`heber-j-grant-quotes-on-freedom.md`](21-additional-church-leaders/heber-j-grant-quotes-on-freedom.md) |
+| Harold B. Lee: Quotes on Freedom | Harold B. Lee |  | ✅ ·R | 2897 | [`harold-b-lee-quotes-on-freedom.md`](21-additional-church-leaders/harold-b-lee-quotes-on-freedom.md) |
+| Heber J. Grant: Quotes on Freedom | Heber J. Grant |  | ✅ ·R | 2738 | [`heber-j-grant-quotes-on-freedom.md`](21-additional-church-leaders/heber-j-grant-quotes-on-freedom.md) |
 | A New Civil Religion | James E. Faust | 1992-07-19 | ✅ ·R | 1994 | [`james-e-faust-a-new-civil-religion.md`](21-additional-church-leaders/james-e-faust-a-new-civil-religion.md) |
-| Joseph F. Smith: Quotes on Freedom | Joseph F. Smith |  | ✅ ·R | 1582 | [`joseph-f-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-f-smith-quotes-on-freedom.md) |
-| Joseph Fielding Smith: Quotes on Freedom | Joseph Fielding Smith |  | ✅ ·R | 2755 | [`joseph-fielding-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-fielding-smith-quotes-on-freedom.md) |
-| Lorenzo Snow: Quotes on Freedom | Lorenzo Snow |  | ✅ ·R | 309 | [`lorenzo-snow-quotes-on-freedom.md`](21-additional-church-leaders/lorenzo-snow-quotes-on-freedom.md) |
+| Joseph F. Smith: Quotes on Freedom | Joseph F. Smith |  | ✅ ·R | 1655 | [`joseph-f-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-f-smith-quotes-on-freedom.md) |
+| Joseph Fielding Smith: Quotes on Freedom | Joseph Fielding Smith |  | ✅ ·R | 2929 | [`joseph-fielding-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-fielding-smith-quotes-on-freedom.md) |
+| Lorenzo Snow: Quotes on Freedom | Lorenzo Snow |  | ✅ ·R | 353 | [`lorenzo-snow-quotes-on-freedom.md`](21-additional-church-leaders/lorenzo-snow-quotes-on-freedom.md) |
 | Religion in a Free Society | M. Russell Ballard | 1992-07-05 | ✅ ·R | 3258 | [`m-russell-ballard-religion-in-a-free-society.md`](21-additional-church-leaders/m-russell-ballard-religion-in-a-free-society.md) |
 | Angel of the Prairie | Parley P. Pratt | 1880 | ✅ ·R | 6751 | [`parley-p-pratt-angel-of-the-prairie.md`](21-additional-church-leaders/parley-p-pratt-angel-of-the-prairie.md) |
 | Angel of the Prairies — A Dream of the Future | Parley P. Pratt | 1880 | ✅ ·B | 6691 | [`parley-p-pratt-angel-of-the-prairies-a-dream-of-the-future.md`](21-additional-church-leaders/parley-p-pratt-angel-of-the-prairies-a-dream-of-the-future.md) |
-| Thomas S. Monson: Quotes on Freedom | Thomas S. Monson |  | ✅ ·R | 1568 | [`thomas-s-monson-quotes-on-freedom.md`](21-additional-church-leaders/thomas-s-monson-quotes-on-freedom.md) |
-| Wilford Woodruff: Quotes on Freedom | Wilford Woodruff |  | ✅ ·R | 2598 | [`wilford-woodruff-quotes-on-freedom.md`](21-additional-church-leaders/wilford-woodruff-quotes-on-freedom.md) |
+| Thomas S. Monson: Quotes on Freedom | Thomas S. Monson |  | ✅ ·R | 1722 | [`thomas-s-monson-quotes-on-freedom.md`](21-additional-church-leaders/thomas-s-monson-quotes-on-freedom.md) |
+| Wilford Woodruff: Quotes on Freedom | Wilford Woodruff |  | ✅ ·R | 2739 | [`wilford-woodruff-quotes-on-freedom.md`](21-additional-church-leaders/wilford-woodruff-quotes-on-freedom.md) |
 
 ## 22. Supporting Authors & Commentators
 *7 docs · ~171,142 words*
@@ -369,7 +369,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Becoming a Zion Society: Six Principles | R. Quinn Gardner | 1979-02 | ✅ ·B | 3320 | [`r-quinn-gardner-becoming-a-zion-society-six-principles.md`](22-supporting-authors/r-quinn-gardner-becoming-a-zion-society-six-principles.md) |
 
 ## 23. Topical Compilations & Founding Documents
-*17 docs · ~149,023 words*
+*17 docs · ~148,988 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Ezra Taft Benson- Christ and the Constitution |  | 1967-04 | ✅ ·R | 2616 | [`ezra-taft-benson-christ-and-the-constitution.md`](23-topical-and-founding-documents/ezra-taft-benson-christ-and-the-constitution.md) |
 | Ezra Taft Benson- the LDS Church and Politics |  | 1952-12-01 | ✅ ·R | 4474 | [`ezra-taft-benson-the-lds-church-and-politics.md`](23-topical-and-founding-documents/ezra-taft-benson-the-lds-church-and-politics.md) |
 | Family Home Evening Lessons for the Bicentennial of the Constitution (1787–1987) |  | 1987 | ✅ ·R | 15104 | [`family-home-evening-lessons-for-the-bicentennial-of-the-constitution-1787-1987.md`](23-topical-and-founding-documents/family-home-evening-lessons-for-the-bicentennial-of-the-constitution-1787-1987.md) |
-| General Conference Constitution Quotes |  |  | ✅ ·R | 2122 | [`general-conference-constitution-quotes.md`](23-topical-and-founding-documents/general-conference-constitution-quotes.md) |
+| General Conference Constitution Quotes |  |  | ✅ ·R | 2087 | [`general-conference-constitution-quotes.md`](23-topical-and-founding-documents/general-conference-constitution-quotes.md) |
 | Washington's Farewell Address | George Washington | 2012-02-28 | ✅ ·R | 6410 | [`george-washington-washingtons-farewell-address.md`](23-topical-and-founding-documents/george-washington-washingtons-farewell-address.md) |
 | Is Socialism Wrong |  |  | ✅ ·R | 2708 | [`is-socialism-wrong.md`](23-topical-and-founding-documents/is-socialism-wrong.md) |
 | Our Awful Situation (Compilation) |  | 2004-02-28 | ✅ ·R | 46038 | [`our-awful-situation-compilation.md`](23-topical-and-founding-documents/our-awful-situation-compilation.md) |
@@ -393,7 +393,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 ---
 
-**247 documents · ~1,475,392 words total.**
+**247 documents · ~1,480,401 words total.**
 
 ### Notes
 

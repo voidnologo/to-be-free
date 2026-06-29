@@ -73,7 +73,7 @@ Joseph Smith was martyred on June 27, 1844, at the Carthage Jail, ending his bri
 
 “I would not have suffered my name to have been used by my friends on anywise as President of the United States, or candidate for that office, if I and my friends could have had the privilege of enjoying our religious and civil rights as American citizens, even those rights which the Constitution guarantees unto all her citizens alike. But this as a people we have been denied from the beginning. Persecution has rolled upon our heads from time to time, from portions of the United States, like peals of thunder, because of our religion; and no portion of the Government as yet has stepped forward for our relief. And in view of these things, I feel it to be my right and privilege to obtain what influence and power I can, lawfully, in the United States, for the protection of injured innocence.”
 
-**Joseph Smith, ****History of the Church,**** 6:210–11.**
+**Joseph Smith, History of the Church, 6:210–11.**
 
 ## Political Neutrality
 

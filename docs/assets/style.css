@@ -95,10 +95,15 @@ a:hover{text-decoration:underline}
 .prose pre{white-space:pre-wrap;word-wrap:break-word;overflow-x:auto;background:var(--panel);
   padding:10px 13px;border-radius:8px;font-size:.92em;text-align:left;hyphens:none}
 .prose code{word-break:break-word}
-/* quote-compilation pages: visually separate each quote */
-.prose.quotes>p{position:relative;padding:1.4em 0 0;margin:0;text-align:left;hyphens:none}
-.prose.quotes>p+p{border-top:1px solid var(--rule-2)}
-.prose.quotes>p:first-child{padding-top:0}
+/* quote-compilation pages: justified quotes, each with a cited source + separator */
+.prose.quotes blockquote{text-align:justify;-webkit-hyphens:auto;hyphens:auto;
+  margin:0;padding:0;border-left:none;color:var(--soft-ink);font-style:normal}
+.prose.quotes blockquote p{margin:0 0 .7em}
+.prose.quotes blockquote p:last-child{margin-bottom:0}
+.prose.quotes>p{text-align:right;font-family:var(--sans);font-size:.84rem;color:var(--muted);
+  margin:.55em 0 2.1em;padding-bottom:1.7em;border-bottom:1px solid var(--rule-2)}
+.prose.quotes>p:last-child{border-bottom:none;padding-bottom:0}
+.prose.quotes>p em{font-style:normal}
 .prose a{color:var(--accent);text-decoration:underline;text-underline-offset:2px}
 .prose em{font-style:italic}
 

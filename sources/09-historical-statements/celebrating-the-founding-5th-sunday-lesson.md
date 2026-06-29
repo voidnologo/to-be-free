@@ -67,7 +67,7 @@ I am bold to declare before Heaven that I am just as ready to die in defending t
 It is a love of liberty which inspires my soul—civil and religious liberty to the whole of the human race. (Teachings of Presidents of the Church: Joseph Smith [2011], 345)
 
 
-**President Dallin H. Oaks**
+**President Dallin H. Oaks**
 
 Religious teachings and the religiously motivated actions of believers benefit society and deserve legal protection.
 
@@ -79,17 +79,17 @@ When citizens learn to live together with respect—despite important
 
 religiousdifferences—they are also more likely to live peacefully with others with whom they have importantseculardifferences.” (“Pursuing Religious Liberty Worldwide [address given at the Notre Dame Religious Liberty Summit, July 20, 2022], newsroom.ChurchofJesusChrist.org)
 
-**President D. Todd Christofferson** 
+**President D. Todd Christofferson** 
 
 For centuries, people fought over religious differences, often with government suppressing one religion in the name of another. Religious liberty has allowed people of diverse religious traditions to live together in peace and friendship despite profound disagreements. … Governments that protect religious freedom have fewer social conflicts and greater levels of social cohesion. (“Religious Liberty: The Basis of a Free and Just Society” [address given at the First Forum on Religious Freedom in the Southern Cone, Oct. 29, 2021], religiousfreedomlibrary.org)
 
 
-**Elder Ronald A. Rasband** 
+**Elder Ronald A. Rasband** 
 
 If religion is not there to help with shaping character and mediating hard times, who will be? Who will teach honesty, gratitude, forgiveness, and patience? Who will exhibit charity, compassion, and kindness for the forgotten and the downtrodden? Who will embrace those who are different yet deserving, as are all of God’s children? Who will open their arms to those in need and seek no recompense? Who will reverence peace and obedience to laws greater than the trends of the day? (“To Heal the World,” Liahona, May 2022, 93)
 
 
-**President Camille N. Johnson**
+**President Camille N. Johnson**
 
 I believe that the most important and impactful work of women continues to be done when we care for our own children, teach a friend to read, patiently address the needs of an elderly neighbor, prepare a meal for the sick, or cry with a sister who is grieving. The universality in the way we bear and nurture humanity connects women across cultural divides and language barriers, laying a foundation for peace.
 

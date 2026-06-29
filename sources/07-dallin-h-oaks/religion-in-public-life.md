@@ -169,23 +169,23 @@ May it always be so!
 
 *Gospel topics: *religion, religious freedom
 
-  1. The text of the Williamsburg Charter is reproduced in the appendix (pp. 12745) of *Articles of Faith, Articles of Peace, the Religious Liberty Clauses and the American Public Philosophy.* (James Davison Hunter and Os Guinness, eds., Brookings Books, Washington, D.C., 1990). Professor W. Cole Durham, Jr., of the BYU J. Reuben Clark Law School gave excellent suggestions in the preparation of this manuscript.
+  1. The text of the Williamsburg Charter is reproduced in the appendix (pp. 12745) of *Articles of Faith, Articles of Peace, the Religious Liberty Clauses and the American Public Philosophy.* (James Davison Hunter and Os Guinness, eds., Brookings Books, Washington, D.C., 1990). Professor W. Cole Durham, Jr., of the BYU J. Reuben Clark Law School gave excellent suggestions in the preparation of this manuscript.
 
-  2. *Engle v. Vitale,* 370 U.S. 421, 435 (1962).
+  2. *Engle v. Vitale,* 370 U.S. 421, 435 (1962).
 
 3. Ibid., at 430.
 
-  4. Parental Responsibility, *Relief Society Magazine,* Dec. 1962, p. 878.
+  4. Parental Responsibility, *Relief Society Magazine,* Dec. 1962, p. 878.
 
-  5. *Abington School District v. Schempp,* 374 U.S. 203 (1963).
+  5. *Abington School District v. Schempp,* 374 U.S. 203 (1963).
 
-  6. *Church News,* 22 June 1963, p. 2.
+  6. *Church News,* 22 June 1963, p. 2.
 
-  7. 8 *Utah Law Review* 167, 174 (1963).
+  7. 8 *Utah Law Review* 167, 174 (1963).
 
-  8. *Wallace v. Jaffree,* 472 U.S. 38 (1985), discussed in Rodney K. Smith, *Public Prayer and the Constitution,* pp. 19192 (Wilmington, Del.: Scholarly Resources, 1987).
+  8. *Wallace v. Jaffree,* 472 U.S. 38 (1985), discussed in Rodney K. Smith, *Public Prayer and the Constitution,* pp. 19192 (Wilmington, Del.: Scholarly Resources, 1987).
 
-  9. These examples are taken from the *Washington Post National Weekly Edition,* 21 July 1986, p. 23, and from William J. Bennetts Payne Lecture, Religious Belief and the Constitutional Order, University of Missouri, 17 Sept. 1986, pp. 1214. See also Warren A. Nord, Liberals Should Want Religion Taught in Public Schools, *Washington Post National Weekly Edition,* 21 July 1986, p. 23.
+  9. These examples are taken from the *Washington Post National Weekly Edition,* 21 July 1986, p. 23, and from William J. Bennetts Payne Lecture, Religious Belief and the Constitutional Order, University of Missouri, 17 Sept. 1986, pp. 1214. See also Warren A. Nord, Liberals Should Want Religion Taught in Public Schools, *Washington Post National Weekly Edition,* 21 July 1986, p. 23.
 
 10. *Washington Post* editorial, 27 Dec. 1986; see also *Washington Post,* 22 Oct. 1988, p. A22.
 

@@ -16,7 +16,7 @@ tags: ["Liberty & Freedom", "Morality & Virtue", "War & Peace", "Free Agency"]
 
 *A                      version of this essay originally appeared in the September,                      1991, issue of  Liberty magazine.*
 
-Sometimes                      a single book or even a short cogent essay can change an individual’s                      entire outlook on life. For Christians, it is the ** New                      Testament**. For radical socialists, Karl Marx’ and                      Friedrich Engels’ 
+Sometimes                      a single book or even a short cogent essay can change an individual’s                      entire outlook on life. For Christians, it is the **New                      Testament**. For radical socialists, Karl Marx’ and                      Friedrich Engels’ 
 
 **is revolutionary. For libertarians, Ayn Rand’s**
 
@@ -24,7 +24,7 @@ Sometimes                      a single book or even a short cogent essay can ch
 
 *Atlas Shrugged***can be mind-changing.**
 
-*Human Action*Recently                      I came across a little essay in a book called ** Adventures                      of Ideas**, by Alfred North Whitehead, the British philosopher                      and Harvard professor. The essay, “From Force to Persuasion,”                      had a profound effect upon me. Actually what caught my attention                      was a single passage on page 83. This one small excerpt in                      a 300-page book changed my entire political philosophy. 
+*Human Action*Recently                      I came across a little essay in a book called **Adventures                      of Ideas**, by Alfred North Whitehead, the British philosopher                      and Harvard professor. The essay, “From Force to Persuasion,”                      had a profound effect upon me. Actually what caught my attention                      was a single passage on page 83. This one small excerpt in                      a 300-page book changed my entire political philosophy. 
 
 Here’s what it says:
 

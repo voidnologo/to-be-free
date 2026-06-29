@@ -56,7 +56,7 @@ I encourage you to hold fast to the freedoms you have forged at home and to lead
 
 The Church of Jesus Christ of Latter-day Saints is pleased to stand with you and others in this vital effort. Although we are optimistic that our efforts will make a difference, we must make these efforts collectively, since none of us can win this fight alone. I echo what my colleague Elder Dallin H. Oaks recently stated in a forum similar to this:
 
-It is imperative that those of us who believe in God and in the reality of right and wrong unite more effectively to protect our religious freedom to preach and practice our faith in God and the principles of right and wrong He has established. . . . All that is necessary for unity and a broad coalition along the lines I am suggesting is a common belief that there is right and wrong in human behavior that has been established by a Supreme Being. All who believe in that fundamental [principle] should unite more effectively to preserve and strengthen the freedom to advocate and practice our religious beliefs, whatever they are. We must walk together for a ways on the same path in order to secure our freedom to pursue our separate ways when that is necessary according to our own beliefs.[11]
+It is imperative that those of us who believe in God and in the reality of right and wrong unite more effectively to protect our religious freedom to preach and practice our faith in God and the principles of right and wrong He has established. . . . All that is necessary for unity and a broad coalition along the lines I am suggesting is a common belief that there is right and wrong in human behavior that has been established by a Supreme Being. All who believe in that fundamental [principle] should unite more effectively to preserve and strengthen the freedom to advocate and practice our religious beliefs, whatever they are. We must walk together for a ways on the same path in order to secure our freedom to pursue our separate ways when that is necessary according to our own beliefs.[11]
 
 Our task will be difficult and require constant vigilance, but it is of utmost importance.
 
@@ -80,7 +80,7 @@ Thank you.
 
 [7] See American Convention on Human Rights “Pact of San José, Costa Rica,” Nov. 22, 1969 (Inter-American Specialized Conference on Human Rights), oas.org/dil/treaties_B-32_American_Convention_on_Human_Rights.pdf; see also Juan G. Navarro Floria y Octavio Lo Prete, “Proselitismo religioso y libertad religiosa: una visión desde América Latina,” in *Anuario de derecho eclesiástico del Estado,* no. 48 (2011), 59–96.
 
-[8] See Brian J. Grim, Greg Clark, and Robert Edward Snyder, “Is Religious Freedom Good for Business? A Conceptual and Empirical Analysis,” *Interdisciplinary Journal of Research on Religion,* vol. 10 (2014), 4–6; Paul A. Marshall, “The Range of Religious Freedom,” in Paul A. Marshall, ed., *Religious Freedom in the World* (2008), 1–11.
+[8] See Brian J. Grim, Greg Clark, and Robert Edward Snyder, “Is Religious Freedom Good for Business? A Conceptual and Empirical Analysis,” *Interdisciplinary Journal of Research on Religion,* vol. 10 (2014), 4–6; Paul A. Marshall, “The Range of Religious Freedom,” in Paul A. Marshall, ed., *Religious Freedom in the World* (2008), 1–11.
 
 [9] See Patrick F. Fagan, “Why Religion Matters Even More: The Impact of Religious Practice on Social Stability,” *Backgrounder, *no. 1992 (Heritage Foundation, Dec. 18, 2006), 1–19; Robert D. Putnam and David E. Campbell, *American Grace: How Religion Divides and Unites Us* (2012), 443–92.
 

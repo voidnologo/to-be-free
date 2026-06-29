@@ -32,7 +32,7 @@ Religion also strengthens our nation in the matter of honesty and integrity. Mod
 
 Our society is not held together just by law and its enforcement, but most importantly by voluntary obedience to the unenforceable and by widespread adherence to unwritten norms of right or righteous behavior. Religious belief in right and wrong is a vital influence to advocate and persuade such voluntary compliance by a large proportion of our citizens.1 Others, of course, have a moral compass not expressly grounded in religion. John Adams relied on all of these when he wisely observed that
 
-“we have no government armed with power capable of contending with human passions unbridled by morality and religion. Avarice, ambition, revenge, or gallantry, would break the strongest cords of our Constitution as a whale goes through a net. Our Constitution was made only for a moral and religious people.  It is wholly inadequate to the government of any other.”2
+“we have no government armed with power capable of contending with human passions unbridled by morality and religion. Avarice, ambition, revenge, or gallantry, would break the strongest cords of our Constitution as a whale goes through a net. Our Constitution was made only for a moral and religious people.  It is wholly inadequate to the government of any other.”2
 
 Even the agnostic Oxford-educated British journalist Melanie Phillips admitted that
 
@@ -78,7 +78,7 @@ The free “exercise" of religion obviously involves both (1) the right to choos
 
 The inherent conflict between the precious religious freedom of the people and the legitimate regulatory responsibilities of the government is the central issue of religious freedom. The problems are not simple, and over the years the United States Supreme Court, which has the ultimate responsibility of interpreting the meaning of the lofty and general provisions of the Constitution, has struggled to identify principles that can guide its decisions when a law or regulation is claimed to violate someone's free exercise of religion. As would be expected, many of these battles have involved government efforts to restrict the religious practices of small groups like Jehovah's Witnesses and Mormons. Recent experience suggests adding the example of Muslims.
 
-Much of the controversy in recent years has focused on the extent to which state laws that are neutral and generally applicable can override the strong protections contained in the free exercise clause of the United States Constitution. As noted hereafter, in the 1990s the Supreme Court ruled that such state laws could prevail.  Fortunately, in a stunning demonstration of the resilience of the guarantee of free exercise of religion, over half of the states have passed legislation or interpreted their state constitutions to preserve a higher standard for protecting religious freedom. Only a handful have followed the Supreme Court's approach that the federal free exercise protection must bow to state laws that are neutral as to religion.17
+Much of the controversy in recent years has focused on the extent to which state laws that are neutral and generally applicable can override the strong protections contained in the free exercise clause of the United States Constitution. As noted hereafter, in the 1990s the Supreme Court ruled that such state laws could prevail.  Fortunately, in a stunning demonstration of the resilience of the guarantee of free exercise of religion, over half of the states have passed legislation or interpreted their state constitutions to preserve a higher standard for protecting religious freedom. Only a handful have followed the Supreme Court's approach that the federal free exercise protection must bow to state laws that are neutral as to religion.17
 
 Another important current debate over religious freedom concerns whether the guarantee of free exercise of religion gives one who acts on religious grounds greater protection against government prohibitions than are already guaranteed to everyone by other provisions of the constitution, like freedom of speech. I, of course, maintain that unless *religious *freedom has a unique position we erase the significance of this separate provision in the First Amendment. Treating actions based on religious belief the same as actions based on other systems of belief is not enough to satisfy the special guarantee of religious freedom in the United States Constitution. Religion must preserve its preferred status in our pluralistic society in order to make its unique contribution—its recognition and commitment to values that transcend the secular world.
 
@@ -88,9 +88,9 @@ Over a quarter century ago I reviewed the history and predicted the future of ch
 
 Unfortunately, the tide of thought and precedent seems contrary to this position. While I have no concern with expanding comparable protections to non-religious belief systems, as is done in international norms that protect freedom of religion *or belief*,20 I object to doing so by re-interpreting the First Amendment guarantee of free exercise of *religion*.
 
-It was apparent twenty-five years ago, and it is undeniable today, that the significance of *religious freedom *is diminishing. Five years after I gave my DePaul lecture, the United States Supreme Court issued its most important free exercise decision in many years  In *Employment Division v. Smith*,21 the Court significantly narrowed the traditional protection of religion by holding that the guarantee of free exercise did not prevent government from interfering with religious activities when it did so by neutral, generally applicable laws. This ruling removed religious activities from their sanctuary—the preferred position the First Amendment had given them.
+It was apparent twenty-five years ago, and it is undeniable today, that the significance of *religious freedom *is diminishing. Five years after I gave my DePaul lecture, the United States Supreme Court issued its most important free exercise decision in many years  In *Employment Division v. Smith*,21 the Court significantly narrowed the traditional protection of religion by holding that the guarantee of free exercise did not prevent government from interfering with religious activities when it did so by neutral, generally applicable laws. This ruling removed religious activities from their sanctuary—the preferred position the First Amendment had given them.
 
-Now, over twenty years later, some are contending that a religious *message *is just another message in a world full of messages, not something to be given unique or special protection. One author takes the extreme position that religious speech should have even *less *protection  In *Freedom from Religion*, published by the Oxford University Press, a law professor makes this three-step argument:
+Now, over twenty years later, some are contending that a religious *message *is just another message in a world full of messages, not something to be given unique or special protection. One author takes the extreme position that religious speech should have even *less *protection  In *Freedom from Religion*, published by the Oxford University Press, a law professor makes this three-step argument:
 
 1. In many nations “society is at risk from religious extremism."22
 
@@ -114,7 +114,7 @@ Religious preaching of the wrongfulness of homosexual relations is beginning to 
 
 I do not know enough to comment on whether these suppressions of religious speech violate the laws of other countries, but I do know something of religious freedom in the United States, and I am alarmed at what is reported to be happening here.
 
-In New Mexico, the state's Human Rights Commission held that a photographer who had declined on religious grounds to photograph a same-sex commitment ceremony had engaged in impermissible conduct and must pay over $6,000 attorney's fees to the same-sex couple. A state judge upheld the order to pay.31 In New Jersey, the United Methodist Church was investigated and penalized under state anti-discrimination law for denying same-sex couples access to a church-owned pavilion for their civil-union ceremonies.  A federal court refused to give relief from the state penalties.32 Professors at state universities in Illinois and Wisconsin were fired or disciplined for expressing personal convictions that homosexual behavior is sinful.33 Candidates for masters' degrees in counseling in Georgia and Michigan universities were penalized or dismissed from programs for their religious views about the wrongfulness of homosexual relations.34 A Los Angeles policeman claimed he was demoted after he spoke against the wrongfulness of homosexual conduct in the church where he is a lay pastor.35 The Catholic Church's difficulties with adoption services and the Boy Scouts' challenges in various locations are too well known to require further comment.
+In New Mexico, the state's Human Rights Commission held that a photographer who had declined on religious grounds to photograph a same-sex commitment ceremony had engaged in impermissible conduct and must pay over $6,000 attorney's fees to the same-sex couple. A state judge upheld the order to pay.31 In New Jersey, the United Methodist Church was investigated and penalized under state anti-discrimination law for denying same-sex couples access to a church-owned pavilion for their civil-union ceremonies.  A federal court refused to give relief from the state penalties.32 Professors at state universities in Illinois and Wisconsin were fired or disciplined for expressing personal convictions that homosexual behavior is sinful.33 Candidates for masters' degrees in counseling in Georgia and Michigan universities were penalized or dismissed from programs for their religious views about the wrongfulness of homosexual relations.34 A Los Angeles policeman claimed he was demoted after he spoke against the wrongfulness of homosexual conduct in the church where he is a lay pastor.35 The Catholic Church's difficulties with adoption services and the Boy Scouts' challenges in various locations are too well known to require further comment.
 
 We must also be concerned at recent official expressions that would narrow the field of activities protected by the free exercise of religion. Thus, when President Obama used the words *freedom of worship* instead of *free exercise of religion*, a writer for the Becket Fund for Religious Liberty sounded this warning:
 
@@ -136,7 +136,7 @@ All of this shows an alarming trajectory of events pointing toward constraining 
 
 Closely related to the danger of criminal prosecutions are the current arguments seeking to brand religious beliefs as an unacceptable basis for citizen action or even for argument in the public square. For an example of this we need go no further than the district court's opinion in the Proposition 8 case, *Perry v. Schwarzenegger*.41
 
-A few generations ago the idea that religious organizations and religious persons would be unwelcome in the public square would have been unthinkable. Now, such arguments are prominent enough to cause serious concern.  It is not difficult to see a conscious strategy to neutralize the influence of religion and churches and religious motivations on any issues that could be characterized as public policy. As noted by John A. Howard of the Howard Center for Family, Religion and Society, the proponents of banishment “have developed great skills in demonizing those who disagree with them, turning their opponents into objects of fear, hatred and scorn."42 Legal commentator Hugh Hewitt described the current circumstance this way:
+A few generations ago the idea that religious organizations and religious persons would be unwelcome in the public square would have been unthinkable. Now, such arguments are prominent enough to cause serious concern.  It is not difficult to see a conscious strategy to neutralize the influence of religion and churches and religious motivations on any issues that could be characterized as public policy. As noted by John A. Howard of the Howard Center for Family, Religion and Society, the proponents of banishment “have developed great skills in demonizing those who disagree with them, turning their opponents into objects of fear, hatred and scorn."42 Legal commentator Hugh Hewitt described the current circumstance this way:
 
 “There is a growing anti-religious bigotry in the United States. . . .
 
@@ -222,11 +222,11 @@ This proposal that we unite more effectively does not require any examination of
 
 I am not proposing a resurrection of the so-called “moral majority," which was identified with a particular religious group and a particular political party. Nor am I proposing an alliance or identification with any current political movement, tea party or other. I speak for a broader principle, non-partisan and, in its own focused objective, ecumenical. I speak for what Cardinal Francis George described in his address at Brigham Young University just a year ago. His title was “Catholics and Latter-day Saints: Partners in the Defense of Religious Freedom." He proposed
 
-“that Catholics and Mormons stand with one another and with other defenders of conscience, and that we can and should stand as one in the defense of religious liberty.  In the coming years, interreligious coalitions formed to defend the rights of conscience for individuals and for religious institutions should become a vital bulwark against the tide of forces at work in our government and society to reduce religion to a purely private reality. At stake is whether or not the religious voice will maintain its right to be heard in the public square."63
+“that Catholics and Mormons stand with one another and with other defenders of conscience, and that we can and should stand as one in the defense of religious liberty.  In the coming years, interreligious coalitions formed to defend the rights of conscience for individuals and for religious institutions should become a vital bulwark against the tide of forces at work in our government and society to reduce religion to a purely private reality. At stake is whether or not the religious voice will maintain its right to be heard in the public square."63
 
 We join in that call for religious coalitions to protect religious freedom. In doing so we recall the wisdom of Benjamin Franklin. At another critical time in our nation‘s history, he declared:
 
-  “We must all hang together, or assuredly we shall all hang separately."64
+  “We must all hang together, or assuredly we shall all hang separately."64
 
 In conclusion, as an Apostle of the Lord Jesus Christ I affirm His love for all people on this earth, and I affirm the importance His followers must attach to religious freedom for all people—whatever their beliefs. I pray for the blessings of God upon our cooperative efforts to preserve that freedom.
 
@@ -237,9 +237,9 @@ In conclusion, as an Apostle of the Lord Jesus Christ I affirm His love for all 
 
 2CHARLES FRANCIS ADAMS,THE WORKS OF JOHN ADAMS,SECOND PRESIDENT OF THE UNITED STATES,228–29(Books for Libraries Press, 1969).
 
-3MELANIE PHILLIPS,THE WORLD TURNED UPSIDE DOWN:  THE GLOBAL BATTLE OVER GOD,TRUTH,AND POWER,xiii (1st Am. ed., Encounter Books, 2010); *see generally* ROBERT D.PUTNAM &DAVID E.CAMPBELL,AMERICAN GRACE(2010).
+3MELANIE PHILLIPS,THE WORLD TURNED UPSIDE DOWN:  THE GLOBAL BATTLE OVER GOD,TRUTH,AND POWER,xiii (1st Am. ed., Encounter Books, 2010); *see generally* ROBERT D.PUTNAM &DAVID E.CAMPBELL,AMERICAN GRACE(2010).
 
-4*See*JOHN A.HOWARD,CHRISTIANITY:  LIFEBLOOD OF AMERICA‘S FREE SOCIETY (1620-1945),57(2008); *see also* Dinesh D‘Souza, *Created Equal:  How Christianity Shaped the West*, IMPRIMIS, Nov. 2008 at 5 (available at http://www.hillsdale.edu/hctools/ImprimisTool/archives/2008_11_ Imprimis.pdf). 
+4*See*JOHN A.HOWARD,CHRISTIANITY:  LIFEBLOOD OF AMERICA‘S FREE SOCIETY (1620-1945),57(2008); *see also* Dinesh D‘Souza, *Created Equal:  How Christianity Shaped the West*, IMPRIMIS, Nov. 2008 at 5 (available at http://www.hillsdale.edu/hctools/ImprimisTool/archives/2008_11_ Imprimis.pdf). 
 
 5*See* PUTNAM &CAMPBELL, *supra *note 3, at Chs. 3–4.
 
@@ -253,7 +253,7 @@ In conclusion, as an Apostle of the Lord Jesus Christ I affirm His love for all 
 
 10Michael Spencer, *The Coming Evangelical Collapse*, CHRISTIAN SCIENCE MONITOR, Mar. 10, 2009 *available at* http://www.csmonitor.com/Commentary/Opinion/2009/0310/p09s01-coop.html.
 
-11*See, e.g.*, MATTHEW S.HOLLAND, BONDS OF AFFECTION:  CIVIC CHARITY AND THE MAKING OF AMERICA, 252–53 n. 22 (Geo. Univ. Press, 2007).
+11*See, e.g.*, MATTHEW S.HOLLAND, BONDS OF AFFECTION:  CIVIC CHARITY AND THE MAKING OF AMERICA, 252–53 n. 22 (Geo. Univ. Press, 2007).
 
 12CHRISTIAN SMITH,SOULS IN TRANSITION, 84, 145 (Oxford Univ. Press, 2009); *cf.* PUTNAM &CAMPBELL, *supra* note 3*.*
 
@@ -267,9 +267,9 @@ In conclusion, as an Apostle of the Lord Jesus Christ I affirm His love for all 
 
 17See WILLIAM W.BASSETT,W.COLE DURHAM,JR.&ROBERT T.SMITH,RELIGIOUS ORGANIZATIONS AND THE LAW ''2.65-2.66(Thomson Reuters/West, 2010 ed., forthcoming).
 
-18Dallin H. Oaks, *Separation, Accommodation and the Future of Church and State*, 35 DEPAUL L.REV. 1, 1–22 (1985). 
+18Dallin H. Oaks, *Separation, Accommodation and the Future of Church and State*, 35 DEPAUL L.REV. 1, 1–22 (1985). 
 
-19*Id. *at 8.  *See also* Michael McConnell, *The Origins and Historical Understanding of Free Exercise of Religion*, 103 HARV.L.REV. 1409, 1488–1500 (1990).
+19*Id. *at 8.  *See also* Michael McConnell, *The Origins and Historical Understanding of Free Exercise of Religion*, 103 HARV.L.REV. 1409, 1488–1500 (1990).
 
 20 International Covenant on Civil and Political Rights, art. 18, Dec. 16, 1966, 999 U.N.T.S. 302.
 
@@ -285,31 +285,31 @@ In conclusion, as an Apostle of the Lord Jesus Christ I affirm His love for all 
 
 26*Id. *at 39.
 
-27*See, e.g.*, Brian J. Grim, *Religious Freedom:  Good for What Ails Us?* REV.FAITH &INT‘L AFF.*,* Summer 2008, at 3–7; BRIAN J.GRIM AND ROGER FINKE,THE PRICE OF FREEDOM DENIED:  RELIGIOUS PERSECUTION IN THE TWENTY-FIRST CENTURY (Cambridge Univ. Press, 2011).
+27*See, e.g.*, Brian J. Grim, *Religious Freedom:  Good for What Ails Us?* REV.FAITH &INT‘L AFF.*,* Summer 2008, at 3–7; BRIAN J.GRIM AND ROGER FINKE,THE PRICE OF FREEDOM DENIED:  RELIGIOUS PERSECUTION IN THE TWENTY-FIRST CENTURY (Cambridge Univ. Press, 2011).
 
-28 Cardinal Francis George, Catholics and Latter-day Saints:  Partners in the Defense of Religious Freedom, Brigham Young Univ., (Feb. 23, 2010).
+28 Cardinal Francis George, Catholics and Latter-day Saints:  Partners in the Defense of Religious Freedom, Brigham Young Univ., (Feb. 23, 2010).
 
-29*Homosexuality Trumps Free Speech and Religion in Canada*, NARTH(Aug. 9, 2005),  http://www.narth.com/docs/trumps.html; Pete Vere, *Catholicism—A Hate Crime in Canada?,* CATHOLIC EXCHANGE, (June 4, 2008) http://catholicexchange.com/2008/06/04/112780; *see* Stacey v. Campbell, 2002 B.C.H.R.T. 35 (B.C. Human Rights Trib. 2002); *see e.g.*, Marshall Breger, *Gay Activists vs. the First Amendment*, MOMENT, (Feb. 2010) http://www.momentmag.com/Exclusive/currentyear/02/201002-Opinion-Breger.html. 
+29*Homosexuality Trumps Free Speech and Religion in Canada*, NARTH(Aug. 9, 2005),  http://www.narth.com/docs/trumps.html; Pete Vere, *Catholicism—A Hate Crime in Canada?,* CATHOLIC EXCHANGE, (June 4, 2008) http://catholicexchange.com/2008/06/04/112780; *see* Stacey v. Campbell, 2002 B.C.H.R.T. 35 (B.C. Human Rights Trib. 2002); *see e.g.*, Marshall Breger, *Gay Activists vs. the First Amendment*, MOMENT, (Feb. 2010) http://www.momentmag.com/Exclusive/currentyear/02/201002-Opinion-Breger.html. 
 
-30*See, e.g.*, The Pastor Green Case, Supreme Court of Sweden, Case no. B 1050-05 (29 Nov. 2005); *The Ake Green Case:  Freedom of Religion on Trial in Sweden*, AKEGREEN.ORG, http://www.akegreen.org/; Heidi Blake, *Christian Preacher Arrested for Saying Homosexuality is a Sin*, THE TELEGRAPH, (May 2, 2010) http://www.telegraph. co.uk/news/newstopics/religion/7668448/Christian-preacher-arrested-for-saying-homosexuality-is-a-sin.html; Albert Mohler, *It’s Getting Dangerous Out There—A Preacher Is Arrested in Britain,* ALBERTMOHLER.COM(May 4, 2010) http://www.albertmohler.com/2010/05/04/its-getting-dangerous-out-there-a-preacher-is-arrested-in-britain/; Sylvia Tan, *Police reports lodged against Singapore pastor over offensive gay and lesbian remarks,* FRIDAE.COM(Feb. 18, 2010) http://www.fridae.com/newsfeatures/2010/02/18/9670.police-reports-lodged-against-singapore-pastor-over-offensive-gay-and-lesbian-remarks. 
+30*See, e.g.*, The Pastor Green Case, Supreme Court of Sweden, Case no. B 1050-05 (29 Nov. 2005); *The Ake Green Case:  Freedom of Religion on Trial in Sweden*, AKEGREEN.ORG, http://www.akegreen.org/; Heidi Blake, *Christian Preacher Arrested for Saying Homosexuality is a Sin*, THE TELEGRAPH, (May 2, 2010) http://www.telegraph. co.uk/news/newstopics/religion/7668448/Christian-preacher-arrested-for-saying-homosexuality-is-a-sin.html; Albert Mohler, *It’s Getting Dangerous Out There—A Preacher Is Arrested in Britain,* ALBERTMOHLER.COM(May 4, 2010) http://www.albertmohler.com/2010/05/04/its-getting-dangerous-out-there-a-preacher-is-arrested-in-britain/; Sylvia Tan, *Police reports lodged against Singapore pastor over offensive gay and lesbian remarks,* FRIDAE.COM(Feb. 18, 2010) http://www.fridae.com/newsfeatures/2010/02/18/9670.police-reports-lodged-against-singapore-pastor-over-offensive-gay-and-lesbian-remarks. 
 
-31*See *Vere, *Catholicism, supra*, note 29; *See also The Cost of Being a Christian*, ALLIANCE DEFENSE FUND, https://www.alliancedefensefund.org/Home/Detail/4333?referral=E0910B3F; David Walker, *Photographer Loses Bid to Refuse Same-Sex Wedding Jobs,* PDNONLINE(Jan. 4, 2010) http://www.pdnonline.com/pdn/content_display/features/pdn-online/e3i7d41666c039b61afca226786f0011fd9. 
+31*See *Vere, *Catholicism, supra*, note 29; *See also The Cost of Being a Christian*, ALLIANCE DEFENSE FUND, https://www.alliancedefensefund.org/Home/Detail/4333?referral=E0910B3F; David Walker, *Photographer Loses Bid to Refuse Same-Sex Wedding Jobs,* PDNONLINE(Jan. 4, 2010) http://www.pdnonline.com/pdn/content_display/features/pdn-online/e3i7d41666c039b61afca226786f0011fd9. 
 
 32Jill P. Capuzzo, *Group Loses Tax Break Over Gay Union Issue, *N.Y. Times, (Sep. 18, 2007) http://www.nytimes.com/2007/09/18/nyregion/18grove.html.
 
 33*See *Jodi Heckel, *Instructor of Catholicism at UI Claims Loss of Job Violates Academic Freedom*, News Gazette (Jul. 9, 2010) http://www.news-gazette.com/news/university-illinois/2010-07-09/instructor-catholicism-ui-claims-loss-job-violates-academic-free; *Julie Bolcer, Professor Sent Antigay E-mail to Student*, Advocate, (Oct. 14, 2010) http://www.advocate.com/News/Daily_News/2010/10/14/Professor_Sent_Antigay_Email_to_Student/.
 
-34*See *Joshua R. Miller, *Lawsuit Claims College Ordered Student to Alter Religious Views on Homosexuality, or Be Dismissed, *FoxNews.com, (Jul. 27, 2010) http://www.foxnews.com/us/2010/07/27/georgia-university-tells-student-lose-religion-lawsuit-claims/; Court rules student counselors must ‘affirm’ gay clients, USA Today, (Jul. 28, 2010) http://www.usatoday.com/news/education/2010-07-28-IHE-counseling-gays-ruling28_N.htm.  *See also *Keeton v. Anderson-Wiley, 733 F.Supp.2d 1368 (S.D. Ga. 2010); Ward v. Wilbanks, 09-CV-11237 (E.D. Mich. July 26, 2010).
+34*See *Joshua R. Miller, *Lawsuit Claims College Ordered Student to Alter Religious Views on Homosexuality, or Be Dismissed, *FoxNews.com, (Jul. 27, 2010) http://www.foxnews.com/us/2010/07/27/georgia-university-tells-student-lose-religion-lawsuit-claims/; Court rules student counselors must ‘affirm’ gay clients, USA Today, (Jul. 28, 2010) http://www.usatoday.com/news/education/2010-07-28-IHE-counseling-gays-ruling28_N.htm.  *See also *Keeton v. Anderson-Wiley, 733 F.Supp.2d 1368 (S.D. Ga. 2010); Ward v. Wilbanks, 09-CV-11237 (E.D. Mich. July 26, 2010).
 
 35Pete Vere, *Gay Rights vs. Faithful*, WASH.TIMES, July 31, 2008.
 
 36Ashley Samelson, *Why “Freedom of Worship” is Not Enough*, FIRST THINGS*, *(Feb. 22, 2010) http://www.firstthings.com/onthesquare/2010/02why-ldquofreedom-of-worshiprdquo-is-not-enough added).
 
-37See Katelyn Sabochik, *President Obama Celebrates Ramadan at White House Iftar Dinner*, 14 August 2010, The White House Blog, http://www.whitehouse.gov/blog/2010/08/14/president-obama-celebrates-ramadan-white-house-iftar-dinner;  Hilary Rodham Clinton, *Remarks at the release of the 2010 International Religious Freedom Report*, 17 November 2010, http://www.state.gov/secretary/rm/2010/11/151081.htm; *Clinton report on religious liberty applauded by panel*, 18 November 2010, The Ethics & Religious Liberty Commission of the Southern Baptist Convention, http://erlc.com/article/clinton-report-on-religious-liberty-applauded-by-panel.
+37See Katelyn Sabochik, *President Obama Celebrates Ramadan at White House Iftar Dinner*, 14 August 2010, The White House Blog, http://www.whitehouse.gov/blog/2010/08/14/president-obama-celebrates-ramadan-white-house-iftar-dinner;  Hilary Rodham Clinton, *Remarks at the release of the 2010 International Religious Freedom Report*, 17 November 2010, http://www.state.gov/secretary/rm/2010/11/151081.htm; *Clinton report on religious liberty applauded by panel*, 18 November 2010, The Ethics & Religious Liberty Commission of the Southern Baptist Convention, http://erlc.com/article/clinton-report-on-religious-liberty-applauded-by-panel.
 
-38*See* Deacon Fournier, *First Amendment Outdated?  Obama Nominates Homosexual Equivalency Advocate to EEOC*, CATHOLIC ONLINE, (Oct. 1, 2009) http://www.catholic.org/politics/story.php?id=34533.
+38*See* Deacon Fournier, *First Amendment Outdated?  Obama Nominates Homosexual Equivalency Advocate to EEOC*, CATHOLIC ONLINE, (Oct. 1, 2009) http://www.catholic.org/politics/story.php?id=34533.
 
-39*Id*.  *See also* Chai Feldblum, *Moral Conflict and Liberty:  Gay Rights and Religion*, 72 BROOKLYN L.REV. 61 (2006) (*also available at* http://www.becketfund.org/files/4bce5.pdf). 
+39*Id*.  *See also* Chai Feldblum, *Moral Conflict and Liberty:  Gay Rights and Religion*, 72 BROOKLYN L.REV. 61 (2006) (*also available at* http://www.becketfund.org/files/4bce5.pdf). 
 
 40James Madison, Speech in the Virginia Ratifying Convention on Control of the Military, (June 16, 1788), *in* 1 HISTORY OF THE VIRGINIA FEDERAL CONVENTION OF 1788, 130 (H.B. Grigsby ed., 1890).
 
@@ -335,11 +335,11 @@ In conclusion, as an Apostle of the Lord Jesus Christ I affirm His love for all 
 
 51*Id. *at 66–67.
 
-52Compare Hope Yen, *Holey Matrimony:  Marriage a moth-eaten relic?*, SALT LAKE TRIB., Nov. 18, 2010, at A8, with *Marriage’s Demise Exaggerated*, DESERET NEWS, Dec. 5, 2010, at G1.
+52Compare Hope Yen, *Holey Matrimony:  Marriage a moth-eaten relic?*, SALT LAKE TRIB., Nov. 18, 2010, at A8, with *Marriage’s Demise Exaggerated*, DESERET NEWS, Dec. 5, 2010, at G1.
 
-53PAUL JOHNSON,MODERN TIMES:  THE WORLD FROM THE TWENTIES TO THE NINETIES, (rev. ed., 1991), at 4.  Declaring that secular ideology came to replace religious belief, Johnson charges moral relativism with being one of the underlying evils that made possible the catastrophic failures and tragedies of the century.  *Id*. at 48, 784.
+53PAUL JOHNSON,MODERN TIMES:  THE WORLD FROM THE TWENTIES TO THE NINETIES, (rev. ed., 1991), at 4.  Declaring that secular ideology came to replace religious belief, Johnson charges moral relativism with being one of the underlying evils that made possible the catastrophic failures and tragedies of the century.  *Id*. at 48, 784.
 
-54GERTRUDE HIMMELFARB,THE DE-MORALIZATION OF SOCIETY:  FROM VICTORIAN VIRTUES TO MODERN VALUES(1st Vintage Books ed., 1996) at 9–12.
+54GERTRUDE HIMMELFARB,THE DE-MORALIZATION OF SOCIETY:  FROM VICTORIAN VIRTUES TO MODERN VALUES(1st Vintage Books ed., 1996) at 9–12.
 
 55HAROLD KUSHNER,WHO NEEDS GOD(Fireside ed., 2002), at 78.
 
@@ -347,7 +347,7 @@ In conclusion, as an Apostle of the Lord Jesus Christ I affirm His love for all 
 
 57*Id. *at 208–09.
 
-58TIMOTHY KELLER,THE REASON FOR GOD:  BELIEF IN AN AGE OF SKEPTICISM(2008), at 114, 145–47.
+58TIMOTHY KELLER,THE REASON FOR GOD:  BELIEF IN AN AGE OF SKEPTICISM(2008), at 114, 145–47.
 
 59Neal A. Maxwell, *The Prohibitive Costs of a Value-free Society*, ENSIGN, Oct. 1978, at 52.
 

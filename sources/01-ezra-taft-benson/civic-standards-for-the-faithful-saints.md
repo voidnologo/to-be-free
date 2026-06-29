@@ -52,7 +52,7 @@ President J. Reuben Clark, Jr., put it well when he said:
 
 “… to vote for wicked men, it would be sin,” said Hyrum Smith. (Documentary History of the Church, vol. 6, p. 323.)
 
-And the Prophet Joseph Smith said, “… let the people of the whole Union, like the inflexible Romans, whenever they find a *promise* made by a candidate that is not *practiced* as an officer, hurl the miserable sycophant from his exaltation. …” (DHC, vol. 6, p. 207.)
+And the Prophet Joseph Smith said, “… let the people of the whole Union, like the inflexible Romans, whenever they find a *promise* made by a candidate that is not *practiced* as an officer, hurl the miserable sycophant from his exaltation. …” (DHC, vol. 6, p. 207.)
 
 Joseph and Hyrum’s trust did not run to the arm of flesh, but to God and correct eternal principles. “I am the greatest advocate of the Constitution of the United States there is on the earth,” said the Prophet Joseph Smith. (DHC, vol. 6, p. 56.)
 

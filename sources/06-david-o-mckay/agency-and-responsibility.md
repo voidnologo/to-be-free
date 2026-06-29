@@ -46,7 +46,7 @@ Next to the bestowal of life itself, the right to direct that life is God’s gr
 
 References in the Scriptures show that [agency] is (1) essential to man’s salvation; and, (2) may become a measuring rod by which the actions of men, of organizations, of nations may be judged.
 
-“Therefore, cheer up your hearts, and remember that ye are free to act for yourselves—to choose the way of everlasting death or the way of eternal life.” (2 Nephi 10:23.)
+“Therefore, cheer up your hearts, and remember that ye are free to act for yourselves—to choose the way of everlasting death or the way of eternal life.” (2 Nephi 10:23.)
 
 ### With agency comes personal responsibility to fulfill the “true purpose of life.”
 
@@ -54,15 +54,15 @@ The responsibility is upon each individual to choose the path of righteousness, 
 
 “If Brother Brigham should take a wrong track and be shut out of the kingdom of heaven, no person will be to blame but Brother Brigham. I am the only being in heaven, earth, or hell, that can be blamed.
 
-“This will equally apply to every Latter-day Saint. Salvation is an individual operation. … When salvation is sent to me, I can reject or receive it. In receiving it, I yield implicit obedience and submission to its great Author throughout my life, and to those whom he shall appoint to instruct me; in rejecting it, I follow the dictates of my own will in preference to the will of my Creator.” [See *Discourses of Brigham Young,* sel. John A. Widtsoe (1954), 390.]
+“This will equally apply to every Latter-day Saint. Salvation is an individual operation. … When salvation is sent to me, I can reject or receive it. In receiving it, I yield implicit obedience and submission to its great Author throughout my life, and to those whom he shall appoint to instruct me; in rejecting it, I follow the dictates of my own will in preference to the will of my Creator.” [See *Discourses of Brigham Young,* sel. John A. Widtsoe (1954), 390.]
 
 With free agency there comes responsibility. If a man is to be rewarded for righteousness and punished for evil, then common justice demands that he be given the power of independent action. A knowledge of good and evil is essential to man’s progress on earth. If he were coerced to do right at all times, or were helplessly enticed to commit sin, he would merit neither a blessing for the first nor punishment for the second. …
 
 … Man’s responsibility is correspondingly operative with his free agency. Actions in harmony with divine law and the laws of nature will bring happiness, and those in opposition to divine truth, misery. Man is responsible not only for every deed, but also for every idle word and thought. Said the Savior:
 
-“… every idle word that men shall speak they shall give account thereof in the day of judgment.” (Matthew 12:36.)
+“… every idle word that men shall speak they shall give account thereof in the day of judgment.” (Matthew 12:36.)
 
-Earth in all its majesty and wonder is not the end and purpose of creation. *“… my glory,” says the Lord himself, “(is) to bring to pass the immortality and eternal life of man.”* (Moses 1:39.) And man in exercising the divine gift of free agency should feel in duty bound, should sense the *obligation* to assist the Creator in the accomplishment of this divine purpose.
+Earth in all its majesty and wonder is not the end and purpose of creation. *“… my glory,” says the Lord himself, “(is) to bring to pass the immortality and eternal life of man.”* (Moses 1:39.) And man in exercising the divine gift of free agency should feel in duty bound, should sense the *obligation* to assist the Creator in the accomplishment of this divine purpose.
 
 The true end of life is not mere existence, not pleasure, not fame, not wealth. The true purpose of life is the perfection of humanity through individual effort, under the guidance of God’s inspiration.
 
@@ -113,6 +113,6 @@ How does our righteous use of agency make us free?
 - 
 How can we help preserve liberty and promote the responsible use of individual freedoms? (See pages 211–12.) 
 
-*Related Scriptures:* Joshua 24:15; 2 Nephi 2:14–16, 26–28; Alma 5:40–42; Helaman 14:30–31; D&C 58:26–28; 130:20–21; Abraham 3:24–28
+*Related Scriptures:* Joshua 24:15; 2 Nephi 2:14–16, 26–28; Alma 5:40–42; Helaman 14:30–31; D&C 58:26–28; 130:20–21; Abraham 3:24–28
 
 

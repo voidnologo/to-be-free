@@ -1,12 +1,13 @@
 ---
 title: "Americas Challenge"
 author: "Ezra Taft Benson"
-date: "1949-09-25"
+date: "1974"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/americas-challenge/"
 source_file: "raw/Research Documents/Ezra Taft Benson - Americas Challenge.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, *God, Family, Country: Our Three Great Loyalties* (1974), 379; original delivery date not established."
 status: "full"
 collection: "research-extended"
 word_count: 4266

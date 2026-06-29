@@ -1,12 +1,13 @@
 ---
 title: "In Mine Own Way"
 author: "Marion G. Romney"
-date: "1944-10-06"
+date: "1976-10"
 section: "14-marion-g-romney"
 source_url: ""
 source_file: "raw/Research Documents/Marion G Romney - In Mine Own Way.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Marion G. Romney, “In Mine Own Way,” October 1976 General Conference (*Ensign*, November 1976)."
 status: "full"
 collection: "research-extended"
 word_count: 2762

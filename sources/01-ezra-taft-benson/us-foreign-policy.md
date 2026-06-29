@@ -1,12 +1,13 @@
 ---
 title: "US Foreign Policy"
 author: "Ezra Taft Benson"
-date: "1964-01-27"
+date: "1968-06-21"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/united-states-foreign-policy/"
 source_file: "raw/Research Documents/Ezra Taft Benson - US Foreign Policy.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, Farm Bureau Banquet, Preston, Idaho, 21 June 1968."
 status: "full"
 collection: "research-extended"
 word_count: 6273

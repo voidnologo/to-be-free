@@ -1,12 +1,13 @@
 ---
 title: "Harold B. Lee: Quotes on Freedom"
 author: "Harold B. Lee"
-date: "1971-11-12"
+date: ""
 section: "21-additional-church-leaders"
 source_url: "http://www.latterdayconservative.com/quotes/harold-b-lee/"
 source_file: "raw/Research Documents/Harold B Lee - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 2656

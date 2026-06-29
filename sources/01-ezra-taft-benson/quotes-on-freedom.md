@@ -1,12 +1,13 @@
 ---
 title: "Ezra Taft Benson: Quotes on Freedom"
 author: "Ezra Taft Benson"
-date: "1979-10-26"
+date: ""
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/quotes/ezra-taft-benson/"
 source_file: "raw/Research Documents/Ezra Taft Benson - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 16122

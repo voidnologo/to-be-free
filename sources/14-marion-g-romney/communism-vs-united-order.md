@@ -1,12 +1,13 @@
 ---
 title: "Communism vs United Order"
 author: "Marion G. Romney"
-date: "1964-03-24"
+date: "1966-04"
 section: "14-marion-g-romney"
 source_url: ""
 source_file: "raw/Research Documents/Marion G Romney - Communism vs United Order.htm"
 source_format: "htm"
 retrieved: "2026-06-28"
+source_note: "Marion G. Romney, “Socialism and the United Order Compared,” General Conference, April 1966 (Conference Report 95–101)."
 status: "full"
 collection: "research-extended"
 word_count: 3971

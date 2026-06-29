@@ -1,12 +1,13 @@
 ---
 title: "Law and Becoming"
 author: "D. Todd Christofferson"
-date: "1993-08-06"
+date: "2011-02-04"
 section: "02-d-todd-christofferson"
 source_url: "http://www.latterdayconservative.com/articles/law-and-becoming/"
 source_file: "raw/Research Documents/D Todd Christofferson - Law and Becoming.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "D. Todd Christofferson, fireside to the J. Reuben Clark Law Society, 4 February 2011 (*Clark Memorandum*, Spring 2011)."
 status: "full"
 collection: "research-extended"
 word_count: 3958

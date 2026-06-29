@@ -1,12 +1,13 @@
 ---
 title: "Is Socialism the United Order"
 author: "Marion G. Romney"
-date: "1964-03-24"
+date: "1966-04"
 section: "14-marion-g-romney"
 source_url: ""
 source_file: "raw/Research Documents/Marion G Romney - Is Socialism the United Order.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Marion G. Romney, “Is Socialism the United Order?” / “Socialism and the United Order Compared,” first given at BYU then General Conference, April 1966."
 status: "full"
 collection: "research-extended"
 word_count: 3767

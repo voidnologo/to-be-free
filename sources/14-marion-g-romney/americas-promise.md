@@ -1,12 +1,13 @@
 ---
 title: "America's Promise"
 author: "Marion G. Romney"
-date: "1964-07-03"
+date: "1979-09"
 section: "14-marion-g-romney"
 source_url: ""
 source_file: "raw/Research Documents/Marion G Romney - America's Promise.htm"
 source_format: "htm"
 retrieved: "2026-06-28"
+source_note: "Marion G. Romney, “America’s Promise,” *Ensign*, September 1979, 3."
 status: "full"
 collection: "research-extended"
 word_count: 1765

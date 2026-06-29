@@ -1,12 +1,13 @@
 ---
 title: "Howard W. Hunter: Quotes on Freedom"
 author: "Howard W. Hunter"
-date: "1966-03-08"
+date: ""
 section: "17-howard-w-hunter"
 source_url: "http://www.latterdayconservative.com/quotes/howard-w-hunter/"
 source_file: "raw/Research Documents/Howard W Hunter - Quotes on Feedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 855

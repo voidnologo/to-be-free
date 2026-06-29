@@ -1,12 +1,13 @@
 ---
 title: "America in Prophecy"
 author: ""
-date: "1989-03-26"
+date: ""
 section: "23-topical-and-founding-documents"
 source_url: ""
 source_file: "raw/Research Documents/America in Prophesy.htm"
 source_format: "htm"
 retrieved: "2026-06-28"
+source_note: "Compilation of Book of Mormon prophecies concerning America; no single date (a spurious 1989-03-26 auto-date was removed)."
 status: "full"
 collection: "research-extended"
 word_count: 14250

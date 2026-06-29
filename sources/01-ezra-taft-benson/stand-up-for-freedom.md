@@ -1,12 +1,13 @@
 ---
 title: "Stand Up for Freedom"
 author: "Ezra Taft Benson"
-date: "1963-06-06"
+date: "1966-02-11"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/stand-up-for-freedom/"
 source_file: "raw/Research Documents/Ezra Taft Benson - Stand up For Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, Assembly Hall at Temple Square, 11 Feb 1966 (Utah Forum for the American Idea)."
 status: "full"
 collection: "research-extended"
 word_count: 7242

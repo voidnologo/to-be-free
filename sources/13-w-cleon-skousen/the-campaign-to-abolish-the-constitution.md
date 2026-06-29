@@ -1,12 +1,13 @@
 ---
 title: "The Campaign to Abolish the Constitution"
 author: "W. Cleon Skousen"
-date: "1962-08-28"
+date: "1971-03"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/the-campaign-to-abolish-the-constitution/"
 source_file: "raw/Skousen/W Cleon Skousen - The Campaign to Abolish the Constitution.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, from *Law & Order* magazine, March 1971."
 status: "full"
 collection: "research-extended"
 word_count: 2858

@@ -1,12 +1,13 @@
 ---
 title: "100 Things Destroying America"
 author: "W. Cleon Skousen"
-date: "1962-05-02"
+date: "1982"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/100-things-destroying-america/"
 source_file: "raw/Skousen/W Cleon Skousen - 100 Things Destroying America.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, *100 Things Destroying America* (1982)."
 status: "full"
 collection: "research-extended"
 word_count: 5934

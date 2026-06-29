@@ -1,12 +1,13 @@
 ---
 title: "Unity"
 author: "David O. McKay"
-date: "1967-08-07"
+date: "1967-09-29"
 section: "06-david-o-mckay"
 source_url: ""
 source_file: "raw/Research Documents/David O Mckay - Unity.htm"
 source_format: "htm"
 retrieved: "2026-06-28"
+source_note: "David O. McKay, “Unity of Purpose…,” 137th Semiannual General Conference, 29 September 1967."
 status: "full"
 collection: "research-extended"
 word_count: 4527

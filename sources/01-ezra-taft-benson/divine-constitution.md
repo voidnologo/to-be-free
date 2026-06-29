@@ -1,7 +1,7 @@
 ---
 title: "Divine Constitution"
 author: "Ezra Taft Benson"
-date: "1987-10-04"
+date: "1987-10-03"
 section: "01-ezra-taft-benson"
 source_url: ""
 source_file: "raw/Research Documents/Ezra Taft Benson - Divine Constitution.html"

@@ -1,12 +1,13 @@
 ---
 title: "David O. McKay: Quotes on Freedom"
 author: "David O. McKay"
-date: "1954-03-08"
+date: ""
 section: "06-david-o-mckay"
 source_url: "http://www.latterdayconservative.com/quotes/david-o-mckay/"
 source_file: "raw/Research Documents/David O McKay - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 4930

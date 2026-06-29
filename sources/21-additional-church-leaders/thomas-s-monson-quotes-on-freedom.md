@@ -1,12 +1,13 @@
 ---
 title: "Thomas S. Monson: Quotes on Freedom"
 author: "Thomas S. Monson"
-date: "1997-05-31"
+date: ""
 section: "21-additional-church-leaders"
 source_url: "http://www.latterdayconservative.com/quotes/thomas-s-monson/"
 source_file: "raw/Research Documents/Thomas S Monson - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 1568

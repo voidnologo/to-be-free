@@ -1,12 +1,13 @@
 ---
 title: "Joseph Fielding Smith: Quotes on Freedom"
 author: "Joseph Fielding Smith"
-date: "1935-04"
+date: ""
 section: "21-additional-church-leaders"
 source_url: "http://www.latterdayconservative.com/quotes/joseph-fielding-smith/"
 source_file: "raw/Research Documents/Joseph Fielding Smith - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 2755

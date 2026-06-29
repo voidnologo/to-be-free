@@ -1,12 +1,13 @@
 ---
 title: "The Red Pill — Statements on Freedom"
 author: ""
-date: "1921-01-21"
+date: ""
 section: "23-topical-and-founding-documents"
 source_url: "http://www.latterdayconservative.com/articles/the-red-pill-statements-on-freedom/"
 source_file: "raw/The Red Pill (Statements on Freedom).html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation “The Red Pill (Statements on Freedom)”; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 10989

@@ -1,12 +1,13 @@
 ---
 title: "Two Great Forces"
 author: "David O. McKay"
-date: "1960-12-11"
+date: "1965-10"
 section: "06-david-o-mckay"
 source_url: "http://www.latterdayconservative.com/david-o-mckay/two-great-forces/"
 source_file: "raw/Research Documents/David O McKay - Two Great Forces.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "David O. McKay, General Conference, October 1965."
 status: "full"
 collection: "research-extended"
 word_count: 3288

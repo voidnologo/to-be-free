@@ -1,12 +1,13 @@
 ---
 title: "Meeting the Challenge"
 author: "Ezra Taft Benson"
-date: "1976-06-03"
+date: "1977"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/meeting-the-challenge/"
 source_file: "raw/Research Documents/Ezra Taft Benson - Meeting the Challenge.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, *This Nation Shall Endure* (1977); original delivery date not established."
 status: "full"
 collection: "research-extended"
 word_count: 870

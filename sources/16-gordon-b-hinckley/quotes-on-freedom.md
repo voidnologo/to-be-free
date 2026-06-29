@@ -1,12 +1,13 @@
 ---
 title: "Gordon B. Hinckley: Quotes on Freedom"
 author: "Gordon B. Hinckley"
-date: "2004-01-10"
+date: ""
 section: "16-gordon-b-hinckley"
 source_url: "http://www.latterdayconservative.com/quotes/gordon-b-hinckley/"
 source_file: "raw/Research Documents/Gordon B Hinckley - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 1907

@@ -1,12 +1,13 @@
 ---
 title: "Asked to Write the Naked Communist"
 author: "W. Cleon Skousen"
-date: "1962-03-13"
+date: "1998-11"
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/w-cleon-skousen-is-asked-to-write-the-naked-communist/"
 source_file: "raw/Skousen/W Cleon Skousen - Asked to write the Naked Communist.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Account written November 1998 by Earl Taylor Jr. (recounting Skousen being asked to write *The Naked Communist*, c. 1958)."
 status: "full"
 collection: "research-extended"
 word_count: 2980

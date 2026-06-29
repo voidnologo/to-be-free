@@ -1,12 +1,13 @@
 ---
 title: "A Moral Challenge to the West"
 author: "Ezra Taft Benson"
-date: "1956-10-23"
+date: "1979-10-26"
 section: "01-ezra-taft-benson"
 source_url: "http://www.latterdayconservative.com/ezra-taft-benson/a-moral-challenge-to-the-west-a-world-wide-battle/"
 source_file: "raw/Research Documents/Ezra Taft Benson - A Moral Challenge to the West .html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, delivered to the International Freedoms Conference, Philadelphia, PA, 26 October 1979."
 status: "full"
 collection: "research-extended"
 word_count: 4212

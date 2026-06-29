@@ -1,12 +1,13 @@
 ---
 title: "J. Reuben Clark Jr.: Quotes on Freedom"
 author: "J. Reuben Clark Jr."
-date: "1992-09-01"
+date: ""
 section: "10-j-reuben-clark"
 source_url: "http://www.latterdayconservative.com/articles/j-reuben-clark-quotes-on-freedom-america-constitution-liberty/"
 source_file: "raw/Research Documents/J Reuben Clark - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 1738

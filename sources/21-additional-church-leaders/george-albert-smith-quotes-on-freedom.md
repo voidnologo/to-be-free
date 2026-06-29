@@ -1,12 +1,13 @@
 ---
 title: "George Albert Smith: Quotes on Freedom"
 author: "George Albert Smith"
-date: "1918-09-15"
+date: ""
 section: "21-additional-church-leaders"
 source_url: "http://www.latterdayconservative.com/quotes/george-albert-smith/"
 source_file: "raw/Research Documents/George Albert Smith - Quotes on Freedom.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation of quotations from many sources/dates; no single date. TODO: source each quote individually."
 status: "full"
 collection: "research-extended"
 word_count: 5083

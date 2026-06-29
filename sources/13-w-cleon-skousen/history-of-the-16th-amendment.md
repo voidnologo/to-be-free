@@ -1,12 +1,13 @@
 ---
 title: "History of the 16th Amendment"
 author: "W. Cleon Skousen"
-date: "1973-03-29"
+date: ""
 section: "13-w-cleon-skousen"
 source_url: "http://www.latterdayconservative.com/articles/history-of-the-16th-amendment/"
 source_file: "raw/Skousen/W Cleon Skousen - History of the 16th Amendment.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen; original date not established (a spurious 1973-03-29 auto-date was removed)."
 status: "full"
 collection: "research-extended"
 word_count: 2606

@@ -1,12 +1,13 @@
 ---
 title: "Deadly Challenge of Communism"
 author: "David O. McKay"
-date: "1921-01-21"
+date: ""
 section: "06-david-o-mckay"
 source_url: ""
 source_file: "raw/Research Documents/David O Mckay - Deadly Challenge of Communism.htm"
 source_format: "htm"
 retrieved: "2026-06-28"
+source_note: "David O. McKay anti-communism address (c. late 1950s–early 1960s); original date unverified (a spurious 1921-01-21 scrape date was removed)."
 status: "full"
 collection: "research-extended"
 word_count: 2280

@@ -12,7 +12,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | A Message to the World | Ezra Taft Benson | 1977 | ✅ ·R | 2088 | [`a-message-to-the-world.md`](01-ezra-taft-benson/a-message-to-the-world.md) |
-| A Moral Challenge to the West | Ezra Taft Benson | 1956-10-23 | ✅ ·R | 4212 | [`a-moral-challenge-to-the-west.md`](01-ezra-taft-benson/a-moral-challenge-to-the-west.md) |
+| A Moral Challenge to the West | Ezra Taft Benson | 1979-10-26 | ✅ ·R | 4212 | [`a-moral-challenge-to-the-west.md`](01-ezra-taft-benson/a-moral-challenge-to-the-west.md) |
 | A Plea to Strengthen Our Families | Ezra Taft Benson | 1970-10 | ✅ ·R | 2990 | [`a-plea-to-strengthen-our-families.md`](01-ezra-taft-benson/a-plea-to-strengthen-our-families.md) |
 | A Race Against Time | Ezra Taft Benson | 1963-12-10 | ✅ ·R | 8115 | [`a-race-against-time.md`](01-ezra-taft-benson/a-race-against-time.md) |
 | A Witness and a Warning | Ezra Taft Benson | 1979-10 | ✅ | 2295 | [`a-witness-and-a-warning.md`](01-ezra-taft-benson/a-witness-and-a-warning.md) |
@@ -20,7 +20,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | America at the Crossroads | Ezra Taft Benson | 1978-07 | ✅ ·R | 2582 | [`america-at-the-crossroads.md`](01-ezra-taft-benson/america-at-the-crossroads.md) |
 | America What of the Future | Ezra Taft Benson | 1952-04 | ✅ ·R | 2825 | [`america-what-of-the-future.md`](01-ezra-taft-benson/america-what-of-the-future.md) |
 | Americans Are Destroying America | Ezra Taft Benson | 1968-04 | ✅ ·R | 3137 | [`americans-are-destroying-america.md`](01-ezra-taft-benson/americans-are-destroying-america.md) |
-| Americas Challenge | Ezra Taft Benson | 1949-09-25 | ✅ ·R | 4266 | [`americas-challenge.md`](01-ezra-taft-benson/americas-challenge.md) |
+| Americas Challenge | Ezra Taft Benson | 1974 | ✅ ·R | 4266 | [`americas-challenge.md`](01-ezra-taft-benson/americas-challenge.md) |
 | Americas Debt to Great Britain | Ezra Taft Benson | 1987-07-26 | ✅ ·R | 3485 | [`americas-debt-to-great-britain.md`](01-ezra-taft-benson/americas-debt-to-great-britain.md) |
 | Americas Hope | Ezra Taft Benson | 1950-04 | ✅ ·R | 2724 | [`americas-hope.md`](01-ezra-taft-benson/americas-hope.md) |
 | America's Strength the Morality of Its People | Ezra Taft Benson | 1975-07-14 | ✅ ·R | 1996 | [`americas-strength-the-morality-of-its-people.md`](01-ezra-taft-benson/americas-strength-the-morality-of-its-people.md) |
@@ -28,7 +28,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Can We Preserve What They Wrought | Ezra Taft Benson | 1977 | ✅ ·R | 1126 | [`can-we-preserve-what-they-wrought.md`](01-ezra-taft-benson/can-we-preserve-what-they-wrought.md) |
 | Civic Standard for the Faithful Saint | Ezra Taft Benson | 1972-04-08 | ✅ ·R | 2871 | [`civic-standard-for-the-faithful-saint.md`](01-ezra-taft-benson/civic-standard-for-the-faithful-saint.md) |
 | Civic Standards for the Faithful Saints | Ezra Taft Benson | 1972-04 | ✅ | 2720 | [`civic-standards-for-the-faithful-saints.md`](01-ezra-taft-benson/civic-standards-for-the-faithful-saints.md) |
-| Divine Constitution | Ezra Taft Benson | 1987-10-04 | ✅ ·R | 2704 | [`divine-constitution.md`](01-ezra-taft-benson/divine-constitution.md) |
+| Divine Constitution | Ezra Taft Benson | 1987-10-03 | ✅ ·R | 2704 | [`divine-constitution.md`](01-ezra-taft-benson/divine-constitution.md) |
 | Fourteen Fundamentals in Following the Prophet | Ezra Taft Benson | 1980-02-26 | ✅ ·R | 3388 | [`fourteen-fundamentals-in-following-the-prophet.md`](01-ezra-taft-benson/fourteen-fundamentals-in-following-the-prophet.md) |
 | Freedom and Free Enterprise | Ezra Taft Benson | 1977-07-03 | ✅ ·R | 7386 | [`freedom-and-free-enterprise.md`](01-ezra-taft-benson/freedom-and-free-enterprise.md) |
 | General Conference Address — October 1954 | Ezra Taft Benson | 1954-10 | ✅ ·R | 3698 | [`general-conference-address-october-1954.md`](01-ezra-taft-benson/general-conference-address-october-1954.md) |
@@ -38,7 +38,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Human Liberty Is the Mainspring of Human Progress | Ezra Taft Benson | 1962-10 | ✅ ·R | 3450 | [`human-liberty-is-the-mainspring-of-human-progress.md`](01-ezra-taft-benson/human-liberty-is-the-mainspring-of-human-progress.md) |
 | I Testify | Ezra Taft Benson | 1988-11 | ✅ ·R | 1627 | [`i-testify.md`](01-ezra-taft-benson/i-testify.md) |
 | Keep America Strong | Ezra Taft Benson | 1953-04 | ✅ ·R | 2503 | [`keep-america-strong.md`](01-ezra-taft-benson/keep-america-strong.md) |
-| Meeting the Challenge | Ezra Taft Benson | 1976-06-03 | ✅ ·R | 870 | [`meeting-the-challenge.md`](01-ezra-taft-benson/meeting-the-challenge.md) |
+| Meeting the Challenge | Ezra Taft Benson | 1977 | ✅ ·R | 870 | [`meeting-the-challenge.md`](01-ezra-taft-benson/meeting-the-challenge.md) |
 | My People Are Destroyed for Lack of Knowledge | Ezra Taft Benson | 1960-04 | ✅ ·R | 2369 | [`my-people-are-destroyed-for-lack-of-knowledge.md`](01-ezra-taft-benson/my-people-are-destroyed-for-lack-of-knowledge.md) |
 | Not Commanded in All Things | Ezra Taft Benson | 1965-04 | ✅ ·R | 3051 | [`not-commanded-in-all-things.md`](01-ezra-taft-benson/not-commanded-in-all-things.md) |
 | Our Divine Constitution | Ezra Taft Benson | 1987-10 | ✅ | 2663 | [`our-divine-constitution.md`](01-ezra-taft-benson/our-divine-constitution.md) |
@@ -50,9 +50,9 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The Proper Role of Government | Ezra Taft Benson | 1968-10-21 | ✅ | 7550 | [`proper-role-of-government.md`](01-ezra-taft-benson/proper-role-of-government.md) |
 | Protecting Freedom — An Immediate Responsibility | Ezra Taft Benson | 1966-10 | ✅ ·R | 3196 | [`protecting-freedom-an-immediate-responsibility.md`](01-ezra-taft-benson/protecting-freedom-an-immediate-responsibility.md) |
 | Put on the Whole Armour of God | Ezra Taft Benson | 1969-10 | ✅ ·R | 2537 | [`put-on-the-whole-armour-of-god.md`](01-ezra-taft-benson/put-on-the-whole-armour-of-god.md) |
-| Ezra Taft Benson: Quotes on Freedom | Ezra Taft Benson | 1979-10-26 | ✅ ·R | 16122 | [`quotes-on-freedom.md`](01-ezra-taft-benson/quotes-on-freedom.md) |
+| Ezra Taft Benson: Quotes on Freedom | Ezra Taft Benson |  | ✅ ·R | 16122 | [`quotes-on-freedom.md`](01-ezra-taft-benson/quotes-on-freedom.md) |
 | Righteousness Exalteth a Nation | Ezra Taft Benson | 1963-04 | ✅ ·R | 3010 | [`righteousness-exalteth-a-nation.md`](01-ezra-taft-benson/righteousness-exalteth-a-nation.md) |
-| Stand Up for Freedom | Ezra Taft Benson | 1963-06-06 | ✅ ·R | 7242 | [`stand-up-for-freedom.md`](01-ezra-taft-benson/stand-up-for-freedom.md) |
+| Stand Up for Freedom | Ezra Taft Benson | 1966-02-11 | ✅ ·R | 7242 | [`stand-up-for-freedom.md`](01-ezra-taft-benson/stand-up-for-freedom.md) |
 | Survival of the American Way of Life | Ezra Taft Benson | 1945-06 | ✅ ·R | 3293 | [`survival-of-the-american-way-of-life.md`](01-ezra-taft-benson/survival-of-the-american-way-of-life.md) |
 | The American Heritage of Freedom | Ezra Taft Benson | 1961-10 | ✅ ·R | 4172 | [`the-american-heritage-of-freedom.md`](01-ezra-taft-benson/the-american-heritage-of-freedom.md) |
 | The American Home | Ezra Taft Benson | 1969-04 | ✅ ·R | 1860 | [`the-american-home.md`](01-ezra-taft-benson/the-american-home.md) |
@@ -69,7 +69,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The War in Heaven Today | Ezra Taft Benson | 2009-07-03 | ✅ ·R | 1968 | [`the-war-in-heaven-today.md`](01-ezra-taft-benson/the-war-in-heaven-today.md) |
 | God-Given Freedom: This Nation Shall Endure | Ezra Taft Benson | 1973-12-04 | ✅ | 4499 | [`this-nation-shall-endure.md`](01-ezra-taft-benson/this-nation-shall-endure.md) |
 | Trust Not in the Arm of Flesh | Ezra Taft Benson | 1967-10 | ✅ ·R | 3206 | [`trust-not-in-the-arm-of-flesh.md`](01-ezra-taft-benson/trust-not-in-the-arm-of-flesh.md) |
-| US Foreign Policy | Ezra Taft Benson | 1964-01-27 | ✅ ·R | 6273 | [`us-foreign-policy.md`](01-ezra-taft-benson/us-foreign-policy.md) |
+| US Foreign Policy | Ezra Taft Benson | 1968-06-21 | ✅ ·R | 6273 | [`us-foreign-policy.md`](01-ezra-taft-benson/us-foreign-policy.md) |
 | Watchman Warn the Wicked | Ezra Taft Benson | 2012-02-21 | ✅ ·R | 2840 | [`watchman-warn-the-wicked.md`](01-ezra-taft-benson/watchman-warn-the-wicked.md) |
 
 ## 2. D. Todd Christofferson
@@ -82,7 +82,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Allegiance to God | D. Todd Christofferson | 1999-10-19 | ✅ ·R | 4755 | [`allegiance-to-god.md`](02-d-todd-christofferson/allegiance-to-god.md) |
 | Religious Liberty: The Basis of a Free and Just Society | D. Todd Christofferson | 2021-10-29 | ✅ | 2107 | [`basis-of-a-free-and-just-society.md`](02-d-todd-christofferson/basis-of-a-free-and-just-society.md) |
 | Canterbury Medal Gala / Philadelphia Remarks | D. Todd Christofferson | 2026-06-11 | ✅ | 1231 | [`canterbury-medal-gala-philadelphia.md`](02-d-todd-christofferson/canterbury-medal-gala-philadelphia.md) |
-| Law and Becoming | D. Todd Christofferson | 1993-08-06 | ✅ ·R | 3958 | [`law-and-becoming.md`](02-d-todd-christofferson/law-and-becoming.md) |
+| Law and Becoming | D. Todd Christofferson | 2011-02-04 | ✅ ·R | 3958 | [`law-and-becoming.md`](02-d-todd-christofferson/law-and-becoming.md) |
 | Moral Agency | D. Todd Christofferson | 2005-11-22 | ✅ ·R | 5134 | [`moral-agency.md`](02-d-todd-christofferson/moral-agency.md) |
 | Religious Freedom — Protecting the Good Religion Does (G20) | D. Todd Christofferson | 2018-09-27 | ✅ | 2799 | [`protecting-the-good-religion-does.md`](02-d-todd-christofferson/protecting-the-good-religion-does.md) |
 | Religious Freedom and the Rule of Law (Cambridge) | D. Todd Christofferson | 2017-08 | ✅ | 5149 | [`religious-freedom-and-the-rule-of-law.md`](02-d-todd-christofferson/religious-freedom-and-the-rule-of-law.md) |
@@ -125,19 +125,19 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | 1936 First Presidency Statement on Communism (McKay Co-signer) | Heber J. Grant; J. Reuben Clark Jr.; David O. McKay | 1936-07-03 | ↪️ pointer | 32 | [`1936-first-presidency-statement-on-communism.md`](06-david-o-mckay/1936-first-presidency-statement-on-communism.md) |
 | Agency and Responsibility (Compiled Teachings) | David O. McKay | 2011 | ✅ | 2659 | [`agency-and-responsibility.md`](06-david-o-mckay/agency-and-responsibility.md) |
 | Constitutional Statement (October 1939 Conference) | David O. McKay | 1939-10 | ✅ | 107 | [`constitutional-statement-1939.md`](06-david-o-mckay/constitutional-statement-1939.md) |
-| Deadly Challenge of Communism | David O. McKay | 1921-01-21 | ✅ ·R | 2280 | [`deadly-challenge-of-communism.md`](06-david-o-mckay/deadly-challenge-of-communism.md) |
+| Deadly Challenge of Communism | David O. McKay |  | ✅ ·R | 2280 | [`deadly-challenge-of-communism.md`](06-david-o-mckay/deadly-challenge-of-communism.md) |
 | Jesus Prayer for Unity | David O. McKay | 1939-10 | ✅ ·R | 2060 | [`jesus-prayer-for-unity.md`](06-david-o-mckay/jesus-prayer-for-unity.md) |
 | Letter to Ernest L Wilkinson and the BYU Faculty | David O. McKay | 1968 | ✅ ·R | 943 | [`letter-to-ernest-l-wilkinson-and-the-byu-faculty.md`](06-david-o-mckay/letter-to-ernest-l-wilkinson-and-the-byu-faculty.md) |
 | London Temple Dedicatory Prayer (Excerpt on Freedom) | David O. McKay | 1958-09-07 | ↪️ pointer | 10 | [`london-temple-dedicatory-prayer.md`](06-david-o-mckay/london-temple-dedicatory-prayer.md) |
 | On Communism | David O. McKay | April  09,  1966 | ✅ ·B | 727 | [`on-communism.md`](06-david-o-mckay/on-communism.md) |
 | Peace the Message of the Church | David O. McKay | 1938-10 | ✅ ·R | 1252 | [`peace-the-message-of-the-church.md`](06-david-o-mckay/peace-the-message-of-the-church.md) |
-| David O. McKay: Quotes on Freedom | David O. McKay | 1954-03-08 | ✅ ·R | 4930 | [`quotes-on-freedom.md`](06-david-o-mckay/quotes-on-freedom.md) |
+| David O. McKay: Quotes on Freedom | David O. McKay |  | ✅ ·R | 4930 | [`quotes-on-freedom.md`](06-david-o-mckay/quotes-on-freedom.md) |
 | The BoM and the Constitution | David O. McKay | 1966-04-09 | ✅ ·R | 740 | [`the-bom-and-the-constitution.md`](06-david-o-mckay/the-bom-and-the-constitution.md) |
 | The Church and the Present War | David O. McKay | 1942-04-05 | ✅ ·R | 2680 | [`the-church-and-the-present-war.md`](06-david-o-mckay/the-church-and-the-present-war.md) |
 | Two Contending Forces | David O. McKay | 1960-05-18 | ✅ ·R | 3678 | [`two-contending-forces.md`](06-david-o-mckay/two-contending-forces.md) |
-| Two Great Forces | David O. McKay | 1960-12-11 | ✅ ·R | 3288 | [`two-great-forces.md`](06-david-o-mckay/two-great-forces.md) |
+| Two Great Forces | David O. McKay | 1965-10 | ✅ ·R | 3288 | [`two-great-forces.md`](06-david-o-mckay/two-great-forces.md) |
 | Unity of Purpose Important to the Accomplishment of God's Work | David O. McKay | 1967 | ✅ ·B | 4504 | [`unity-of-purpose-important-to-the-accomplishment-of-gods-work.md`](06-david-o-mckay/unity-of-purpose-important-to-the-accomplishment-of-gods-work.md) |
-| Unity | David O. McKay | 1967-08-07 | ✅ ·R | 4527 | [`unity.md`](06-david-o-mckay/unity.md) |
+| Unity | David O. McKay | 1967-09-29 | ✅ ·R | 4527 | [`unity.md`](06-david-o-mckay/unity.md) |
 
 ## 7. Dallin H. Oaks
 *20 docs · ~91,196 words*
@@ -199,7 +199,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Constitution and Its Signers (BYU Address) | J. Reuben Clark Jr. | 1957-05-21 | 🔊 audio | 96 | [`constitution-and-its-signers-1957.md`](10-j-reuben-clark/constitution-and-its-signers-1957.md) |
 | Governments Instituted of God | J. Reuben Clark Jr. | 1935-04 | ✅ ·R | 3182 | [`governments-instituted-of-god.md`](10-j-reuben-clark/governments-instituted-of-god.md) |
 | Let Us Have Peace | J. Reuben Clark Jr. | 1947-11-22 | ✅ ·R | 1895 | [`let-us-have-peace.md`](10-j-reuben-clark/let-us-have-peace.md) |
-| J. Reuben Clark Jr.: Quotes on Freedom | J. Reuben Clark Jr. | 1992-09-01 | ✅ ·R | 1738 | [`quotes-on-freedom.md`](10-j-reuben-clark/quotes-on-freedom.md) |
+| J. Reuben Clark Jr.: Quotes on Freedom | J. Reuben Clark Jr. |  | ✅ ·R | 1738 | [`quotes-on-freedom.md`](10-j-reuben-clark/quotes-on-freedom.md) |
 | Some Elements of Post War American Life | J. Reuben Clark Jr. | 1945-01-24 | ✅ ·R | 2322 | [`some-elements-of-post-war-american-life.md`](10-j-reuben-clark/some-elements-of-post-war-american-life.md) |
 | Some Fundamental Principles of Our Constitution | J. Reuben Clark Jr. | 2011-12-30 | ✅ ·R | 3806 | [`some-fundamental-principles-of-our-constitution.md`](10-j-reuben-clark/some-fundamental-principles-of-our-constitution.md) |
 | Stand Fast by Our Constitution | J. Reuben Clark Jr. | 1962 | ↪️ pointer | 40 | [`stand-fast-by-our-constitution.md`](10-j-reuben-clark/stand-fast-by-our-constitution.md) |
@@ -228,19 +228,19 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
-| 100 Things Destroying America | W. Cleon Skousen | 1962-05-02 | ✅ ·R | 5934 | [`100-things-destroying-america.md`](13-w-cleon-skousen/100-things-destroying-america.md) |
+| 100 Things Destroying America | W. Cleon Skousen | 1982 | ✅ ·R | 5934 | [`100-things-destroying-america.md`](13-w-cleon-skousen/100-things-destroying-america.md) |
 | 101 Constitutional Questions to Ask Candidates | W. Cleon Skousen | 1980 | ✅ ·R | 6757 | [`101-constitutional-questions-to-ask-candidates.md`](13-w-cleon-skousen/101-constitutional-questions-to-ask-candidates.md) |
 | Americans Can Save the Constitution | W. Cleon Skousen | 1976-09-18 | ✅ ·R | 3360 | [`americans-can-save-the-constitution.md`](13-w-cleon-skousen/americans-can-save-the-constitution.md) |
-| Asked to Write the Naked Communist | W. Cleon Skousen | 1962-03-13 | ✅ ·R | 2980 | [`asked-to-write-the-naked-communist.md`](13-w-cleon-skousen/asked-to-write-the-naked-communist.md) |
+| Asked to Write the Naked Communist | W. Cleon Skousen | 1998-11 | ✅ ·R | 2980 | [`asked-to-write-the-naked-communist.md`](13-w-cleon-skousen/asked-to-write-the-naked-communist.md) |
 | Current Communist Goals (1958) | W. Cleon Skousen | 1958 | ✅ ·R | 852 | [`current-communist-goals-1958.md`](13-w-cleon-skousen/current-communist-goals-1958.md) |
-| History of the 16th Amendment | W. Cleon Skousen | 1973-03-29 | ✅ ·R | 2606 | [`history-of-the-16th-amendment.md`](13-w-cleon-skousen/history-of-the-16th-amendment.md) |
+| History of the 16th Amendment | W. Cleon Skousen |  | ✅ ·R | 2606 | [`history-of-the-16th-amendment.md`](13-w-cleon-skousen/history-of-the-16th-amendment.md) |
 | How to Elect a Constitutional Congress | W. Cleon Skousen | 1982 | ✅ ·R | 2361 | [`how-to-elect-a-constitutional-congress.md`](13-w-cleon-skousen/how-to-elect-a-constitutional-congress.md) |
 | Know the Truth to Remain Free | W. Cleon Skousen | 1971 | ✅ ·R | 6375 | [`know-the-truth-to-remain-free.md`](13-w-cleon-skousen/know-the-truth-to-remain-free.md) |
 | Restructuring a Collapsed America | W. Cleon Skousen | 1990-02-15 | ✅ ·R | 3887 | [`restructuring-a-collapsed-america.md`](13-w-cleon-skousen/restructuring-a-collapsed-america.md) |
 | Restructuring a Collapsing Culture | W. Cleon Skousen | 1972-01 | ✅ ·R | 2688 | [`restructuring-a-collapsing-culture.md`](13-w-cleon-skousen/restructuring-a-collapsing-culture.md) |
 | The Book of Mormon and the Constitution (Notes) | W. Cleon Skousen | 1990-01-14 | ✅ ·R | 5205 | [`the-book-of-mormon-and-the-constitution-notes.md`](13-w-cleon-skousen/the-book-of-mormon-and-the-constitution-notes.md) |
 | The Book of Mormon and the Constitution | W. Cleon Skousen | 1990-05-17 | ✅ ·R | 11876 | [`the-book-of-mormon-and-the-constitution.md`](13-w-cleon-skousen/the-book-of-mormon-and-the-constitution.md) |
-| The Campaign to Abolish the Constitution | W. Cleon Skousen | 1962-08-28 | ✅ ·R | 2858 | [`the-campaign-to-abolish-the-constitution.md`](13-w-cleon-skousen/the-campaign-to-abolish-the-constitution.md) |
+| The Campaign to Abolish the Constitution | W. Cleon Skousen | 1971-03 | ✅ ·R | 2858 | [`the-campaign-to-abolish-the-constitution.md`](13-w-cleon-skousen/the-campaign-to-abolish-the-constitution.md) |
 | The Golden Mean | W. Cleon Skousen | 1975-10-16 | ✅ ·R | 1789 | [`the-golden-mean.md`](13-w-cleon-skousen/the-golden-mean.md) |
 | The Life of J Reuben Clark Jr | W. Cleon Skousen | 1992-09-01 | ✅ ·R | 9777 | [`the-life-of-j-reuben-clark-jr.md`](13-w-cleon-skousen/the-life-of-j-reuben-clark-jr.md) |
 | The Misplaced Wall Between Church and State | W. Cleon Skousen | 1985 | ✅ ·R | 3440 | [`the-misplaced-wall-between-church-and-state.md`](13-w-cleon-skousen/the-misplaced-wall-between-church-and-state.md) |
@@ -264,10 +264,10 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | Americas Destiny | Marion G. Romney | 1975-10-04 | ✅ ·R | 2734 | [`americas-destiny.md`](14-marion-g-romney/americas-destiny.md) |
-| America's Promise | Marion G. Romney | 1964-07-03 | ✅ ·R | 1765 | [`americas-promise.md`](14-marion-g-romney/americas-promise.md) |
-| Communism vs United Order | Marion G. Romney | 1964-03-24 | ✅ ·R | 3971 | [`communism-vs-united-order.md`](14-marion-g-romney/communism-vs-united-order.md) |
-| In Mine Own Way | Marion G. Romney | 1944-10-06 | ✅ ·R | 2762 | [`in-mine-own-way.md`](14-marion-g-romney/in-mine-own-way.md) |
-| Is Socialism the United Order | Marion G. Romney | 1964-03-24 | ✅ ·R | 3767 | [`is-socialism-the-united-order.md`](14-marion-g-romney/is-socialism-the-united-order.md) |
+| America's Promise | Marion G. Romney | 1979-09 | ✅ ·R | 1765 | [`americas-promise.md`](14-marion-g-romney/americas-promise.md) |
+| Communism vs United Order | Marion G. Romney | 1966-04 | ✅ ·R | 3971 | [`communism-vs-united-order.md`](14-marion-g-romney/communism-vs-united-order.md) |
+| In Mine Own Way | Marion G. Romney | 1976-10 | ✅ ·R | 2762 | [`in-mine-own-way.md`](14-marion-g-romney/in-mine-own-way.md) |
+| Is Socialism the United Order | Marion G. Romney | 1966-04 | ✅ ·R | 3767 | [`is-socialism-the-united-order.md`](14-marion-g-romney/is-socialism-the-united-order.md) |
 | Man a Free Agent | Marion G. Romney | 1968-10 | ✅ ·R | 2582 | [`man-a-free-agent.md`](14-marion-g-romney/man-a-free-agent.md) |
 | The Perfect Law of Liberty | Marion G. Romney | 1981-11 | ✅ ·R | 2321 | [`the-perfect-law-of-liberty.md`](14-marion-g-romney/the-perfect-law-of-liberty.md) |
 | The Purpose of Church Welfare Services | Marion G. Romney | 1977-05 | ✅ ·R | 2447 | [`the-purpose-of-church-welfare-services.md`](14-marion-g-romney/the-purpose-of-church-welfare-services.md) |
@@ -293,7 +293,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Believe His Prophets | Gordon B. Hinckley | 1992-05 | ✅ ·R | 3029 | [`believe-his-prophets.md`](16-gordon-b-hinckley/believe-his-prophets.md) |
 | Farewell to a Prophet | Gordon B. Hinckley | 1994-07 | ✅ ·R | 3249 | [`farewell-to-a-prophet.md`](16-gordon-b-hinckley/farewell-to-a-prophet.md) |
 | Freedom Festival Speech 1997 | Gordon B. Hinckley | 1997 | ✅ ·R | 2912 | [`freedom-festival-speech-1997.md`](16-gordon-b-hinckley/freedom-festival-speech-1997.md) |
-| Gordon B. Hinckley: Quotes on Freedom | Gordon B. Hinckley | 2004-01-10 | ✅ ·R | 1907 | [`quotes-on-freedom.md`](16-gordon-b-hinckley/quotes-on-freedom.md) |
+| Gordon B. Hinckley: Quotes on Freedom | Gordon B. Hinckley |  | ✅ ·R | 1907 | [`quotes-on-freedom.md`](16-gordon-b-hinckley/quotes-on-freedom.md) |
 | The Order and Will of God | Gordon B. Hinckley | 1989-08 | ✅ ·R | 1944 | [`the-order-and-will-of-god.md`](16-gordon-b-hinckley/the-order-and-will-of-god.md) |
 | The Times in Which We Live | Gordon B. Hinckley | 2001-11 | ✅ ·R | 2411 | [`the-times-in-which-we-live.md`](16-gordon-b-hinckley/the-times-in-which-we-live.md) |
 | War and Peace | Gordon B. Hinckley | 2003-05 | ✅ ·R | 2353 | [`war-and-peace.md`](16-gordon-b-hinckley/war-and-peace.md) |
@@ -304,7 +304,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | Law Must Be Sustained | Howard W. Hunter | 1968-04 | ✅ ·R | 2247 | [`law-must-be-sustained.md`](17-howard-w-hunter/law-must-be-sustained.md) |
-| Howard W. Hunter: Quotes on Freedom | Howard W. Hunter | 1966-03-08 | ✅ ·R | 855 | [`quotes-on-freedom.md`](17-howard-w-hunter/quotes-on-freedom.md) |
+| Howard W. Hunter: Quotes on Freedom | Howard W. Hunter |  | ✅ ·R | 855 | [`quotes-on-freedom.md`](17-howard-w-hunter/quotes-on-freedom.md) |
 | The Law of the Harvest | Howard W. Hunter | 1966-03-08 | ✅ ·R | 4297 | [`the-law-of-the-harvest.md`](17-howard-w-hunter/the-law-of-the-harvest.md) |
 
 ## 18. John Taylor
@@ -330,7 +330,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
-| Spencer W. Kimball: Quotes on Freedom | Spencer W. Kimball | 1979-06-29 | ✅ ·R | 891 | [`quotes-on-freedom.md`](20-spencer-w-kimball/quotes-on-freedom.md) |
+| Spencer W. Kimball: Quotes on Freedom | Spencer W. Kimball |  | ✅ ·R | 891 | [`quotes-on-freedom.md`](20-spencer-w-kimball/quotes-on-freedom.md) |
 | The False Gods We Worship - Ensign June 1976 | Spencer W. Kimball | 1976-06 | ✅ ·R | 3177 | [`the-false-gods-we-worship-ensign-june-1976.md`](20-spencer-w-kimball/the-false-gods-we-worship-ensign-june-1976.md) |
 
 ## 21. Additional Church Leaders
@@ -341,18 +341,18 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Joseph Smith Campaign for President of the United States | Arnold K. Garr | 2009-02 | ✅ ·R | 2150 | [`arnold-k-garr-joseph-smith-campaign-for-president-of-the-united-states.md`](21-additional-church-leaders/arnold-k-garr-joseph-smith-campaign-for-president-of-the-united-states.md) |
 | Brigham Young: Quotes on Freedom | Brigham Young |  | ✅ ·R | 6833 | [`brigham-young-quotes-on-freedom.md`](21-additional-church-leaders/brigham-young-quotes-on-freedom.md) |
 | Know Your Constitution | Bruce R. McConkie | 1945-03-19 | ✅ ·R | 16498 | [`bruce-r-mcconkie-know-your-constitution.md`](21-additional-church-leaders/bruce-r-mcconkie-know-your-constitution.md) |
-| George Albert Smith: Quotes on Freedom | George Albert Smith | 1918-09-15 | ✅ ·R | 5083 | [`george-albert-smith-quotes-on-freedom.md`](21-additional-church-leaders/george-albert-smith-quotes-on-freedom.md) |
+| George Albert Smith: Quotes on Freedom | George Albert Smith |  | ✅ ·R | 5083 | [`george-albert-smith-quotes-on-freedom.md`](21-additional-church-leaders/george-albert-smith-quotes-on-freedom.md) |
 | The Angel Moroni | Glenn L. Rudd | 2003-03-11 | ✅ ·R | 5362 | [`glenn-l-rudd-the-angel-moroni.md`](21-additional-church-leaders/glenn-l-rudd-the-angel-moroni.md) |
-| Harold B. Lee: Quotes on Freedom | Harold B. Lee | 1971-11-12 | ✅ ·R | 2656 | [`harold-b-lee-quotes-on-freedom.md`](21-additional-church-leaders/harold-b-lee-quotes-on-freedom.md) |
-| Heber J. Grant: Quotes on Freedom | Heber J. Grant | 1930-04-13 | ✅ ·R | 2576 | [`heber-j-grant-quotes-on-freedom.md`](21-additional-church-leaders/heber-j-grant-quotes-on-freedom.md) |
+| Harold B. Lee: Quotes on Freedom | Harold B. Lee |  | ✅ ·R | 2656 | [`harold-b-lee-quotes-on-freedom.md`](21-additional-church-leaders/harold-b-lee-quotes-on-freedom.md) |
+| Heber J. Grant: Quotes on Freedom | Heber J. Grant |  | ✅ ·R | 2576 | [`heber-j-grant-quotes-on-freedom.md`](21-additional-church-leaders/heber-j-grant-quotes-on-freedom.md) |
 | A New Civil Religion | James E. Faust | 1992-07-19 | ✅ ·R | 1994 | [`james-e-faust-a-new-civil-religion.md`](21-additional-church-leaders/james-e-faust-a-new-civil-religion.md) |
 | Joseph F. Smith: Quotes on Freedom | Joseph F. Smith |  | ✅ ·R | 1582 | [`joseph-f-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-f-smith-quotes-on-freedom.md) |
-| Joseph Fielding Smith: Quotes on Freedom | Joseph Fielding Smith | 1935-04 | ✅ ·R | 2755 | [`joseph-fielding-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-fielding-smith-quotes-on-freedom.md) |
+| Joseph Fielding Smith: Quotes on Freedom | Joseph Fielding Smith |  | ✅ ·R | 2755 | [`joseph-fielding-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-fielding-smith-quotes-on-freedom.md) |
 | Lorenzo Snow: Quotes on Freedom | Lorenzo Snow |  | ✅ ·R | 309 | [`lorenzo-snow-quotes-on-freedom.md`](21-additional-church-leaders/lorenzo-snow-quotes-on-freedom.md) |
 | Religion in a Free Society | M. Russell Ballard | 1992-07-05 | ✅ ·R | 3258 | [`m-russell-ballard-religion-in-a-free-society.md`](21-additional-church-leaders/m-russell-ballard-religion-in-a-free-society.md) |
 | Angel of the Prairie | Parley P. Pratt | 1880 | ✅ ·R | 6751 | [`parley-p-pratt-angel-of-the-prairie.md`](21-additional-church-leaders/parley-p-pratt-angel-of-the-prairie.md) |
 | Angel of the Prairies — A Dream of the Future | Parley P. Pratt | 1880 | ✅ ·B | 6691 | [`parley-p-pratt-angel-of-the-prairies-a-dream-of-the-future.md`](21-additional-church-leaders/parley-p-pratt-angel-of-the-prairies-a-dream-of-the-future.md) |
-| Thomas S. Monson: Quotes on Freedom | Thomas S. Monson | 1997-05-31 | ✅ ·R | 1568 | [`thomas-s-monson-quotes-on-freedom.md`](21-additional-church-leaders/thomas-s-monson-quotes-on-freedom.md) |
+| Thomas S. Monson: Quotes on Freedom | Thomas S. Monson |  | ✅ ·R | 1568 | [`thomas-s-monson-quotes-on-freedom.md`](21-additional-church-leaders/thomas-s-monson-quotes-on-freedom.md) |
 | Wilford Woodruff: Quotes on Freedom | Wilford Woodruff |  | ✅ ·R | 2598 | [`wilford-woodruff-quotes-on-freedom.md`](21-additional-church-leaders/wilford-woodruff-quotes-on-freedom.md) |
 
 ## 22. Supporting Authors & Commentators
@@ -373,7 +373,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
-| America in Prophecy |  | 1989-03-26 | ✅ ·R | 14250 | [`america-in-prophecy.md`](23-topical-and-founding-documents/america-in-prophecy.md) |
+| America in Prophecy |  |  | ✅ ·R | 14250 | [`america-in-prophecy.md`](23-topical-and-founding-documents/america-in-prophecy.md) |
 | An LDS Perspective on War and Foreign Policy |  |  | ✅ ·R | 3500 | [`an-lds-perspective-on-war-and-foreign-policy.md`](23-topical-and-founding-documents/an-lds-perspective-on-war-and-foreign-policy.md) |
 | Ezra Taft Benson- Christ and the Constitution |  | 1967-04 | ✅ ·R | 2616 | [`ezra-taft-benson-christ-and-the-constitution.md`](23-topical-and-founding-documents/ezra-taft-benson-christ-and-the-constitution.md) |
 | Ezra Taft Benson- the LDS Church and Politics |  | 1952-12-01 | ✅ ·R | 4474 | [`ezra-taft-benson-the-lds-church-and-politics.md`](23-topical-and-founding-documents/ezra-taft-benson-the-lds-church-and-politics.md) |
@@ -387,7 +387,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The Brother Law Fireside |  |  | ✅ ·R | 2760 | [`the-brother-law-fireside.md`](23-topical-and-founding-documents/the-brother-law-fireside.md) |
 | The Civic Duty of the Latter-day Saints |  | 2005-07-26 | ✅ ·R | 7330 | [`the-civic-duty-of-the-latter-day-saints.md`](23-topical-and-founding-documents/the-civic-duty-of-the-latter-day-saints.md) |
 | The Monroe Doctrine |  | 2012-02-28 | ✅ ·R | 1275 | [`the-monroe-doctrine.md`](23-topical-and-founding-documents/the-monroe-doctrine.md) |
-| The Red Pill — Statements on Freedom |  | 1921-01-21 | ✅ ·R | 10989 | [`the-red-pill-statements-on-freedom.md`](23-topical-and-founding-documents/the-red-pill-statements-on-freedom.md) |
+| The Red Pill — Statements on Freedom |  |  | ✅ ·R | 10989 | [`the-red-pill-statements-on-freedom.md`](23-topical-and-founding-documents/the-red-pill-statements-on-freedom.md) |
 | Warfare and the Book of Mormon |  | 1990 | ✅ ·R | 6223 | [`warfare-and-the-book-of-mormon.md`](23-topical-and-founding-documents/warfare-and-the-book-of-mormon.md) |
 | Word of Wisdom |  | 1996-04-05 | ✅ ·R | 6477 | [`word-of-wisdom.md`](23-topical-and-founding-documents/word-of-wisdom.md) |
 

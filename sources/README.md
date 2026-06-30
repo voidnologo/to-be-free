@@ -308,13 +308,13 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The Law of the Harvest | Howard W. Hunter | 1966-03-08 | ✅ ·R | 4297 | [`the-law-of-the-harvest.md`](17-howard-w-hunter/the-law-of-the-harvest.md) |
 
 ## 18. John Taylor
-*3 docs · ~69,249 words*
+*3 docs · ~67,656 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | On the Incompetency of the Means Made Use of by Man to Regenerate the World | John Taylor | 2012-02-21 | ✅ ·R | 4873 | [`on-the-incompetency-of-the-means-made-use-of-by-man-to-regenerate-the-world.md`](18-john-taylor/on-the-incompetency-of-the-means-made-use-of-by-man-to-regenerate-the-world.md) |
 | John Taylor: Quotes on Freedom | John Taylor |  | ✅ ·R | 12011 | [`quotes-on-freedom.md`](18-john-taylor/quotes-on-freedom.md) |
-| The Government of God | John Taylor | 1852 | ✅ ·R | 52365 | [`the-government-of-god.md`](18-john-taylor/the-government-of-god.md) |
+| The Government of God | John Taylor | 1852 | ✅ ·R | 50772 | [`the-government-of-god.md`](18-john-taylor/the-government-of-god.md) |
 
 ## 19. Joseph Smith
 *3 docs · ~21,052 words*
@@ -356,14 +356,14 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Wilford Woodruff: Quotes on Freedom | Wilford Woodruff |  | ✅ ·R | 2739 | [`wilford-woodruff-quotes-on-freedom.md`](21-additional-church-leaders/wilford-woodruff-quotes-on-freedom.md) |
 
 ## 22. Supporting Authors & Commentators
-*7 docs · ~171,142 words*
+*7 docs · ~170,083 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
-| The American Tradition | Carson | 1964 | ✅ ·R | 85277 | [`carson-the-american-tradition.md`](22-supporting-authors/carson-the-american-tradition.md) |
+| The American Tradition | Carson | 1964 | ✅ ·R | 84103 | [`carson-the-american-tradition.md`](22-supporting-authors/carson-the-american-tradition.md) |
 | Waking Up to Secret Combinations | Darren Andrews |  | ✅ ·R | 4362 | [`darren-andrews-waking-up-to-secret-combinations.md`](22-supporting-authors/darren-andrews-waking-up-to-secret-combinations.md) |
 | Spiritual Authority and Romans 13 | Embassy of Heaven |  | ✅ ·R | 3723 | [`embassy-of-heaven-spiritual-authority-and-romans-13.md`](22-supporting-authors/embassy-of-heaven-spiritual-authority-and-romans-13.md) |
-| The Mainspring of Human Progress | Henry Grady Weaver | 1947 | ✅ ·R | 68764 | [`henry-grady-weaver-the-mainspring-of-human-progress.md`](22-supporting-authors/henry-grady-weaver-the-mainspring-of-human-progress.md) |
+| The Mainspring of Human Progress | Henry Grady Weaver | 1947 | ✅ ·R | 68879 | [`henry-grady-weaver-the-mainspring-of-human-progress.md`](22-supporting-authors/henry-grady-weaver-the-mainspring-of-human-progress.md) |
 | Romans 13 and National Defense | Laurence M. Vance | 2011-10 | ✅ ·R | 1858 | [`laurence-m-vance-romans-13-and-national-defense.md`](22-supporting-authors/laurence-m-vance-romans-13-and-national-defense.md) |
 | Persuasion vs Force | Mark Skousen | 2010-09-28 | ✅ ·R | 3838 | [`mark-skousen-persuasion-vs-force.md`](22-supporting-authors/mark-skousen-persuasion-vs-force.md) |
 | Becoming a Zion Society: Six Principles | R. Quinn Gardner | 1979-02 | ✅ ·B | 3320 | [`r-quinn-gardner-becoming-a-zion-society-six-principles.md`](22-supporting-authors/r-quinn-gardner-becoming-a-zion-society-six-principles.md) |
@@ -393,7 +393,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 ---
 
-**247 documents · ~1,480,401 words total.**
+**247 documents · ~1,477,749 words total.**
 
 ### Notes
 

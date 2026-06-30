@@ -9,54 +9,11 @@ source_format: "pdf"
 retrieved: "2026-06-28"
 status: "full"
 collection: "research-extended"
-word_count: 68764
+word_count: 68879
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["War & Peace", "Liberty & Freedom", "Communism", "Morality & Virtue", "Family", "Constitution"]
 ---
 
-                  Published March, 1953
-Mainsp~ing:Copyright 1947 by Talbot Books. This revised
-edition of Mainspring: Copyright 1953 by the Foundation for
-Economic Education, Inc.
-                       Printed in U.S.A.
-
-Permission to reprint Mainspring, in whole or in part, is
-hereby granted by the publisher and copyright holder.
-           TABLE O F C O N T E N T S
-Chapter                                              Page
-          PARTONE- COMPARISONS
-                            & CONTRASTS
-
- 1. Puzzling Questions   . . . . . . . . 11
-2. The Great Multiplier . . . . . . . . 22
-3. Networks and Pitfalls . . . . . . . . 26
-
-          PARTTWO-THE OLDWORLDVIEWS
-4. The Pagan View . . . . . . . . . 35
-5. Socialism and (or) Communism . . . . . . 42
-6. The Living Authorities. . . . . . . 54
-7. The Static Center . . . . . . . . . 64
-
-            PARTTHREE-THE REVOLUTION
- 8. The First Attempt  . . .     .   .   .   .   .   . 77
- 9. Compromise      . . . .      .   .   .   .   .   . 87
-10. The Second Attempt . .       .   .   .   .   .   . 99
-11. Prelude to Third Attempt .   .   .   .   .   .   . 131
-12. The Third Attempt . . .      .   .   .   .   .   . 147
-13. Roots of Revolution . .      .   .   .   .   .   . 165
-14. The Unknown Individual .     .   .   .   .   .   . 179
-15. The New Model        . . . . . . . . . 191
-16. Unplanned Planning   . . . . . . . . 200
-17. The Revolution Spreads . . . . . . . 204
-18. Inventive Progress .  .   .   .   .   .   .   . . 211
-19. Hope versus Fear . .      .   .   .   .   .   . . 237
-20. Moral versus Material .   .   .   .   .   .   . . 253
-21. Freedom versus War .      .   .   .   .   .   . . 261
-
-                  APPENDIX
-References   . . . . . . . . . . . . 266
-Bibliography . . . . . . . . . . . . 267
-Index .   . . . . . . . . . . . . . . . . 273
     THE AUTHOR AND THE BOOK
 
 Heny Grady Weaver war born at Eatonton, Georgia, Decem-

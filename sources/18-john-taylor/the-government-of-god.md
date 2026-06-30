@@ -10,115 +10,12 @@ retrieved: "2026-06-28"
 source_note: "John Taylor, *The Government of God* (Liverpool: S. W. Richards, 1852)."
 status: "full"
 collection: "research-extended"
-word_count: 52365
+word_count: 50772
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Morality & Virtue", "Family", "War & Peace", "Prophecy & Last Days", "Book of Mormon", "Free Agency"]
 ---
 
-M^AMAMAi
-                                                      THE
-
-     GOVERNMENT OF "GOD.
-
-                               JOHX TAYLOR.
-      fTE    OF Till'' TWELVE APOSTLES OF THE CHURCH                           I           HEIS1
-                                          OF LATTER-DAT SAINTS.
-
-      <*    LET THE NATIOKS BE GLAD                   AND SB'G'IOK JOT; POK TIZuU SHALT
-            Jri'i.l; T-   ::   PE«>ri.E   EIG3ITBOVSLT, AWD GOTEBJS THE HATIOSTS OPOK
-            EAKTH."   — Psalm       Ixvii.   I.
-
-                                              LIVERPOOL
-                   USHED BY S.               W. RICHARDS,       15,   WILTON STREET.
-
--m                                                 LONDON
-     SOLD AI       THE L\TTEB-DAY SAINTS* BOOK                  D-JT-OT,   -3<" ;   JBWIH STKEET   :
-
-                                      AST)        E" ALL BOOK8ELLEB8.
-
-             fPf^P^^^
-Historian's Office Library
-
-   The Church of Jesus Christ
-          of Latter-day Saints
-
-             .
-                 M230 -
-                 T2/i3g o
-THE GOVERNMENT OF GOD.
-                                       THE
-
-GOVERNMENT OF GOD
-
-                                        BY
-
-                        JOHN TAYLOR,
-ONE OF THE TWELVE APOSTLES OF THE CHURCH OF JESUS CHRIST
-                           OF LATTER-DAT SAINTS.
-
- "    LET THE NATIONS BE GLAD AND SING FOR JOT            :   FOR THOU SHALT
-     JUDGE THE PEOPLE RIGHTEOUSLY, AND GOVERN THE NATIONS UPON
-
-     earth."   —Psalm   lxvii. 4.
-
-                               LIVEEPOOL
-         PUBLISHED BY S. W. RICHARDS, 15, WILTON STREET.
-
-                                    LONDON
-      SOLD AT THE LATTER-DAY SAINTS' BOOK DEPOT,    35,   JEWIN STREET ;
-                          AND BY ALL BOOKSELLERS.
-
-                                    flDCCCLIL*
-LONDON: PRINTED BY \V. BOW^N 5, BEDFORD STREET, HOLBORN.
-                            CONTENTS.
-
-                                                                           PAGE
-TUEFACE                                                                    'VII.
-
-                               CHAPTER I.
-THE WISDOM, ORDER, AND HARMONY OF THE GOVERNMENT OF GOD                       1
-
-                               CHAPTER II.
-THE GOVERNMENT OF MAN                                                         7
-
-                              CHAPTER III.
-ON THE INCOMPETENCY OF THE MEANS MADE USE OF BY MAN TO REGENERATE
-      THE WORLD                                                              15
-
-                              CHAPTER IV.
-WHAT IS MAN 1   WHAT IS HIS DESTINY AND RELATIONSHIP TO GOD ?                 27
-
-                               CHAPTER V.
-THE OBJECT OF MAN'S EXISTENCE ON THE EARTH      ;   AND HIS RELATIONSHIP
-      THERETO                                                                32
-
-                               CHAPTER VI.
-MAN'S ACCOUNTABILITY TO GOD                                                  47
-
-                              CHAPTER VII.
-THE LORD'S COURSE IN THE MORAL GOVERNMENT OP THE WORLD                       54
-VI                               CONTENTS.
-
-                              CHAPTER VIII.                            PAOE
-WHOSE HIQIIT IS IT TO GOVERN THE WOULD   ?   WHO HAS GOVERNED IT   ?    57
-
-                              CHAPTER IX.
-WILL MAN ALWAYS BE PERMITTED TO USURP AUTHORITY OVER MEN, AND OVER
-
-      THE WORKS OF GOD 1    WILL THE WORLD REMAIN FOR EVER UNDER A
-
-      CURSE, AND GOD'S DESIGNS BE FRUSTRATED?                           68
-
-                              CHAPTER X.
-WILL GOD'S KINGDOM BE A LITERAL OR A SPIRITUAL KINGDOM ?                83
-
-                              CHAPTER XI.
-THE ESTABLISHMENT OF THE KINGDOM OF GOD UPON THE EARTH                  89
-
-                              CHAPTER XII.
-THE EFFECTS OF THE ESTABLISHMENT OF CHRIST'S KINGDOM, OR THE REIGN
-      OF GOD UPON THE EARTH                                            105
-                               PREFACE.
+## Preface
 
 It was Elder Taylor's intention to superintend the publishing of
 " The Government of God " in person, previous to his departure for
@@ -152,7 +49,6 @@ it   will   meet with a   cordial reception, treating as it does   upon the
 theme most dear      to their hearts   —the Reign   of Righteousness and
 
 Peace.
-VUl.                                 PREFACE.
 
   From other portions it will meet with varied reception, but will
 nevertheless lead the minds of         all   to contemplate the glory of that
@@ -166,10 +62,7 @@ upon earth.
            August, 1852.
           THE GOVERNMENT OF GOD.
 
-                                 CHAPTER I.
-
-      THE WISDOM, ORDER, AND HARMONY OF THE GOVERNMENT OF GOD.
-
+## Chapter I. The Wisdom, Order, and Harmony of the Government of God
 The Kingdom of God, is the government of God, on the earth, or in
 the heavens.   The earth, and all the planetary systems, are governed
 by the Lord ; they are upheld by his power, and are sustained, di-
@@ -395,10 +288,7 @@ done.    It is not governed by instability and disorder, but continues
 from eternity to eternity to bear the impress of Jehovah.
                      THE GOVERNMENT OF GOD.
 
-                              CHAPTER II.
-
-                         THE GOVERNMENT OF MAN.
-
+## Chapter II. The Government of Man
 "We will now turn our attention a little to the government of man,
 and see how that will compare with the foregoing, for man stands at
 the head of this beautiful creation ; he is endued with intelligence and
@@ -739,10 +629,7 @@ ruption of the world ?
    No power on this side of heaven can correct the evil.   It is a world
 that is degenerated, and it requires a God to put it right.
 
-                            CHAPTER III.
-
-        ON THE INCOMPETENCY OF THE MEANS MADE USE OF Bl" MAN TO
-                         REGENERATE THE WORLD.
+## Chapter III. On the Incompetency of the Means Made Use of by Man to Regenerate the World
 
 I purpose in this Chapter to     shew the incompetency of the means
 made use of by man for the accomplishment of the purposes of God
@@ -1228,10 +1115,7 @@ future effort, with the same means, would be as useless.          The woild
 is   diseased, and it requires a world's remedy.
                      THE GOVEENMENT OF GOD.                                    27
 
-                             CHAPTER IV.
-
-      WHAT IS MAN 1 WHAT IS HIS DESTINY AND RELATIONSHIP TO GOD ?
-
+## Chapter IV. What Is Man? What Is His Destiny and Relationship to God?
 Having shewn in the foregoing chaptei's, that the rule of God is
 perfect where he governs alone, that the rule of man is imperfect, and
 has introduced confusion and misery,       and that the plans of men are
@@ -1431,9 +1315,7 @@ father's benediction ;     but Satan has blinded the eyes of the world, and
 they know not the things which make for their peace.
 32                     THE GOVERNMENT OF GOD.
 
-                              CHAPTER V.
-THE OBJECT OP MAN'S EXISTENCE ON THE EARTH         ;   AND HIS RELATIONSHIP
-                                 THERETO.
+## Chapter V. The Object of Man's Existence on the Earth, and His Relationship Thereto
 
 "We next enquire, What is the object and design of man's existence
 on the earth ; and what is his relationship thereto 1 for all this mag-
@@ -2059,9 +1941,7 @@ my arrival in heaven, merely from having heard one short song.                  
  excellent work, and well worthy of any one's perusal.            —   J. T.
                        THE GOVEKNMENT OF GOD                                 47
 
-                                CHAPTER VI.
-                           MAN S ACCOUNTABILITY TO GOD.
-
+## Chapter VI. Man's Accountability to God
 This    is a                it may be necessary for us to inquire into,
                 subject which
 
@@ -2378,9 +2258,7 @@ broken the everlasting covenant.        Therefore hath the curse devoured
 the earth, and they that dwell therein are desolate       :   therefore the in-
 habitants of the earth are burned, and few men left." xxiv. 1-6.
 
-                                CHAPTER VII.
-        THE LORD'S COURSE IN THE MORAL GOVERNMENT OP THE WORLD.
-
+## Chapter VII. The Lord's Course in the Moral Government of the World
 We will now enquire, "What part the Lord has ever taken in the
 moral government of the world.          In the last chapter I shewed that
 man has a moral_agency      ;   acting under the Lord, and is, consequently,
@@ -2492,10 +2370,7 @@ and happiness would have prevailed.          But man's corruption and de-
 generacy have destroyed the world, and nothing but the wisdom,
 power, and blessings of God can restore it.                                          V
 
-                               CHAPTER VIII.
-
-     WHOSE RIGHT IS IT TO GOVERN THE WORLD ?          WHO HAS GOVERNED IT 1
-
+## Chapter VIII. Whose Right Is It to Govern the World? Who Has Governed It?
 Having traced out in the preceding chapters the nature of man, his
 destiny and parentage, spiritual and temporal ;            what his object is in
 being here ;      what his relation to this earth is ; his moral agency ; and
@@ -2972,12 +2847,7 @@ possess, to bring out of the wild chaos, the misery, and desolation that
 have overspread the world, that beautiful order, peace, and happiness
 portrayed by the prophets as the reign of the kingdom of God.
 
-                                   CHAPTER IX.
-
-WILL MAN ALWAYS BE PERMITTED TO USURP AUTHORITY OVER MEN, AND
-      OVER THE WORKS OF GOD 1          WILL THE WORLD REMAIN FOR EVER UNDER
-      A CURSE, AND GOD'S DESIGNS BE FRUSTRATED 1
-
+## Chapter IX. Will Man Always Be Permitted to Usurp Authority over Men and over the Works of God?
 The above are grave questions, and will necessarily require examina-
 tion,   for they concern the earth          and its inhabitants.      Their true
 solution will affect         man in time and in eternity.      The world cannot
@@ -3622,10 +3492,7 @@ and reign there with        his   Saints,   who, together with him, are the
 rightful proprietors.
                    THE GOVERNMENT OF GOD.                                    83
 
-                                 CHAPTER      X.
-
-        WILL GOD'S KINGDOM BE A LITERAL OR A SPIRITUAL KINGDOM ?
-
+## Chapter X. Will God's Kingdom Be a Literal or a Spiritual Kingdom?
 It would be almost unnecessary to answer such a question as the above,
 were it not for the opinions that are entertained in the world concern-
 ing a purely spiritual kingdom, particularly as in a preceding chapter
@@ -3886,10 +3753,7 @@ will appear in their native loveliness, beauty, simplicity, glory, and
 magnificence, for God alone will be exalted in that day.
                            THE GOVERNMENT OF GOD                                   89
 
-                                    CHAPTER XI.
-
-      THE ESTABLISHMENT OF THE KINGDOM OF GOD UPON THE EARTH.
-
+## Chapter XI. The Establishment of the Kingdom of God upon the Earth
 How will the kingdom of God be established                    1     We have already-
 shown very clearly, that none of the means which are now used among
 men are commensurate with the object designed, and that all the
@@ -4600,10 +4464,7 @@ Guided by his       counsels, and     under his    direction, all those purposes
 designed of Him, from the commencement, in relation to both living
 and dead, will be in a fair way for their accomplishment.
 
-                                   CHAPTER XII.
-
-THE EFFECTS OF THE^ ESTABLISHMENT OF CHRIST'S KINGDOM, OR THE REIGN
-                               OF GOD UPON THE EARTH.
+## Chapter XII. The Effects of the Establishment of Christ's Kingdom, or the Reign of God upon the Earth
 
 Having said so much pertaining to the Kingdom, we come to our
 last proposition, and enquire, What will be the effects of the esta-

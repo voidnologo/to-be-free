@@ -114,6 +114,22 @@ a:hover{text-decoration:underline}
   padding:3px 10px;border-radius:20px;border:1px solid var(--rule-2)}
 .tag:hover{background:#fff;text-decoration:none;border-color:var(--accent);color:var(--accent)}
 .src{font-family:var(--sans);font-size:.84rem;color:var(--muted);margin-top:4px}
+.src-orig{margin-top:14px}
+.src-link{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:.85rem;
+  font-weight:600;color:var(--accent);text-decoration:none;border:1px solid var(--rule);
+  border-radius:8px;padding:7px 13px;background:var(--panel);transition:border-color .15s}
+.src-link:hover{border-color:var(--accent);text-decoration:none}
+.doc-toc{font-family:var(--sans);background:var(--panel);border:1px solid var(--rule);
+  border-radius:10px;padding:12px 18px;margin:0 0 30px}
+.doc-toc>summary{font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;
+  color:var(--muted);cursor:pointer;list-style-position:inside}
+.doc-toc ul{list-style:none;padding:.6em 0 0;margin:0;columns:2;column-gap:30px;font-size:.92rem}
+.doc-toc li{margin:.28em 0;break-inside:avoid}
+.doc-toc .toc-sub{padding-left:1.1em;font-size:.86rem}
+.doc-toc a{color:var(--soft-ink);text-decoration:none}
+.doc-toc a:hover{color:var(--accent)}
+.prose h2,.prose h3{scroll-margin-top:72px}
+@media(max-width:640px){.doc-toc ul{columns:1}}
 .src-note{font-family:var(--sans);font-size:.86rem;color:var(--soft-ink);background:var(--panel);
   border-left:3px solid var(--rule-2);padding:9px 13px;border-radius:0 8px 8px 0;margin-top:12px;line-height:1.5}
 
@@ -159,6 +175,10 @@ a:hover{text-decoration:underline}
 .intro blockquote{text-align:left;hyphens:none}
 .intro blockquote{margin:1.4em 0;padding:.6em 0 .6em 1.2em;border-left:4px solid var(--accent);
   font-style:italic;color:var(--soft-ink)}
+.about h2{font-family:var(--sans);font-size:1.18rem;font-weight:700;margin:1.9em 0 .4em;text-align:left}
+.about .callout{background:var(--panel);border:1px solid var(--rule);border-radius:10px;
+  padding:15px 18px;margin:1.6em 0;font-size:.99rem;text-align:left}
+.about ul{text-align:left;padding-left:1.3em} .about li{margin:.35em 0}
 .intro blockquote cite{display:block;margin-top:.5em;font-style:normal;font-family:var(--sans);
   font-size:.86rem;color:var(--muted)}
 .stats{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:680px;margin:40px auto;
@@ -348,9 +368,8 @@ def fmt_date(d):
 PUB_NAME={"general-conference":"General Conference","ensign":"Ensign","new-era":"New Era",
  "liahona":"Liahona","friend":"Friend"}
 def cite_text(d):
-    """Human-readable provenance for display (independent of local file / fragile link)."""
-    n=(d.get("source_note") or "").strip()
-    if n: return n.rstrip(". ")
+    """Short citation for the meta line (venue/date). The fuller source_note is
+    rendered separately in its own box, so we do NOT repeat it here."""
     u=d.get("source_url") or ""; dt=d.get("date") or ""; fd=fmt_date(dt) if dt else ""
     m=re.search(r'/(general-conference|ensign|new-era|liahona|friend)/(\d{4})/(\d{2})\b',u)
     if m: return f"{PUB_NAME[m.group(1)]}, {fmt_date(m.group(2)+'-'+m.group(3))}"
@@ -359,6 +378,40 @@ def cite_text(d):
     if "newsroom.churchofjesuschrist.org" in u: return "Church Newsroom"+(f", {fd}" if fd else "")
     if "/study/manual/" in u: return "Church curriculum"+(f", {fd}" if fd else "")
     return fd  # otherwise show the date if we have one
+
+def reading_time(words):
+    m=max(1,round(words/220))
+    if m<60: return f"{m} min read"
+    h,mm=divmod(m,60)
+    return f"{h} hr {mm} min read" if mm else f"{h} hr read"
+
+_SRC_LABELS=[("newsroom","Church Newsroom"),("mormonnewsroom","Church Newsroom"),
+  ("churchofjesuschrist.org","ChurchofJesusChrist.org"),("lds.org","ChurchofJesusChrist.org"),
+  ("speeches.byu.edu","BYU Speeches"),
+  ("rsc.byu.edu","BYU Religious Studies Center"),("digitalcommons.law.byu.edu","BYU Law Digital Commons"),
+  ("archive.org","the Internet Archive"),("gutenberg","Project Gutenberg"),
+  ("latterdayconservative.com","Latter-day Conservative")]
+def source_link(d):
+    u=(d.get("source_url") or "").strip()
+    if not u: return ""
+    for k,v in _SRC_LABELS:
+        if k in u:
+            return (f'<a class="src-link" href="{esc(u)}" target="_blank" rel="noopener noreferrer">'
+                    f'Read the original on {v} <span aria-hidden="true">↗</span></a>')
+    return (f'<a class="src-link" href="{esc(u)}" target="_blank" rel="noopener noreferrer">'
+            f'Read the original source <span aria-hidden="true">↗</span></a>')
+
+def build_toc(body_html):
+    items=re.findall(r'<(h[23]) id="([^"]+)">(.*?)</\1>', body_html, re.S)
+    if len(items) < 4: return ""
+    li=[]
+    for tag,hid,txt in items:
+        txt=re.sub(r'<[^>]+>','',txt).strip()
+        if not txt: continue
+        cls="toc-sub" if tag=="h3" else "toc-top"
+        li.append(f'<li class="{cls}"><a href="#{hid}">{esc(txt)}</a></li>')
+    return ('<details class="doc-toc" open><summary>Contents</summary><ul>'
+            + ''.join(li) + '</ul></details>')
 
 def md2html(md):
     # strip leading indentation so extracted text isn't misread as code blocks (monospace/overflow)
@@ -466,7 +519,7 @@ def page(root, title, body, cur_author=None, extra_class=""):
   <a class="brand" href="{root}index.html">To&nbsp;Be&nbsp;Free</a>
   <div class="search"><input id="q" type="search" placeholder="Search documents…" autocomplete="off" spellcheck="false">
     <div class="results" id="results"></div></div>
-  <nav class="topnav"><a href="{root}browse.html">Browse</a></nav>
+  <nav class="topnav"><a href="{root}browse.html">Browse</a> <a href="{root}about.html">About</a></nav>
 </header>
 <div class="layout">
 {sidebar_html(root, cur_author)}
@@ -498,6 +551,10 @@ for ga, items in docs_by_author.items():
         cite=cite_text(d)
         src=f'<span class="cite">{esc(cite)}</span>' if cite else ''
         note=f'<p class="src-note">{esc(d["source_note"])}</p>' if d["source_note"] else ""
+        srclink=source_link(d)
+        origin=f'<div class="src-orig">{srclink}</div>' if srclink else ''
+        rt=reading_time(d["words"])
+        toc=build_toc(d["body_html"])
         quotes_cls=" quotes" if (d["title"].lower().startswith("quotes on freedom") or "quotes-on-freedom" in d["slug"]) else ""
         prev=items[i-1] if i>0 else None
         nxt=items[i+1] if i<len(items)-1 else None
@@ -512,9 +569,11 @@ for ga, items in docs_by_author.items():
     <h1>{esc(d["title"])}</h1>
     <div class="byline">{metaline}</div>
     <div class="tags">{tags}</div>
-    <div class="src">{src}{' · ' if src else ''}<span class="wc">{d["words"]:,} words</span></div>
+    <div class="src">{src}{' · ' if src else ''}<span class="wc">{d["words"]:,} words · {rt}</span></div>
     {note}
+    {origin}
   </header>
+  {toc}
   <div class="prose{quotes_cls}">{d["body_html"]}</div>
   {pn}
 </article>"""
@@ -615,6 +674,66 @@ table of contents, or search from the bar above.</p>
 <div class="cards">{cards}</div>
 """
 (OUT/"index.html").write_text(page("./","Home",landing), encoding="utf-8")
+
+# ---------- about / sources & methodology ----------
+_yrs=sorted(int(d["date"][:4]) for d in docs if d["date"][:4].isdigit())
+_ndate=sum(1 for d in docs if d["date"])
+_nlink=sum(1 for d in docs if (d.get("source_url") or "").strip())
+about=f"""
+<div class="hero"><h1>About &amp; Sources</h1>
+<p class="tagline">How this collection was built — and how to use it for your own research.</p></div>
+<div class="intro about">
+<p><em>To Be Free</em> is a curated, searchable collection of Latter-day Saint teaching on liberty,
+moral agency, the Constitution, and religious freedom. It gathers <strong>{N_DOCS} documents</strong>
+(~{N_WORDS:,} words) from <strong>{N_AUTH} authors</strong>, spanning roughly
+<strong>{_yrs[0]}–{_yrs[-1]}</strong>, into one consistent format so the whole reads as a single
+continuous conversation about what it means — and what it costs — to be free.</p>
+
+<h2>How it is organized</h2>
+<p>Documents are grouped into four thematic collections (Modern Prophets &amp; Apostles, Early Church
+Leaders, Scholars &amp; Commentators, and Statements &amp; Founding Documents), then by author. Every
+document carries standardized metadata — title, author, date, source, word count, and topical tags —
+and you can reach any of it through <a href="browse.html">Browse all</a> or the search bar.</p>
+
+<h2>Sourcing &amp; provenance</h2>
+<p>Wherever a document has a known online home, its page links straight to it — look for the
+<strong>“Read the original”</strong> button beneath the title. {_nlink} of the {N_DOCS} documents
+currently link to an original source, and that coverage is steadily being upgraded toward authoritative
+archives — the Church’s <a href="https://www.churchofjesuschrist.org/study/general-conference"
+target="_blank" rel="noopener">General Conference archive</a>,
+<a href="https://speeches.byu.edu" target="_blank" rel="noopener">BYU Speeches</a>, and the
+<a href="https://archive.org" target="_blank" rel="noopener">Internet Archive</a> — rather than
+secondary aggregators.</p>
+
+<h2>Dates &amp; accuracy</h2>
+<p>{_ndate} of {N_DOCS} documents carry a date, each verified against a source citation rather than a
+web-scrape default. A document deliberately left undated — for example a “Quotes on Freedom” page — is
+a <em>compilation</em> drawn from many sources across a lifetime; its individual quotations are sourced
+line by line instead. Bodies have been cleaned to begin at the author’s first words, with bibliographic
+detail moved into the metadata.</p>
+
+<h2>Using this for personal research</h2>
+<ul>
+<li>Open any document and click <strong>“Read the original”</strong> to go to the source.</li>
+<li>On the “Quotes on Freedom” pages, each quotation shows its own citation.</li>
+<li>Search by phrase, or browse by author or topical tag.</li>
+<li>When citing, cite the <em>original</em> source — treat this site as a finding aid that points you to it.</li>
+</ul>
+
+<div class="callout">
+<strong>Disclaimer.</strong> This is an independent, non-commercial collection made for personal study,
+scholarship, and commentary. It is not affiliated with, endorsed by, or an official publication of The
+Church of Jesus Christ of Latter-day Saints; views expressed within the documents are those of their
+original authors. Copyright in each work remains with its rights-holder; copyrighted material is offered
+under fair-use principles for nonprofit educational purposes — please consult the original source before
+reusing a text.</div>
+
+<h2>Corrections</h2>
+<p>Spotted a wrong date, a broken link, or a mis-attribution? The project is open source — corrections
+are welcome at <a href="https://github.com/voidnologo/to-be-free" target="_blank" rel="noopener">github.com/voidnologo/to-be-free</a>.</p>
+</div>
+"""
+(OUT/"about.html").write_text(page("./","About & Sources",about), encoding="utf-8")
 
 # ---------- search index ----------
 index=[dict(t=d["title"], a=d["author"] or d["gauthor"], s=bucket_of(d["gauthor"]),

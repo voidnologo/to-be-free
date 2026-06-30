@@ -439,9 +439,7 @@ judged according to the laws which have been given you by our fathers, which are
 correct, and which were given them by the hand of the Lord.
                                                                                              (Mosiah 29:25)
 
-                                               CHAPTER I
-
-                                         THE REIGN OF LAW
+## Chapter I. The Reign of Law
 
 1.1 MAN’S SUBJECTION TO LAW
                 All kingdoms have a law given;
@@ -679,9 +677,8 @@ it is proper to deprive a human being of his life, his liberty, or the means by 
 and exercises liberty. Therefore, civil laws are moral laws by very definition. Those natural laws
 then which control in the field of political science constitute a moral code. The man-made laws
 which should conform thereto are also a code of moral behavior.
-                                             CHAPTER II
 
-                          THE UNIVERSAL DESIRE FOR FREEDOM
+## Chapter II. The Universal Desire for Freedom
 
 2.1 THE NEED TO ESTABLISH A COMMON
 PURPOSE FOR GOVERNMENT
@@ -979,9 +976,7 @@ person; and finally since those acts and intentions which destroy these possessi
 those man-made laws necessary for their protection should be the same in every age and nation.
 Once identified they may be adopted and relied upon to serve the needs of people in every country.
 
-                                              CHAPTER III
-
-                       THE NATURAL LAWS GOVERNING FREEDOM
+## Chapter III. The Natural Laws Governing Freedom
 
 3.1 THE RIGHTS OF MAN AND THE ELEMENTS OF FREEDOM
 
@@ -1514,9 +1509,7 @@ expressed in the four laws we have formulated were implemented under the America
 government. Preliminary thereto we shall examine the nature, source and extent of political power
 under that system and also the constitutional framework within which that power is exercised.
 
-                                               CHAPTER IV
-
-                                         JUSTICE ACCORDING
+## Chapter IV. Justice According
 
                                         TO THE GOLDEN RULE
 
@@ -1977,9 +1970,7 @@ undertake to formulate another to take its place.
        words-to preserve it.
        President Ezra Taft Benson, (The Constitution: A Heavenly Banner p.31)
 
-                                            CHAPTER V
-
-                        THE UNITED STATES CONSTITUTION
+## Chapter V. The United States Constitution
 
 5.1 THE FUNCTIONS OF A CONSTITUTION
               Therefore, it is not right that any man should be in bondage one to another.
@@ -2397,9 +2388,7 @@ power of government as it performs these functions.
        the land.
                                                                                         (D&C 42:84-86)
 
-                                              CHAPTER VI
-
-                                           CRIMINAL LAWS
+## Chapter VI. Criminal Laws
 
 6.1 CRIMINAL LAW DEFINED
 
@@ -2870,9 +2859,8 @@ mankind faces is to keep governments within those limits.
                 (Note: All of Chapter 7 and 8, through section 8.5 inclusive, deal with tort and contract law.
        The reader not concerned with definitions of various types of tort and contract violations may wish
        to skip these parts.)
-                                          CHAPTER VII
 
-                                           TORT LAWS
+## Chapter VII. Tort Laws
 
 7.1 DEFINITION OF A TORT
                (See Exodus Ch. 21, 22)
@@ -3205,9 +3193,7 @@ because he is otherwise reluctant to file a lawsuit. But for every injury of any
 government stands ready to compel the performance of the duty to make restitution if the aggrieved
 party petitions it to do so.
 
-                                            CHAPTER VIII
-
-                                         CONTRACT LAWS
+## Chapter VIII. Contract Laws
 
 8.1 DEFINITION OF A CONTRACT
                Thou shalt not take thy brother’s garment; thou shalt pay for that which thou shalt receive of
@@ -3590,9 +3576,7 @@ freedom to contract with or about such funds is taken from them.
        things, and have given unto the children of men to be agents unto themselves.
        (D&C 104:13-17)
 
-                                            CHAPTER IX
-
-                                   THE NATURE OF WEALTH
+## Chapter IX. The Nature of Wealth
 
 9.1 DEFINITION OF WEALTH
 
@@ -3912,9 +3896,7 @@ be preserved.
        ...
        (Joseph Smith, DHC Vol. V, p. 289)
 
-                                            CHAPTER X
-
-                         THE NATURE OF PROPERTY RIGHTS
+## Chapter X. The Nature of Property Rights
 
 10.1 THE DISTINCTION BETWEEN PROPERTY AND PROPERTY RIGHTS
 
@@ -4321,9 +4303,7 @@ and price controls does tend to keep hidden from the majority of the people the 
 corruption of the monetary system in the first instance which led to a destruction of private property
 rights.
 
-                                            CHAPTER XI
-
-                          LIMITATIONS ON GOVERNMENT POWER
+## Chapter XI. Limitations on Government Power
 
 11.1 THE ALTERNATIVES-LIMITED OR UNLIMITED GOVERNMENT
 
@@ -4728,9 +4708,7 @@ which can befall a nation.
                                                            “Our Divine Constitution, “
                                                         General Conference, Oct 1987
 
-                                              CHAPTER XII
-
-                                 PROCEDURES WHICH MUST BE
+## Chapter XII. Procedures Which Must Be
 
                                   FOLLOWED BY GOVERNMENT
 
@@ -5104,9 +5082,8 @@ Constitution was therefore designed to limit government to certain enumerated
 functions, beyond which was tyranny.
                                                    President Ezra Taft Benson,
                                  (The Constitution: A Heavenly Banner, p.21)
-                                              CHAPTER XIII
 
-                                   ADMINISTRATIVE LAWS AND
+## Chapter XIII. Administrative Laws And
 
                                    THE LAW OF STEWARDSHIPS
 
@@ -6824,5 +6801,4 @@ Electronic Conservative
 1160 S. State #190A
 Orem UT 84097
 Or Call: (801) 225-0396
-
 

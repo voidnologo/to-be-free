@@ -91,9 +91,8 @@ that this will occur. Said he:
                                                             Of course I believe in following the prophets.
 I just think they ought to keep their mouths shut about socialism, government subsidies to the poor,
 government subsidies to businesses, government schools, licensing, free agency, etc.
-                                                                                                CHAPTER I
 
-                                                                                         THE PROBLEM
+## Chapter I. The Problem
 
      The title of this work Many Are Called But Few Are Chosen, is a quotation from the Doctrine
 and Covenants, a modern day scripture of the Church of Jesus Christ of Latter-day Saints. This
@@ -345,9 +344,8 @@ freedom. This being so, we may now restate our definition of freedom as follows:
   camps, but, nevertheless, the direction is the same, although it is being reached by different
   routes. On the one side the direction to make an end of all nations, is through communism;...
   (Joseph Fielding Smith, The Progress of Man, p. 397)
-                                                                                     CHAPTER III
 
-                                               THE DIVINE LAW OF RESTORATION
+## Chapter III. The Divine Law of Restoration
 
      By defining freedom as the power and opportunity to affect the freedom of others, we are able
 to see the necessity of the existence of that fundamental law of intelligent existence which decrees
@@ -560,10 +558,9 @@ HOWARD W. HUNTER
        To fully understand this gift of agency and its inestimable worth, it is imperative that we
   understand that God’s chief way of acting is by persuasion and patience and long-suffering, not
   by coercion and stark confrontation.... (Howard W. Hunter, That We Might Have Joy, pp. 77-78)
-                                                                                     CHAPTER IV
 
-                                                        FORFEITURE OF PRIESTHOOD
-                                                                    BY DECEPTION
+## Chapter IV. Forfeiture of Priesthood by Deception
+
     The Lord has told us that Satan’s mission here on earth is to win us over by deception:
 
          And he became Satan, yea, even the devil, the father of all lies, to deceive and to blind men,
@@ -678,11 +675,9 @@ Endure, p. 114)
     I warn you that government subsidies are not the Lord’s way; and if we begin to accept, we
 are on our way to becoming subsidized politically as well as financially. (Harold B. Lee, The
 Teachings of Harold B. Lee, p. 314-315)
-                                                                                    CHAPTER V
 
-                                                      THE EXERCISE OF UNRIGHTEOUS
-                                                          DOMINION BY ABUSE OF THE
-                                                                     POLICE POWER
+## Chapter V. The Exercise of Unrighteous Dominion by Abuse of the Police Power
+
      It may come as a severe shock to priesthood bearers that the majority of us are being deceived,
 and are so lacking in knowledge of the laws governing the exercise of our powers that we will lose
 our callings in the hereafter. What is the reason for this walking in darkness at noonday—this
@@ -894,12 +889,9 @@ so, present scriptural support for our conclusions. We shall first examine those
 Lord has given His approval for using the force of government against the individual. Then we
 shall note some of those acts which are a violation of conscience and, consequently, an exercise of
 unrighteous dominion.
-                                                                                             CHAPTER VI
 
-                                          THOSE CIRCUMSTANCES UNDER WHICH
-                                             GOD HAS AUTHORIZED USE OF THE
-                                              FORCE OF GOVERNMENT AGAINST
-                                                            THE INDIVIDUAL
+## Chapter VI. Those Circumstances Under Which God Has Authorized Use of the Force of Government Against the Individual
+
     The Lord justifies the use of the police power against the individual for the purpose of
 executing the divine law of retribution. The specific circumstances under which He has given His
 approval for this use of force may be classified under the following four headings:
@@ -1052,11 +1044,9 @@ the law of retribution and therefore offend the conscience and violate the Golde
   when we yield to such pressures, I warn you that government subsidies are not the Lord’s way;
   and if we begin to accept, we are on our way to becoming subsidized politically as well as
   financially. (Harold B. Lee, The Teachings of Harold B. Lee, [1996], p. 314-115)
-                                                                                      CHAPTER VII
 
-                                                       ACTS OF GOVERNMENT WHICH
-                                                        CONSTITUTE AN EXERCISE OF
-                                                           UNRIGHTEOUS DOMINION
+## Chapter VII. Acts of Government Which Constitute an Exercise of Unrighteous Dominion
+
      Men may exercise unrighteous dominion upon one another through the agency of government
 in just as many ways as they can when acting outside its framework. The most common method,
 however, is by denying or interfering with the right to own and control property, one of the
@@ -1338,10 +1328,9 @@ charitable and by denying people the freedom to make their own mistakes, we have
 plan and have subjected ourselves to him to the same extent. Even a partial adoption of his methods
 will condemn us because when we undertake to exercise dominion in any degree of
 unrighteousness, Amen to the priesthood or the authority of that man.
-                                                                                 CHAPTER VIII
 
-                                          ANOTHER STANDARD BY WHICH TO
-                                              JUDGE GOVERNMENT ACTION
+## Chapter VIII. Another Standard by Which to Judge Government Action
+
                                         —THE UNITED STATES CONSTITUTION
                                           AND THE COMMUNIST MANIFESTO
     In a speech delivered at Brigham Young University in Provo, Utah, on May 18, 1960,
@@ -1871,10 +1860,9 @@ about us. Those cannot be misinterpreted by anyone willing to listen.
         Wherefore, the Lord commandeth you, when ye shall see these things come among you that
     ye shall awake to a sense of your awful situation, because of this secret combination which shall
     be among you. (Ether 8:24)
-                                                                                       CHAPTER X
 
-                                                               SPECIFIC LESSONS FROM
-                                                                 THE NEPHITE RECORD
+## Chapter X. Specific Lessons From the Nephite Record
+
      Perhaps the Nephite scriptures can aid us in seeing more clearly where the path of political
 duty lies. One outstanding example of a righteous man acting with the approval of the Lord in a
 political and military capacity to preserve the liberty of the people is that of the general, Moroni.
@@ -2114,10 +2102,9 @@ down at his failure that the Lord saw fit to personally comfort him. (Hel. 10:3-
 warnings against Communism and the moral breakdown which has caused us to adopt its
 philosophy. He continues to labor with us and his words are widely disseminated throughout the
 land just as were Nephi’s warnings to his people.
-                                                                                       CHAPTER XI
 
-                                                                  THE RESPONSIBILITY OF
-                                                                      LATTER-DAY SAINTS
+## Chapter XI. The Responsibility of Latter-day Saints
+
     Latter-day Saints are the only people who have been given an understanding of the exact
 nature of the predicament we are in. We alone know that God through His mouthpiece has told us
 we are in dire peril. The responsibility to act has been placed upon us. The blessings of the gospel
@@ -2219,9 +2206,9 @@ GEORGE ALBERT SMITH
   And my answer to him was, “Why try something that has already failed? Why not hold on to what
   the Lord has given?” (The Teachings of George Albert Smith, Bookcraft, Salt Lake City, [1996],
   p. 171)
-                                                                                    CHAPTER XII
 
-                                                                                          SUMMARY
+## Chapter XII. Summary
+
     The words of the prophets, ancient and modern, seem to have left us with these alternatives: As
 a nation we face temporal and spiritual destruction and captivity unless we repent and serve the
 God of this land, cleanse our governments of those practices of Communism we have adopted, and
@@ -3766,5 +3753,4 @@ Youth, 43, 103
 
                                               —Z—
 Zion, 63-64
-
 

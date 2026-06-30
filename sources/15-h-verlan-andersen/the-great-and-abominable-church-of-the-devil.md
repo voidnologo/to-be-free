@@ -72,9 +72,8 @@ essential to identify and reject the church of the devil.
 kingdom and the nature of his plan to destroy free agency. In this book the author has under-taken
 to analyze some of their utterances.
                                                                                          —H.V.A.
-                                                                                                  I
-                                         A SATANIC WORLD-WIDE
-                                         ORGANIZATION FORETOLD
+
+## Chapter I. A Satanic World-wide Organization Foretold
 
 PROPHECIES OF NEPHI AND JOHN THE REVELATOR
      Students of both the Bible and the Book of Mormon have, for many years, speculated about
@@ -246,8 +245,8 @@ church except a few who belong to the Church of the Lamb.
      4. There will be a culminating war between Christ and Satan when this “whore of all the earth”
 will “gather together multitudes upon the face of the earth, among all the nations of the Gentiles, to
 fight against the Lamb of God.” (v. 13)
-                                                                                               II
-                                                    THE GREAT DIVISION
+
+## Chapter II. The Great Division
 
 THE “TARES” AND “FOOLISH VIRGINS” ARE MEMBERS OF SATAN’S CHURCH
     As unlikely as it may seem to those who regard themselves as members of Christ’s Church, the
@@ -417,8 +416,8 @@ land, Jesus Christ, and quit building up and upholding secret combinations,…(E
 promoted than ever before. Secret combinations that seek to overthrow the freedom of all lands,
 nations, and countries is increasing its evil influence and control over America and the entire
 world. [See Ether 8:18-25] (Ensign, November 1988, p. 87)
-                                                                                              III
-        THE UNIVERSAL PROBLEM OF DECEPTION
+
+## Chapter III. The Universal Problem of Deception
 
 SATAN WILL DECEIVE “THE WHOLE WORLD”
     If it be true that only one half of that small group designated by the Lord as “virgins” will
@@ -869,8 +868,8 @@ Pursuit of Happiness. (Declaration of Independence)
 presentment or indictment of a Grand Jury,…nor be deprived of life, liberty, or property, without
 due process of law; nor shall private property be taken for public use, without just compensation.
 (U.S. Constitution, 5th Amendment)
-                                                                                                 IV
-                                      THE ELEMENTS OF FREEDOM
+
+## Chapter IV. The Elements of Freedom
 
 AN ACT MAY BE CLASSIFIED AS GOOD OR EVIL ACCORDING TO ITS EFFECT
 UPON FREE AGENCY
@@ -1142,9 +1141,8 @@ the critical stage of the revolution.” (The Federalist, no. 37)
 the benefit and blessings of future generations. We are the beneficiaries of their work, and we
 owe a great debt of gratitude to them and to our God who led them in their task. (President Ezra
 Taft Benson, [1986] The Constitution, A Heavenly Banner p.23, 24)
-                                                                                               V
-                                       THE LORD’S INVOLVEMENT
-                                           IN POLITICAL AFFAIRS
+
+## Chapter V. The Lord’s Involvement in Political Affairs
 
 POLITICAL SYSTEMS ESTABLISHED UNDER THE LORD’S DIRECTION
     The first form of government established was “Patriarchal,” and the following scripture
@@ -1453,10 +1451,8 @@ must concern himself with them in order to properly judge us. A correct understa
 nature of government and the reasons why men adopt and enforce civil laws will demonstrate that a
 set of laws is in essence an expression of a moral code, and a person’s political beliefs are an
 accurate reflection of his moral character.
-                                                                                                 VI
-                               THE LORD JUDGES MEN BY THE
-                                 CIVIL LAWS THEY SANCTION
-                                                OR OPPOSE
+
+## Chapter VI. The Lord Judges Men by the CIVIL Laws They Sanction or Oppose
 
 THE SCRIPTURES TEACH MAN’S POLITICAL ACCOUNTABILITY TO GOD
     Having shown that the scriptures teach that the Lord has deeply involved himself in the affairs
@@ -1665,9 +1661,9 @@ by the power of mine Only Begotten, I caused that he should be cast down.
    And he became Satan, yea, even the devil, the father of all lies, to deceive and to blind men,
    and to lead them captive at his will, even as many as would not hearken unto my voice.
 (Moses 4:3,4)
-                                                                                             VII
-                                        THE LORD’S PLAN
-                             FOR PROTECTING FREE AGENCY
+
+## Chapter VII. The Lord’s Plan for Protecting Free Agency
+
 THE LORD’S PURPOSE IN ESTABLISHING LAWS AND GOVERNMENT—THAT MEN
 MAY USE THEIR MORAL AGENCY
 
@@ -2060,10 +2056,8 @@ fear of physical punishment are not forbidden or commanded by His laws. Thus, th
 within which men are free to act without being restrained or coerced are delineated by the civil laws
 of God. Let us now consider the fact that all men are judged according to their acceptance or
 rejection of this plan to protect free agency.
-                                                                                           VIII
-                                   FREE AGENCY IN HEREAFTER
-                                    DETERMINED BY ATTITUDE
-                                            TOWARD IT HERE
+
+## Chapter VIII. Free Agency in Hereafter Determined by Attitude Toward It Here
 
 A PERSON’S ATTITUDE TOWARD THE FREE AGENCY OF OTHERS IS EXPRESSED IN
 HIS POLITICAL PHILOSOPHY
@@ -2157,9 +2151,8 @@ freedom of all, there is no injustice in insisting that each pay his fair share 
 other duties which might be necessary to accomplish this common purpose. But this is the only
 standard which all men hold in common, and therefore anything which is more or less than these
 freedom-protecting laws “cometh of evil.”
-                                                                                                 IX
-                                                    SATAN’S PLAN TO
-                                               DESTROY FREE AGENCY
+
+## Chapter IX. Satan’s Plan to Destroy Free Agency
 
 SATAN’S OPPOSITION TO THE PLAN OF THE LORD
      In the foregoing chapters, we have discussed the Lord’s plan for providing and protecting the
@@ -2329,9 +2322,9 @@ has told us:
 serve not God, then ye may know with a perfect knowledge it is of the devil;for after this manner
 doth the devil work,for he persuadeth no man to do good, no, not one; neither do his angels;
 neither do they who subject themselves unto him. (Moroni 7:17)
-                                                                                                X
-                      DO THE SCRIPTURES PERMIT THE
-                      CONCLUSION THAT PROSTITUTED
+
+## Chapter X. Do the Scriptures Permit the Conclusion That Prostituted
+
                     GOVERNMENT IS SATAN’S CHURCH?
 
 A VARIETY OF NAMES ARE USED TO DESCRIBE THE DEVIL’S ORGANIZATION
@@ -2524,10 +2517,9 @@ of the wickedness and abominations of the whore who sat upon many waters.” (1 
 Only government has the power to deny religious freedom, prohibit missionary work, and ban
 publications. Over much of the world today, these and many other restrictions prevent the growth
 of the work of the Lord.
-                                                                                                XI
-                      RELIGIOUS HISTORY AFFIRMS THAT
-                         SATAN HAS ALWAYS TRIED TO
-                               CONTROL GOVERNMENT
+
+## Chapter XI. Religious History Affirms That Satan Has Always Tried to Control Government
+
     If it be true that the central feature of Satan’s plan for man on earth is to utilize the power of
 government to destroy the agency of men, religious history should confirm this fact. The
 prophecies of Nephi and John regarding the devil’s church concerned the nations of the Gentiles
@@ -2793,9 +2785,8 @@ freedom of all lands, nations, and countries; . . (Ether 8:25)
 always seeking to obtain control of government, and since the devil’s church is completely-
 corrupted government, the secret combinations are the devil’s church in embryo until they achieve
 their purpose. Thereafter, there is no distinction between them.
-                                                                                            XII
-                 IDENTIFICATION OF SATAN’S CHURCH
-                          BY LATTER-DAY PROPHETS
+
+## Chapter XII. Identification of Satan’s Church by Latter-day Prophets
 
 COMMUNISM—THE GREATEST SATANICAL THREAT ON THE FACE OF THE EARTH
      Heretofore, we have concluded that the only organization which fits the description of the
@@ -3026,9 +3017,8 @@ studying and reading the Book of Mormon (about our current problems) than you wi
 the daily paper or the slick magazines…read it every day and become acquainted with it and
 gain a knowledge of how the adversary is organized and working, and what his designs are for
 this Church. (President Ezra Taft Benson, The Teachings of Ezra Taft Benson, p. 62)
-                                                                                          XIII
-                             THE CONCEPT AND PHILOSOPHY
-                                   OF THE DEVIL’S CHURCH
+
+## Chapter XIII. The Concept and Philosophy of the Devil’s Church
 
 THE COMMUNIST MANIFESTO
     Since a prophet of God has proclaimed to the people of the Church that:
@@ -3344,8 +3334,8 @@ which empower government bureaucracy to tell private owners how they must operat
 enterprises, (4) graduated income, gift, and estate taxes, which confiscate virtually all income
 above certain minimums, and (5) laws which corrupt monetary systems, the Communist proposals
 have been largely implemented in the United States as well as in other so-called Capitalist nations.
-                                                                                            XIV
-                                                                        PRIESTCRAFT
+
+## Chapter XIV. Priestcraft
 
 THE COMMUNIST PROPOSAL FOR STATE CONTROL OF THE EDUCATION OF ALL
 CHILDREN
@@ -3979,9 +3969,8 @@ they begin to become accountable before me; or it is given unto them even as I w
 mine own pleasure, that great things may be required at the hand of their fathers.
    And again, I say unto you, that whoso having knowledge, have I not commanded to repent?
 (D&C 29:47-49)
-                                                                                              XV
-                                    SOCIALIZED EDUCATION AND
-                                             FALSE DOCTRINES
+
+## Chapter XV. Socialized Education and False Doctrines
 
      The scriptures indicate that even though socialized education were to teach nothing but
 provable facts, still it constitutes enforced priestcraft which is condemned by the prophets. But
@@ -4209,9 +4198,8 @@ responsibilities. They will want to precisely distinguish between the Lord’s a
 rearing children in order that they may be candidates for the role of parents during the eternities.
             And also trust no one to be your teacher nor your minister, except he be a man of
        God, walking in his ways and keeping his commandments. (Mosiah 23:14)
-                                                                                              XVI
-                                      LATTER-DAY PROPHETS AND
-                                         SOCIALIZED EDUCATION
+
+## Chapter XVI. Latter-day Prophets and Socialized Education
 
 THE VIEWS OF BRIGHAM YOUNG
      If it be true that socialized education does in fact constitute the sin of enforced priestcraft, and
@@ -4490,9 +4478,8 @@ control.
 agency and Satan’s plan to destroy it, let us undertake to confirm the conclusions drawn by
 viewing these plans in the light of scriptures dealing with the kingdom of God, the kingdom of
 Satan, and the Gentile apostasy of the last days.
-                                                                                           XVII
-                                      THE KINGDOM OF GOD VS.
-                                     THE KINGDOM OF THE DEVIL
+
+## Chapter XVII. The Kingdom of God vs. the Kingdom of the Devil
 
 MAN’S FOREMOST DUTY: “SEEK YE FIRST THE KINGDOM OF GOD”
     In the Sermon on the Mount, the Lord advised, “Seek ye first the kingdom of God, and his
@@ -5010,9 +4997,8 @@ maintaining rights and privileges, belongs to all mankind… (D&C 98:5)
 
     should be maintained for the rights and protection of all flesh, according to just and holy
 principles. (D&C 101:77)
-                                                                                       XVIII
-                                                           THE APOSTASY OF
-                                                           THE LATTER DAYS
+
+## Chapter XVIII. The Apostasy of the Latter Days
 
 HISTORY WARNS THAT APOSTASY MUST BE EXPECTED
      Religious history testifies that, with the single exception of the inhabitants of the City of
@@ -5397,9 +5383,8 @@ religious history which teaches that both the Lord and Satan seek to control gov
 man chooses between these two contending powers by deciding what laws and leaders he supports
 and opposes. Thus, have men in each generation been led to believe in and help execute Satan’s
 plan to destroy human liberty.
-                                                                                          XIX
-                                                   THE DESTRUCTION OF
-                                                   THE DEVIL’S CHURCH
+
+## Chapter XIX. The Destruction of the Devil’s Church
 
 THE END OF THE WORLD
     The end of the world has been predicted since its very beginning. According to prophecy, that
@@ -5620,8 +5605,8 @@ of the Lord of Sabaoth, from the earth, to be avenged of their enemies. (D&C 87:
     For of him unto whom much is given much is required; and he who sins against the greater
 light shall receive the greater condemnation.
     (D&C 82:3)
-                                                                                             XX
-                                    SUMMARY AND CONCLUSION
+
+## Chapter XX. Summary and Conclusion
 
 SUMMARY
      We have now completed our examination of the two plans for man on earth—the Lord’s plan
@@ -7299,5 +7284,4 @@ rejecting our prophets counsel on God’s laws and government (not just as a nat
 members) lead to captivity for us? Will the great promise of the Book of Mormon regarding this
 land prove our blessing? Christ was our champion in the battle over agency before we came to
 earth, and He is now.
-
 

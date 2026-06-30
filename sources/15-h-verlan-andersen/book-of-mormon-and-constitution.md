@@ -430,9 +430,8 @@ had been created by the hand of God.
 they were in one, the children of Christ, and heirs to the kingdom of God.
       And how blessed were they! For the Lord did bless them in all their doings. . . (Moses 7:18, 4 Ne.
 1:2, 15-18)
-                                                                                                                 I
-                                                               IF YE ARE NOT ONE
-                                                                YE ARE NOT MINE
+
+## Chapter I. If Ye Are Not One Ye Are Not Mine
 
 FREE AGENCY IS THE STANDARD BY WHICH ACTIONS MAY BE JUDGED
     The late President David O. McKay once stated:
@@ -633,9 +632,8 @@ the Deseret News and any words of the prophet contained each month in our Church
 Our marching orders for each six months are found in the general conference addresses, which are
 printed in the Ensign magazine. (Ezra Taft Benson, Fourteen Fundamentals in Following the
 Prophet, BYU Devotional, 26 Feb. 1980).
-                                                                                                   II
-                                                OUR LIVING PROPHET
-                                              HAS ISSUED A WARNING
+
+## Chapter II. Our Living Prophet Has Issued a Warning
 
 OUR LIVING PROPHET SAYS CHURCH STILL UNDER CONDEMNATION
      On April 5, 1986, Ezra Taft Benson, Prophet, Seer and Revelator cited D&C 84:58-59 and
@@ -729,9 +727,8 @@ political, religious, and philosophical concepts of our time. (Ensign, January 1
     Two great American Christian civilizations—the Jaredites and the Nephites—were
 swept off this land because they did not ‘serve the God of the land, who is Jesus Christ’
 (Ether 2:12) What will become of our civilization? (Ensign, November 1987, p. 7).
-                                                                                                        III
-                        THE LORD’S BOOK OF MORMON
-                      COMMANDMENTS TO THE GENTILES
+
+## Chapter III. The Lord’s Book of Mormon Commandments to the Gentiles
 
 THE GENTILES MUST “DO” AS THE LORD HAS COMMANDED OR BE SCOURGED
      In a revelation given through the prophet Joseph Smith in the year 1832, the Lord placed the
@@ -906,9 +903,8 @@ about how to do missionary work. And more than anywhere else, we see in the Book
 the dangers of materialism and setting our hearts on the things of the world. Can anyone doubt that
 this book was meant for us and that in it we find great power, great comfort, and great protection?
 (Ezra Taft Benson, Ensign, Nov. 1986, p. 6-7).
-                                                                                                IV
-                                                     THE BOOK OF MORMON
-                                                      WARNS THE GENTILES
+
+## Chapter IV. The Book of Mormon Warns the Gentiles
 
 WHEN NEPHITE PROPHETS USED THE TERM “GENTILE,” TO WHOM DID THEY
 REFER?
@@ -1057,9 +1053,8 @@ law, they are to use any means necessary—yes, even putting the lawbreaker to d
 putting him in jail—to overcome such resistance. These are extreme measures but unless
 laws are enforced, anarchy results. (Ezra Taft Benson, An Enemy Hath Done This, p.
 132).
-                                                                                                                   V
-                         GOVERNMENTS MAY BE USED
-                   TO PRESERVE OR DESTROY FREEDOM
+
+## Chapter V. Governments May Be Used to Preserve or Destroy Freedom
 
 THE LORD USES GOVERNMENT TO PROVIDE FREE AGENCY
     We shall now discuss the fact that it is the Lord’s purpose to provide us with freedom and that
@@ -1204,9 +1199,8 @@ our God-given laws and adopted those proposed by secret combinations. We shall a
 to point out what we must do to avoid the scourge and judgment the Lord has promised unless we
 heed His Book of Mormon warnings. However our first interest is to understand how the Nephite
 voters could have been deceived and seduced into accepting communism.
-                                                                                                              VI
-                              ALMOST ALL MEN ARE INCLINED
-                                  TO DESTROY FREE AGENCY
+
+## Chapter VI. Almost All Men Are Inclined to Destroy Free Agency
 
 MANY ARE CALLED BUT FEW ARE CHOSEN
     Having shown that the Lord uses government to provide freedom while Satan uses it for the
@@ -1354,9 +1348,8 @@ Holy Ghost.
      And after rejecting so great a knowledge, my son, they must perish soon, unto the
 fulfilling of the prophecies which were spoken by the prophets, as well as the words of our
 Savior himself. (Moroni 8: 27-29 Emphasis Added)
-                                                                                                            VII
-                                                               THE CONSEQUENCES
-                                                                        OF PRIDE
+
+## Chapter VII. The Consequences of Pride
 
 HOW COMMON IS THE SIN OF PRIDE?
      In the preceding chapter we observed that the Lord gave two separate reasons for the
@@ -1573,8 +1566,8 @@ Even in heaven there could be no peace with him after his rebellion. There, in t
 spirits, the Father and the Son could find no ground upon which they could co-operate
 with him. He had to be cast out—not compromised with, but cast out. (Marion G.
 Romney, First Presidency Message, Ensign, October 1983, p. 5)
-                                                                                           VIII
-                                                            THE SIN OF PRIDE
+
+## Chapter VIII. The Sin of Pride
 
 IS THE GRAVITY OF THE SIN OF PRIDE RECOGNIZED?
     In prior chapters we noted our living prophet’s warning to repent of the sin of pride, and the
@@ -1801,10 +1794,8 @@ depths of humility, and consider themselves fools before God? Jacob says the Lor
 unto us until we do. Must calamity come before repentance is possible? Mormon states it to be a
 general rule that the only thing which will bring repentance and humility is great tragedy. (Hela.
 12:1-3)
-                                                                  IX
-                                                    THE INFLUENCE OF
-                                              PRIOR GOVERNMENTS ON
-                                                 REIGN OF THE JUDGES
+
+## Chapter IX. The Influence of Prior Governments on Reign of the Judges
 
 INFLUENCE OF BRASS PLATES
      In this work we are primarily concerned with the Nephite experience with self government.
@@ -1961,9 +1952,8 @@ leaders who undertook to alter the laws and form of the Nephite government. Espe
 help explain why such leaders were able to obtain such large followings. The people who lived
 under the reign of the judges still remembered and studied the political systems of their ancestors
 and often sought to return to them.
-                                                                                                                     X
-                           REASONS FOR CHANGING FROM
-                         MONARCHY TO SELF-GOVERNMENT
+
+## Chapter X. Reasons for Changing From Monarchy to Self-government
 
 THE CHANGE IN FORM OF GOVERNMENT CAUSED CONTINUAL CIVIL WAR
     When it is remembered that the Nephites had lived under a monarchial form of government for
@@ -2135,9 +2125,8 @@ obeying the Lord’s commandments concerning government. The separation of Churc
 does nothing to alter this fact. In the following chapters we shall note how well the Nephites
 remembered and obeyed the Lord’s commandments regarding government during that period when
 their Church was set up as a separate organization.
-                                                                                                           XI
-                                       THE NEPHITE EXPERIENCE
-                                    WITH ENFORCED PRIESTCRAFT
+
+## Chapter XI. The Nephite Experience with Enforced Priestcraft
 
 MUCH OF THE BOOK OF MORMON IS DEVOTED TO THE SUBJECT OF
 PRIESTCRAFT
@@ -2399,9 +2388,8 @@ Beginning with mere disputes, there grew bickerings, then quarrelings, then rupt
 two peoples, then one cursed for its iniquities, then wars and counterwars, while this
 people marched steadily towards their “fulness of iniquity.” (J. Reuben Clark, Stand Fast
 By Our Constitution, pp. 177-179.)
-                                                                                              XII
-                                     THE NEPHITE EXPERIENCE
-                                  WITH SECRET COMBINATIONS
+
+## Chapter XII. The Nephite Experience with Secret Combinations
 
 A REVIEW OF THE SECOND SIXTY YEARS OF SELF-GOVERNMENT
      In the prior chapter we surveyed the major political events of the first sixty years of the reign
@@ -2692,8 +2680,8 @@ done the same thing for us today? Is it our failure to heed this message of the 
 which has placed the whole Church under condemnation as stated in D&C 84:54-59? Is our pride
 leading us to accept the plan of Satan as it did the former inhabitants of this holy land? In
 subsequent chapters we shall consider this possibility.
-                                                                                                      XIII
-                                                     SECRET COMBINATIONS
+
+## Chapter XIII. Secret Combinations
 
 DIVISION BETWEEN THE JUST AND THE UNJUST
     The Lord has decreed that in the next life, those who are just will be separated from those who
@@ -2844,9 +2832,8 @@ testify that the God of heaven sent some of His choicest spirits to lay the foun
 government, and He has sent other choice spirits—even you who read my words—to preserve it.
 
                                          (Ezra Taft Benson, The Constitution, A Heavenly Banner)
-                                                                                                          XIV
-                                       THE CONSTITUTION OF
-                              THE UNITED STATES OF AMERICA
+
+## Chapter XIV. The Constitution of the United States of America
 
 WE HAVE A DEBT TO THE LORD FOR THE BOOK OF MORMON AND THE
 CONSTITUTION
@@ -3056,9 +3043,8 @@ in every dispensation.
     The formula for successful relationships with others boils down to that divine code
 known as the Golden Rule. “Therefore, all things whatsoever ye would that men should
 do to you, do ye even so to them.” [Matthew 7:12] (Ezra Taft Benson, Teachings, p. 44)
-                                            XV
-                          THE GOLDEN RULE AND
-               THAT LAW WHICH IS CONSTITUTIONAL
+
+## Chapter XV. The Golden Rule and That Law Which Is Constitutional
 
 BOTH THE “LAWS” AND THE “CONSTITUTION” WERE ESTABLISHED BY THE
 LORD
@@ -3286,8 +3272,8 @@ common knowledge that what is good and bad for ourselves is equally so for other
 indispensable virtue of being unchangeable and therefore predictable. It incorporates into the
 administration of justice those elements of certainty and stability so essential to public tranquility.
 Let that person who would reject it as a standard, undertake to formulate another to take its place.
-                                                            XVI
-                                        THE REIGN OF DIVINE LAW
+
+## Chapter XVI. The Reign of Divine Law
 
 PREFATORY STATEMENT
      In this chapter we commence our task of demonstrating that the Golden Rule should apply to
@@ -3747,8 +3733,8 @@ be enforced to protect rights.
 they reside, while protected in their inherent and inalienable rights by the laws of such
 governments;...
                                                                                  —D&C 134:5
-                                                                    XVIII
-                                                       THE DUTIES OF MAN
+
+## Chapter XVIII. The Duties of Man
 
 PREFATORY STATEMENT
     In pursuing our goal of demonstrating that the Golden Rule should apply to the actions of
@@ -3895,9 +3881,8 @@ to compel him to perform. As is stated by the scriptures:
    Having defined the task of protecting human freedom as being that of enforcing the duties of
 man, we are now prepared to discuss in chapters which follow, those divine natural laws
 governments must obey in performing this function.
-                                                                                             XIX
-                THE FOUR LAWS GOVERNMENT
-        MUST OBEY TO PROTECT HUMAN RIGHTS
+
+## Chapter XIX. The Four Laws Government Must Obey to Protect Human Rights
 
 THE FOUR SUBDIVISIONS OF THE GOLDEN RULE
     The purpose of government is to protect our rights to those four possessions without which the
@@ -4183,9 +4168,8 @@ Therefore in requiring that the people befriend only those laws which are consti
 did not ask something beyond the ability and time of the citizenry. In fact in mandating the jury
 trial in all criminal cases, He placed responsibility for doing so directly on the ordinary person in
 all such instances.
-                                                 XX
-                       GOVERNMENTS SHALL PUNISH THE
-                      INTENTIONAL VIOLATION OF DUTIES
+
+## Chapter XX. Governments Shall Punish the Intentional Violation of Duties
 
 HOW THE NEPHITES LAID ASIDE THE POLITICAL COMMANDMENTS OF GOD
    In our discussion of the Nephite experience with self-government, we saw that around the sixty
@@ -4331,9 +4315,9 @@ awaken fully to the worst form of monopolistic practice currently impeding the f
 market. I refer to government monopoly, when government either by ownership or
 regulation prevents the full freedom of action by sellers. This, of course, regulates and
 controls prices. (Ezra Taft Benson, This Nation Shall Endure, p. 109)
-                                                                                           XXI
-         GOVERNMENT SHALL PUNISH NOTHING
-        EXCEPT THE INTENTIONAL VIOLATION OF
+
+## Chapter XXI. Government Shall Punish Nothing Except the Intentional Violation Of
+
                     DUTIES—LICENSING LAWS
 
 PREFATORY STATEMENT
@@ -4605,9 +4589,9 @@ such resistance. These are extreme measures but unless laws are enforced, anarch
     therein not to be subject to the arbitrary will of another, but freely follow his own. [Two Treatises of
     Civil Government, II, 57; P.P.N.S., p. 101]
     (Ezra Taft Benson, An Enemy Hath Done This, p. 132-33)
-                                                                                           XXII
-          GOVERNMENT MUST PUNISH NOTHING
-        EXCEPT THE INTENTIONAL VIOLATION OF
+
+## Chapter XXII. Government Must Punish Nothing Except the Intentional Violation Of
+
                  DUTIES—REGULATORY LAWS
 
 DEFINITION OF A REGULATORY LAW
@@ -4806,8 +4790,9 @@ for. No half-way or compromise actions will suffice. Like all surgery, it will n
 discomfort and perhaps even some scar tissue for a long time to come. But it must be
 done if the patient is to be saved, and it can be done without undue risk. (Ezra Taft
 Benson, The Proper Role of Government, p. 19)
-                                                 XXIII
-                             GOVERNMENTS SHALL NEVER
+
+## Chapter XXIII. Governments Shall Never
+
                            CREATE NOR ABOLISH DUTIES—
                                    WELFARE STATE LAWS
 
@@ -5011,9 +4996,8 @@ handouts, is that the recipients who have become accustomed to them would experi
 difficulty if they were terminated suddenly. Perhaps a phase-out program should be considered.
      Regardless of how difficult the problem is, it seems certain that unless we solve it voluntarily,
 the Lord will do so for us and His method may be far more painful than any we would devise.
-                                     XXIV
-                 THE DESTRUCTION OF RIGHTS
-      BY USE OF IRREDEEMABLE PAPER MONEY
+
+## Chapter XXIV. The Destruction of Rights by Use of Irredeemable Paper Money
 
 PREFATORY COMMENT
     Our discussion of the preservation of rights under the United States Constitution would be
@@ -5227,8 +5211,8 @@ medium convertible into such money without loss. I regard it as a flagrant viola
 provisions of the Constitution for the federal government to make it a criminal offense to use gold or
 silver as legal tender or to issue irredeemable paper money. (Ezra Taft Benson, An Enemy Hath Done
 This, p. 145)
-                                                                                                  XXV
-                                                                        PUBLIC SCHOOLS
+
+## Chapter XXV. Public Schools
 
 SCOPE OF CHAPTER
      The last violation of constitutional principles which we will discuss is that of government
@@ -5588,9 +5572,8 @@ public schools of the United States and the source of divine intelligence, the C
     Does that make any difference to you? Can’t you see why the demands of conscientious
 parents is increasing the number of private Christian- and Americanist-oriented schools? (Ezra
 Taft Benson, God, Family, Country, p. 225-226)
-                                                   XXVI
-                                         THE LORD’S PLAN
-                             VERSUS ENFORCED PRIESTCRAFT
+
+## Chapter XXVI. The Lord’s Plan Versus Enforced Priestcraft
 
 THE CENTRAL POSITION OF THE FAMILY IN THE GOSPEL PLAN
      To accomplish His purposes here on earth, the Lord has established three organizations: The
@@ -5939,8 +5922,8 @@ abolish it voluntarily, He will do so when He comes. (3 Ne. 21:19)
      Furthermore if the chain of inherited lies is to be broken so that coming generations can know
 the truth, the responsibility of doing so rests upon those who have the knowledge regarding
 enforced priestcraft contained in the Book of Mormon.
-                                                                                           XXVII
-                                          UNENFORCED PRIESTCRAFT
+
+## Chapter XXVII. Unenforced Priestcraft
 
 THE BOOK OF MORMON CONTAINS INFORMATION REGARDING UNENFORCED
 PRIESTCRAFT
@@ -6091,9 +6074,8 @@ will not be saved in Washington. It will be saved by the citizens of this nation
 and cherish freedom. It will be saved by enlightened members of this Church—men and
 women who will subscribe to and abide the principles of the Constitution.
 (Ezra Taft Benson, The Constitution, A Heavenly Banner, 1986)
-                                                                                   XXVIII
-                                             PROPHECIES REGARDING
-                                                 FATE OF GENTILES
+
+## Chapter XXVIII. Prophecies Regarding Fate of Gentiles
 
 DOES NEPHITE HISTORY FORESHADOW THAT OF THE GENTILES?
      In this work we have undertaken to use the Nephite experience with self-government to help us
@@ -6309,9 +6291,8 @@ than ever before. Secret combinations lusting for power, gain, and glory are flo
 combination that seeks to overthrow the freedom of all lands, nations, and countries is increasing
 its evil influence and control over America and the entire world. [See Ether 8:18-25] (Ezra Taft
 Benson, Ensign, November 1988, p. 87)
-                                                                              XXIX
-                                                                  IF YE ARE NOT ONE
-                                                                   YE ARE NOT MINE
+
+## Chapter XXIX. If Ye Are Not One Ye Are Not Mine
 
 THE RESPONSIBILITIES OF THE SALT OF THE EARTH
      It should be a point of the most intense interest to members of the Lord’s Church that they are
@@ -7180,5 +7161,4 @@ Published in the 1960’s, Reprinted in 1997 with additions. 56 pages.
 dangers from within. The remaining twenty-three pages are two appendixes covering graphs of America’s
 decline as we have adopted the laws of socialism. Also included are statements by all the prophets talking
 about socialism and/or welfare state principles.
-
 

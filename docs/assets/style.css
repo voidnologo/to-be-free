@@ -77,6 +77,22 @@ a:hover{text-decoration:underline}
   padding:3px 10px;border-radius:20px;border:1px solid var(--rule-2)}
 .tag:hover{background:#fff;text-decoration:none;border-color:var(--accent);color:var(--accent)}
 .src{font-family:var(--sans);font-size:.84rem;color:var(--muted);margin-top:4px}
+.src-orig{margin-top:14px}
+.src-link{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:.85rem;
+  font-weight:600;color:var(--accent);text-decoration:none;border:1px solid var(--rule);
+  border-radius:8px;padding:7px 13px;background:var(--panel);transition:border-color .15s}
+.src-link:hover{border-color:var(--accent);text-decoration:none}
+.doc-toc{font-family:var(--sans);background:var(--panel);border:1px solid var(--rule);
+  border-radius:10px;padding:12px 18px;margin:0 0 30px}
+.doc-toc>summary{font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;
+  color:var(--muted);cursor:pointer;list-style-position:inside}
+.doc-toc ul{list-style:none;padding:.6em 0 0;margin:0;columns:2;column-gap:30px;font-size:.92rem}
+.doc-toc li{margin:.28em 0;break-inside:avoid}
+.doc-toc .toc-sub{padding-left:1.1em;font-size:.86rem}
+.doc-toc a{color:var(--soft-ink);text-decoration:none}
+.doc-toc a:hover{color:var(--accent)}
+.prose h2,.prose h3{scroll-margin-top:72px}
+@media(max-width:640px){.doc-toc ul{columns:1}}
 .src-note{font-family:var(--sans);font-size:.86rem;color:var(--soft-ink);background:var(--panel);
   border-left:3px solid var(--rule-2);padding:9px 13px;border-radius:0 8px 8px 0;margin-top:12px;line-height:1.5}
 
@@ -122,6 +138,10 @@ a:hover{text-decoration:underline}
 .intro blockquote{text-align:left;hyphens:none}
 .intro blockquote{margin:1.4em 0;padding:.6em 0 .6em 1.2em;border-left:4px solid var(--accent);
   font-style:italic;color:var(--soft-ink)}
+.about h2{font-family:var(--sans);font-size:1.18rem;font-weight:700;margin:1.9em 0 .4em;text-align:left}
+.about .callout{background:var(--panel);border:1px solid var(--rule);border-radius:10px;
+  padding:15px 18px;margin:1.6em 0;font-size:.99rem;text-align:left}
+.about ul{text-align:left;padding-left:1.3em} .about li{margin:.35em 0}
 .intro blockquote cite{display:block;margin-top:.5em;font-style:normal;font-family:var(--sans);
   font-size:.86rem;color:var(--muted)}
 .stats{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;max-width:680px;margin:40px auto;

@@ -12,6 +12,7 @@ collection: "research-extended"
 word_count: 6751
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom", "Morality & Virtue", "War & Peace"]
+possible_duplicate_of: "21-additional-church-leaders/parley-p-pratt-angel-of-the-prairies-a-dream-of-the-future.md"
 ---
 
 Pamphlets: Latter-day

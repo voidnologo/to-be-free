@@ -12,6 +12,7 @@ collection: "research-extended"
 word_count: 2704
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Constitution", "Book of Mormon", "Founding Fathers", "Liberty & Freedom", "War & Peace", "Prophecy & Last Days"]
+possible_duplicate_of: "01-ezra-taft-benson/our-divine-constitution.md"
 ---
 
 My beloved brethren and sisters, what a glorious blessing to be assembled in another great general conference of the Church. I ask for an interest in your faith and prayers as I speak to you about a subject that is very close to my heart and that affects the worldwide Church.

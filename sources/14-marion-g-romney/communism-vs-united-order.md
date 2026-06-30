@@ -1,5 +1,5 @@
 ---
-title: "Communism vs United Order"
+title: "Socialism and the United Order Compared"
 author: "Marion G. Romney"
 date: "1966-04"
 section: "14-marion-g-romney"

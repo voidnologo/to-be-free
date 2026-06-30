@@ -12,6 +12,7 @@ collection: "research-extended"
 word_count: 6485
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Constitution", "Law & Government", "Religious Freedom", "Liberty & Freedom", "Morality & Virtue", "Family"]
+possible_duplicate_of: "07-dallin-h-oaks/fundamentals-of-our-constitutions-2010.md"
 ---
 
 	__Introduction__

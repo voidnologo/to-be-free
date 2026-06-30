@@ -7,7 +7,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 **Legend:** ✅ full · ⚠️ thin/summary · 🔊 audio · ↪️ pointer · 🗂️ index · `·R` = converted from raw/ · `·B` = extracted from the *To Be Free* book.
 
 ## 1. Ezra Taft Benson
-*60 docs · ~223,592 words*
+*58 docs · ~218,017 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -26,9 +26,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | America's Strength the Morality of Its People | Ezra Taft Benson | 1975-07-14 | ✅ ·R | 1996 | [`americas-strength-the-morality-of-its-people.md`](01-ezra-taft-benson/americas-strength-the-morality-of-its-people.md) |
 | Be Not Deceived | Ezra Taft Benson | 1963 | ✅ ·R | 3247 | [`be-not-deceived.md`](01-ezra-taft-benson/be-not-deceived.md) |
 | Can We Preserve What They Wrought | Ezra Taft Benson | 1977 | ✅ ·R | 1126 | [`can-we-preserve-what-they-wrought.md`](01-ezra-taft-benson/can-we-preserve-what-they-wrought.md) |
-| Civic Standard for the Faithful Saint | Ezra Taft Benson | 1972-04-08 | ✅ ·R | 2871 | [`civic-standard-for-the-faithful-saint.md`](01-ezra-taft-benson/civic-standard-for-the-faithful-saint.md) |
 | Civic Standards for the Faithful Saints | Ezra Taft Benson | 1972-04 | ✅ | 2720 | [`civic-standards-for-the-faithful-saints.md`](01-ezra-taft-benson/civic-standards-for-the-faithful-saints.md) |
-| Divine Constitution | Ezra Taft Benson | 1987-10-03 | ✅ ·R | 2704 | [`divine-constitution.md`](01-ezra-taft-benson/divine-constitution.md) |
 | Fourteen Fundamentals in Following the Prophet | Ezra Taft Benson | 1980-02-26 | ✅ ·R | 3388 | [`fourteen-fundamentals-in-following-the-prophet.md`](01-ezra-taft-benson/fourteen-fundamentals-in-following-the-prophet.md) |
 | Freedom and Free Enterprise | Ezra Taft Benson | 1977-07-03 | ✅ ·R | 7386 | [`freedom-and-free-enterprise.md`](01-ezra-taft-benson/freedom-and-free-enterprise.md) |
 | General Conference Address — October 1954 | Ezra Taft Benson | 1954-10 | ✅ ·R | 3698 | [`general-conference-address-october-1954.md`](01-ezra-taft-benson/general-conference-address-october-1954.md) |
@@ -118,7 +116,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Address to New York LDS Professionals Association | Jeffrey R. Holland | 2016-10-13 | ✅ | 3654 | [`new-york-lds-professionals-association.md`](05-jeffrey-r-holland/new-york-lds-professionals-association.md) |
 
 ## 6. David O. McKay
-*16 docs · ~34,859 words*
+*14 docs · ~29,592 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -129,18 +127,16 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Jesus Prayer for Unity | David O. McKay | 1939-10 | ✅ ·R | 2060 | [`jesus-prayer-for-unity.md`](06-david-o-mckay/jesus-prayer-for-unity.md) |
 | Letter to Ernest L Wilkinson and the BYU Faculty | David O. McKay | 1968 | ✅ ·R | 943 | [`letter-to-ernest-l-wilkinson-and-the-byu-faculty.md`](06-david-o-mckay/letter-to-ernest-l-wilkinson-and-the-byu-faculty.md) |
 | London Temple Dedicatory Prayer (Excerpt on Freedom) | David O. McKay | 1958-09-07 | ↪️ pointer | 10 | [`london-temple-dedicatory-prayer.md`](06-david-o-mckay/london-temple-dedicatory-prayer.md) |
-| On Communism | David O. McKay | April  09,  1966 | ✅ ·B | 727 | [`on-communism.md`](06-david-o-mckay/on-communism.md) |
+| On Communism | David O. McKay | 1966-04-09 | ✅ ·B | 727 | [`on-communism.md`](06-david-o-mckay/on-communism.md) |
 | Peace the Message of the Church | David O. McKay | 1938-10 | ✅ ·R | 1252 | [`peace-the-message-of-the-church.md`](06-david-o-mckay/peace-the-message-of-the-church.md) |
 | David O. McKay: Quotes on Freedom | David O. McKay |  | ✅ ·R | 5372 | [`quotes-on-freedom.md`](06-david-o-mckay/quotes-on-freedom.md) |
-| The BoM and the Constitution | David O. McKay | 1966-04-09 | ✅ ·R | 740 | [`the-bom-and-the-constitution.md`](06-david-o-mckay/the-bom-and-the-constitution.md) |
 | The Church and the Present War | David O. McKay | 1942-04-05 | ✅ ·R | 2680 | [`the-church-and-the-present-war.md`](06-david-o-mckay/the-church-and-the-present-war.md) |
 | Two Contending Forces | David O. McKay | 1960-05-18 | ✅ ·R | 3678 | [`two-contending-forces.md`](06-david-o-mckay/two-contending-forces.md) |
 | Two Great Forces | David O. McKay | 1965-10 | ✅ ·R | 3288 | [`two-great-forces.md`](06-david-o-mckay/two-great-forces.md) |
-| Unity of Purpose Important to the Accomplishment of God's Work | David O. McKay | 1967 | ✅ ·B | 4504 | [`unity-of-purpose-important-to-the-accomplishment-of-gods-work.md`](06-david-o-mckay/unity-of-purpose-important-to-the-accomplishment-of-gods-work.md) |
-| Unity | David O. McKay | 1967-09-29 | ✅ ·R | 4527 | [`unity.md`](06-david-o-mckay/unity.md) |
+| Unity of Purpose Important to the Accomplishment of God's Work | David O. McKay | 1967-09-29 | ✅ ·B | 4504 | [`unity-of-purpose-important-to-the-accomplishment-of-gods-work.md`](06-david-o-mckay/unity-of-purpose-important-to-the-accomplishment-of-gods-work.md) |
 
 ## 7. Dallin H. Oaks
-*20 docs · ~91,196 words*
+*18 docs · ~79,890 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -149,8 +145,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Elections, Hope, and Freedom (BYU Devotional) | Dallin H. Oaks | 2016-09-13 | ✅ | 3919 | [`elections-hope-and-freedom-byu-2016.md`](07-dallin-h-oaks/elections-hope-and-freedom-byu-2016.md) |
 | Free Agency and Freedom | Dallin H. Oaks | 1987 | ✅ ·B | 5063 | [`free-agency-and-freedom.md`](07-dallin-h-oaks/free-agency-and-freedom.md) |
 | Fundamental Premises of Our Faith (Harvard Law School) | Dallin H. Oaks | 2010-02-26 | ✅ | 4685 | [`fundamental-premises-of-our-faith-harvard-2010.md`](07-dallin-h-oaks/fundamental-premises-of-our-faith-harvard-2010.md) |
-| Fundamentals of Our Constitution | Dallin H. Oaks | 2010-09-17 | ✅ ·R | 6485 | [`fundamentals-of-our-constitution.md`](07-dallin-h-oaks/fundamentals-of-our-constitution.md) |
-| Fundamentals of Our Constitutions (Utah Constitution Day) | Dallin H. Oaks | 2010-09-17 | ✅ | 6487 | [`fundamentals-of-our-constitutions-2010.md`](07-dallin-h-oaks/fundamentals-of-our-constitutions-2010.md) |
+| Fundamentals of Our Constitution | Dallin H. Oaks | 2010-09-17 | ✅ | 6487 | [`fundamentals-of-our-constitutions-2010.md`](07-dallin-h-oaks/fundamentals-of-our-constitutions-2010.md) |
 | Hope for the Years Ahead (UVU Constitutional Symposium) | Dallin H. Oaks | 2014-04-16 | ✅ | 4938 | [`hope-for-the-years-ahead-uvu-2014.md`](07-dallin-h-oaks/hope-for-the-years-ahead-uvu-2014.md) |
 | 2021 Joseph Smith Lecture on Religious Liberty (University of Virginia) | Dallin H. Oaks | 2021-11-12 | ✅ | 4560 | [`joseph-smith-lecture-uva-2021.md`](07-dallin-h-oaks/joseph-smith-lecture-uva-2021.md) |
 | Loving Others and Living with Differences | Dallin H. Oaks | 2014-10 | ✅ | 1918 | [`loving-others-and-living-with-differences.md`](07-dallin-h-oaks/loving-others-and-living-with-differences.md) |
@@ -160,7 +155,6 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Religion in Public Life | Dallin H. Oaks | 1988-06-25 | ✅ ·R | 5129 | [`religion-in-public-life.md`](07-dallin-h-oaks/religion-in-public-life.md) |
 | Religious Freedom (BYU–Idaho Devotional) | Dallin H. Oaks | 2009-10-13 | ✅ | 4839 | [`religious-freedom-byu-idaho-2009.md`](07-dallin-h-oaks/religious-freedom-byu-idaho-2009.md) |
 | Religious Freedom in an International Context (Sapienza University, Rome) | Dallin H. Oaks | 2021-12-14 | ✅ | 4820 | [`religious-freedom-international-context-rome-2021.md`](07-dallin-h-oaks/religious-freedom-international-context-rome-2021.md) |
-| Religious Freedom | Dallin H. Oaks | 2007-11-03 | ✅ ·R | 4821 | [`religious-freedom.md`](07-dallin-h-oaks/religious-freedom.md) |
 | Religious Values and Public Policy | Dallin H. Oaks | 1992-02-29 | ✅ ·R | 3361 | [`religious-values-and-public-policy.md`](07-dallin-h-oaks/religious-values-and-public-policy.md) |
 | Some Responsibilities of Citizenship | Dallin H. Oaks | 1994-07-03 | ✅ ·R | 6157 | [`some-responsibilities-of-citizenship.md`](07-dallin-h-oaks/some-responsibilities-of-citizenship.md) |
 | The Divinely Inspired Constitution | Dallin H. Oaks | 1992-02 | ✅ ·R | 5222 | [`the-divinely-inspired-constitution.md`](07-dallin-h-oaks/the-divinely-inspired-constitution.md) |
@@ -173,7 +167,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | To Heal the World | Ronald A. Rasband | 2022-04 | ✅ | 1668 | [`to-heal-the-world.md`](08-ronald-a-rasband/to-heal-the-world.md) |
 
 ## 9. Historical Church Statements & First Presidency Letters
-*13 docs · ~40,884 words*
+*12 docs · ~34,700 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -184,7 +178,6 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Doctrine and Covenants 134 — Declaration of Belief Regarding Governments and Laws | The Church of Jesus Christ of Latter-day Saints | 1835-08 | ✅ | 1032 | [`doctrine-and-covenants-134.md`](09-historical-statements/doctrine-and-covenants-134.md) |
 | First Presidency Letter: Unified Fast for Religious Liberty (U.S. 250th) | First Presidency (Oaks, Eyring, Christofferson) | 2026-03-12 | ✅ | 493 | [`first-presidency-letter-unified-fast-2026.md`](09-historical-statements/first-presidency-letter-unified-fast-2026.md) |
 | First Presidency Statement on Communism (1936) | Heber J. Grant; J. Reuben Clark Jr.; David O. McKay | 1936-07-03 | ↪️ pointer | 26 | [`first-presidency-statement-on-communism-1936.md`](09-historical-statements/first-presidency-statement-on-communism-1936.md) |
-| Military Relations 1942 | First Presidency | 1942-04 | ✅ ·R | 6184 | [`military-relations-1942.md`](09-historical-statements/military-relations-1942.md) |
 | Opposition to the Draft | First Presidency | 2006-09-27 | ✅ ·R | 2586 | [`opposition-to-the-draft.md`](09-historical-statements/opposition-to-the-draft.md) |
 | Selected Beliefs and Statements on Religious Freedom (Official Compilation) | The Church of Jesus Christ of Latter-day Saints | 2011-02 | ✅ | 643 | [`selected-beliefs-and-statements-on-religious-freedom.md`](09-historical-statements/selected-beliefs-and-statements-on-religious-freedom.md) |
 | Statement by the First Presidency Regarding Universal Compulsory Military Training | First Presidency | December  14,  1945 | ✅ ·B | 1124 | [`statement-by-the-first-presidency-regarding-universal-compulsory-military-traini.md`](09-historical-statements/statement-by-the-first-presidency-regarding-universal-compulsory-military-traini.md) |
@@ -192,7 +185,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | War | First Presidency | 1942-04-06 | ✅ ·R | 6224 | [`war.md`](09-historical-statements/war.md) |
 
 ## 10. J. Reuben Clark Jr.
-*8 docs · ~18,808 words*
+*7 docs · ~15,002 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -201,7 +194,6 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Let Us Have Peace | J. Reuben Clark Jr. | 1947-11-22 | ✅ ·R | 1895 | [`let-us-have-peace.md`](10-j-reuben-clark/let-us-have-peace.md) |
 | J. Reuben Clark Jr.: Quotes on Freedom | J. Reuben Clark Jr. |  | ✅ ·R | 1876 | [`quotes-on-freedom.md`](10-j-reuben-clark/quotes-on-freedom.md) |
 | Some Elements of Post War American Life | J. Reuben Clark Jr. | 1945-01-24 | ✅ ·R | 2322 | [`some-elements-of-post-war-american-life.md`](10-j-reuben-clark/some-elements-of-post-war-american-life.md) |
-| Some Fundamental Principles of Our Constitution | J. Reuben Clark Jr. | 2011-12-30 | ✅ ·R | 3806 | [`some-fundamental-principles-of-our-constitution.md`](10-j-reuben-clark/some-fundamental-principles-of-our-constitution.md) |
 | Stand Fast by Our Constitution | J. Reuben Clark Jr. | 1962 | ↪️ pointer | 40 | [`stand-fast-by-our-constitution.md`](10-j-reuben-clark/stand-fast-by-our-constitution.md) |
 | The Constitution | J. Reuben Clark Jr. | 1957-04-06 | ✅ ·R | 5591 | [`the-constitution.md`](10-j-reuben-clark/the-constitution.md) |
 
@@ -259,15 +251,14 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Why We Must Reform Congress | W. Cleon Skousen | 1983 | ✅ ·R | 6778 | [`why-we-must-reform-congress.md`](13-w-cleon-skousen/why-we-must-reform-congress.md) |
 
 ## 14. Marion G. Romney
-*9 docs · ~23,493 words*
+*8 docs · ~19,726 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
 | Americas Destiny | Marion G. Romney | 1975-10-04 | ✅ ·R | 2734 | [`americas-destiny.md`](14-marion-g-romney/americas-destiny.md) |
 | America's Promise | Marion G. Romney | 1979-09 | ✅ ·R | 1765 | [`americas-promise.md`](14-marion-g-romney/americas-promise.md) |
-| Communism vs United Order | Marion G. Romney | 1966-04 | ✅ ·R | 3971 | [`communism-vs-united-order.md`](14-marion-g-romney/communism-vs-united-order.md) |
+| Socialism and the United Order Compared | Marion G. Romney | 1966-04 | ✅ ·R | 3971 | [`communism-vs-united-order.md`](14-marion-g-romney/communism-vs-united-order.md) |
 | In Mine Own Way | Marion G. Romney | 1976-10 | ✅ ·R | 2762 | [`in-mine-own-way.md`](14-marion-g-romney/in-mine-own-way.md) |
-| Is Socialism the United Order | Marion G. Romney | 1966-04 | ✅ ·R | 3767 | [`is-socialism-the-united-order.md`](14-marion-g-romney/is-socialism-the-united-order.md) |
 | Man a Free Agent | Marion G. Romney | 1968-10 | ✅ ·R | 2582 | [`man-a-free-agent.md`](14-marion-g-romney/man-a-free-agent.md) |
 | The Perfect Law of Liberty | Marion G. Romney | 1981-11 | ✅ ·R | 2321 | [`the-perfect-law-of-liberty.md`](14-marion-g-romney/the-perfect-law-of-liberty.md) |
 | The Purpose of Church Welfare Services | Marion G. Romney | 1977-05 | ✅ ·R | 2447 | [`the-purpose-of-church-welfare-services.md`](14-marion-g-romney/the-purpose-of-church-welfare-services.md) |
@@ -334,7 +325,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | The False Gods We Worship - Ensign June 1976 | Spencer W. Kimball | 1976-06 | ✅ ·R | 3177 | [`the-false-gods-we-worship-ensign-june-1976.md`](20-spencer-w-kimball/the-false-gods-we-worship-ensign-june-1976.md) |
 
 ## 21. Additional Church Leaders
-*16 docs · ~70,040 words*
+*15 docs · ~63,289 words*
 
 | Title | Author | Date | Status | Words | File |
 |---|---|---|---|---|---|
@@ -350,7 +341,6 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 | Joseph Fielding Smith: Quotes on Freedom | Joseph Fielding Smith |  | ✅ ·R | 2929 | [`joseph-fielding-smith-quotes-on-freedom.md`](21-additional-church-leaders/joseph-fielding-smith-quotes-on-freedom.md) |
 | Lorenzo Snow: Quotes on Freedom | Lorenzo Snow |  | ✅ ·R | 353 | [`lorenzo-snow-quotes-on-freedom.md`](21-additional-church-leaders/lorenzo-snow-quotes-on-freedom.md) |
 | Religion in a Free Society | M. Russell Ballard | 1992-07-05 | ✅ ·R | 3258 | [`m-russell-ballard-religion-in-a-free-society.md`](21-additional-church-leaders/m-russell-ballard-religion-in-a-free-society.md) |
-| Angel of the Prairie | Parley P. Pratt | 1880 | ✅ ·R | 6751 | [`parley-p-pratt-angel-of-the-prairie.md`](21-additional-church-leaders/parley-p-pratt-angel-of-the-prairie.md) |
 | Angel of the Prairies — A Dream of the Future | Parley P. Pratt | 1880 | ✅ ·B | 6691 | [`parley-p-pratt-angel-of-the-prairies-a-dream-of-the-future.md`](21-additional-church-leaders/parley-p-pratt-angel-of-the-prairies-a-dream-of-the-future.md) |
 | Thomas S. Monson: Quotes on Freedom | Thomas S. Monson |  | ✅ ·R | 1722 | [`thomas-s-monson-quotes-on-freedom.md`](21-additional-church-leaders/thomas-s-monson-quotes-on-freedom.md) |
 | Wilford Woodruff: Quotes on Freedom | Wilford Woodruff |  | ✅ ·R | 2739 | [`wilford-woodruff-quotes-on-freedom.md`](21-additional-church-leaders/wilford-woodruff-quotes-on-freedom.md) |
@@ -393,7 +383,7 @@ Every file carries standardized YAML frontmatter (`title, author, date, source_u
 
 ---
 
-**247 documents · ~1,477,749 words total.**
+**237 documents · ~1,435,093 words total.**
 
 ### Notes
 

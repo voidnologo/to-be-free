@@ -13,6 +13,7 @@ word_count: 6184
 source_note: "of the 112th Annual General Conference of the Church. The message was published in Conference Report, Apr. 1942, 88-97.*"
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["War & Peace", "Morality & Virtue", "United Order / Welfare", "Book of Mormon", "Family", "Constitution"]
+possible_duplicate_of: "09-historical-statements/war.md"
 ---
 
     Square, Salt Lake City, Utah, Monday, April 6, 1942, during the closing session

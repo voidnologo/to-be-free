@@ -13,6 +13,7 @@ word_count: 4821
 source_note: "Transcript of Elder Dallin H. Oaks speech given at BYU-Idaho on 13 October 2009."
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Liberty & Freedom", "Religious Freedom", "Constitution", "Family", "Morality & Virtue", "Law & Government"]
+possible_duplicate_of: "07-dallin-h-oaks/religious-freedom-byu-idaho-2009.md"
 ---
 
 My dear young friends, I am pleased to speak to this BYU-Idaho audience. I am conscious that I am also speaking to many in other places. In this time of the Internet, what we say in one place is instantly put before a wider audience, including many to whom we do not intend to speak. That complicates my task, so I ask your understanding as I speak to a very diverse audience.

@@ -13,6 +13,7 @@ collection: "research-extended"
 word_count: 4527
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Communism", "War & Peace"]
+possible_duplicate_of: "06-david-o-mckay/unity-of-purpose-important-to-the-accomplishment-of-gods-work.md"
 ---
 
 Unity of

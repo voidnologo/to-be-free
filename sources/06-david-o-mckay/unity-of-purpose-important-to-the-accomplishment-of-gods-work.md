@@ -1,12 +1,13 @@
 ---
 title: "Unity of Purpose Important to the Accomplishment of God's Work"
 author: "David O. McKay"
-date: "1967"
+date: "1967-09-29"
 section: "06-david-o-mckay"
 source_url: ""
 source_file: "TBF/To Be Free.pdf (pp. 247-252)"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "David O. McKay, “Unity of Purpose Important to the Accomplishment of God’s Work,” 137th Semiannual General Conference, 29 September 1967."
 status: "full"
 collection: "tbf-book"
 word_count: 4504

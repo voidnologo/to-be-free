@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Our Constitutions (Utah Constitution Day)"
+title: "Fundamentals of Our Constitution"
 author: "Dallin H. Oaks"
 date: "2010-09-17"
 section: "07-dallin-h-oaks"

@@ -13,6 +13,7 @@ collection: "research-extended"
 word_count: 3806
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Constitution", "Law & Government", "Founding Fathers", "War & Peace", "Morality & Virtue"]
+possible_duplicate_of: "23-topical-and-founding-documents/some-fundamental-principles-of-our-constitution-j-reuben-clark-jr.md"
 ---
 
         I am grateful to Mr. Carver for all he has said about me. With that I shall begin. I apologize for the length of this paper. It will take a little longer to read than I had hoped, but I did not see how I could cut it down any more and get over the points I wished to make, and if you will be as kind as you can, after this delicious dinner, and stay awake as long as you can, we shall get through it, if we can.

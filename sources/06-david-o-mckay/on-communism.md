@@ -1,12 +1,13 @@
 ---
 title: "On Communism"
 author: "David O. McKay"
-date: "April  09,  1966"
+date: "1966-04-09"
 section: "06-david-o-mckay"
 source_url: ""
 source_file: "TBF/To Be Free.pdf (pp. 19-20)"
 source_format: "pdf"
 retrieved: "2026-06-28"
+source_note: "David O. McKay, statement on the position of the Church on Communism, general priesthood session, 136th Annual General Conference, 9 April 1966."
 status: "full"
 collection: "tbf-book"
 word_count: 727

@@ -12,6 +12,7 @@ collection: "research-extended"
 word_count: 740
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Communism", "Constitution", "Free Agency"]
+possible_duplicate_of: "06-david-o-mckay/on-communism.md"
 ---
 
 |  |  | ### Appendix 1       Statement concerning the position of the Church on Communism, made by President David O. McKay at the general priesthood session of the 136th Annual Conference of the Church held in the Salt Lake Tabernacle, Saturday, April 9, 1966, at 7:00 pm, read by Robert R. McKay.

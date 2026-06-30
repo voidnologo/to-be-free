@@ -13,6 +13,7 @@ word_count: 2871
 source_note: "General Conference - April 8, 1972"
 commentary: ""   # TODO: editorial blurb / commentary
 tags: ["Book of Mormon", "Constitution", "Civic Duty", "Secret Combinations", "Founding Fathers"]
+possible_duplicate_of: "01-ezra-taft-benson/civic-standards-for-the-faithful-saints.md"
 ---
 
 My beloved brothers and sisters, seen and unseen--and we are all brothers and sisters, children of the same Father in the spirit--humbly and gratefully I stand before you on this anniversary date of the organization of the restored church of Jesus Christ, 142 years ago. I love a general conference of the Church, except this particular part, and yet I rejoice in the opportunity to bear testimony to this, the greatest work in all the world.

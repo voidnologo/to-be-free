@@ -3,7 +3,7 @@ title: "The Proper Role of Government"
 author: "Ezra Taft Benson"
 date: "1968-10-21"
 section: "01-ezra-taft-benson"
-source_url: "https://latterdayconservative.com/ezra-taft-benson/the-proper-role-of-government/"
+source_url: "https://speeches.byu.edu/talks/ezra-taft-benson/proper-role-government/"
 alternate_urls:
   - "https://speeches.byu.edu/talks/ezra-taft-benson/proper-role-government/"
 source_domain: "latterdayconservative.com"

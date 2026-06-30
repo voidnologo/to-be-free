@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/david-o-mckay/letter-from-pres
 source_file: "raw/Research Documents/David O McKay - Letter to Ernest L Wilkinson and the BYU Faculty.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "David O. McKay, “Letter to Ernest L Wilkinson and the BYU Faculty,” 1968."
 status: "full"
 collection: "research-extended"
 word_count: 943

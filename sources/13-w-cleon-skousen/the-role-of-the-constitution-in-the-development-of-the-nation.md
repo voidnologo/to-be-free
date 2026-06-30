@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-role-of-the-const
 source_file: "raw/Skousen/W Cleon Skousen - THe Role of the Constitution in the Development of the Nation.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen. The Role of the Constitution in the Development of a Nation. This speech was given September 29, 1986 in Madrid, Spain."
 status: "full"
 collection: "research-extended"
 word_count: 1602

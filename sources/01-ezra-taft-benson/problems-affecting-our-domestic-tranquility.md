@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/problems-affe
 source_file: "raw/Research Documents/Ezra Taft Benson - Problems Affecting Our Domestic Tranquility.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, “Problems Affecting Our Domestic Tranquility,” November 1975."
 status: "full"
 collection: "research-extended"
 word_count: 7118

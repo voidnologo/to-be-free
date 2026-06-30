@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/americans-can-save-th
 source_file: "raw/Skousen/W Cleon Skousen - Americans Can Save the Constitution.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen. Americans Can Save the Constitution. This founder’s message was presented at the dedication of the Freemen Institute in south Provo, Utah on September 18, 1976."
 status: "full"
 collection: "research-extended"
 word_count: 3360

@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-supreme-court-the
 source_file: "raw/Skousen/W Cleon Skousen - The Supreme Court Then and Now.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, “The Supreme Court Then and Now,” January 1977."
 status: "full"
 collection: "research-extended"
 word_count: 2774

@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-life-of-j-reuben-
 source_file: "raw/Skousen/W Cleon Skousen - The Life of J Reuben Clark Jr.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen. The Life of J. Reuben Clark, Jr. September 1, 1992. This speech was delivered at the Grantsville High School, Grantsville, Utah, on September 1, 1992."
 status: "full"
 collection: "research-extended"
 word_count: 9777

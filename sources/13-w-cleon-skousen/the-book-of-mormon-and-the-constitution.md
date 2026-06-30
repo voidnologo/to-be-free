@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-book-of-mormon-an
 source_file: "raw/Skousen/W Cleon Skousen - The Book of Mormon and the Constitution.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, “The Book of Mormon and the Constitution,” 17 May 1990."
 status: "full"
 collection: "research-extended"
 word_count: 11876

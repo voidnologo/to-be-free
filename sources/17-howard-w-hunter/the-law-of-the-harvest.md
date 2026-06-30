@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/howard-w-hunter/the-law-of-the
 source_file: "raw/Research Documents/Howard W Hunter - The Law of the Harvest.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Howard W. Hunter, “The Law of the Harvest,” 8 March 1966."
 status: "full"
 collection: "research-extended"
 word_count: 4297

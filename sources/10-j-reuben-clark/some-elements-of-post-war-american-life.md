@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/some-elements-of-post
 source_file: "raw/Research Documents/J Reuben Clark - Some Elements of Post War American Life.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "J. Reuben Clark Jr., “Some Elements of Post War American Life,” 24 January 1945."
 status: "full"
 collection: "research-extended"
 word_count: 2322

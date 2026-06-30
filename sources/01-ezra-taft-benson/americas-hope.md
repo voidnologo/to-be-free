@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/americas-hope
 source_file: "raw/Research Documents/Ezra Taft Benson - Americas Hope.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, “Americas Hope,” April 1950."
 status: "full"
 collection: "research-extended"
 word_count: 2724

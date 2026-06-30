@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/restructuring-a-colla
 source_file: "raw/Skousen/W Cleon Skousen - Restructuring a Collapsing Culture.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, “Restructuring a Collapsing Culture,” January 1972."
 status: "full"
 collection: "research-extended"
 word_count: 2688

@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/americas-debt
 source_file: "raw/Research Documents/Ezra Taft Benson - Americas Debt to Great Britian.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson. London, July 26, 1987. British Saints Celebrate 150th Anniversary. Also in “This Nation Shall Endure, p. 5″."
 status: "full"
 collection: "research-extended"
 word_count: 3485

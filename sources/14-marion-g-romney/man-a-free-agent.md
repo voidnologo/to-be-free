@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/man-a-free-agent/"
 source_file: "raw/Research Documents/Marion G Romney - Man A Free Agent.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Marion G. Romney, “Man a Free Agent,” October 1968."
 status: "full"
 collection: "research-extended"
 word_count: 2582

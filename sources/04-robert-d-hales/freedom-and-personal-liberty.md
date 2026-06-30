@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/freedom-and-personal-
 source_file: "raw/Research Documents/Robert D Hales - Freedom and Personal Liberty.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Robert D. Hales, “Freedom and Personal Liberty,” 6 July 1975."
 status: "full"
 collection: "research-extended"
 word_count: 6458

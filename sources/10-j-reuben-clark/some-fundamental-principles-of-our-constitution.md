@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/some-fundamental-prin
 source_file: "raw/Research Documents/J Reuben Clark - Some Fundamental Principles of Our Constitution.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "J. Reuben Clark Jr., “Some Fundamental Principles of Our Constitution,” 30 December 2011."
 status: "full"
 collection: "research-extended"
 word_count: 3806

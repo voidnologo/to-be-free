@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/survival-of-t
 source_file: "raw/Research Documents/Ezra Taft Benson - Survival of the American Way of Life.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, “Survival of the American Way of Life,” June 1945."
 status: "full"
 collection: "research-extended"
 word_count: 3293

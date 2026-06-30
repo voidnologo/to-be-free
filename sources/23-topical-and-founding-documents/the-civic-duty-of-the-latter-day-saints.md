@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-civic-duty-of-the
 source_file: "raw/Research Documents/the-civic-duty-of-the-latter-day-saints.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation; see the in-text attributions for individual sources."
 status: "full"
 collection: "research-extended"
 word_count: 7330

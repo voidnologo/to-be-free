@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/what-happens-when-the
 source_file: "raw/Skousen/W Cleon Skousen - What happens when the wrong people write the laws.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, “What Happens When the Wrong People Write the Laws,” October 1976."
 status: "full"
 collection: "research-extended"
 word_count: 2524

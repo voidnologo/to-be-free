@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-book-of-mormon-an
 source_file: "raw/Skousen/W Cleon Skousen - THe Book of Mormon and The Constitution (Notes).html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen. The Book of Mormon and the Constitution (notes). This is the outline and notes for a speech given the afternoon of January 14, 1990 at an L.D.S. Ward located at 5605 S. Vine, Salt Lake City, Utah."
 status: "full"
 collection: "research-extended"
 word_count: 5205

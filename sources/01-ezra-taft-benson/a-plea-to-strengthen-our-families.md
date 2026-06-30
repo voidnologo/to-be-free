@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/a-plea-to-str
 source_file: "raw/Research Documents/Ezra Taft Benson - A Plea to Strengthen Our Families.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, “A Plea to Strengthen Our Families,” October 1970."
 status: "full"
 collection: "research-extended"
 word_count: 2990

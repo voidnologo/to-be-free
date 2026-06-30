@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/current-communist-goa
 source_file: "raw/Skousen/W Cleon Skousen - Current Communist Goals (1958).html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "1958 Current Communist Goals, as outlined by W. Cleon Skousen. The following was entered into the Congressional record by Albert Herlong, Jr. (a Floridian who served in Congress from 1949-69) in 1963."
 status: "full"
 collection: "research-extended"
 word_count: 852

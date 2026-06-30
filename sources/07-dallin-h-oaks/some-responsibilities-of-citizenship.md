@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/some-responsibilities
 source_file: "raw/Research Documents/Dallin H Oaks - Some Responsibilities of Citizenship.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Dallin H. Oaks, “Some Responsibilities of Citizenship,” 3 July 1994."
 status: "full"
 collection: "research-extended"
 word_count: 6157

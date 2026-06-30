@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/david-o-mckay/peace-the-messag
 source_file: "raw/Research Documents/David O McKay - Peace the Message of the Church.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "David O. McKay, “Peace the Message of the Church,” October 1938."
 status: "full"
 collection: "research-extended"
 word_count: 1252

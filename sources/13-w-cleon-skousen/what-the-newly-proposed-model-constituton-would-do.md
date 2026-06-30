@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/what-the-newly-propos
 source_file: "raw/Skousen/W Cleon Skousen - What the Newly Proposed Model Constituton would Do.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen, “What the Newly Proposed Model Constitution Would Do,” 4 January 1971."
 status: "full"
 collection: "research-extended"
 word_count: 13918

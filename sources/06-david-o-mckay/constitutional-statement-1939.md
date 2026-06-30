@@ -9,6 +9,7 @@ alternate_urls:
   - "https://speeches.byu.edu/talks/l-tom-perry/truth-liberty/"
 source_domain: "befriendtheconstitution.org"
 retrieved: "2026-06-28"
+source_note: "David O. McKay, “Constitutional Statement (October 1939 Conference),” October 1939."
 status: "full"
 word_count: 107
 commentary: ""   # TODO: editorial blurb / commentary

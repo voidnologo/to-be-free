@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/quotations-from-lectu
 source_file: "raw/Research Documents/Quotations from Lectures on Secret Combinations.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Compilation; see the in-text attributions for individual sources."
 status: "full"
 collection: "research-extended"
 word_count: 12740

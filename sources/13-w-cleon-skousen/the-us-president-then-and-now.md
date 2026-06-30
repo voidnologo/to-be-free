@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-us-president-then
 source_file: "raw/Skousen/W Cleon Skousen - THe US President Then and Now.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen. The U.S. President, Then and Now. [From Law & Order, December 1976]."
 status: "full"
 collection: "research-extended"
 word_count: 2852

@@ -385,12 +385,15 @@ def reading_time(words):
     h,mm=divmod(m,60)
     return f"{h} hr {mm} min read" if mm else f"{h} hr read"
 
+# Only link to genuine ORIGINAL / authoritative sources. Aggregators (e.g.
+# latterdayconservative.com) are deliberately NOT linked — those docs carry a
+# bibliographic source_note instead, per project policy.
 _SRC_LABELS=[("newsroom","Church Newsroom"),("mormonnewsroom","Church Newsroom"),
   ("churchofjesuschrist.org","ChurchofJesusChrist.org"),("lds.org","ChurchofJesusChrist.org"),
-  ("speeches.byu.edu","BYU Speeches"),
+  ("speeches.byu.edu","BYU Speeches"),("byui.edu","BYU–Idaho Speeches"),
   ("rsc.byu.edu","BYU Religious Studies Center"),("digitalcommons.law.byu.edu","BYU Law Digital Commons"),
-  ("archive.org","the Internet Archive"),("gutenberg","Project Gutenberg"),
-  ("latterdayconservative.com","Latter-day Conservative")]
+  ("byu.edu","BYU"),("archive.org","the Internet Archive"),("gutenberg","Project Gutenberg"),
+  ("iclrs.org","ICLRS"),("connorboyack.com","the author’s site"),("mskousen.com","the author’s site")]
 def source_link(d):
     u=(d.get("source_url") or "").strip()
     if not u: return ""
@@ -398,8 +401,7 @@ def source_link(d):
         if k in u:
             return (f'<a class="src-link" href="{esc(u)}" target="_blank" rel="noopener noreferrer">'
                     f'Read the original on {v} <span aria-hidden="true">↗</span></a>')
-    return (f'<a class="src-link" href="{esc(u)}" target="_blank" rel="noopener noreferrer">'
-            f'Read the original source <span aria-hidden="true">↗</span></a>')
+    return ""   # not a recognized original source → no link (rely on source_note)
 
 def build_toc(body_html):
     items=re.findall(r'<(h[23]) id="([^"]+)">(.*?)</\1>', body_html, re.S)
@@ -678,7 +680,7 @@ table of contents, or search from the bar above.</p>
 # ---------- about / sources & methodology ----------
 _yrs=sorted(int(d["date"][:4]) for d in docs if d["date"][:4].isdigit())
 _ndate=sum(1 for d in docs if d["date"])
-_nlink=sum(1 for d in docs if (d.get("source_url") or "").strip())
+_nlink=sum(1 for d in docs if source_link(d))
 about=f"""
 <div class="hero"><h1>About &amp; Sources</h1>
 <p class="tagline">How this collection was built — and how to use it for your own research.</p></div>
@@ -696,14 +698,14 @@ document carries standardized metadata — title, author, date, source, word cou
 and you can reach any of it through <a href="browse.html">Browse all</a> or the search bar.</p>
 
 <h2>Sourcing &amp; provenance</h2>
-<p>Wherever a document has a known online home, its page links straight to it — look for the
-<strong>“Read the original”</strong> button beneath the title. {_nlink} of the {N_DOCS} documents
-currently link to an original source, and that coverage is steadily being upgraded toward authoritative
-archives — the Church’s <a href="https://www.churchofjesuschrist.org/study/general-conference"
-target="_blank" rel="noopener">General Conference archive</a>,
-<a href="https://speeches.byu.edu" target="_blank" rel="noopener">BYU Speeches</a>, and the
-<a href="https://archive.org" target="_blank" rel="noopener">Internet Archive</a> — rather than
-secondary aggregators.</p>
+<p>Every document carries a source citation. Where a text has an <em>authoritative original</em> online,
+its page links straight to it — look for the <strong>“Read the original”</strong> button beneath the
+title; {_nlink} documents link to one. We link only to genuine originals — the Church’s
+<a href="https://www.churchofjesuschrist.org/study/general-conference" target="_blank" rel="noopener">General
+Conference archive</a>, <a href="https://speeches.byu.edu" target="_blank" rel="noopener">BYU Speeches</a>,
+the <a href="https://archive.org" target="_blank" rel="noopener">Internet Archive</a>, Project Gutenberg,
+and the like. For everything else we give a <strong>bibliographic reference</strong> (the book, talk, or
+periodical to track down) rather than linking to a secondary aggregator that is not itself the source.</p>
 
 <h2>Dates &amp; accuracy</h2>
 <p>{_ndate} of {N_DOCS} documents carry a date, each verified against a source citation rather than a

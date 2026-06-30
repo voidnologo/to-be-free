@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/gordon-b-hinckley/the-order-an
 source_file: "raw/Research Documents/Gordon B Hinckley - The Order and Will of God.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Gordon B. Hinckley, “The Order and Will of God,” August 1989."
 status: "full"
 collection: "research-extended"
 word_count: 1944

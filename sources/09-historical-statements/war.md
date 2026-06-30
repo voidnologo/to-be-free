@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/war-first-presidency/
 source_file: "raw/Research Documents/The First Presidency - War.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "First Presidency, “War,” 6 April 1942."
 status: "full"
 collection: "research-extended"
 word_count: 6224

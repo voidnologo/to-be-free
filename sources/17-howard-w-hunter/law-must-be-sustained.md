@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/howard-w-hunter/law-must-be-su
 source_file: "raw/Research Documents/Howard W Hunter - Law Must Be Sustained.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Howard W. Hunter, “Law Must Be Sustained,” April 1968."
 status: "full"
 collection: "research-extended"
 word_count: 2247

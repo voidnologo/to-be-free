@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/the-golden-mean/"
 source_file: "raw/Skousen/W Cleon Skousen - The Golden Mean.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen. The Golden Mean. Outline for a speech given to the faculty and students of the Brigham Young University Law School in Provo, Utah on October 16, 1975."
 status: "full"
 collection: "research-extended"
 word_count: 1789

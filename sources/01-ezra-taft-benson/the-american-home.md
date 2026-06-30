@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/the-american-
 source_file: "raw/Research Documents/Ezra Taft Benson - The American Home.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, “The American Home,” April 1969."
 status: "full"
 collection: "research-extended"
 word_count: 1860

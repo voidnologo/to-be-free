@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/the-lds-churc
 source_file: "raw/Research Documents/Ezra Taft Benson- The LDS Church and Politics.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "“Ezra Taft Benson- the LDS Church and Politics,” 1 December 1952."
 status: "full"
 collection: "research-extended"
 word_count: 4474

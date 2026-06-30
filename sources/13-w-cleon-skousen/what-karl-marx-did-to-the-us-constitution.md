@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/articles/what-karl-marx-did-to
 source_file: "raw/Skousen/W Cleon Skousen - WHat Karl Marx did to the Us Constitution.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "W. Cleon Skousen. What Karl Marx Did to the U.S. Constitution. Outline and notes for a speech given the evening of March 27, 1990 at the Salt Lake City headquarters of the NCCS (National Center for Constitutional Studies)."
 status: "full"
 collection: "research-extended"
 word_count: 3485

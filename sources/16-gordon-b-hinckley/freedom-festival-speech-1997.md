@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/gordon-b-hinckley/freedom-fest
 source_file: "raw/Research Documents/Gordon B Hinckley - Freedom Festival Speech 1997.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Gordon B. Hinckley, “Freedom Festival Speech 1997,” 1997."
 status: "full"
 collection: "research-extended"
 word_count: 2912

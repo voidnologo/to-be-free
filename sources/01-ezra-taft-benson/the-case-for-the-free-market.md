@@ -7,6 +7,7 @@ source_url: "http://www.latterdayconservative.com/ezra-taft-benson/the-case-for-
 source_file: "raw/Research Documents/Ezra Taft Benson - The Case for the Free Market.html"
 source_format: "html"
 retrieved: "2026-06-28"
+source_note: "Ezra Taft Benson, “The Case for the Free Market,” 21 April 1975."
 status: "full"
 collection: "research-extended"
 word_count: 5513
